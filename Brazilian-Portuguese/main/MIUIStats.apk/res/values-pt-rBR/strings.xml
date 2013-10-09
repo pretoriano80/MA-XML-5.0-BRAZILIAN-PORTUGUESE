@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MIUIStats</string>
+    <string name="main_title">Estatísticas de utilização</string>
+    <string name="main_desc">A participação no envio de dados estatísticos permite aos desenvolvedores e tradutores da MIUI um melhor acompanhamento de seus usuários por localidade. As informações fornecidas incluem um identificador exclusivo e totalmente anônimo de seu telefone, o modelo do mesmo e a versão utilizada. Os dados são transmitidos a cada boot para os servidores da MIUI. Para visualizar o que é transmitido, toque no botão abaixo."</string>
+    <string name="main_optin">Enviar estatísticas</string>
+    <string name="main_btn_preview">preview</string>
+    <string name="main_btn_save">Salvar</string>
+    <string name="main_show_stats">Estatísticas</string>
+    <string name="preview_id_lbl">Identificador único</string>
+    <string name="preview_device_lbl">Modelo</string>
+    <string name="preview_version_lbl">Versão</string>
+    <string name="preview_done_btn">OK</string>
+    <string name="preview_country_lbl">País</string>
+    <string name="preview_carrier_lbl">Operadora</string>
+    <string name="notification_ticker">Envio de estatísticas de instalação</string>
+    <string name="notification_title">Estatísticas MIUI</string>
+    <string name="notification_desc">Ativar o envio de informações anônimas</string>
+	<string name="main_link">&lt;a href=http://stats.miuiandroid.com//>Mais informações&lt;/a></string>
+</resources>
