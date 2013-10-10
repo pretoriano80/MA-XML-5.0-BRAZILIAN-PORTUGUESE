@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
     <string-array name="search_engines">
         <item>google</item>
         <item>yahoo</item>
@@ -27,14 +35,6 @@
         <item>Médio</item>
         <item>Perto</item>
     </string-array>
-    <string-array name="pref_development_ua_choices">
-        <item>Android</item>
-        <item>Desktop</item>
-        <item>iPhone</item>
-        <item>iPad</item>
-        <item>Froyo-N1</item>
-        <item>Honeycomb-Xoom</item>
-    </string-array>
     <string-array name="pref_default_text_encoding_choices">
         <item>Latin-1 (ISO-8859-1)</item>
         <item>Unicode (UTF-8)</item>
@@ -60,65 +60,9 @@
         <item>Somente em Wi-Fi</item>
         <item>Sempre</item>
     </string-array>
-    <string-array name="bookmarks">
-        <item>Google</item>
-        <item>http://www.google.com/</item>
-        <item>Twitter</item>
-        <item>http://twitter.com/</item>
-        <item>Facebook</item>
-        <item>http://www.facebook.com/</item>
-        <item>Wikipedia</item>
-        <item>http://www.wikipedia.org/</item>
-        <item>eBay</item>
-        <item>http://www.ebay.com/</item>
-        <item>CNN</item>
-        <item>http://www.cnn.com/</item>
-        <item>NY Times</item>
-        <item>http://www.nytimes.com/</item>
-        <item>ESPN</item>
-        <item>http://espn.com/</item>
-        <item>Amazon</item>
-        <item>http://www.amazon.com/</item>
-        <item>Weather Channel</item>
-        <item>http://www.weather.com/</item>
-        <item>BBC</item>
-        <item>http://www.bbc.co.uk/</item>
-    </string-array>
     <string-array name="search_engines_cmcc">
         <item>google</item>
     </string-array>
-    <integer-array name="readmode_content_font_size">
-        <item>16</item>
-        <item>18</item>
-        <item>20</item>
-        <item>24</item>
-        <item>28</item>
-    </integer-array>
-    <integer-array name="readmode_title_font_size">
-        <item>24</item>
-        <item>26</item>
-        <item>28</item>
-        <item>32</item>
-        <item>36</item>
-    </integer-array>
-    <integer-array name="readmode_theme_bgcolors">
-        <item>0xfff7f7f7</item>
-        <item>0xffe6ddd1</item>
-        <item>0xffd8d8d8</item>
-        <item>0xffcdc3b5</item>
-        <item>0xffb0c0b6</item>
-        <item>0xffbdc7d6</item>
-        <item>0xff333333</item>
-    </integer-array>
-    <integer-array name="readmode_theme_fontcolors">
-        <item>0xff000000</item>
-        <item>0xff000000</item>
-        <item>0xff3e4042</item>
-        <item>0xff543b20</item>
-        <item>0xff2e3833</item>
-        <item>0xff36495d</item>
-        <item>0xffbbbbbb</item>
-    </integer-array>
     <string-array name="google_in_list">
         <item>search_google</item>
         <item>ic_search_engine_google_list_item</item>
@@ -133,14 +77,6 @@
         <item>search_bing</item>
         <item>ic_search_engine_bing_list_item</item>
         <item>bing</item>
-    </string-array>
-    <string-array name="pref_ua_choices">
-        <item>Android</item>
-        <item>Desktop</item>
-        <item>iPhone</item>
-        <item>iPad</item>
-        <item>Froyo-N1</item>
-        <item>Honeycomb-Xoom</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Voltar/Avançar páginas</item>
