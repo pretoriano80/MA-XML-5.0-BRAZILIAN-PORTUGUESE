@@ -95,7 +95,6 @@
     <string name="toast_folder_privacy_mode">Não é possível editar a pasta no modo de segurança</string>
     <string name="toast_message_add_image_fail">Falha ao inserir imagem!</string>
     <string name="toast_note_privacy_mode">Impossível editar nota no modo protegido</string>
-    <string name="toast_note_privacy_mode">Não é possível editar anotação no modo de segurança</string>
     <string name="toast_reach_text_limit_attachment">Conteúdo da anotação muito longo para se incluir anexos.</string>
     <string name="toast_reach_text_limit_truncate">"Conteúdo da anotação truncado automaticamente por ser muito longo."</string>
     <string name="widget_havenot_content">Nenhuma anotação associada encontrada, clique para criar a anotação associada. Toque segure uma anotação para redimensioná-la.</string>
