@@ -95,7 +95,7 @@ para cancelar"</string>
     <string name="cloud_app_remove_prompt">%1$s de dados serão excluídcos. Você deseja continuar?</string>
     <string name="cloud_app_restore_action_bar_title">%1$s de dados foram salvos</string>
     <string name="cloud_app_restore_app_and_data">Restaurar apps e dados do usuário</string>
-    <string name="cloud_app_restore_cancel">Cancelar restauração/string>
+    <string name="cloud_app_restore_cancel">Cancelar restauração</string>
     <string name="cloud_app_restore_cancel_prompt_message">"Restauração incompleta, pressione OK
 para cancelar a restauração"</string>
     <string name="cloud_app_restore_cancel_prompt_title">Cancelar restauração</string>
