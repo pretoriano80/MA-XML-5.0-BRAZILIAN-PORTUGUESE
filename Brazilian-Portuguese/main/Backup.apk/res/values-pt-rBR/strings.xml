@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="account_contact_backup_info">Dados (Conta Xiaomi, Gmail e contas de E-mail. Armazena contas e contatos em conjunto.)</string>
     <string name="account_login">Login</string>
@@ -38,17 +38,80 @@
     <string name="backup_report">Relatório do Backup</string>
     <string name="backup_update">Atualizado</string>
     <string name="batch_delete_backup_confirm">Excluindo backup(s): %d</string>
+    <string name="button_abandon">Desistir</string>
     <string name="button_backup">Backup</string>
     <string name="button_cancel">Cancelar</string>
-    <string name="button_finish">Concluído</string>
+    <string name="button_continue">Continuar</string>
+    <string name="button_delete">Excluir</string>
+    <string name="button_finish">Concluir</string>
     <string name="button_next">Avançar</string>
     <string name="button_ok">OK</string>
+    <string name="button_restore">Restaurar</string>
     <string name="button_return">Voltar</string>
     <string name="call_title">Chamadas</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_backup">Cancelar</string>
     <string name="cancel_restore">Cancelar</string>
+    <string name="cloud_app_backup_cancel">Cancelar backup</string>
+    <string name="cloud_app_backup_cancel_prompt_message">"Backup incompleto, pressione
+ Ok para cancelar o backup"</string>
+    <string name="cloud_app_backup_cancel_prompt_title">Cancelar backup</string>
+    <string name="cloud_app_backup_date">"Salvo em "</string>
+    <string name="cloud_app_backup_pending">Pendente...</string>
+    <string name="cloud_app_backup_progress">Efetuando backup...</string>
+    <string name="cloud_app_backup_summary">Efetuar backup automático de apps e dados do usuário quando o telefone estiver carregando e conectado a uma rede Wi-Fi</string>
+    <string name="cloud_app_backup_title">Backup na MiCloud</string>
+    <string name="cloud_app_check_data">Consultando dados da MiCloud...</string>
+    <string name="cloud_app_check_data_fail">Falha na consulta de dados da MiCloud</string>
+    <string name="cloud_app_check_data_timeout">Tempo esgotado consultando dados da MiCloud</string>
+    <string name="cloud_app_current_device">Dispositivo atual</string>
+    <string name="cloud_app_data_in_other_devices">Nenhum backup MiCloud neste dispositivo.</string>
+    <string name="cloud_app_delete_data">Excluir backup</string>
+    <string name="cloud_app_device">Dispositivo</string>
+    <string name="cloud_app_dont_restore">Não restaurar</string>
+    <string name="cloud_app_find_backup_prompt_1">Antes de efetuar a restauração, você deseja salvar os dados atuais?</string>
+    <string name="cloud_app_find_backup_prompt_2">Caso não deseje, os dados serão substituídos durante a restauração.</string>
+    <string name="cloud_app_function_summary">Quando você efetua o backup de seus dados na nuvem, você pode restaurá-los rapidamente em qualquer dispositivo.</string>
+    <string name="cloud_app_invalid_op">Impossível visualizar dados da nuvem durante uma operação de backup ou restauração.</string>
+    <string name="cloud_app_invalid_op_when_removing">Impossível visualizar dados da nuvem durante a a exclusão de dados</string>
+    <string name="cloud_app_just_show_in_current_device">Exibir somente apps deste dispositivo</string>
+    <string name="cloud_app_load_data">Consultando lista de backups...</string>
+    <string name="cloud_app_load_data_timeout">Tempo esgotado consultando dados da MiCloud</string>
+    <string name="cloud_app_loading_with_mobile_network_prompt">A rede de dados móveis será utilizada. Deseja continuar com a operação?</string>
+    <string name="cloud_app_mine">Apps transferidos</string>
     <string name="cloud_app_name">Backup na Nuvem</string>
+    <string name="cloud_app_no_data">Sem dados.</string>
+    <string name="cloud_app_no_network">Rede indisponível</string>
+    <string name="cloud_app_no_wifi">Wi-Fi indisponível</string>
+    <string name="cloud_app_no_wifi_connect">Nenhuma rede Wi-Fi disponível</string>
+    <string name="cloud_app_other_devices">Outros dispositivos</string>
+    <string name="cloud_app_remove_cancel">Cancelar exclusão</string>
+    <string name="cloud_app_remove_cancel_prompt_message">"Excluindo backup incompleto, pressione OK
+para cancelar"</string>
+    <string name="cloud_app_remove_cancel_prompt_title">Cancelar exclusão</string>
+    <string name="cloud_app_remove_error">Falha ao excluir!</string>
+    <string name="cloud_app_remove_pending">Aguardando a exclusão...</string>
+    <string name="cloud_app_remove_progress">Excluindo...</string>
+    <string name="cloud_app_remove_prompt">%1$s de dados serão excluídcos. Você deseja continuar?</string>
+    <string name="cloud_app_restore_action_bar_title">%1$s de dados foram salvos</string>
+    <string name="cloud_app_restore_app_and_data">Restaurar apps e dados do usuário</string>
+    <string name="cloud_app_restore_cancel">Cancelar restauração/string>
+    <string name="cloud_app_restore_cancel_prompt_message">"Restauração incompleta, pressione OK
+para cancelar a restauração"</string>
+    <string name="cloud_app_restore_cancel_prompt_title">Cancelar restauração</string>
+    <string name="cloud_app_restore_data">Restaurar apps instalados anteriormente</string>
+    <string name="cloud_app_restore_data_title">Restaurar dados do usuário</string>
+    <string name="cloud_app_restore_error">Falha na restauração!</string>
+    <string name="cloud_app_restore_pending">Aguardando a restauração...</string>
+    <string name="cloud_app_restore_progress">Restaurando...</string>
+    <string name="cloud_app_restore_prompt">A restauração irá substituir os dados existentes no telefone pelos dados salvos na nuvem.</string>
+    <string name="cloud_app_restore_query_error_prompt">Falha ao obter dados da MiCloud. Apps e dados de usuário serão restaurados automaticamente quando uma conexão de rede for detectada.</string>
+    <string name="cloud_app_restore_success">Apps restaurados!</string>
+    <string name="cloud_app_restore_summary">Restaurar apps instalados anteriormente e seus dados de usuário</string>
+    <string name="cloud_app_restore_wifi_prompt">Conectar-se utilizando uma rede Wi-Fi para restaurar seus apps e dados de usuário.</string>
+    <string name="cloud_app_total_size">Tamanho do backup MiCloud: %1$s</string>
+    <string name="cloud_app_version_size">Versão: %1$s, Tamanho: %2$s</string>
+    <string name="cloud_app_wait_wifi">Aguardando conexão Wi-Fi</string>
     <string name="cloud_backup_hint">Conecte-se para armazenar e restaurar com segurança seus backups</string>
     <string name="cloud_backup_login">Conectar à conta Xiaomi</string>
     <string name="cloud_backup_window_title">Backup na Nuvem</string>
@@ -65,6 +128,8 @@
     <string name="contact_title">Contatos</string>
     <string name="current_account">Conta atual: %s</string>
     <string name="current_sim">Cartão SIM atual</string>
+    <string name="customization">&lt;u&gt;Customizare&lt;/u&gt;</string>
+    <string name="customization_under_wifi_prompt">Suportado somente em redes Wi-Fi</string>
     <string name="data_no_enough_space">Espaço insuficiente para efetuar backup, libere mais memória.</string>
     <string name="data_no_enough_space_message">O armazenamento interno e o cartão SD são insuficientes para o backup. Prosseguir assim mesmo?</string>
     <string name="date_format">dd-MM-yyyy HH:mm:ss</string>
@@ -87,14 +152,10 @@
     <string name="findlost_contact_online">Restaurar contatos online</string>
     <string name="guarded_mode_dialog_message">Impossível efetuar backup ou restaurar no modo protegido</string>
     <string name="guarded_mode_dialog_title">Modo Protegido</string>
-    <string name="import_from_xiaomi_account_hint1">"1.\u0009Inicie um telefone com contatos
- 
-  2.\u0009Instale o MiTalk e conecte-se.
-  \u0009http://www.miliao.com 
- 
-  3.\u0009Entre nas configurações do MiTalk e escolha Backup de contatos para a conta Xiaomi"</string>
+    <string name="import_from_xiaomi_account_hint1">1.Instale o MiTalk e conecte-se.\n http://www.miliao.com\n\n3. Acesse as configurações do MiTalk e selecione "Backup de contatos para a conta Xiaomi"</string>
     <string name="import_from_xiaomi_account_hint2">Nota: Vá para o próximo passo caso o backup já exista</string>
     <string name="import_from_xiaomi_account_hint_title">Utilize o MiTalk para fazer backup de contatos em outros telefones compatíveis</string>
+    <string name="just_support_op_with_wifi_connected">Suportado somente em Wi-Fi</string>
     <string name="local_app_name">Backup</string>
     <string name="local_backup_window_title">Backup local</string>
     <string name="local_home_title">Backup Local</string>
@@ -108,6 +169,7 @@
     <string name="miliao_account_login">Login MiTalk</string>
     <string name="mms_title">Mensagens Multimídia</string>
     <string name="multi_select_title">Selecionado(s) %1$s item(ns)</string>
+    <string name="my_phone">Meu dispositivo</string>
     <string name="no_encrypt_password">Nenhuma senha criptografada</string>
     <string name="no_network">Nenhuma conexão. Verifique sua conexão de rede e tente novamente.</string>
     <string name="note_title">Anotações Salvas</string>
