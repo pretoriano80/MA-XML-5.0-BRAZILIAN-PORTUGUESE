@@ -17,9 +17,9 @@
             "favicon":""
         },
         {
-            "title":"miui-cz-sk",
-            "url":"http://miui.cz/",
-            "thumbnail":"miui_cz-sk.png",
+            "title":"MIUI Brasil",
+            "url":"http://miuirom.com.br/",
+            "thumbnail":"miui-android.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":""
@@ -33,8 +33,8 @@
             "favicon":""
         },
         {
-            "title":"miuibrasil",
-            "url":"http://miuirom.com.br/",
+            "title":"MIUI Android",
+            "url":"http://miuiandroid.com/",
             "thumbnail":"miui-android.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",

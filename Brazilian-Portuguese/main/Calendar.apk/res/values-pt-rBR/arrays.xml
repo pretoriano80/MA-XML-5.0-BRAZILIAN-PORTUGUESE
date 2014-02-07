@@ -4,9 +4,10 @@
         <item>Notificação</item>
         <item>Email</item>
         <item>SMS</item>
+        <item>Alarme</item>
     </string-array>
-
     <string-array name="reminder_minutes_labels">
+        <item>Nenhum</item>
         <item>0 minutos</item>
         <item>Um minuto</item>
         <item>Cinco minutos</item>
@@ -66,7 +67,8 @@
         <item>Bogotá</item>
         <item>Horário Oriental</item>
         <item>Venezuela</item>
-        <item>Horár. Atlântico</item>
+        <item>Horár. Atlântico (Barbados)</item>
+        <item>Horár. Atlântico (Canadá)</item>
         <item>Manaus</item>
         <item>Santiago</item>
         <item>Terra Nova</item>
@@ -83,7 +85,6 @@
         <item>Belgrado</item>
         <item>Bruxelas</item>
         <item>Sarajevo</item>
-        <item>Paris</item>
         <item>Windhoek</item>
         <item>Hor. Áfr. Ocid.</item>
         <item>Amã, Jordânia</item>
@@ -136,7 +137,6 @@
         <item>Tonga</item>
     </string-array>
     <string-array name="availability">
-        <item>Ocupado(a)</item>
         <item>Disponível</item>
         <item>Tentativa</item>
     </string-array>
