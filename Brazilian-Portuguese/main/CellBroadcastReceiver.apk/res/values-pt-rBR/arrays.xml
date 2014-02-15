@@ -7,11 +7,10 @@
         <item>8 segundos</item>
         <item>10 segundos</item>
     </string-array>
-    <string-array name="alert_sound_duration_values">
-        <item>2</item>
-        <item>4</item>
-        <item>6</item>
-        <item>8</item>
-        <item>10</item>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Uma vez</item>
+        <item>Repetir a cada 2 minutos</item>
+        <item>Repetir a cada 15 minutos</item>
+        <item>Desativar</item>
     </string-array>
 </resources>

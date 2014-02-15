@@ -5,8 +5,6 @@
     <string name="button_cancel">Cancelar</string>
     <string name="confirm_radio_title">SIM desligado</string>
     <string name="confirm_radio_msg">%1$s está habilitado. Deseja reativar o cartão SIM?</string>
-    <string name="confirm_radio_flight_mode_on_and_msg">O modo para avião está ativado</string>
-    <string name="confirm_radio_flight_mode_on_sim_off_msg">%1$s está ativado. Deseja desativar o modo avião e reativar o cartão SIM?</string>
     <string name="confirm_radio_flight_mode_on_sim_on_msg">Modo avião ativado. Deseja desativar o modo avião?</string>
     <string name="confirm_radio_msg_single">O modo avião está ativado. Deseja desativá-lo?</string>
     <string name="confirm_pin_title">Bloqueio do SIM</string>
@@ -24,6 +22,7 @@
     <string name="confirm_roamingWithPrefer_rbutton">SIM em Roaming</string>
     <string name="confirm_radio_lbutton">Ligar</string>
     <string name="confirm_unlock_lbutton">Desbloquear</string>
+    <string name="confirm_disable_lbutton">Desativar</string>
     <string name="confirm_unlock_fail">Falha ao desbloquear</string>
     <string name="confirm_turnon_radio_fail">Operação cancelada</string>
     <string name="confirm_permit_roaming_fail">Você cancelou o uso do Roaming no cartão SIM</string>

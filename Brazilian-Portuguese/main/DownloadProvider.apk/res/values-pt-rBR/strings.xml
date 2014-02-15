@@ -36,4 +36,5 @@ Toque em %s  para começar o download da próxima vez que você estiver conectad
     <string name="dialog_insufficient_space_on_external">Espaço insuficiente no cartão SD</string>
     <string name="dialog_insufficient_space_on_cache">Espaço insuficiente no cache de download</string>
     <string name="auto_restart_under_wifi">O arquivo será transferido automaticamente quando conectar-se a uma rede Wi-Fi</string>
+    <string name="task_already_exist">Download já existe</string>
 </resources>

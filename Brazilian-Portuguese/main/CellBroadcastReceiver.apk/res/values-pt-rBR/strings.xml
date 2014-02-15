@@ -7,6 +7,7 @@
     <string name="menu_preferences">Configurações</string>
     <string name="menu_delete_all">Excluir broadcasts</string>
     <string name="message_options">Opções de mensagem</string>
+    <string name="menu_view_details">Ver detalhes</string>
     <string name="menu_view">Ver broadcast</string>
     <string name="menu_delete">Excluir broadcast</string>
     <string name="view_details_title">Detalhes do alerta</string>
@@ -90,4 +91,12 @@
     <string name="cmas_opt_out_dialog_text">Atualmente você recebe alertas de broadcast de sua operadora. Você deseja desativar o recebimento?</string>
     <string name="cmas_opt_out_button_yes">Sim</string>
     <string name="cmas_opt_out_button_no">Não</string>
+    <string name="alert_reminder_interval_title">Intervalo de alertas</string>
+    <string name="cell_broadcast_sms_title">Mensagem de broadcast</string>
+    <string name="category_brazil_settings_title_sub">Ajustes para o Brasil</string>
+    <string name="cb_settings_sel_sub">Selecionar inscrição</string>
+    <string name="summary_manage_subscriptions">Gerenciar parâmetros de inscrição</string>
+    <string name="select_subscription_title">Selecionar uma inscrição</string>
+    <string name="subscription1_title">Inscrição 1</string>
+    <string name="subscription2_title">Inscrição 2</string>
 </resources>

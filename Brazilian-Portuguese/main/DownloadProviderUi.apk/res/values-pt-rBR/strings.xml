@@ -1,15 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="all_downloads">Todos os downloads</string>
     <string name="app_downloads">%s downloads</string>
     <string name="app_label">Downloads</string>
     <string name="button_sort_by_date">Classificar por data</string>
     <string name="button_sort_by_size">Classificar por tamanho</string>
-    <string name="cancel_download_notice">Ignorar notificação de download</string>
     <string name="cancel_running_download">Cancelar</string>
     <string name="confirm_delete_downloads_message">Confirma a exclusão dos %d itens?</string>
     <string name="confirm_delete_the_download_item_message">Confirma a exclusão do arquivo?</string>
-    <string name="confirm_disable_download_only_in_wifi_message">Ao desativar esta opção, os downloads serão direcionados para seu plano de dados móveis, gerando custos adicionais.</string>
     <string name="delete_download">Excluir</string>
     <string name="delete_downloads_records">Excluir downloads</string>
     <string name="delete_the_downloaded_file">Apagar downloads.</string>
@@ -25,7 +23,6 @@
     <string name="dialog_queued_body">Este arquivo está na fila para download no futuro.</string>
     <string name="dialog_title_not_available">Falha no download</string>
     <string name="dialog_title_queued_body">Arquivo não disponível</string>
-    <string name="disable_download_only_in_wifi_title">Desativando downloads por Wi-Fi</string>
     <string name="download_complete">Concluído</string>
     <string name="download_error">Falha</string>
     <string name="download_error_insufficient_space">Espaço insuficiente</string>
@@ -49,25 +46,21 @@
     <string name="keep_queued_download">Manter</string>
     <string name="menu_enter_edit_mode">Editar Grupos</string>
     <string name="menu_preferences">Configurações</string>
-    <string name="might_lead_to_mobile_charge">"Ao cancelar, não serão exibidos avisos de downloads ems eu dispositivo. Isto poderá aumentar o tráfego de dados de seu plano de dados móveis.."</string>
     <string name="missing_title">&lt;Desconhecido></string>
     <string name="no_downloads">Nenhum download.</string>
     <string name="open_download">Abrir</string>
     <string name="pause_download">Pausa</string>
-  <string name="pause_download_when_wifi_disconnected">Download somente por Wi-Fi</string>
     <string name="paused_by_app">Suspenso</string>
     <string name="paused_queued_for_wifi">Aguardando Wi-Fi</string>
     <string name="paused_unknown">Suspenso</string>
     <string name="paused_waiting_for_network">Aguardando rede</string>
     <string name="paused_waiting_to_retry">Esperando para repetir</string>
-    <string name="prefDefault_max_bytes_limit">1048576</string>
-    <string name="pref_dialog_title_max_bytes_limit">Limite de tamanho</string>
     <string name="pref_download_settings_title">Uso de dados</string>
     <string name="pref_summary_any_bytes_popup">Sempre enfileirar para redes Wi-Fi</string>
     <string name="pref_summary_enable_max_bytes_popup">"Quando utilizar operadora de rede, abrir popup se um arquivo tiver um tamanho maior que o limite"</string>
     <string name="pref_summary_max_bytes_limit_format">Enfileirar download para Wi-Fi se tamanho exceder %s</string>
-    <string name="pref_title_enable_max_bytes_popup">Download</string>
-    <string name="pref_title_max_bytes_limit">Limite de tamanho</string>
+    <string name="pref_summary_no_limit_popup">Tamanho de download ilimitado</string>
+    <string name="pref_title_enable_max_bytes_popup">Download de dados</string>
     <string name="preferences_title">Configurações</string>
     <string name="remove_download">Remover</string>
     <string name="restart_download">Reiniciar</string>
@@ -77,4 +70,9 @@
     <string name="select_all">Selecionar todos</string>
     <string name="select_operation_items">Por favor selecione os itens</string>
     <string name="selected_count">Selecionados %1$d de %2$d</string>
+    <string name="turn_off_xunlei_message">A velocidade de download pode diminuir consideravelmente.</string>
+    <string name="turn_off_xunlei_title">Desativar engine de download Xunlei</string>
+    <string name="xunlei_brand">Desenvolvido por Xunlei</string>
+    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
+    <string name="xunlei_switch">Engine de download Xunlei</string>
 </resources>

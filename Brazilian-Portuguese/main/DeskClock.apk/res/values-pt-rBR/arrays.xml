@@ -56,4 +56,10 @@
         <item>Seg a Sex</item>
         <item>Personalizado</item>
     </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Uma vez</item>
+        <item>Diário</item>
+        <item>Seg a Sex</item>
+        <item>Personalizado</item>
+    </string-array>
 </resources>
