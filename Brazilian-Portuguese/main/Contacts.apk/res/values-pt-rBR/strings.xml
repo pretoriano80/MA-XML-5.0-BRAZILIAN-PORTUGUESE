@@ -845,7 +845,7 @@ Caso você utilize a sincronização de contatos, os dados presentes na nuvem ta
     <string name="resource_exchange_universal_goon">Este código pode ser utilizado para transferir qualquer tema na loja.</string>
     <string name="resource_exchange_window_title">Resgatar voucher</string>
     <string name="resource_exchange_wrong_format_by_local">Código inválido</string>
-    <string name="resource_exchange_wrong_format_by_server">O voucher não pôde ser verificado. Confirme se você o digitou corretamente."Gift code could not be verified. Make sure you\'inputted it correctly."</string>
+    <string name="resource_exchange_wrong_format_by_server">O voucher não pôde ser verificado. Confirme se você o digitou corretamente.</string>
     <string name="resource_expand_full_text">Expandir</string>
     <string name="resource_get_auth_checking">Checando autorização...</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Este tema não pode ser aplicado atualmente pois o limite de autorização única foi excedido para esta conta Xiaomi. Tente novamente utilizando uma nova conta.</string>
