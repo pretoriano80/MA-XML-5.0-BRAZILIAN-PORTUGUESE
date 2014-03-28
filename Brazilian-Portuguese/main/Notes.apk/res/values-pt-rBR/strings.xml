@@ -4,6 +4,7 @@
     <string name="alert_action_edit_anyway">Continuar editando</string>
     <string name="alert_edit_action_delete">Remover</string>
     <string name="alert_edit_action_update">Modificar</string>
+    <string name="alert_message_delete_folder">Excluir a pasta %1$s e suas anotações?</string>
     <string name="alert_message_delete_folders">Excluir as %1$s pastas selecionadas?</string>
     <string name="alert_message_delete_folders_notes">Excluir as %1$s pastas e %2$s anotações selecionadas?</string>
     <string name="alert_message_delete_note">Excluir esta anotação?</string>
@@ -56,6 +57,7 @@
     <string name="menu_rename_folder">Renomear</string>
     <string name="menu_send_to_desktop">Enviar para a tela inicial</string>
     <string name="menu_setting">Configurações</string>
+    <string name="menu_share">Compartilhar</string>
     <string name="menu_stick">Fixar</string>
     <string name="menu_title_select_folder">Selecione a pasta</string>
     <string name="menu_unstick">Desafixar</string>
@@ -80,6 +82,7 @@
     <string name="pref_title_common">Configs. Comuns</string>
     <string name="pref_title_data_export">Exportar dados</string>
     <string name="pref_title_data_export_to_sdcard">Exportar anotação para o cartão SD</string>
+    <string name="pref_title_font_size">Tamanho da Fonte</string>
     <string name="pref_title_note_style">Estilo</string>
     <string name="preferences_bg_random_appear_title">Fundo aleatório</string>
     <string name="preferences_title">Configurações</string>
@@ -94,7 +97,8 @@
     <string name="time_picker_dialog_title">Tempo de Lembrete</string>
     <string name="toast_folder_privacy_mode">Não é possível editar a pasta no modo de segurança</string>
     <string name="toast_message_add_image_fail">Falha ao inserir imagem!</string>
-    <string name="toast_note_privacy_mode">Impossível editar nota no modo protegido</string>
+    <string name="toast_note_privacy_mode">"Impossível editar nota no modo protegido"</string>
+    <string name="toast_privacy_mode">Impossível editar nota no modo protegido</string>
     <string name="toast_reach_text_limit_attachment">Conteúdo da anotação muito longo para se incluir anexos.</string>
     <string name="toast_reach_text_limit_truncate">"Conteúdo da anotação truncado automaticamente por ser muito longo."</string>
     <string name="widget_havenot_content">Nenhuma anotação associada encontrada, clique para criar a anotação associada. Toque segure uma anotação para redimensioná-la.</string>

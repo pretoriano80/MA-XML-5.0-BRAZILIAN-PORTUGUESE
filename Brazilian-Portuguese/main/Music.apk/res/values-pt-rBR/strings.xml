@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="account_and_synchronization">Contas &amp; Sincronização</string>
+    <string name="account_setting">Configurações de conta</string>
     <string name="add">Adicionar</string>
     <string name="add_to">Adicionar à</string>
     <string name="add_to_favorite">Adicionar aos Favoritos</string>
@@ -29,6 +31,8 @@
     <string name="auto_correct_id3_summary">Efetua a correção de tags ID3 automaticamente enquanto estiver conectado à internet, utilizando o algoritmo de impressão digital de música da Baidu.</string>
     <string name="batch_correct_id3_completed">Correção de ID3 em lote finalizada.</string>
     <string name="billboard">Billboard</string>
+    <string name="bind_baidu_account_setting">Vincular uma conta Baidu</string>
+    <string name="bind_baidu_account_summary">Adicionar listas de reprodução e outros serviços ao vincular uma conta Baidu music</string>
     <string name="buffering">Armazenando</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_sleep_mode">Desligar Timer</string>
@@ -36,6 +40,8 @@
     <string name="channel">FM</string>
     <string name="channel_format" formatted="false">"%s  %s MHZ"</string>
     <string name="channel_postfix">MHZ</string>
+    <string name="choose_download_quality">Selecionar qualidade de download</string>
+    <string name="choose_stream_quality">Selecioanr qualidade de streaming</string>
     <string name="click_to_shuffle">Toque para reproduzir aleatoriamente</string>
     <string name="complete">Completo</string>
     <string name="confirm">Confirmar</string>
@@ -52,12 +58,20 @@
     <string name="create_equalzier_create_text_prompt">Nome do efeito</string>
     <string name="create_playlist_create_text_prompt">Nome da lista de reprodução</string>
     <string name="custom">Customizar</string>
+    <string name="data_usage_warning">Aviso sobre uso de dados!</string>
+    <string name="data_usage_warning_summary">Utilizar sua conexão de dados móveis para fazer streaming de músicas em alta qualidade pode aumentar seu custo de dados móveis.</string>
     <string name="default_interval">30</string>
     <string name="delete_file_from_sdcard">Excluir arquivo do cartão SD</string>
     <string name="delete_item">Excluir</string>
     <string name="delete_playlist_menu">Excluir</string>
     <string name="delete_song_desc">%s será removido permanentemente do cartão SD.</string>
     <string name="deselect_all">Limpar</string>
+    <string name="dirac_mode_earbuds">Fones Xiaomi</string>
+    <string name="dirac_mode_general">Fones padrão</string>
+    <string name="dirac_mode_in_ear">Fones Xiaomi in-ear</string>
+    <string name="dirac_mode_off">Dirac Off</string>
+    <string name="dirac_mode_piston_100">Fones Xiaomi Piston</string>
+    <string name="disconnect">Disconnect</string>
     <string name="download">Download</string>
     <string name="download_album_settings">Baixar capas</string>
     <string name="download_album_summary">Efetua o download das capas dos álbuns automaticamente. Esta opção pode aumentar o seu consumo de dados móveis, considere utilizá-la somente em uma rede Wi-Fi</string>
@@ -65,6 +79,7 @@
     <string name="download_all_avatar">Baixar avatar do(s) artista(s)</string>
     <string name="download_all_track">Baixar todas as faixas</string>
     <string name="download_batch_start">Iniciar todos os downloads</string>
+    <string name="download_completed">Baixado</string>
     <string name="download_lyric_settings">Baixar letras</string>
     <string name="download_lyric_summary">"Efetua o download das letras de músicas automaticamente. O download de letras de músicas não consome uma quantidade significativa de dados móveis, porém você pode desativá-la para uma maior economia no plano de dados móveis."</string>
     <string name="download_processing">Baixando</string>
@@ -74,11 +89,32 @@
     <string name="empty_edit_hint">Informações da música indisponíveis</string>
     <string name="empty_track_list">Nenhuma faixa</string>
     <string name="emptyplaylist">A lista de reprodução selecionada está vazia.</string>
+    <string name="enabled">Ativado</string>
     <string name="enter_sleep_mode">Timer</string>
+    <string name="eq_auto">Personalizado</string>
+    <string name="eq_blues">Blues</string>
+    <string name="eq_classical">Clássica</string>
+    <string name="eq_country">Country</string>
+    <string name="eq_dance">Dance</string>
+    <string name="eq_delete">Remover</string>
+    <string name="eq_delete_success">Concluído</string>
+    <string name="eq_electronic">Eletrônica</string>
+    <string name="eq_flat">Normal</string>
+    <string name="eq_hiphop">Hip Hop</string>
+    <string name="eq_jazz">Jazz</string>
+    <string name="eq_metal">Metal</string>
+    <string name="eq_pop">Pop</string>
+    <string name="eq_preset_create">Criar</string>
+    <string name="eq_preset_format">Definição do usuário %d</string>
+    <string name="eq_preset_hint">Nome do equalizador</string>
+    <string name="eq_preset_rename">Renomear</string>
+    <string name="eq_preset_select">Escolher uma definição</string>
+    <string name="eq_rock">Rock</string>
     <string name="equalizer">Equalizador</string>
     <string name="equalizer_delete">Excluir</string>
     <string name="equalizer_delete_success">Perfil do equalizador removido com sucesso</string>
     <string name="equalizer_save_success">Perfil do equalizador salvo</string>
+    <string name="expired">Expirado</string>
     <string name="fade_effect_settings">Fade in e out entre músicas</string>
     <string name="fade_effect_summary">Efetua alteração de faixas suavemente diminuindo e aumentando o volume entre as músicas.</string>
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
@@ -98,10 +134,16 @@
     <string name="filter_by_size_prefix">"Tamanho mínimo: "</string>
     <string name="filter_by_size_summary">Filtro para arquivos de áudio pequenos</string>
     <string name="filter_notification">Filtro executando. Você pode alterar suas propriedades nas configurações do aplicativo.</string>
+    <string name="find_ktv">Buscar KTV</string>
     <string name="folder_title_format" formatted="false">%s(%d)</string>
     <string name="folders_title">Pastas</string>
     <string name="frequentlyplayed_title">Executados frequentemente</string>
+    <string name="headphone_settings">Configurar fones de ouvido</string>
+    <string name="high_quality">Alta qualidade</string>
+    <string name="higher_quality_music">Música em alta qualidade</string>
+    <string name="higher_quality_music_summary">Escute e baixe músicas em alta qualidade</string>
     <string name="hot_artists">Artistas populares</string>
+    <string name="i_know">OK</string>
     <string name="id3_edit">Editar informações da ID3 Tag</string>
     <string name="id3_edit_failed">Falha ao editar a ID3 Tag</string>
     <string name="id3_modify_confirm_check">Confirmar alterações na ID3 Tag?</string>
@@ -110,6 +152,15 @@
     <string name="impunity_declaration_title">Declaração</string>
     <string name="keep_quit_position_settings">Guardar posição da música</string>
     <string name="keep_quit_position_summary">Retoma a execução na última posição ao sair do player.</string>
+    <string name="ktv_alert_message">"Toque em Usar telefone para adicioanr músicas na tela inicial do seu console KTV e visualize seu código QR"</string>
+    <string name="ktv_alert_title">Somente dispositivos suportados podem adicionar músicas</string>
+    <string name="ktv_and_room">%1$s %2$s</string>
+    <string name="ktv_connected_alert_message">As músicas que você selecionou serão adicionadas para uma lista de reprodução nomeada "Minha KTV"</string>
+    <string name="ktv_connected_alert_titel">Conectado a %1$s</string>
+    <string name="ktv_disconnect_alert_titel">Desconectar-se de %1$s?</string>
+    <string name="ktv_song_vod_fail">Falha ao adicionar %1$s</string>
+    <string name="ktv_song_vod_success">%1$s adicionado</string>
+    <string name="ktv_unbind_message">"Falha na conexão com o console KTV. Tenha certeza de que você está escaneando o código QR correto."</string>
     <string name="listen_to_music_online_settings">Ouvir música online</string>
     <string name="listen_to_online_summary">Ouça música através de uma rede de dados móveis ou Wi-Fi</string>
     <string name="load_album_artist_failed">Falha ao carregar lista de álbum e artista, tente novamente.</string>
@@ -125,6 +176,8 @@
     <string name="load_channel_failed">Falha ao carregar lista de canais, tente novamente</string>
     <string name="load_channel_in_process">Carregando lista de canais</string>
     <string name="loading">Carregando</string>
+    <string name="login">Login</string>
+    <string name="login_first">Primeiro, efetue login em sua conta Xiaomi</string>
     <string name="lrc_progress_modify">Ajustar sincronia das letras</string>
     <string name="lrc_progress_modify_helper">Ajuste a sincronia das letras arrastando para cima e para baixo</string>
     <string name="lrc_search_failed">Letra não encontrada!</string>
@@ -138,6 +191,10 @@
     <string name="lyric_picker_not_found">Gerenciador de arquivos não encontrado no telefone</string>
     <string name="max_interval">90</string>
     <string name="mediaplaybacklabel">Música</string>
+    <string name="menu_higher_quality_music">Músicas em alta qualidade (acesso mensal)</string>
+    <string name="mi_effect">MI Effects</string>
+    <string name="mi_effect_summary">Utilizar sempre melhorias MiSound ao utilizar alto-falantes</string>
+    <string name="mi_effect_title">Melhorias MiSound</string>
     <string name="min_interval">1</string>
     <string name="mobile_connect_settings">Rede</string>
     <string name="modify_id3_for_list">As músicas na atual lista de informações da ID3 Tag serão editadas</string>
@@ -148,8 +205,10 @@
     <string name="music_browser_label">Música</string>
     <string name="music_filter">Filtrar arquivos de música</string>
     <string name="music_filter_helper">Para ocultar arquivos de áudio que não sejam de músicas, um filtro de tamanho de 800Kb foi aplicado para ocultar estes arquivos da biblioteca. Você pode alterar o limite de tamanho em Configurações - Filtro de tamanho.</string>
+    <string name="music_not_loaded">Nenhuma mpusica encontrada!</string>
     <string name="music_open_other_connect">Fazer download das músicas utilizando a rede de dados móveis</string>
     <string name="music_picker_title">Selecionar música a música</string>
+    <string name="music_quality">Qualidade da música</string>
     <string name="music_settings">Configurações</string>
     <string name="network_error">Nenhuma conexão de rede, verifique suas configurações</string>
     <string name="new_albums">Novos álbuns</string>
@@ -158,12 +217,19 @@
     <string name="new_playlist_name_template">Nova lista de reprodução %d</string>
     <string name="no_effect">Sem efeitos</string>
     <string name="no_song_downloaded">Nenhuma música pode ser baixada.</string>
+    <string name="normal_quality">Qualidade normal</string>
+    <string name="not_login">Login</string>
     <string name="not_selected">Selecione uma música</string>
     <string name="notification_artist_album">"%2$s%1$s"</string>
     <string name="online_search_hint">Pesquisar música online</string>
     <string name="online_title">Online</string>
     <string name="other_settings">Outros</string>
     <string name="overwrite_confirm">Sobrescrever</string>
+    <string name="pay_service_guide_dowload">Qualidade do download</string>
+    <string name="pay_service_guide_listen">Qualidade do streaming</string>
+    <string name="pay_service_guide_new">Músicas em alta qualidade disponíveis agora</string>
+    <string name="payment_fail">Falha no pagamento!</string>
+    <string name="payment_success">Pagamento concluído!</string>
     <string name="play_all">Executar tudo</string>
     <string name="play_and_download">Escutar e baixar</string>
     <string name="play_and_download_summary">Baixar músicas que você já tenha escutado online. É recomendado ativar esta opção.</string>
@@ -177,6 +243,7 @@
     <string name="playlist_deleted_message">lista de reprodução excluída.</string>
     <string name="playlist_favorite">Favoritos</string>
     <string name="playlist_frequently_played">Mais ouvidos</string>
+    <string name="playlist_my_ktv">Minha KTV</string>
     <string name="playlist_recently_added">Adicionadas recentemente</string>
     <string name="playlist_recently_played">Últimos executados</string>
     <string name="playlist_renamed_message">lista de reprodução renomeada.</string>
@@ -199,11 +266,14 @@
     <string name="rename_album_menu">Renomear álbum</string>
     <string name="rename_artist_menu">Renomear artista</string>
     <string name="rename_playlist_menu">Renomear</string>
+    <string name="request_fail">Falha na solicitação!</string>
+    <string name="requesting">Solicitando...</string>
     <string name="retry">Tentar novamente</string>
     <string name="ringtone_menu">Usar como toque do telefone</string>
     <string name="ringtone_not_support">Formato de áudio não suportado para toque do telefone.</string>
     <string name="ringtone_set">\"%s\" definido como toque do telefone.</string>
     <string name="save">Salvar</string>
+    <string name="scan_barcode_to_connect">"Alinhe o código QR do console KTV no quadro para escaneamento"</string>
     <string name="scanning">Pesquisando o cartão SD…</string>
     <string name="scanning_nosdcard">Pesquisando o armazenamento USB…</string>
     <string name="screen_bright_wake">Manter tela ativa</string>
@@ -223,6 +293,7 @@
     <string name="select_quit_time">Tempo para encerrar a execução de músicas (em minutos)</string>
     <string name="send_to">Enviar</string>
     <string name="send_to_application">Enviar para outro aplicativo</string>
+    <string name="server_error">Erro no servidor!</string>
     <string name="shake_and_skip">Agitar para mudar música</string>
     <string name="shake_degree_desc">Sensibilidade</string>
     <string name="shake_degree_high">Alta</string>
@@ -238,12 +309,33 @@
     <string name="start_to_download_album">Baixando capas dos álbuns de sua biblioteca de músicas</string>
     <string name="start_to_download_avatar">Baixando avatar dos artistas de sua biblioteca de músicas</string>
     <string name="streamloadingtext">Conectando-se a %s</string>
+    <string name="synchronize_guide_toast">Para ativar a sincronização, vá para Configurações &gt; Sincronizar playlists</string>
+    <string name="synchronize_playlist_setting">Sincronizar Playlists</string>
+    <string name="synchronize_playlist_summary">Sincronizar playlists na MiCloud.</string>
+    <string name="synchronize_to_baidu_cloud">Faça o backup de suas músicas e playlists utilizando o Baidu Cloud</string>
     <string name="track_album_format" formatted="false">%s - %s</string>
+    <string name="track_bit_rate_hd">Alto</string>
+    <string name="track_bit_rate_standard">Normal</string>
+    <string name="track_bit_rate_uhd">Muito alto</string>
     <string name="track_edit">Música</string>
     <string name="track_num_format">(%s)</string>
     <string name="tracks_title">Músicas</string>
+    <string name="ultra_high_quality">Máxima Qualidade</string>
     <string name="unknown_album_name">Álbum desconhecido</string>
     <string name="unknown_artist_name">Artista desconhecido</string>
     <string name="use_local_album">Utilizar capas salvas</string>
     <string name="use_local_lyric">Utilizar letras salvas</string>
+    <string name="valid_period">"Válido de: "</string>
+    <string name="vip_bought">"Você já comprou o acesso a músicas em alta qualidade"</string>
+    <string name="vip_expired">Seu acesso a músicas em alta qualidade expirou.</string>
+    <string name="vip_rebuy">Renovar</string>
+    <string name="vip_recommend_buy">Comprar (RMB 5 por 1 mês)</string>
+    <string name="vip_recommend_exchange">Utilizar vale-presente</string>
+    <string name="vip_recommend_main_title">Qualidade de CD. Acesso ilimitado.</string>
+    <string name="vip_recommend_rebuy">A renovação do acesso por 30 dias custa 5 MiCredits</string>
+    <string name="vip_recommend_sub_title">Somente 5 RMB por mês</string>
+    <string name="vip_recommend_summary">Faça streaming ou baixe suas músicas favoritas do Baidu Music a 320 kbps.</string>
+    <string name="vip_recommend_title">Músicas em alta qualidade</string>
+    <string name="where_is_barcode">"Onde encontrar o código QR?"</string>
+    <string name="xiaomi_account_setting">Conta Xiaomi</string>
 </resources>

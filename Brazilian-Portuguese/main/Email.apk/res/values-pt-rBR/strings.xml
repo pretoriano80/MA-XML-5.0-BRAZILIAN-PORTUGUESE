@@ -12,8 +12,8 @@
     <string name="account_password_spaces_error">Essa senha inicia ou termina com um ou mais caracteres de espaço. Muitos servidores não suportam senhas com espaços.</string>
     <string name="account_security_dialog_content_fmt">%s solicita que você atualize suas configurações de segurança.</string>
     <string name="account_security_dialog_title">Atualização de segurança</string>
-    <string name="account_security_policy_explanation_fmt">O servidor %s requer a permissão de controle remoto de alguns recursos de segurança do seu telefone Android.</string>
-    <string name="account_security_title">Segurança do telefone</string>
+    <string name="account_security_policy_explanation_fmt">O servidor %s requer a permissão de controle remoto de alguns recursos de segurança do seu dispositivo Android.</string>
+    <string name="account_security_title">Segurança do dispositivo</string>
     <string name="account_security_waiting_policy_key_message">%s precisa de configurações de segurança do servidor, aguarde.</string>
     <string name="account_settings_action">Configurações da conta</string>
     <string name="account_settings_background_attachments_label">Fazer download dos anexos</string>
@@ -89,7 +89,7 @@
     <string name="account_setup_failed_certificate_required">O certificado do cliente é necessário. Conectar-se ao servidor com o certificado do cliente?</string>
     <string name="account_setup_failed_check_credentials_message">O servidor respondeu com um erro. Verifique seu nome de usuário e senha e tente novamente.</string>
     <string name="account_setup_failed_dlg_auth_message">Nome de usuário ou senha incorretos.</string>
-    <string name="account_setup_failed_dlg_auth_message_fmt">"Nome de usuário ou senha incorretos.
+    <string name="account_setup_failed_dlg_auth_message_fmt">"Nome de usuário ou senha incorretos. 
 (%s)"</string>
     <string name="account_setup_failed_dlg_certificate_message">Não é possível se conectar ao servidor com segurança.</string>
     <string name="account_setup_failed_dlg_certificate_message_fmt">"Não é possível se conectar ao servidor com segurança.
@@ -102,7 +102,7 @@
     <string name="account_setup_failed_ioerror">Não foi possível abrir a conexão com o servidor.</string>
     <string name="account_setup_failed_protocol_unsupported">Você digitou um endereço de servidor incorreto ou o servidor exige uma versão de protocolo que o e-mail não suporta.</string>
     <string name="account_setup_failed_security">Não foi possível abrir a conexão com o servidor devido a um erro de segurança.</string>
-    <string name="account_setup_failed_security_policies_unsupported">Este servidor exige recursos de segurança não suportados por seu telefone Android, incluindo: %s</string>
+    <string name="account_setup_failed_security_policies_unsupported">Este servidor exige recursos de segurança não suportados por seu dispositivo Android, incluindo: %s</string>
     <string name="account_setup_failed_tls_required">TLS solicitado, mas não suportado pelo servidor.</string>
     <string name="account_setup_incoming_delete_policy_delete_label">Quando eu excluir da Caixa de entrada</string>
     <string name="account_setup_incoming_delete_policy_label">Excluir e-mail do servidor</string>
@@ -130,7 +130,7 @@
     <string name="account_setup_names_title">Configuração da conta</string>
     <string name="account_setup_names_user_name_empty_error">Este campo não pode ficar em branco.</string>
     <string name="account_setup_names_user_name_label">Seu nome (exibido nas mensagens enviadas)</string>
-    <string name="account_setup_options_background_attachments_label">Fazer download de anexos automaticamente ao conectar ao Wi-Fi</string>
+    <string name="account_setup_options_background_attachments_label">Fazer o download de anexos automaticamente ao conectar ao Wi-Fi</string>
     <string name="account_setup_options_default_label">Enviar e-mail desta conta por padrão.</string>
     <string name="account_setup_options_headline">Opções da conta</string>
     <string name="account_setup_options_mail_check_frequency_10min">A cada 10 minutos</string>
@@ -163,13 +163,13 @@
     <string name="account_setup_outgoing_smtp_server_label">Servidor SMTP</string>
     <string name="account_setup_outgoing_title">Configuração da conta</string>
     <string name="account_setup_outgoing_username_label">Nome de usuário</string>
-    <string name="account_setup_security_policies_required_fmt">O servidor %s requer a permissão de controle remoto de alguns recursos de segurança do seu telefone Android. Deseja concluir a configuração desta conta?</string>
+    <string name="account_setup_security_policies_required_fmt">O servidor %s requer a permissão de controle remoto de alguns recursos de segurança do seu dispositivo Android. Deseja concluir a configuração desta conta?</string>
     <string name="account_setup_security_required_title">Administração de segurança remota</string>
     <string name="account_setup_username_password_toast">Digite um endereço de e-mail e senha válidos.</string>
     <string name="account_setup_username_uneditable_error">Não é possível alterar o nome de usuário de uma conta. Para adicionar uma conta com um nome de usuário diferente, toque em Adicionar conta.</string>
     <string name="account_shortcut_picker_name">Con e-mail</string>
     <string name="account_shortcut_picker_title">Escolha uma conta</string>
-    <string name="accounts_welcome">É possível configurar o e-mail para a maioria das contas em apenas algumas etapas.</string>
+    <string name="accounts_welcome">É possível configurar a maioria das contas de e-mail em apenas algumas etapas.</string>
     <string name="accounts_welcome_exchange">É possível configurar uma conta do Exchange em apenas algumas etapas.</string>
     <string name="accounts_welcome_exchange_alternate">É possível configurar uma conta do Exchange ActiveSync em apenas algumas etapas.</string>
     <string name="action_bar_mailbox_list_title">Pastas</string>
@@ -179,7 +179,7 @@
     <string name="add_quick_responses_action">Criar nova</string>
     <string name="alert_selected_all_message">" tem no mínimo %d mensagens, você deseja selecionar todas?"</string>
     <string name="alert_title_selected">Sel. todos</string>
-    <string name="app_name">Email</string>
+    <string name="app_name">E-mail</string>
     <string name="attachment_info_apk_install_disabled">Não é possível instalar os aplicativos diretamente do e-mail. Primeiro salve este aplicativo e instale-o usando o aplicativo Downloads.</string>
     <string name="attachment_info_application_settings">Config. do aplicativo</string>
     <string name="attachment_info_dialog_default_title">Informações do anexo</string>
@@ -234,7 +234,7 @@
     <string name="delete_quick_response_action">Excluir</string>
     <string name="device_admin_description">Ativa as políticas de segurança especificadas pelo servidor</string>
     <string name="device_admin_label">E-mail</string>
-    <string name="disable_admin_warning">AVISO: ao desativar a autoridade do aplicativo de e-mail para administrar seu telefone, todas as contas de e-mail vinculadas serão excluídas, assim como e-mails, contatos, eventos da agenda e outros dados.</string>
+    <string name="disable_admin_warning">AVISO: ao desativar a autoridade do aplicativo de e-mail para administrar seu dispositivo, todas as contas de e-mail vinculadas serão excluídas, assim como e-mails, contatos, eventos da agenda e outros dados.</string>
     <string name="discard_action">Descartar</string>
     <string name="done">Voltar</string>
     <string name="done_action">Concluído</string>
@@ -304,26 +304,26 @@
     <string name="message_compose_error_no_recipients">Você deve adicionar pelo menos um destinatário.</string>
     <string name="message_compose_from_label">De:</string>
     <string name="message_compose_fwd_header_fmt">"
-    
+
 -------- Mensagem Original --------
 Assunto: %1$s
 De: %2$s
 Para: %3$s
-CC: %4$s
+Cc: %4$s
 
 "</string>
     <string name="message_compose_include_quoted_text_checkbox_label">Incluir texto</string>
     <string name="message_compose_insert_quick_response_list_title">Inserir resposta rápida</string>
     <string name="message_compose_quoted_text_label">Incluir texto das mensagens anteriores</string>
     <string name="message_compose_reply_header_fmt">"
-    
+
 %s escreveu:
 
 "</string>
     <string name="message_compose_subject_hint">Assunto</string>
     <string name="message_compose_to_hint">Para</string>
     <string name="message_decode_error">Ocorreu um erro ao decodificar a mensagem.</string>
-    <string name="message_delete_dialog_title" />
+    <string name="message_delete_dialog_title"/>
     <string name="message_discarded_toast">Mensagem descartada.</string>
     <string name="message_is_empty_description">Sem assunto</string>
     <string name="message_list_load_more_messages_action">Carregar mais mensagens</string>
@@ -371,25 +371,25 @@ CC: %4$s
     <string name="message_view_status_attachment_saved">Anexo salvo como %s.</string>
     <string name="message_view_subject_label">Assunto:</string>
     <string name="message_view_to_label">Para:</string>
-    <string name="more_string">Mais %1$s...</string>
+    <string name="more_string">+%1$s</string>
     <string name="more_than_999">999+</string>
     <string name="move_action">Mover</string>
     <string name="move_to_folder_dialog_title">Mover para</string>
-    <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
+    <string name="multiple_new_message_notification_item"><b>%1$s</b> %2$s</string>
     <string name="newer_action">Recente</string>
     <string name="next_action">Próxima</string>
     <string name="notification_multiple_new_messages_fmt">%1$d novas mensagens</string>
     <string name="notification_to_account">para %1$s</string>
     <string name="okay_action">OK</string>
-    <string name="older_action">Antigo</string>
-    <string name="password_expire_warning_content_title">Senha da lockscreen expirando</string>
-    <string name="password_expire_warning_dialog_content_fmt">É necessário alterar sua senha ou PIN da lockscreen, senão os dados de %s serão apagados. Alterar agora?</string>
-    <string name="password_expire_warning_dialog_title">Senha da lockscreen expirando</string>
-    <string name="password_expire_warning_ticker_fmt">\"%s\" solicita que você altere sua senha ou PIN da lockscreen.</string>
-    <string name="password_expired_content_title">Senha da lockscreen expirada</string>
-    <string name="password_expired_dialog_content_fmt">Os dados de %s estão sendo apagados de seu telefone. Você pode restaurá-los alterando sua senha ou PIN da lockscreen. Alterar agora?</string>
-    <string name="password_expired_dialog_title">Senha da lockscreen expirada</string>
-    <string name="password_expired_ticker">Sua senha ou PIN da lockscreen expirou.</string>
+    <string name="older_action">Antiga</string>
+    <string name="password_expire_warning_content_title">Senha da tela de bloqueio expirando</string>
+    <string name="password_expire_warning_dialog_content_fmt">É necessário alterar sua senha ou PIN da tela de bloqueio, senão os dados de %s serão apagados. Alterar agora?</string>
+    <string name="password_expire_warning_dialog_title">Senha da tela de bloqueio expirando</string>
+    <string name="password_expire_warning_ticker_fmt">\"%s\" solicita que você altere sua senha ou PIN da tela de bloqueio.</string>
+    <string name="password_expired_content_title">Senha da tela de bloqueio expirada</string>
+    <string name="password_expired_dialog_content_fmt">Os dados de %s estão sendo apagados de seu dispositivo. Você pode restaurá-los alterando sua senha ou PIN da tela de bloqueio. Alterar agora?</string>
+    <string name="password_expired_dialog_title">Senha da tela de bloqueio expirada</string>
+    <string name="password_expired_ticker">Sua senha ou PIN da tela de bloqueio expirou.</string>
     <string name="permission_access_provider_desc">Permite que este aplicativo acesse o banco de dados do e-mail, incluindo mensagens recebidas e enviadas, nomes de usuário e senhas.</string>
     <string name="permission_access_provider_label">Acessar dados do provedor de e-mail</string>
     <string name="permission_read_attachment_desc">Permite que este aplicativo leia os anexos do seu e-mail.</string>
@@ -412,7 +412,7 @@ CC: %4$s
     <string name="save_action">Salvar</string>
     <string name="save_draft_action">Salvar rascunho</string>
     <string name="search_action">Pesquisa</string>
-    <string name="search_header_text_fmt">Resultados da pesquisa para \"%1$s\"</string>
+    <string name="search_header_text_fmt">Resultados</string>
     <string name="search_hint">Pesquisar e-mail</string>
     <string name="search_mailbox_hint">Pesquisar %1$s</string>
     <string name="search_slow_warning_message">Alguns servidores podem levar um longo tempo.</string>
@@ -424,7 +424,7 @@ CC: %4$s
     <string name="settings_action">Configurações</string>
     <string name="settings_activity_title">Configurações</string>
     <string name="show_quick_text_list_dialog_action">Inserir resposta rápida</string>
-    <string name="single_new_message_notification_big_text">"%1$s 
+    <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
     <string name="status_loading_messages">Carregando mensagens...</string>
     <string name="status_network_error">Problema na conexão.</string>
@@ -440,7 +440,7 @@ CC: %4$s
     <string name="widget_all_mail">Caixa de entrada mesclada</string>
     <string name="widget_loading">Carregando…</string>
     <string name="widget_no_accounts">Você ainda não configurou uma conta de e-mail.</string>
-    <string name="widget_no_mailboxes">"Sua conta não está sincronizada. Tente novamente mais tarde."</string>
+    <string name="widget_no_mailboxes">Esta conta não está sincronizada. Tente novamente mais tarde.</string>
     <string name="widget_other_views">Toque para mudar.</string>
     <string name="widget_starred">Com estrela</string>
     <string name="widget_touch_to_configure">Toque para configurar.</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="account_contact_backup_info">Dados (Conta Xiaomi, Gmail e contas de E-mail. Armazena contas e contatos em conjunto.)</string>
     <string name="account_login">Login</string>
@@ -8,12 +8,12 @@
     <string name="auto_backup">Backup automático</string>
     <string name="auto_backup_all_user_apps">Todos os aplicativos</string>
     <string name="auto_backup_choose">Backup</string>
-    <string name="auto_backup_choose_empty">Não</string>
+    <string name="auto_backup_choose_empty">Sem backups</string>
     <string name="auto_backup_choose_title">Backup automático</string>
     <string name="auto_backup_date">Frequência de backup (dias)</string>
     <string name="auto_backup_only_wifi">Usar somente em Wi-Fi</string>
     <string name="auto_backup_open">Ativar backup automático</string>
-    <string name="auto_backup_progress">Backup automático em execução...</string>
+    <string name="auto_backup_progress">Backup automático executando...</string>
     <string name="auto_backup_select_user_apps">Selecionar aplicativos</string>
     <string name="auto_backup_selected_user_apps">Aplicativos selecionados</string>
     <string name="auto_backup_setting">Configurações de backup automático</string>
@@ -23,7 +23,7 @@
     <string name="backup">Backup</string>
     <string name="backup_data">Salvar dados</string>
     <string name="backup_delete">Excluído:</string>
-    <string name="backup_empty">Nenhum backup encontrado.</string>
+    <string name="backup_empty">Nenhum backup</string>
     <string name="backup_empty_info">Efetue backup de seus dados, configurações e aplicativos facilmente.</string>
     <string name="backup_error">Erro de backup</string>
     <string name="backup_failed">Falha no backup, tente novamente</string>
@@ -37,24 +37,23 @@
     <string name="backup_recently">"(Recente)"</string>
     <string name="backup_report">Relatório do Backup</string>
     <string name="backup_update">Atualizado</string>
-    <string name="batch_delete_backup_confirm">Excluindo backup(s): %d</string>
+    <string name="batch_delete_backup_confirm">Excluir %d backup(s)?</string>
     <string name="button_abandon">Desistir</string>
     <string name="button_backup">Backup</string>
     <string name="button_cancel">Cancelar</string>
     <string name="button_continue">Continuar</string>
     <string name="button_delete">Excluir</string>
-    <string name="button_finish">Concluir</string>
+    <string name="button_finish">Concluído</string>
     <string name="button_next">Avançar</string>
     <string name="button_ok">OK</string>
     <string name="button_restore">Restaurar</string>
     <string name="button_return">Voltar</string>
-    <string name="call_title">Chamadas</string>
+    <string name="call_title">Registro de Chamadas</string>
     <string name="cancel">Cancelar</string>
-    <string name="cancel_backup">Cancelar</string>
-    <string name="cancel_restore">Cancelar</string>
+    <string name="cancel_backup">Cancelar backup</string>
+    <string name="cancel_restore">Cancelar restauração</string>
     <string name="cloud_app_backup_cancel">Cancelar backup</string>
-    <string name="cloud_app_backup_cancel_prompt_message">"Backup incompleto, pressione
- Ok para cancelar o backup"</string>
+    <string name="cloud_app_backup_cancel_prompt_message">"Backup incompleto, pressione Ok para cancelar o backup"</string>
     <string name="cloud_app_backup_cancel_prompt_title">Cancelar backup</string>
     <string name="cloud_app_backup_date">"Salvo em "</string>
     <string name="cloud_app_backup_pending">Pendente...</string>
@@ -86,8 +85,7 @@
     <string name="cloud_app_no_wifi_connect">Nenhuma rede Wi-Fi disponível</string>
     <string name="cloud_app_other_devices">Outros dispositivos</string>
     <string name="cloud_app_remove_cancel">Cancelar exclusão</string>
-    <string name="cloud_app_remove_cancel_prompt_message">"Excluindo backup incompleto, pressione OK
-para cancelar"</string>
+    <string name="cloud_app_remove_cancel_prompt_message">"Excluindo backup incompleto, pressione OK para cancelar"</string>
     <string name="cloud_app_remove_cancel_prompt_title">Cancelar exclusão</string>
     <string name="cloud_app_remove_error">Falha ao excluir!</string>
     <string name="cloud_app_remove_pending">Aguardando a exclusão...</string>
@@ -96,8 +94,7 @@ para cancelar"</string>
     <string name="cloud_app_restore_action_bar_title">%1$s de dados foram salvos</string>
     <string name="cloud_app_restore_app_and_data">Restaurar apps e dados do usuário</string>
     <string name="cloud_app_restore_cancel">Cancelar restauração</string>
-    <string name="cloud_app_restore_cancel_prompt_message">"Restauração incompleta, pressione OK
-para cancelar a restauração"</string>
+    <string name="cloud_app_restore_cancel_prompt_message">"Restauração incompleta, pressione OK para cancelar a restauração"</string>
     <string name="cloud_app_restore_cancel_prompt_title">Cancelar restauração</string>
     <string name="cloud_app_restore_data">Restaurar apps instalados anteriormente</string>
     <string name="cloud_app_restore_data_title">Restaurar dados do usuário</string>
@@ -136,7 +133,7 @@ para cancelar a restauração"</string>
     <string name="delete">Excluir</string>
     <string name="delete_backup_process">Excluindo backup(s). Por favor, aguarde.</string>
     <string name="delete_failed_backup_confirm">O arquivo de backup possui erros e não pode ser restaurado</string>
-    <string name="dir_date_format">dd-MM-yyyy-HHmmss</string>
+    <string name="dir_date_format">dd-MM-yyyy_HHmmss</string>
     <string name="disable_encrypt_title">Desativar criptografia</string>
     <string name="enable_encrypt">Ativar agora</string>
     <string name="enable_encrypt_fail">Falha ao ativar criptografia</string>
@@ -147,18 +144,21 @@ para cancelar a restauração"</string>
     <string name="enable_encrypt_title">Ativar criptografia</string>
     <string name="enable_encrypt_xiaomi_account">Este backup foi criado por %1$s, por favor exclua a conta atual, e conecte-se com a conta %2$s para restaurar os dados.</string>
     <string name="exchange_account">Alternar contas</string>
-    <string name="fail">falhou</string>
+    <string name="fail">Falha</string>
     <string name="findlost_contact">Restaurar contatos excluídos</string>
     <string name="findlost_contact_online">Restaurar contatos online</string>
     <string name="guarded_mode_dialog_message">Impossível efetuar backup ou restaurar no modo protegido</string>
     <string name="guarded_mode_dialog_title">Modo Protegido</string>
-    <string name="import_from_xiaomi_account_hint1">1.Instale o MiTalk e conecte-se.\n http://www.miliao.com\n\n3. Acesse as configurações do MiTalk e selecione "Backup de contatos para a conta Xiaomi"</string>
+    <string name="import_from_xiaomi_account_hint1">"1.Instale o MiTalk e conecte-se.
+http://www.miliao.com
+
+2. Acesse as configurações do MiTalk e selecione "Backup de contatos para a conta Xiaomi"</string>
     <string name="import_from_xiaomi_account_hint2">Nota: Vá para o próximo passo caso o backup já exista</string>
     <string name="import_from_xiaomi_account_hint_title">Utilize o MiTalk para fazer backup de contatos em outros telefones compatíveis</string>
     <string name="just_support_op_with_wifi_connected">Suportado somente em Wi-Fi</string>
     <string name="local_app_name">Backup</string>
     <string name="local_backup_window_title">Backup local</string>
-    <string name="local_home_title">Backup Local</string>
+    <string name="local_home_title">Backup local</string>
     <string name="local_no_backup">Nenhum backup local</string>
     <string name="local_restore_window_title">Restauração de dados</string>
     <string name="local_select_account_contact">Conta e Contatos</string>

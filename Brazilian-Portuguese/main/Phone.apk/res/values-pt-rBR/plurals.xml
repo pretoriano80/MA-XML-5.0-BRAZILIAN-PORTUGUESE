@@ -5,12 +5,12 @@
         <item quantity="one">Nenhuma conexão de dados durante %s minuto</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">O telefone ficará no modo de retorno de chamada de emergência durante %s minutos. Enquanto estiver nesse modo, nenhum aplicativo que use uma conexão de dados poderá ser usado. Deseja sair?</item>
-        <item quantity="one">O telefone ficará no modo de retorno de chamada de emergência durante %s minuto. Enquanto estiver nesse modo, nenhum aplicativo que use uma conexão de dados poderá ser usado. Deseja sair?</item>
+        <item quantity="other">O telefone estará no modo de retorno de chamada de emergência por %s minutos. Nesse modo, nenhum aplicativo que utiliza uma conexão de dados pode ser usado. Você deseja sair agora?</item>
+        <item quantity="one">O telefone estará no modo de retorno de chamada de emergência por %s minuto. Nesse modo, nenhum aplicativo que utiliza uma conexão de dados pode ser usado. Você deseja sair agora?</item>
     </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">A ação selecionada não está disponível no modo de retorno de chamada de emergência. O telefone ficará nesse modo durante %s minutos. Deseja sair?</item>
-        <item quantity="one">A ação selecionada não está disponível no modo de retorno de chamada de emergência. O telefone ficará nesse modo durante %s minuto. Deseja sair?</item>
+        <item quantity="other">A ação selecionada não está disponível no modo de retorno de chamada de emergência. O telefone estará nesse modo por %s minutos. Você deseja sair agora?</item>
+        <item quantity="one">A ação selecionada não está disponível no modo de retorno de chamada de emergência. O telefone estará nesse modo por %s minuto. Você deseja sair agora?</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">"%1$d contatos selecionados"</item>

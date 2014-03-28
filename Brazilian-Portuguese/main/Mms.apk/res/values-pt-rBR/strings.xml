@@ -2,7 +2,8 @@
 <resources>
     <string name="activity_not_found">Impossível abrir anexo, aplicativo não encontrado.</string>
     <string name="activity_not_found_uri">Impossível encontrar aplicativo correspondente</string>
-    <string name="addBlackList">Adic. à Blacklist</string>
+    <string name="addBlackList">Adic. à Lista Negra</string>
+    <string name="add_attachment">Anexar</string>
     <string name="add_bookmark">Favoritos</string>
     <string name="add_contact">Adicionar Contato</string>
     <string name="add_festival">Festival</string>
@@ -13,6 +14,7 @@
     <string name="add_picture">Adicionar imagem</string>
     <string name="add_private_contact">Adic. Contato Privado</string>
     <string name="add_slide">Adicionar slide</string>
+    <string name="add_slide_before">Adicionar slide (antes)</string>
     <string name="add_slide_hint">Toque para criar um novo slide.</string>
     <string name="add_smiley">Adicionar Emoticon</string>
     <string name="add_timing">Programação</string>
@@ -71,6 +73,7 @@
     <string name="confirm_restore_positive">Restaurar</string>
     <string name="confirm_restore_title">Restaurar todas as mensagens selecionadas?</string>
     <string name="context_menu_add_contact">Adicionar contato</string>
+    <string name="context_menu_add_to_browser_favorite">Adicionar aos favoritos do navegador</string>
     <string name="context_menu_browse_web">Visitar</string>
     <string name="context_menu_call">Chamar</string>
     <string name="context_menu_contact">Contato: %1$s</string>
@@ -133,12 +136,15 @@
     <string name="failed_to_add_media">Você não pode adicionar este %1$s a sua mensagem.</string>
     <string name="failed_to_resize_image">Imagem não redimensionada.</string>
     <string name="fdn_check_failure">Você só pode enviar mensagens para números de discagem fixa (FDN).</string>
+    <string name="feedback_description_hint">Por favor insira seu feedback aqui</string>
+    <string name="feedback_submit">Enviar</string>
     <string name="festival">Recomendado</string>
     <string name="festival_sms_category_count_format">(%s)</string>
     <string name="festival_sms_loading">Carregando...</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_share_message_description">Estou compartilhando arquivos com você</string>
     <string name="flatshow_page_no">Edição %1$d</string>
+    <string name="forward_from">Encaminhar de:</string>
     <string name="forward_prefix">"Enc.: "</string>
     <string name="found_old_messages">Foram encontradas SMS de outras contas em seu telefone:%1$s Deseja fazer o upload para sua conta atual %2$s?</string>
     <string name="found_old_messages_title">Upload de SMS</string>
@@ -158,6 +164,7 @@
     <string name="insufficient_drm_rights">Direitos DRM insuficientes detectados.</string>
     <string name="invalid_conversation">Conversa inválida</string>
     <string name="invalid_destination">Endereço de destino inválido.</string>
+    <string name="invalid_private_contact">Contato Privado inválido</string>
     <string name="invalid_recipient_message">Corrija os destinatários ou eles não receberão a mensagem.</string>
     <string name="kilobyte">KB</string>
     <string name="layout_selector_title">"Layout da apresentação de slides "</string>
@@ -211,12 +218,15 @@
     <string name="mx_activate_int_hint_malformed_info">Informações pessoais alteradas. Uma mensagem internacional será enviada para reativar o serviço de mensagem na nuvem. Ativar agora?</string>
     <string name="mx_activate_int_hint_server">O servidor recusou a ativação. Falha ao ativar mensagem na nuvem. Uma mensagem internacional será enviada para reativar o serviço de mensagem na nuvem. Ativar agora?</string>
     <string name="mx_activate_int_hint_sim_change">Cartão SIM foi alterado. Uma mensagem internacional será enviada para reativar o serviço de mensagem na nuvem. Ativar agora?</string>
+    <string name="mx_activate_int_popup_msg">MiMessaging permite que usuários MIUI troquem mensagens entre si sem utilizar dados móveis.</string>
+    <string name="mx_activate_popup_msg">MiMessaging permite que usuários MIUI troquem mensagens entre si sem utilizar dados móveis.</string>
     <string name="mx_activation_done">Serviço de mensagem na nuvem ativado</string>
     <string name="mx_auto_resend_mms">Enviar como MMS</string>
     <string name="mx_auto_resend_mms_summary">Enviar como MMS quando o serviço de mensagem na nuvem estiver indisponível</string>
     <string name="mx_auto_resend_sms">Enviar como SMS</string>
     <string name="mx_auto_resend_sms_summary">Enviar como SMS quando o serviço de mensagem na nuvem estiver indisponível</string>
     <string name="mx_btn_enable">Ativar</string>
+    <string name="mx_btn_enable_now">Ativar MiMessaging</string>
     <string name="mx_count_dspt">Desde sua ativação, a MIUI enviou %d mensagem(ns) na nuvem para você</string>
     <string name="mx_current_status">Status atual: Online</string>
     <string name="mx_dspt">Envie mensagens pela internet utilizando a MIUI. Desative para enviar via Operadora, em caso de falha</string>
@@ -260,7 +270,10 @@
     <string name="prefDefault_vibrate_false">never</string>
     <string name="prefDefault_vibrate_true">always</string>
     <string name="pref_advanced_settings_title">Opções avançadas</string>
+    <string name="pref_collapse_sp_messages_summary">Combinar mensagens de serviço na mesma conversa</string>
     <string name="pref_edit_smsc_address">Centro de mensagens</string>
+    <string name="pref_forward_title">Forward</string>
+    <string name="pref_key_mx_feedback">Submit feedback</string>
     <string name="pref_messages_to_save">Definir número de mensagens a serem salvas</string>
     <string name="pref_mms_settings_title">Mensagens multimídia (MMS)</string>
     <string name="pref_notification_settings_title">Notificações</string>
@@ -274,10 +287,13 @@
     <string name="pref_summary_mms_auto_retrieval">Recupera mensagens automaticamente</string>
     <string name="pref_summary_mms_read_reports">Solicita um relatório de leitura para cada mensagem enviada</string>
     <string name="pref_summary_mms_retrieval_during_roaming">Recupera mensagens automaticamente em roaming</string>
+    <string name="pref_summary_mx_feedback">"Ajude-nos a melhorar a MIUI!
+Reporte bugs e envie feedbacks diretamente para a Xiaomi.”</string>
     <string name="pref_summary_new_message_popup">Receber automaticamente uma janela pop-up com mensagens de informação</string>
     <string name="pref_summary_new_message_popup_when_secure">A janela pop-up é desativada quando o telefone for protegido por senha</string>
     <string name="pref_summary_notification_body_enabled">Visualizar mensagens na tela de bloqueio e na barra de notificação</string>
     <string name="pref_summary_notification_body_enabled_when_secure">Visualização de mensagens desabilitada quando o acesso for restrito</string>
+    <string name="pref_summary_off_system_mms_priority">Outro app poderá receber broadcasts de MMS antes do aplicativo de sistema</string>
     <string name="pref_summary_on_system_mms_priority">Aplicativos de MMS do sistema têm prioridade de broadcast</string>
     <string name="pref_summary_show_recent_contacts">Exibe uma lista de contatos recentes ao compor uma nova mensagem</string>
     <string name="pref_summary_wake_up_screen">Ligar a tela quando você receber novas informações</string>
@@ -285,9 +301,12 @@
     <string name="pref_time_auto_group_summary">Agrupar mensagens por data</string>
     <string name="pref_time_auto_group_title">Agrupar</string>
     <string name="pref_title_allow_si_sl_push">Permitir WAP Push</string>
+    <string name="pref_title_card_format">Formato de compartilhamento do cartão</string>
     <string name="pref_title_delivery_reports">Relatórios de entrega</string>
+    <string name="pref_title_fwd_sender_info">Encaminhar informações do remetente</string>
     <string name="pref_title_hide_festival">Ocultar aba recomendações</string>
     <string name="pref_title_manage_sim_messages">Gerenciar mensagens do SIM</string>
+    <string name="pref_title_miui_card">Enviar via MIUICard</string>
     <string name="pref_title_mms_auto_retrieval">Recuperação automática</string>
     <string name="pref_title_mms_delete">Limite de mens. multimídia</string>
     <string name="pref_title_mms_read_reports">Relatórios de leitura</string>
@@ -298,6 +317,7 @@
     <string name="pref_title_show_recent_contacts">Exibir contatos recentes</string>
     <string name="pref_title_sms_delete">Limite de mensagens de texto</string>
     <string name="pref_title_system_mms_priority">Prioridade de aplicativos MMS</string>
+    <string name="pref_title_vcard">Enviar via vCard</string>
     <string name="pref_title_wake_up_screen">Ligar a tela</string>
     <string name="preferences_title">Configurações</string>
     <string name="prepare_send">Preparando para enviar...</string>
@@ -318,6 +338,7 @@
     <string name="received_label">"Recebido: "</string>
     <string name="recipient_editor_count_format">%d pessoas</string>
     <string name="recipient_label">"Destinatário: "</string>
+    <string name="refill_now">Recarregar</string>
     <string name="refresh">Atualizar</string>
     <string name="refresh_failed">A atualização falhou</string>
     <string name="refreshing">Atualizando...</string>
@@ -333,12 +354,16 @@
     <string name="resize_image_error_information">Esta imagem é muito grande para ser enviada, mesmo redimensionada.</string>
     <string name="restore_all_button_msg">Restaurar todas as mensagens deste número?</string>
     <string name="restore_blocked_message">Restaurar mensagem</string>
+    <string name="restore_to_phone_memory_failed">Falha ao restaurar para a memória do telefone!</string>
+    <string name="restored_to_phone_memory">"Restaurado para a memória do telefone"</string>
     <string name="save">Salvar</string>
     <string name="save_ringtone">Salvar como toque</string>
     <string name="save_to_sim">Salvar no cartão SIM</string>
+    <string name="save_to_sim_failed">Falha ao salvar para cartão SIM! restored_to_phone_memory </string>
     <string name="saved_label">"Salvo: "</string>
     <string name="saved_ringtone">Toque salvo</string>
     <string name="saved_ringtone_fail">Não foi possível salvar o toque.</string>
+    <string name="saved_to_sim">Salvo no cartão SIM!</string>
     <string name="search">Mensagens</string>
     <string name="search_empty">Nenhum resultado correspondente.</string>
     <string name="search_hint">Pesquisar mensagens</string>
@@ -366,7 +391,11 @@
     <string name="service_network_problem">Não foi possível enviar devido a um problema de rede.</string>
     <string name="service_not_activated">Serviço não ativado na rede.</string>
     <string name="set">Definir</string>
+    <string name="set_smsc_address_title_miui">Definir número do centro de mensagens</string>
     <string name="show_all_messages">Mostrar todas as mensagens</string>
+    <string name="sim_card1">SIM 1</string>
+    <string name="sim_card2">SIM 2</string>
+    <string name="sim_card_cloud">%s (Mensagem Cloud)</string>
     <string name="sim_copy_to_phone_memory">Copiar para a memória do telefone</string>
     <string name="sim_delete">Excluir</string>
     <string name="sim_empty">Nenhuma mensagem no cartão SIM.</string>
@@ -382,6 +411,10 @@
     <string name="sms_full_title">Memória para mensagens de texto cheia</string>
     <string name="sms_rejected_body">Uma mensagem de entrada foi rejeitada devido a uma razão desconhecida.</string>
     <string name="sms_rejected_title">Mensagem de texto rejeitada</string>
+    <string name="sp_conversation_title">Mensagens de notificação</string>
+    <string name="sp_mark_as_read">Marcar todas as mensagens como lidas?</string>
+    <string name="sp_mark_as_read_progress">Marcando mensagens como lidas...</string>
+    <string name="sp_mark_as_read_title">Marcar todas como lidas</string>
     <string name="status_failed">Falha</string>
     <string name="status_label">"Status: "</string>
     <string name="status_pending">Pendente</string>
@@ -404,12 +437,17 @@
     <string name="timed_message_expired_title_2">Enviar agora?</string>
     <string name="timed_message_in_total">... (%d no total)</string>
     <string name="timed_message_to">para</string>
+    <string name="title_collapse_sp_messages">Combinar mensagens do provedor de serviços</string>
     <string name="title_date_type">Data e hora</string>
     <string name="title_timed_message_dialog">Configure a programação desta mensagem</string>
     <string name="to_address_label">"Para: "</string>
     <string name="to_count">Total de %d pessoas</string>
     <string name="to_label">"Para "</string>
     <string name="to_send_wrapper">Enviar às %s</string>
+    <string name="toast_description_required">É necessário escrever um feedback para ser enviado</string>
+    <string name="toast_feedback_finish">Seu feedback será enviado automaticamente quando você conectar-se a uma rede Wi-Fi</string>
+    <string name="toast_feedback_max">Somente três feedbacks podem ser enviados por dia</string>
+    <string name="toast_feedback_start">Enviando dados de feedback...</string>
     <string name="too_many_attachments">Há um limite de %1$s anexos. Apenas o primeiro %2$s será adicionado.</string>
     <string name="too_many_recipients">A mensagem tem muitos destinatários (%1$s). Há um limite de %2$s destinatários.</string>
     <string name="too_many_unsent_mms">Não é possível enviar a mensagem no momento. Há muitas mensagens multimídia não enviadas.</string>
@@ -419,6 +457,7 @@
     <string name="type_picture">imagem</string>
     <string name="type_to_compose_text_enter_to_send">Digitar mensagem</string>
     <string name="type_to_compose_text_or_leave_blank">Digite a mensagem ou deixe em branco</string>
+    <string name="type_vcard">vCard</string>
     <string name="type_video">vídeo</string>
     <string name="undelivered_msg_dialog_body">"Não foi possível enviar esta mensagem. Tentativa: %s."</string>
     <string name="undelivered_msg_dialog_title">Mensagem não entregue</string>

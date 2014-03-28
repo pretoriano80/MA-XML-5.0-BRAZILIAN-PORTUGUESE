@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Serviço Nfc</string>
-    <string name="nfcUserLabel">NFC</string>
+    <string name="nfcUserLabel">Nfc</string>
     <string name="inbound_me_profile_title">Contato recebido por NFC</string>
-    <string name="inbound_me_profile_text">Toque para adicionar esta pessoa como contato.</string>
-    <string name="outbound_me_profile_title">Interação NFC concluída</string>
-    <string name="outbound_me_profile_text">Toque para dar a esta pessoa suas informações de contato.</string>
-    <string name="accessibility_nfc_enabled">NFC ativo.</string>
+    <string name="inbound_me_profile_text">Toque para adicionar essa pessoa como um contato.</string>
+    <string name="outbound_me_profile_title">Interação de NFC completa</string>
+    <string name="outbound_me_profile_text">Toque para fornecer suas informações de contato para essa pessoa</string>
+    <string name="accessibility_nfc_enabled">NFC habilitado.</string>
     <string name="touch">Toque para enviar</string>
-    <string name="beam_progress">Recebendo Beam...</string>
-    <string name="beam_complete">Beam concluído</string>
-    <string name="beam_failed">Falha no Beam</string>
-    <string name="beam_canceled">Beam cancelado</string>
+    <string name="beam_progress">Beam chegando...</string>
+    <string name="beam_complete">Envio concluído</string>
+    <string name="beam_failed">O envio não foi concluído</string>
+    <string name="beam_canceled">Envio cancelado</string>
     <string name="cancel">Cancelar</string>
     <string name="beam_touch_to_view">Toque para visualizar</string>
-    <string name="beam_handover_not_supported">O dispositivo de destine não suporta transferência de arquivos grandes via beam.</string>
+    <string name="beam_handover_not_supported">O dispositivo receptor não suporta a transferência de arquivos grandes por meio do Android Beam.</string>
     <string name="connecting_headset">Conectando</string>
     <string name="connected_headset">Conectado</string>
-    <string name="connect_headset_failed">Falha ao conectar</string>
+    <string name="connect_headset_failed">Não foi possível conectar</string>
     <string name="disconnecting_headset">Desconectando</string>
     <string name="disconnected_headset">Desconectado</string>
     <string name="pairing_headset">Pareando</string>
-    <string name="pairing_headset_failed">Falha ao parear</string>
-    <string name="failed_to_enable_bt">Falha ao ativar Bluetooth</string>
-    <string name="confirm_pairing">Você deseja realmente efetuar o pareamento com o dispositivo bluetooth %1$s?</string>
+    <string name="pairing_headset_failed">Não foi possível parear</string>
+    <string name="failed_to_enable_bt">Não foi possível ativar o Bluetooth</string>
+    <string name="confirm_pairing">Tem certeza de que deseja parear o dispositivo Bluetooth %1$s?</string>
     <string name="pair_yes">Sim</string>
     <string name="pair_no">Não</string>
 </resources>

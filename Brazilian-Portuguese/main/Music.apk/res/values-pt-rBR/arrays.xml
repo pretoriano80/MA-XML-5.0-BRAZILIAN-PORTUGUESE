@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="equalizer_presents">
-        <item>Normal</item>
-        <item>Clássico</item>
-        <item>Dance</item>
-        <item>Folk</item>
-        <item>Heavy Metal</item>
-        <item>Hip-Hop</item>
-        <item>Jazz</item>
-        <item>Pop</item>
-        <item>Rock</item>
-    </string-array>
-    <string-array name="weeklist">
-        <item>1 semana</item>
-        <item>2 semanas</item>
-        <item>3 semanas</item>
-        <item>4 semanas</item>
-        <item>5 semanas</item>
-        <item>6 semanas</item>
-        <item>7 semanas</item>
-        <item>8 semanas</item>
-        <item>9 semanas</item>
-        <item>10 semanas</item>
-        <item>11 semanas</item>
-        <item>12 semanas</item>
-    </string-array>
     <string-array name="alphabet_table">
-        <item>\#</item>
+        <item>" "</item>
         <item>A</item>
         <item>B</item>
         <item>C</item>
@@ -54,8 +29,29 @@
         <item>Y</item>
         <item>Z</item>
     </string-array>
-    <plurals name="Nsearch_results">
-        <item quantity="other">%d resultados</item>
-        <item quantity="one">%d resultado</item>
-    </plurals>
+    <string-array name="equalizer_presents">
+        <item>Normal</item>
+        <item>Clássico</item>
+        <item>Dance</item>
+        <item>Folk</item>
+        <item>Heavy metal</item>
+        <item>Hip hop</item>
+        <item>Jazz</item>
+        <item>Pop</item>
+        <item>Rock</item>
+    </string-array>
+    <string-array name="weeklist">
+        <item>1 semana</item>
+        <item>2 semanas</item>
+        <item>3 semanas</item>
+        <item>4 semanas</item>
+        <item>5 semanas</item>
+        <item>6 semanas</item>
+        <item>7 semanas</item>
+        <item>8 semanas</item>
+        <item>9 semanas</item>
+        <item>10 semanas</item>
+        <item>11 semanas</item>
+        <item>12 semanas</item>
+    </string-array>
 </resources>

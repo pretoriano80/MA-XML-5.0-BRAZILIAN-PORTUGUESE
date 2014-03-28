@@ -9,7 +9,7 @@
     <string name="confirm_radio_msg_single">O modo avião está ativado. Deseja desativá-lo?</string>
     <string name="confirm_pin_title">Bloqueio do SIM</string>
     <string name="confirm_pin_msg">O cartão SIM selecionado está bloqueado. É necessário desbloqueá-lo.</string>
-    <string name="confirm_simmelock_title">Cartão SIM bloqueado</string>
+    <string name="confrim_simmelock_title">Cartão SIM bloqueado</string>
     <string name="confirm_simmelock_msg">O cartão SIM selecionado está bloqueado. É necessário desbloqueá-lo.</string>
     <string name="confirm_fdn_title">FDN habilitado</string>
     <string name="confirm_fdn_msg">O serviço de discagem fixa está ativado</string>

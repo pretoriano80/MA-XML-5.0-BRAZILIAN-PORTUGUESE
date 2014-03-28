@@ -24,6 +24,7 @@
     <string name="duration_format_second">%ss</string>
     <string name="error_app_internal">Erro interno do aplicativo, tente executá-lo novamente ou reinicie o aparelho.</string>
     <string name="error_app_internal_title">Erro interno do aplicativo</string>
+    <string name="error_filename_illegal_char">O nome do arquivo contém caracteres ilegais.</string>
     <string name="error_filename_too_long">Nome muito longo</string>
     <string name="error_mediadb_new_record">Impossível salvar áudio gravado</string>
     <string name="error_sdcard_access">Impossível acessar cartão SD</string>
@@ -48,14 +49,15 @@
     <string name="overwrite_dialog_message">%s já existe, você deseja sobrescrevê-lo?</string>
     <string name="pause">Pausar</string>
     <string name="play_record">Reprudozir</string>
-    <string name="preference_led_indicator">Gravar com a tela bloqueada</string>
-    <string name="preference_led_indicator_prompt">Durante uma gravação, exibe atividade na barra de notificações e no LED do aparelho.</string>
-    <string name="preference_record_scenes_dialog_title">Selecione um cenário de gravação</string>
-    <string name="preference_record_type_dialog_title">Selecione um tipo de gravação</string>
+    <string name="preference_enable_earpiece_summary">Utilizar fone receptor como entrada de reprodução</string>
+    <string name="preference_enable_earpiece_title">Utilizar receptor para tocar áudio</string>
+    <string name="preference_led_indicator">Indicador de gravação com a tela bloqueada</string>
+    <string name="preference_led_indicator_prompt">Exibir notificação por LED e na barra de status quando estiver gravando e a tela bloqueada</string>
+    <string name="preference_record_scenes_dialog_title">Selecionar uma cena para gravação</string>
+    <string name="preference_record_type_dialog_title">Selecionar tipo de gravação</string>
     <string name="preference_record_type_title">Tipo de gravação</string>
-    <string name="preference_scenes">Cenários de gravação</string>
-    <string name="preference_silent_mode">Silenciar toque durante gravação.</string>
-    <string name="preference_silent_mode_summary">Selecione para definir operações de gravação silenciosas</string>
+    <string name="preference_scenes">Configuração de cenas</string>
+    <string name="preference_silent_mode">Gravação em modo silencioso</string>
     <string name="record_list">Lista de Gravações</string>
     <string name="record_loading">Carregando gravação, aguarde.</string>
     <string name="record_name_hour">.</string>
@@ -81,6 +83,7 @@
     <string name="storage_is_full">Armazenamento cheio</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
     <string name="toast_max_record_time">App:%1$s suporte máximo de %2$s anexos de gravação</string>
+    <string name="toast_uninstall_fileexplorer">"O app Mi-Explorer não está instalado"</string>
     <string name="unknown_caller">Número desconhecido</string>
     <string name="view_list_of_recordings">Lista de gravações</string>
 </resources>

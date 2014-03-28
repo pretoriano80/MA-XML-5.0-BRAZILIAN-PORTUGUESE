@@ -5,7 +5,7 @@
     <string name="active_xiaomi_account_msg">"Por favor acesse o fórum MIUI para ativar sua conta Xiaomi: "</string>
     <string name="active_xiaomi_account_title">Ativar conta Xiaomi</string>
     <string name="app_name">Atualizador</string>
-    <string name="apply_buddy_update_info_message">Clique em "Atualizar", o telefone irá iniciar a atualização. É recomendado que se faça um backup dos seus dados antes de iniciar este processo.</string>
+    <string name="apply_buddy_update_info_message">Ao selecionar "Atualizar", o telefone irá iniciar a atualização. É recomendado que se faça um backup dos seus dados antes de iniciar este processo.</string>
     <string name="apply_existing_update_md5error_title">MD5 inválido.</string>
     <string name="apply_later_button_text">Atualizar depois</string>
     <string name="apply_now_button_text">Atualizar</string>
@@ -55,16 +55,19 @@
     <string name="file_not_found_error_message">O arquivo não existe ou não pôde ser acessado, efetue o download novamente</string>
     <string name="finish">Concluir</string>
     <string name="finish_download">Download concluído</string>
+    <string name="fourgrid_hint_text">Obrigado por utilizar a versão de desenvolvimento da MIUI. Por favor, diga-nos o que você achou da ROM e ajude-nos a melhorar o sistema ainda mais!</string>
+    <string name="fourgrid_no_notificaiont">"Não exibir na barra de status"</string>
+    <string name="fourgrid_notificaiont">Exibir na barra de status</string>
     <string name="get_update_error">Falha ao obter informação de atualização</string>
     <string name="install_email">Instalar app de E-Mail</string>
     <string name="install_file_explorer">Por favor instale o Gerenciador de Arquivos</string>
     <string name="install_qq">Instalar o Tencent Weibo</string>
     <string name="install_rom_from_sd">Selecionar ROM para instalação</string>
-    <string name="install_sina">Instalar Sina app</string>
     <string name="install_whole_rom">Nós recomendamos que você faça download e instale o pacote de atualização completo</string>
     <string name="internal_build">Build Interna</string>
     <string name="kernel_upgrade_link" />
     <string name="kernel_upgrade_version" />
+    <string name="later">Reiniciar depois</string>
     <string name="loading">Conectando à MIUI...</string>
     <string name="md5_check_cancelled">Verificação de MD5 cancelada</string>
     <string name="mione_update_fail_description">Aplicar novamente</string>
@@ -93,6 +96,7 @@
     <string name="no_updates_warning">Nenhuma atualização encontrada!</string>
     <string name="no_updates_warning2">Nenhuma atualização encontrada, você será notificado quando existir uma nova atualização</string>
     <string name="not_recommend">Não Recomendar</string>
+    <string name="now">Reiniciar</string>
     <string name="paused_queued_for_network">Aguardando conexão de rede</string>
     <string name="paused_queued_for_wifi">Aguardando conexão de rede Wi-Fi</string>
     <string name="previous">Voltar</string>
@@ -117,12 +121,9 @@
     <string name="share_update_content_unsign">Eu atualizei a MIUI para %s! Para ver o changelog detalhado, por favor visite http://www.miui.com</string>
     <string name="sign_in_add_account">Por favor ative sua conta Xiaomi</string>
     <string name="sign_in_add_account_helper">Seu telefone não está conectado à uma conta MIUI, faça o login para obter pontos após a atualização</string>
-    <string name="sign_in_info">"Esta atualização tem uma popularidade de %1$s 
-%2$s pessoas já baixaram a versão %3$s"</string>
-    <string name="sign_in_info_rank_more">"Seu ranking de envios está depois de %1$s 
-Mais de %2$s já se conectaram à MIUI %3$s"</string>
-    <string name="sign_in_info_total_more">"Seu ranking de envios é %1$s 
-%2$s usuários já se conectaram à MIUI %3$s"</string>
+    <string name="sign_in_info">"Seu ranking neste update é %1$s. %2$s pessoas já baixaram a versão %3$s"</string>
+    <string name="sign_in_info_rank_more">"Seu ranking neste update é após %1$s. Mais de %2$s já se conectaram à MIUI %3$s"</string>
+    <string name="sign_in_info_total_more">"Seu ranking é %1$s. Mais de %2$s usuários já se conectaram à MIUI %3$s"</string>
     <string name="sina_share_fail">Falha no envio!</string>
     <string name="sina_share_pendding">Enviando...</string>
     <string name="sina_share_success">Enviado com sucesso!</string>
@@ -156,10 +157,10 @@ Mais de %2$s já se conectaram à MIUI %3$s"</string>
     <string name="update_success">Parabéns, atualizado com sucesso!</string>
     <string name="update_success_body">Você atualizou com sucesso para</string>
     <string name="update_success_title">Parabéns!</string>
+    <string name="updater_finish_download">Download da ROM finalizado</string>
     <string name="upgrade_close">Fechar</string>
     <string name="upgrade_kernel">Versão do kernel atual precisa ser atualizado</string>
-    <string name="upgrade_kernel_msg">"Versão do kernel atual não coincide com a ROM MIUI. Você precisa atualizar o kernel manualmente. Por favor, consulte o tutorial de atualização:
-"</string>
+    <string name="upgrade_kernel_msg">"Versão do kernel atual não coincide com a ROM MIUI. Você precisa atualizar o kernel manualmente. Por favor, consulte o tutorial de atualização:"</string>
     <string name="verify_and_apply_dialog_message">Verificando MD5 do arquivo...</string>
     <string name="verify_and_apply_dialog_title">Verificar integridade</string>
     <string name="view_install_log">Ver log</string>

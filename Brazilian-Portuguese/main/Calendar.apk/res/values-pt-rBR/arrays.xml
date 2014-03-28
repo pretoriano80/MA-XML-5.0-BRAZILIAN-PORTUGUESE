@@ -45,7 +45,7 @@
         <item>Uma semana</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Padrão Regional</item>
+        <item>Localidade padrão</item>
         <item>Sábado</item>
         <item>Domingo</item>
         <item>Segunda-feira</item>
@@ -146,10 +146,10 @@
         <item>Público</item>
     </string-array>
     <string-array name="ordinal_labels">
-        <item>primeiro</item>
-        <item>segundo</item>
-        <item>terceiro</item>
-        <item>quarto</item>
+        <item>primeiro(a)</item>
+        <item>segundo(a)</item>
+        <item>terceiro(a)</item>
+        <item>quarto(a)</item>
         <item>último</item>
     </string-array>
     <string-array name="response_labels1">
@@ -178,14 +178,18 @@
         <item>Compromissos</item>
     </string-array>
     <string-array name="quick_response_defaults">
-        <item>Estarei alguns minutos atrasado.</item>
-        <item>Estarei aí em dez minutos.</item>
-        <item>Comece sem mim.</item>
-        <item>"Desculpe, não poderei ir. Teremos que remarcar."</item>
+        <item>Chegarei c/ alguns mins. de atraso.</item>
+        <item>Chegarei em cerca de 10 minutos.</item>
+        <item>Vá em frente e comece sem mim.</item>
+        <item>Desculpe, não chegarei. Precisaremos remarcar.</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Sempre</item>
         <item>Modo Silencioso</item>
         <item>Nunca</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Fundo preto transparente</item>
+        <item>Fundo branco</item>
     </string-array>
 </resources>

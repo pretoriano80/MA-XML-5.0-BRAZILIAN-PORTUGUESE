@@ -28,6 +28,8 @@
     <string name="menu_settings">Configurações de pesquisa</string>
     <string name="remove_from_history">Remover do histórico de pesquisa</string>
     <string name="remove_from_history_failed">"Falha ao remover item do histórico"</string>
+    <string name="search_in_app_store">Pesquisar no market</string>
+    <string name="search_in_web">Pesquisar na web</string>
     <string name="search_settings">Configurações de pesquisa</string>
     <string name="search_sources">Itens pesquisáveis</string>
     <string name="search_sources_summary">Escolha o que pesquisar no telefone</string>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="about">Sobre</string>
+    <string name="adjust_module_miss">O módulo de uso de dados está faltando</string>
     <string name="adjust_no_network_update_data_fail">Falha na atualização dos dados. Por favor, tente novamente após verificar as configurações de rede.</string>
     <string name="adjust_traffic_auto_adjust_hint">O Sistema solicita à operadora e ajusta os dados regularmente. É necessário configurar informações da operadora</string>
     <string name="adjust_traffic_auto_adjust_open_hint">O ajuste automático está ativado e irá ajustar regularmente o uso de dados</string>
@@ -94,6 +95,11 @@
     <string name="mobile_traffic">2G/3G: %s</string>
     <string name="mobile_type">2G/3G</string>
     <string name="month_traffic_settings_title">Configurações de limite mensal</string>
+    <string name="network_control_service_notification_text">Abrir controle de rede</string>
+    <string name="network_control_service_notification_title_mutiple">%1$d apps foram proibidos de efetuar conexão %2$s</string>
+    <string name="network_control_service_notification_title_nettype_mobile">dados móveis</string>
+    <string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
+    <string name="network_control_service_notification_title_single">%1$s foi proibido de efetuar conexão %2$s</string>
     <string name="notify_carrier_settings_title">Você não configurou o seu provedor de serviços. Configurar agora?</string>
     <string name="notify_traffic_settings_cancel_hint">As notificações e o monitoramento do uso de dados serão desativados. Sair agora?</string>
     <string name="notify_traffic_settings_title">Você não configurou seu plano de dados. Configurar agora?</string>
@@ -103,12 +109,14 @@
     <string name="plate_traffic_already_used">Utilizado</string>
     <string name="plate_traffic_exceed">Excedido</string>
     <string name="plate_traffic_remain">Restante</string>
-    <string name="powered_by">Suporte técnico oferecido por WALL-E</string>
+    <string name="powered_by">Suporte técnico oferecido por MIUI.com</string>
     <string name="pref_category_adjust_traffic">Ajustes no uso de dados</string>
     <string name="pref_connect_settings_enable_backgroung">Permitir conexão em 2o. plano</string>
     <string name="pref_connect_settings_enable_backgroung_hint">Permitir conexão automática à rede quando o programa estiver executando em segundo plano</string>
     <string name="pref_connect_settings_exceed_limit">Desconectar da Internet</string>
     <string name="pref_connect_settings_exceed_limit_hint">Mostrar aviso quando o pacote de dados atingir o limite e desativar os dados móveis</string>
+    <string name="pref_connect_settings_monitor_running_app">Exibir aviso de bloqueio</string>
+    <string name="pref_connect_settings_monitor_running_app_summary">Exibir notificação quando um aplicativo com bloqueio de rede for executado</string>
     <string name="pref_connect_settings_notify_in_statusbar">Exibir na tela de notificações</string>
     <string name="pref_connect_settings_title">Configurações de monitoramento de rede</string>
     <string name="pref_network_speed_internal_title">Intervalo de atualização</string>
@@ -120,6 +128,7 @@
     <string name="pref_traffic_settings">Config. de pacote de dados</string>
     <string name="process_kernel_label">Sistema Android</string>
     <string name="retry">Tentar novamente</string>
+    <string name="running_apps_activity_title">Apps em execução</string>
     <string name="save">Salvar</string>
     <string name="settings_page_adjust_summary_no_carrier">Operadora não definida，ajuste automático desativado</string>
     <string name="settings_page_traffic_summary">Disponível: %1$s, Lembrete: %2$s, Data Inicial: %3$d</string>
@@ -142,6 +151,7 @@
     <string name="text_day" />
     <string name="text_done">Concluído</string>
     <string name="text_save">Salvar</string>
+    <string name="traffic_bought">Tráfego adquirido</string>
     <string name="traffic_none">Nenhum</string>
     <string name="traffic_remain">Restando</string>
     <string name="traffic_settings_error">Existe um erro em suas configurações de uso mensal de dados. De acordo com suas configurações e o SMS da operadora, o pacote de dados mensal é de %1$s, com %2$s restante.</string>

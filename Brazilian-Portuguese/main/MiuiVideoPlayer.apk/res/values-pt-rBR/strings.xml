@@ -10,13 +10,19 @@
     <string name="adjust_position_prev_media_notice">Anterior</string>
     <string name="airkan_control_device_des">Você pode controlar a reprodução do vídeo com os botões do rodapé da tela</string>
     <string name="airkan_device_xiaomi_phone">Xiaomi</string>
+    <string name="airkan_video_playing"/>
     <string name="airkan_video_playing_in">vídeo executando em</string>
     <string name="app_name">Video</string>
     <string name="buffering">Armazenando em buffer...</string>
     <string name="buffering_video_netplay_label_v5">Buffer de vídeo</string>
+    <string name="episode_prefix">"episódio "</string>
     <string name="loading_video_netplay_label">Carregando, aguarde...</string>
     <string name="loading_video_netplay_label_v5">Carregando, aguarde...</string>
     <string name="menu_item_about_label">Sobre</string>
+    <string name="menu_item_disable_3d_mode">Desativar 3D</string>
+    <string name="menu_item_disable_audio_enhance">Desativar melhoria de áudio</string>
+    <string name="menu_item_enable_3d_mode">Ativar 3D</string>
+    <string name="menu_item_enable_audio_enhance">Ativar melhoria de áudio</string>
     <string name="menu_item_hide_media_info_label">Ocultar informações</string>
     <string name="menu_item_media_info_label">Mostrar informações</string>
     <string name="menu_item_orientation_auto_sensor_action">Ativar Rotação</string>
@@ -41,6 +47,7 @@
     <string name="toast_message_continue_play_hour">h </string>
     <string name="toast_message_continue_play_minute">m </string>
     <string name="toast_message_continue_play_second_and_play">s</string>
+    <string name="toast_message_set_misound">Configurar MiSound</string>
     <string name="top_status_local_media">Local</string>
     <string name="top_status_online_media">Online</string>
     <string name="video_info_audio_bitrate_label">Taxa de bits:</string>
