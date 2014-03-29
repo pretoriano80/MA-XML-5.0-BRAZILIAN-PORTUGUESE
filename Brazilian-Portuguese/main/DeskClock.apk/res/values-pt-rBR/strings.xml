@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_alarm">Adicionar Alarme</string>
     <string name="alarm_alert">Toque regular</string>
@@ -26,6 +26,7 @@
     <string name="auto_silence_never">Off</string>
     <string name="auto_silence_summary">O alarme irá silenciar após %d minutos</string>
     <string name="auto_silence_title">Silenciar</string>
+    <string name="battery_charging_level">%d%%</string>
     <string name="cancel">Cancelar</string>
     <string name="close_alarm">Desligar alarme</string>
     <string name="common_settings">Ajustes comuns</string>
@@ -45,6 +46,7 @@
     <string name="delete_timezone_title">Excluir fuso horário</string>
     <string name="dialog_confirm_abort">Deseja descartar as alterações?</string>
     <string name="done">Concluído</string>
+    <string name="elapsed_time_format">+%s</string>
     <string name="every_day">Todos os dias</string>
     <string name="full_wday_month_day_no_year">"EEEE, d 'de' MMMM"</string>
     <string name="hour">1 hora</string>

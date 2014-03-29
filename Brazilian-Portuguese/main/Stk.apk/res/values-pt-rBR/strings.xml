@@ -2,7 +2,6 @@
 <resources>
     <string name="alphabet">Alfabeto</string>
     <string name="app_name">Cartão SIM</string>
-    <string name="app_name2">Cartão SIM 2</string>
     <string name="button_cancel">Cancelar</string>
     <string name="button_no">Não</string>
     <string name="button_ok">OK</string>
@@ -12,7 +11,6 @@
     <string name="default_open_channel_msg">Abrir canal?</string>
     <string name="default_receive_data_msg">Recebendo dados</string>
     <string name="default_send_data_msg">Enviando dados</string>
-    <string name="default_setup_call_msg">Configurando chamada</string>
     <string name="digits">Dígitos (0 a 9, *, #, +)</string>
     <string name="disable_app">Desativado</string>
     <string name="enable_app">Ativado</string>

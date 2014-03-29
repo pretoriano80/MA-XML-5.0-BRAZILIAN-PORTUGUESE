@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Parse_error_dlg_text">Há um problema com a análise do pacote.</string>
     <string name="Parse_error_dlg_title">Erro de análise</string>
-    <string name="allow_source_dlg_text">"%1$s quer instalar outros aplicativos. Permitir agora e no futuro?"</string>
+    <string name="allow_source_dlg_text">"%1$s quer instalar outros aplicativos.
+    
+Permitir agora e no futuro?"</string>
     <string name="allow_source_dlg_title">Permitir novas fontes de aplicativos?</string>
     <string name="app_name">Instalador de pacote</string>
     <string name="app_not_found_dlg_text">O aplicativo não foi encontrado na lista de aplicativos instalados.</string>
@@ -10,11 +12,16 @@
     <string name="auto_startup_dialog_msg">"A MIUI irá permitir que este App inicie automaticamente sem a permissão do usuário. Esta configuração pode resultar em aumento de consumo de dados móveis e bateria. Permitir início automático?"</string>
     <string name="caller_app">Origem:%1$s</string>
     <string name="cancel">Cancelar</string>
-    <string name="dlg_app_replacement_statement">"O aplicativo que você está instalando substituirá outro aplicativo. Todos os dados de usuário anteriores serão salvos."</string>
-    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) substituirá a versão instalada atualmente (%3$s). Os dados do usuário serão preservados. Deseja instalar?"</string>
+    <string name="dlg_app_replacement_statement">"O aplicativo que você está instalando substituirá outro aplicativo. 
+    
+Todos os dados de usuário anteriores serão salvos."</string>
+    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) substituirá a versão instalada atualmente (%3$s). Os dados do usuário serão preservados. 
+Deseja instalar?"</string>
     <string name="dlg_app_replacement_title">Substituir aplicativo</string>
     <string name="dlg_ok">OK</string>
-    <string name="dlg_sys_app_replacement_statement">"Este é um aplicativo do sistema. Ainda deseja substituí-lo? Todos os dados de usuário anteriores serão salvos."</string>
+    <string name="dlg_sys_app_replacement_statement">"Este é um aplicativo do sistema. Ainda deseja substituí-lo? 
+    
+Todos os dados de usuário anteriores serão salvos."</string>
     <string name="done">Concluído</string>
     <string name="high_risk_perms">Permissões de alto risco</string>
     <string name="install">Instalar</string>
@@ -70,7 +77,9 @@
     <string name="uninstall_update_title">Desinstalar atualização</string>
     <string name="uninstalling">Desinstalando...</string>
     <string name="unknown">Desconhecido</string>
-    <string name="unknown_apps_dlg_text">"Por segurança, o seu telefone está configurado para bloquear a instalação de aplicativos que não foram obtidos a partir do Android Market. Você pode alterar este bloqueio acessando o menu de Configurações->Segurança->Fontes desconhecidas."</string>
+    <string name="unknown_apps_dlg_text">"Por segurança, o seu telefone está configurado para bloquear a instalação de aplicativos que não foram obtidos a partir do Android Market. 
+    
+Você pode alterar este bloqueio acessando o menu de Configurações->Segurança->Fontes desconhecidas."</string>
     <string name="unknown_apps_dlg_title">Instalação bloqueada</string>
     <string name="unknown_installer">Instalador desconhecido</string>
     <string name="virus_scan_clear">Remover</string>

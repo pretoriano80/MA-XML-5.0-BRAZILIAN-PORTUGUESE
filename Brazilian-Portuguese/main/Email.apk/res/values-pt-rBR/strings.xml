@@ -194,6 +194,7 @@
     <string name="attachment_not_found">Não foi possível fazer download do anexo.</string>
     <string name="bcc">Cco</string>
     <string name="body_hint">Escrever e-mail</string>
+    <string name="build_number">20080722-0001</string>
     <string name="cancel_action">Cancelar</string>
     <string name="cannot_move_multiple_accounts_toast">Não é possível mover porque a seleção contém várias contas.</string>
     <string name="cannot_move_protocol_not_supported_toast">A ação Mover não é suportada em contas POP3.</string>
@@ -284,7 +285,7 @@
     <string name="mailbox_name_display_unread">Não lido</string>
     <string name="mailbox_name_server_drafts">Drafts</string>
     <string name="mailbox_name_server_inbox">Inbox</string>
-    <string name="mailbox_name_server_junk">Junk</string>
+    <string name="mailbox_name_server_junk">Spam</string>
     <string name="mailbox_name_server_outbox">Outbox</string>
     <string name="mailbox_name_server_sent">Sent</string>
     <string name="mailbox_name_server_trash">Trash</string>

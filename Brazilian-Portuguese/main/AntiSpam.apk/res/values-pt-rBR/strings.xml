@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Anti-Spam</string>
+    <string name="app_name">Lista de Bloqueio</string>
     <string name="bl_block_info" formatted="false">Bloqueado: %d chamadas | %d mensagens</string>
     <string name="bl_no_blacklist">Nenhum número bloqueado</string>
     <string name="bl_no_block_call">Nenhuma chamada bloqueada</string>

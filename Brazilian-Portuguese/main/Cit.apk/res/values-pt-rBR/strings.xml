@@ -11,13 +11,29 @@
     <string name="cit_accelermeter_sensor_check_summary">"Mova rápido em uma direção, o telefone irá mostrar valores X, Y e Z 
 (Nota: a direita do telefone representa X, a frente Y e o topo Z)"</string>
     <string name="cit_accelermeter_sensor_check_title">Teste do sensor de aceleração</string>
-    <string name="cit_audio_loopback_check_one_title">Microfone do aparelho para testar o loop principal</string>
-    <string name="cit_audio_loopback_check_summary_first">"Teste do microfone principal.
+    <string name="cit_audio_lb_backmic_to_speaker_title">Teste do microfone traseiro</string>
+    <string name="cit_audio_lb_mainmic_to_earpiece_title">Teste do microfone principal</string>
+    <string name="cit_audio_lb_phonecall_title">Simulação de chamada</string>
+    <string name="cit_audio_lb_summary_backmic_to_speaker">"Back microphone to speaker feedback test. 
 
-Fale normalmente e irá ouvir sua voz pelo alto-falante"</string>
-    <string name="cit_audio_loopback_check_summary_second">"Teste do som do microfone no alto-falante.
+Turn the phone, Speak to back microphone , you should hear voice in speaker"</string>
+    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Main microphone to receiver feedback test.
 
-Vire o telefone e ponha o microfone perto de sua boca. O alto-falante irá emitir um som"</string>
+Hold the phone as if you are making a call, speak to main microphone, you should hear voice from reveiver"</string>
+    <string name="cit_audio_lb_summary_phonecall">"Simulation call test.
+
+Hold the phone as if you are making a call, Speak to main microphone, you should hear voice in the receiver. do the test in silent environment"</string>
+    <string name="cit_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test.
+
+ Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
+    <string name="cit_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
+    <string name="cit_audio_loopback_check_one_title">Main microphone receiver feedback test</string>
+    <string name="cit_audio_loopback_check_summary_first">"Main microphone receiver feedback test
+
+Hold the phone as if you are making a call, speak into the microphone and should hear your voice in the receiver."</string>
+    <string name="cit_audio_loopback_check_summary_second">"Secondary microphone speaker feedback test.
+
+Turn the phone so that the headphone input is facing downward. Speak into the receiver. You should hear your voice played through the external speaker."</string>
     <string name="cit_audio_loopback_check_two_title">testa o feedback entre o microfone e o alto-falante</string>
     <string name="cit_audio_loopback_dualmic_earpiece_title">Teste de chamada</string>
     <string name="cit_audio_loopback_next">Próximo</string>
@@ -189,9 +205,15 @@ Colocado arquivo no diretório raiz, toque para reproduzir"</string>
     <string name="cit_stop_calibration">Fim da calibração</string>
     <string name="cit_tool">Acessibilidade</string>
     <string name="cit_tool_bluetooth">Ferramentas de teste de Bluetooth</string>
+    <string name="cit_tool_bluetooth_dut">Enter bluetooth test mode</string>
+    <string name="cit_tool_bluetooth_le_tx_h">Enter bluetooth low-power dissipation (2.480GHz) mode</string>
+    <string name="cit_tool_bluetooth_le_tx_l">Enter bluetooth low-power dissipation (2.402GHz) mode</string>
     <string name="cit_tool_bluetooth_mode">Entrar no modo de teste Bluetooth</string>
+    <string name="cit_tool_bluetooth_not_on">BlueTooth function is not on !!</string>
     <string name="cit_tool_bluetooth_off">Desligue o Bluetooth</string>
     <string name="cit_tool_bluetooth_on">Ativar o Bluetooth</string>
+    <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test（2.480GHz) mode</string>
+    <string name="cit_tool_bluetooth_tx_l">Enter bluetooth single sound test（2.402GHz）mode</string>
     <string name="cit_tool_log">Ferramenta de Log</string>
     <string name="cit_tool_log_bugreport">Bug report</string>
     <string name="cit_tool_log_dmesg">DMESG</string>
@@ -204,6 +226,15 @@ Colocado arquivo no diretório raiz, toque para reproduzir"</string>
     <string name="cit_tool_log_ril">Log RIL</string>
     <string name="cit_tool_log_toast">Registo salvo para %s</string>
     <string name="cit_tool_log_toast_generate_bugreport">Relatório de bugs está sendo gerado e leva 1 minuto</string>
+    <string name="cit_tool_modem">MODEM test tools</string>
+    <string name="cit_tool_modem_bugreport">Force MODEM Coredump</string>
+    <string name="cit_tool_modem_exit_ftm">Exit FTM mode</string>
+    <string name="cit_tool_modem_offline_log">Open/Close Offline Log</string>
+    <string name="cit_tool_nfc">NFC test tools</string>
+    <string name="cit_tool_nfc_st">Nfc ST:</string>
+    <string name="cit_tool_nfc_st_confreq">freq:</string>
+    <string name="cit_tool_nfc_st_run">Run</string>
+    <string name="cit_tool_nfc_st_stop">Stop</string>
     <string name="cit_tool_wifi">Ferramentas de teste para Wi-Fi</string>
     <string name="cit_tool_wifi_5g_100a">Tx:100/6M/13dBm</string>
     <string name="cit_tool_wifi_5g_100b">Tx:100/54M/13dBm</string>
@@ -217,47 +248,65 @@ Colocado arquivo no diretório raiz, toque para reproduzir"</string>
     <string name="cit_tool_wifi_5g_36b">Tx:36/54M/13dBm</string>
     <string name="cit_tool_wifi_5g_36c">Tx:36/MCS0/13dBm</string>
     <string name="cit_tool_wifi_5g_36d">Tx:36/MCS7/13dBm</string>
-    <string name="cit_tool_wifi_b_13a">TX:13 / 1 M/15dBm</string>
-    <string name="cit_tool_wifi_b_13b">TX:13 / 11 M/15dBm</string>
-    <string name="cit_tool_wifi_b_1a">TX:1 / 1 M/15dBm</string>
-    <string name="cit_tool_wifi_b_1b">TX:1 / 11 M/15dBm</string>
+    <string name="cit_tool_wifi_b_13a">Tx:13/1M/15dBm</string>
+    <string name="cit_tool_wifi_b_13b">Tx:13/11M/15dBm</string>
+    <string name="cit_tool_wifi_b_1a">Tx:1/1M/15dBm</string>
+    <string name="cit_tool_wifi_b_1b">Tx:1/11M/15dBm</string>
+    <string name="cit_tool_wifi_band_24">band: 2.4G</string>
+    <string name="cit_tool_wifi_band_5">band: 5G</string>
+    <string name="cit_tool_wifi_band_change">Next</string>
     <string name="cit_tool_wifi_exit">Terminar</string>
-    <string name="cit_tool_wifi_g_13a">TX:13 / 6 M/13dBm</string>
-    <string name="cit_tool_wifi_g_13b">TX:13 / 54 M/13dBm</string>
-    <string name="cit_tool_wifi_g_1a">TX:1 / 6 M/13dBm</string>
-    <string name="cit_tool_wifi_g_1b">TX:1 / 54 M/13dBm</string>
-    <string name="cit_tool_wifi_n_13a">TX:13/MCS0/11dBm</string>
-    <string name="cit_tool_wifi_n_13b">TX:13/MCS7/11dBm</string>
-    <string name="cit_tool_wifi_n_1a">TX:1/MCS0/11dBm</string>
-    <string name="cit_tool_wifi_n_1b">TX:1/MCS7/11dBm</string>
-    <string name="cit_tool_wifi_rx_1">RX: 1</string>
+    <string name="cit_tool_wifi_g_13a">Tx:13/6M/13dBm</string>
+    <string name="cit_tool_wifi_g_13b">Tx:13/54M/13dBm</string>
+    <string name="cit_tool_wifi_g_1a">Tx:1/6M/13dBm</string>
+    <string name="cit_tool_wifi_g_1b">Tx:1/54M/13dBm</string>
+    <string name="cit_tool_wifi_n_13a">Tx:13/MCS0/11dBm</string>
+    <string name="cit_tool_wifi_n_13b">Tx:13/MCS7/11dBm</string>
+    <string name="cit_tool_wifi_n_1a">Tx:1/MCS0/11dBm</string>
+    <string name="cit_tool_wifi_n_1b">Tx:1/MCS7/11dBm</string>
+    <string name="cit_tool_wifi_rx_1">Rx:1</string>
     <string name="cit_tool_wifi_rx_100">Rx:100</string>
-    <string name="cit_tool_wifi_rx_13">RX: 13</string>
+    <string name="cit_tool_wifi_rx_13">Rx:13</string>
     <string name="cit_tool_wifi_rx_165">Rx:165</string>
     <string name="cit_tool_wifi_rx_36">Rx:36</string>
-    <string name="cit_tool_wifi_rx_7">RX: 7</string>
-    <string name="cit_tool_wifi_rx_ap">RX: AP</string>
+    <string name="cit_tool_wifi_rx_7">Rx:7</string>
+    <string name="cit_tool_wifi_rx_ap">Rx:AP</string>
     <string name="cit_tool_wifi_rx_ap_name">Digite o nome da AP</string>
     <string name="cit_tool_wifi_rx_ap_not_null">Nome AP ou RX não pode ser vazio</string>
     <string name="cit_tool_wifi_rx_ap_type">Tipo de entrada AP</string>
     <string name="cit_tool_wifi_rx_ap_type_error">Erro de tipo AP, por favor redigite (bss/adhoc)</string>
     <string name="cit_tool_wifi_rx_chan">Rx: Canal</string>
     <string name="cit_tool_wifi_rx_count_error">Erro no valor de saída digital</string>
+    <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
     <string name="cit_tool_wifi_rx_error">Ocorreu um erro na execução</string>
     <string name="cit_tool_wifi_rx_exit">RX: saída</string>
     <string name="cit_tool_wifi_rx_run">Executar</string>
     <string name="cit_tool_wifi_rx_stop">Parar</string>
     <string name="cit_tool_wifi_rx_total_format">Transferência total %s</string>
-    <string name="cit_tool_wifi_tx_bg">Tx: B/G</string>
+    <string name="cit_tool_wifi_rxbg_test">Rx:B/G</string>
+    <string name="cit_tool_wifi_rxbg_test_channel">chan:</string>
+    <string name="cit_tool_wifi_rxbg_test_datarate">rate:</string>
+    <string name="cit_tool_wifi_rxn_test">Rx:N</string>
+    <string name="cit_tool_wifi_rxn_test_channel">chan:</string>
+    <string name="cit_tool_wifi_rxn_test_mcs">MCS:</string>
+    <string name="cit_tool_wifi_tx_bg">Tx:B/G</string>
     <string name="cit_tool_wifi_tx_bg_chan">canal:</string>
     <string name="cit_tool_wifi_tx_bg_txpr">txpower:</string>
     <string name="cit_tool_wifi_tx_bg_txrt">velocidade:</string>
     <string name="cit_tool_wifi_tx_n">Tx: N</string>
+    <string name="cit_tool_wifi_tx_n_bandwidth">bandwidth:</string>
     <string name="cit_tool_wifi_tx_n_chan">canal:</string>
     <string name="cit_tool_wifi_tx_n_txpr">txpower:</string>
     <string name="cit_tool_wifi_tx_n_txrt">velocidade: MCS</string>
+    <string name="cit_tool_wifi_tx_st">Tx: ST</string>
+    <string name="cit_tool_wifi_tx_st_chan">channel:</string>
     <string name="cit_torch_off">Desligar Flash</string>
     <string name="cit_torch_on">Ligue o flash</string>
+    <string name="cit_touch_calib_fail">Touch Calibration failed, Please retry</string>
+    <string name="cit_touch_calib_instruction">start calibration</string>
+    <string name="cit_touch_calib_pass">Touch Calibration pass, Please use it normally</string>
+    <string name="cit_touch_calib_summary">Next step will do touch calibration, press confirm button and do not touch screen after it, wait for calibration success hint</string>
+    <string name="cit_touch_calib_title">Touch Calibration</string>
     <string name="cit_usb_OTG_in">Telefone USB_OTG está conectado</string>
     <string name="cit_usb_OTG_out">Telefone USB_OTG está desconectado</string>
     <string name="cit_usb_charger_in">Carregador USB está conectado</string>

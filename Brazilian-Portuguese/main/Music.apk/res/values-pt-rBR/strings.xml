@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="account_and_synchronization">Contas &amp; Sincronização</string>
     <string name="account_setting">Configurações de conta</string>
@@ -18,7 +18,8 @@
     <string name="album_search_online_descript">Online | %1$d x %2$d</string>
     <string name="album_select">Selecione uma capa do álbum</string>
     <string name="albums_title">Álbuns</string>
-    <string name="albumsongseparator">""</string>
+    <string name="albumsongseparator">"
+"</string>
     <string name="all_tracks">Todas as faixas</string>
     <string name="android_album_settings">Usar capas incorporadas</string>
     <string name="android_album_summary">Associadas de acordo com o nome do arquivo. Pode causar erros.</string>
@@ -69,7 +70,6 @@
     <string name="dirac_mode_earbuds">Fones Xiaomi</string>
     <string name="dirac_mode_general">Fones padrão</string>
     <string name="dirac_mode_in_ear">Fones Xiaomi in-ear</string>
-    <string name="dirac_mode_off">Dirac Off</string>
     <string name="dirac_mode_piston_100">Fones Xiaomi Piston</string>
     <string name="disconnect">Disconnect</string>
     <string name="download">Download</string>
@@ -220,7 +220,8 @@
     <string name="normal_quality">Qualidade normal</string>
     <string name="not_login">Login</string>
     <string name="not_selected">Selecione uma música</string>
-    <string name="notification_artist_album">"%2$s%1$s"</string>
+    <string name="notification_artist_album">"%2$s
+%1$s"</string>
     <string name="online_search_hint">Pesquisar música online</string>
     <string name="online_title">Online</string>
     <string name="other_settings">Outros</string>
@@ -230,6 +231,7 @@
     <string name="pay_service_guide_new">Músicas em alta qualidade disponíveis agora</string>
     <string name="payment_fail">Falha no pagamento!</string>
     <string name="payment_success">Pagamento concluído!</string>
+    <string name="period_format">%1$s-%2$s</string>
     <string name="play_all">Executar tudo</string>
     <string name="play_and_download">Escutar e baixar</string>
     <string name="play_and_download_summary">Baixar músicas que você já tenha escutado online. É recomendado ativar esta opção.</string>
@@ -247,8 +249,8 @@
     <string name="playlist_recently_added">Adicionadas recentemente</string>
     <string name="playlist_recently_played">Últimos executados</string>
     <string name="playlist_renamed_message">lista de reprodução renomeada.</string>
-    <string name="playlists_title">Playlists</string>
-    <string name="powered_by">Powered by</string>
+    <string name="playlists_title">Listas de Reprodição</string>
+    <string name="powered_by">Fornecido por</string>
     <string name="project_device">Mi Box</string>
     <string name="project_device_mobile">Telefone Celular</string>
     <string name="queue">lista de reprodução atual</string>
@@ -306,6 +308,7 @@
     <string name="sort_by_album">Álbuns</string>
     <string name="sort_by_artist">Artistas</string>
     <string name="sort_by_track">Músicas</string>
+    <string name="source_from">Fonte: %1$s</string>
     <string name="start_to_download_album">Baixando capas dos álbuns de sua biblioteca de músicas</string>
     <string name="start_to_download_avatar">Baixando avatar dos artistas de sua biblioteca de músicas</string>
     <string name="streamloadingtext">Conectando-se a %s</string>

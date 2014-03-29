@@ -1,9 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="act_aqi_no2_title">NO2</string>
   <string name="act_aqi_pm10_title">PM10</string>
   <string name="act_aqi_pm25_title">PM2.5</string>
   <string name="act_aqi_so2_title">SO2</string>
+    <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
   <string name="act_city_find_gps_error">Selecione uma cidade manualmente na lista do menu.</string>
   <string name="act_find_city_hint">Pesquisar</string>
   <string name="act_find_city_hot_title">Cidades populares</string>
@@ -36,7 +37,6 @@
   <string name="app_love_sms_title">Conteúdo da mensagem</string>
   <string name="app_love_view_title">Pré-visualização</string>
   <string name="app_name">Clima</string>
-  <string name="app_nohave_net">Nenhuma rede detectada</string>
   <string name="app_unquiet_net">Conexão com a rede ruim</string>
   <string name="aqi_details_dangerous">Pessoas com doenças cardíacas ou respiratórias, idosos e crianças devem evitar toda atividade física ao ar livre. O restante deve evitar exposição prolongada ou exercícios muito pesados.</string>
   <string name="aqi_details_fine">Pessoas excessivamente sensíveis devem considerar reduzir exercícios pesados ou exercícios longos.</string>
@@ -63,7 +63,6 @@
   <string name="format_date_trend_md">d/M</string>
   <string name="format_date_week">EEE</string>
   <string name="format_date_wmd">d/M EEE</string>
-  <string name="install_tencent">Download do Weibo app</string>
   <string name="loading_weather">Carregando clima...</string>
   <string name="local_city">Cidades locais</string>
   <string name="location_allow_err">Falha ao localizar.</string>
@@ -83,6 +82,7 @@
   <string name="menu_settings">Configurações</string>
   <string name="menu_share">Compartilhar</string>
   <string name="menu_trend">Propensão</string>
+    <string name="network_unavailable">Impossível conectar-se à rede</string>
   <string name="save_screen_shot_failed">Falha ao salvar screenshot.</string>
   <string name="selected_format">Selecionado(s) %d item(ns)</string>
   <string name="send_sms_notification">Encaminhar notificações de clima</string>
@@ -102,8 +102,6 @@ Hoje em %1$s, qualidade do ar: %2$s, %3$s. %4$s %5$s."</string>
   <string name="share_button_text">Compartilhar</string>
   <string name="share_choice_titile">Compartilhar informações de clima</string>
   <string name="share_content">\#MIUI Clima#</string>
-  <string name="share_qq">Compartilhar via Tencent Weibo</string>
-  <string name="share_sina">Compartilhar via Sina Weibo</string>
   <string name="share_weather_content">"\#MIUI Clima#
 Today em %1$s, o clima é %2$s, %3$s, %4$s. %5$s."</string>
   <string name="share_weather_title">Compartilhar dados de clima</string>
@@ -119,6 +117,7 @@ Today em %1$s, o clima é %2$s, %3$s, %4$s. %5$s."</string>
   <string name="tip_weather_info_title_2">A temperatura de hoje em %1$s é estimada em %2$s</string>
   <string name="trend_weather_today">Hoje</string>
   <string name="trend_weather_tomorrow">Amanhã</string>
+  <string name="weather_data_unreachable">Impossível obter informações de clima. Aguarde de 1 a 2 minutos e tente novamente.</string>
   <string name="weather_notification">Notificação de Clima</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>

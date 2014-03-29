@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="activity_not_found">Impossível abrir anexo, aplicativo não encontrado.</string>
     <string name="activity_not_found_uri">Impossível encontrar aplicativo correspondente</string>
@@ -287,8 +287,7 @@
     <string name="pref_summary_mms_auto_retrieval">Recupera mensagens automaticamente</string>
     <string name="pref_summary_mms_read_reports">Solicita um relatório de leitura para cada mensagem enviada</string>
     <string name="pref_summary_mms_retrieval_during_roaming">Recupera mensagens automaticamente em roaming</string>
-    <string name="pref_summary_mx_feedback">"Ajude-nos a melhorar a MIUI!
-Reporte bugs e envie feedbacks diretamente para a Xiaomi.”</string>
+    <string name="pref_summary_mx_feedback">"Ajude-nos a melhorar a MIUI! Reporte bugs e envie feedbacks diretamente para a Xiaomi.”</string>
     <string name="pref_summary_new_message_popup">Receber automaticamente uma janela pop-up com mensagens de informação</string>
     <string name="pref_summary_new_message_popup_when_secure">A janela pop-up é desativada quando o telefone for protegido por senha</string>
     <string name="pref_summary_notification_body_enabled">Visualizar mensagens na tela de bloqueio e na barra de notificação</string>
@@ -459,7 +458,8 @@ Reporte bugs e envie feedbacks diretamente para a Xiaomi.”</string>
     <string name="type_to_compose_text_or_leave_blank">Digite a mensagem ou deixe em branco</string>
     <string name="type_vcard">vCard</string>
     <string name="type_video">vídeo</string>
-    <string name="undelivered_msg_dialog_body">"Não foi possível enviar esta mensagem. Tentativa: %s."</string>
+    <string name="undelivered_msg_dialog_body">"Não foi possível enviar esta mensagem. 
+Tentativas: %s."</string>
     <string name="undelivered_msg_dialog_title">Mensagem não entregue</string>
     <string name="undelivered_sms_dialog_body">Não foi possível enviar esta mensagem.</string>
     <string name="unknown_num">Número desconhecido</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Import">Importar</string>
     <string name="accept">Aceitar</string>
@@ -13,7 +13,7 @@
     <string name="add_to_cloud_failed_message_with_count">%2$s item(ns) não adicionado(s) ao álbum na nuvem: %1$s</string>
     <string name="add_to_cloud_file_exist_message">Esta imagem já existe no álbum de destino.</string>
     <string name="add_to_cloud_folder">Adic. à nuvem</string>
-    <string name="add_to_cloud_image_limit_exceeded">Quota de imagens excedida.</string>
+    <string name="add_to_cloud_image_limit_exceeded_message">Quota de imagens excedida.</string>
     <string name="add_to_cloud_local_space_full_message">Armazenamento cheio ou atualmente indisponível.</string>
     <string name="add_to_cloud_reasons" />
     <string name="add_to_cloud_space_full_message">Álbum na nuvem cheio.</string>
@@ -51,6 +51,7 @@
     <string name="auto_create_recent_album_confirm">A Galeria irá limpar os dados de álbuns favoritos. Favoritos marcados manualmente não serão removidos.</string>
     <string name="auto_create_recent_album_over_ten_times">Um álbum será marcado como favorito quando você abri-lo mais do que dez vezes.</string>
     <string name="autofix">Correção autom.</string>
+    <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
     <string name="autohomemain">Autohomemain</string>
     <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
     <string name="baidu_flyflow_downloads">Baidu Browser</string>
@@ -94,8 +95,10 @@
     <string name="cloud_media_set_set">Álbuns online</string>
     <string name="cloud_owner_album_share_guide">Você pode compartilhar este álbum com seus amigos</string>
     <string name="cloud_screenshots_display_name">Capturas de Tela</string>
-    <string name="cloud_share_guide_message">"Você pode compartilhar seus álbuns na nuvem com seus amigos. Você e seus amigos poderão visualizar e adicionar fotos no álbum juntos. 
-Divirtam-se!"</string>
+    <string name="cloud_share_guide_message">"Você pode compartilhar seus álbuns 
+na nuvem com seus amigos. Vejam seus
+álbuns de qualquer lugar. Divirtam-se!
+"</string>
     <string name="cloud_share_guide_title">Agora você pode compartilhar álbuns!</string>
     <string name="cloud_tab_albums">Álbuns</string>
     <string name="cloud_tab_all">Todos</string>
@@ -106,6 +109,7 @@ Divirtam-se!"</string>
     <string name="cloudfolder_name_cannot_empty">Insira um nome para a pasta.</string>
     <string name="cloudfolder_name_reserved">Este nome de pasta não pode ser utilizado.</string>
     <string name="comfirm_delete_current_album">Tem certeza que deseja excluir o álbum atual?</string>
+    <string name="comma">, </string>
     <string name="confirm">OK</string>
     <string name="confirm_delete">Deseja excluir %s itens?</string>
     <string name="confirm_delete_album" formatted="false">Tem certeza que deseja excluir %s álbuns (incluindo %s itens)?</string>
@@ -123,10 +127,12 @@ Divirtam-se!"</string>
     <string name="context_menu_copy">Copiar</string>
     <string name="context_menu_copy_notice">Copiado para a área de transferência</string>
     <string name="contrast">Contraste</string>
+    <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
     <string name="create_new_cloud_folder">Criar nova pasta</string>
     <string name="crop">Cortar</string>
     <string name="crop_fail_to_load_image">Falha ao carregar imagem.</string>
     <string name="crop_label">Cortar imagem</string>
+    <string name="crop_polymorphism">photoeditor_effect_crop</string>
     <string name="crop_save_text">Salvar</string>
     <string name="crop_tooltip">Arraste os marcadores para cortar a foto</string>
     <string name="crossprocess">Proc. cruzado</string>
@@ -154,10 +160,13 @@ Divirtam-se!"</string>
     <string name="documentary">Documentário</string>
     <string name="done">Concluído</string>
     <string name="doodle">Doodle</string>
+    <string name="doodle_polymorphism">photoeditor_effect_doodle</string>
     <string name="doodle_tooltip">Desenhe na foto para criar um Doodle</string>
     <string name="download">Download</string>
     <string name="download_fail">Falha no download!</string>
     <string name="download_fail_confirm_continue">O download de %s falhou. Continuar?</string>
+    <string name="dummy_fs">precision mediump float; uniform mat4 mg_TextureMatrix; uniform sampler2D mg_Texture0, mg_Texture1; uniform vec4 mg_Color; uniform float mg_Texture0_Weight, mg_Texture1_Weight, mg_Color_Weight; uniform vec4 mg_Texture0_Modulate, mg_Texture1_Modulate; varying vec2 mg_UV0, mg_UV1; vec2 transform_uv(vec2 uv) { vec4 v = vec4(uv, 0, 1); v = mg_TextureMatrix * v; return v.xy; } void main() { vec4 col = vec4(0, 0, 0, 0); if(mg_Texture0_Weight > 0.05) { col += mg_Texture0_Modulate * texture2D(mg_Texture0, transform_uv(mg_UV0)) * mg_Texture0_Weight; } if(mg_Texture1_Weight > 0.05) { col += mg_Texture1_Modulate * texture2D(mg_Texture1, transform_uv(mg_UV1)) * mg_Texture1_Weight; } if(mg_Color_Weight > 0.05) { col += mg_Color * mg_Color_Weight; } if(col.a &lt; 0.01) { discard; } gl_FragColor = col; }</string>
+    <string name="dummy_vs">uniform mat4 mg_ModelView, mg_Projection; attribute vec2 mg_TexCoord0, mg_TexCoord1; attribute vec3 mg_Vertex; varying vec2 mg_UV0, mg_UV1; void main() { gl_Position = mg_Projection * mg_ModelView * vec4(mg_Vertex, 1); mg_UV0 = mg_TexCoord0; mg_UV1 = mg_TexCoord1; }</string>
     <string name="duotone">Duotone</string>
     <string name="duration">Duração</string>
     <string name="edit">Editar</string>
@@ -169,6 +178,7 @@ Divirtam-se!"</string>
     <string name="error_cloud_not_active">Álbum na nuvem inativo</string>
     <string name="error_invalid_link">Link inválido. Peça ao dono do álbum para gerar um novo link.</string>
     <string name="error_repeat_apply">Você já possui este compartilhamento</string>
+    <string name="error_share_with_creator">Você já é um membro deste álbum</string>
     <string name="error_should_not_select_image">Atenção: Não selecione um arquivo de imagem.</string>
     <string name="error_should_not_select_video">Atenção: Não selecione um arquivo de vídeo.</string>
     <string name="error_socket_timeout">Tempo limite atingido. Tente novamente.</string>
@@ -191,20 +201,28 @@ Divirtam-se!"</string>
     <string name="file_not_exist_message">O arquivo não existe.</string>
     <string name="file_size">Tamanho</string>
     <string name="filllight">Luz de preench.</string>
+    <string name="filllight_polymorphism">photoeditor_effect_filllight</string>
     <string name="fisheye">Olho de peixe</string>
+    <string name="fisheye_polymorphism">photoeditor_effect_fisheye</string>
     <string name="flash">Flash</string>
     <string name="flash_off">Sem flash</string>
     <string name="flash_on">Flash ativo</string>
     <string name="flip">Inverter</string>
+    <string name="flip_polymorphism">photoeditor_effect_flip</string>
     <string name="flip_tooltip">Arraste a foto para invertê-la</string>
     <string name="focal_length">Foco</string>
     <string name="folder_holder_file">Arquivo de "espaço reservado"</string>
     <string name="frame_black">Preto</string>
+    <string name="frame_black_tooltip">photoeditor_frame_black</string>
     <string name="frame_button">Quadro</string>
     <string name="frame_classic">Clássico</string>
+    <string name="frame_classic_tooltip">photoeditor_frame_classic</string>
     <string name="frame_movie">Filme</string>
+    <string name="frame_movie_tooltip">photoeditor_frame_movie</string>
     <string name="frame_semicircle">Semicírculo</string>
+    <string name="frame_semicircle_tooltip">photoeditor_frame_semicircle</string>
     <string name="frame_white">Branco</string>
+    <string name="frame_white_tooltip">photoeditor_frame_white</string>
     <string name="gallery_cloud_provider_name">Galeria</string>
     <string name="gallery_setting">Ajustes</string>
     <string name="get_album_info_in_process">Solicitando informações do álbum compartilhado, aguarde...</string>
@@ -220,10 +238,12 @@ Divirtam-se!"</string>
     <string name="has_invalid_recipient">Destinatário(s) inválido(s): &lt;%1$s></string>
     <string name="height">Altura</string>
     <string name="highlight">Destaques</string>
+    <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
     <string name="home_my_captured_items">minhas fotos</string>
     <string name="how_many_pics">%d fotos</string>
     <string name="how_many_sub_folders">%d pastas</string>
     <string name="how_many_videos">%d vídeos</string>
+    <string name="hue_polymorphism">photoeditor_effect_hue</string>
     <string name="image_download_item_title">Download da imagem (%s)</string>
     <string name="image_quota_fulfiled">"Falha ao criar imagem, número de imagens no álbum atingiram seu limite máximo."</string>
     <string name="immomo_camera">Immomo</string>
@@ -350,12 +370,15 @@ Divirtam-se!"</string>
     <string name="publishing">Publicando...</string>
     <string name="qqbrowser_img">QQ Browser</string>
     <string name="qsbk_save">QSBK</string>
+    <string name="quotation">\"%s\"</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="redeye">Olhos verm.</string>
+    <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
     <string name="redeye_tooltip">Toque para remover olhos vermelhos</string>
     <string name="remove_hidden_album">Exibir álbum</string>
     <string name="remove_recent_album">Remover dos favoritos</string>
     <string name="rename_failed">Falha ao renomear</string>
+    <string name="rename_failed_duplicated_name">Um arquivo com o mesmo nome já existe.</string>
     <string name="renren_image">RenRen</string>
     <string name="request_qr_code_failed">Falha ao requisitar código QR, toque para tentar novamente</string>
     <string name="request_sms_url_failed">Falha ao obter URL para compartilhamento por SMS</string>
@@ -364,8 +387,10 @@ Divirtam-se!"</string>
     <string name="retry_to_create_album">Reiniciar</string>
     <string name="retry_to_request_qr_code">Reiniciar</string>
     <string name="rotate">Girar</string>
+    <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
     <string name="rotate_tooltip">Arraste a foto para girá-la</string>
     <string name="saturation">Saturação</string>
+    <string name="saturation_polymorphism">photoeditor_effect_saturation</string>
     <string name="save">SALVAR</string>
     <string name="save_error">Não é possível salvar a imagem cortada.</string>
     <string name="save_photo">Salvar foto editada?</string>
@@ -408,6 +433,7 @@ Divirtam-se!"</string>
     <string name="settings">Configurações</string>
     <string name="settings_i_xiaomi_com">Faça o login em i.xiaomi.com para ver seus álbuns na nuvem a qualquer momento</string>
     <string name="shadow">Sombras</string>
+    <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
     <string name="share_album">Compartilhar álbum</string>
     <string name="share_album_owner">Dono</string>
     <string name="share_album_space_full">Este álbum compartilhado está cheio. Por favor, apague algumas imagens desnecessárias.</string>
@@ -417,6 +443,7 @@ Divirtam-se!"</string>
     <string name="share_public_url_text">Eu compartilhei o álbum %1$s. Navegar %2$s</string>
     <string name="sharer_quota_fulfiled">"Falha ao convidar usuário, número de convites já atingiram seu limite máximo."</string>
     <string name="sharpen">Nitidez</string>
+    <string name="sharpen_polymorphism">photoeditor_effect_sharpen</string>
     <string name="show_all">Imagens e vídeos</string>
     <string name="show_hidden_album">Exibir álbuns ocultos</string>
     <string name="show_hidden_albums">Exibir álbuns ocultos</string>
@@ -439,6 +466,7 @@ Divirtam-se!"</string>
     <string name="storage_all_volumes">Todos os telefones de armazenamento</string>
     <string name="storage_no_space">O armazenamento não possui espaço suficiente.</string>
     <string name="straighten">Endireitar</string>
+    <string name="straighten_polymorphism">photoeditor_effect_straighten</string>
     <string name="straighten_tooltip">Arraste a foto para endireitá-la</string>
     <string name="sync_album">Sincronizar álbum</string>
     <string name="sync_album_error">Falha ao fazer download das fotos neste álbum. Tente novamente mais tarde.</string>
@@ -479,6 +507,7 @@ Divirtam-se!"</string>
     <string name="video_not_exist">O vídeo não existe!</string>
     <string name="view_sharers">Ver compartilhamentos</string>
     <string name="vignette">Vinheta</string>
+    <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
     <string name="wallpaper">Fundo da tela inicial</string>
     <string name="warn">Atenção</string>
     <string name="weikan_weikan">Weikan TV</string>
