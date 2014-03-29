@@ -140,7 +140,7 @@
     <string name="retry_to_load_file_info">Recarregar informações do arquivo?</string>
     <string name="save_to_kuaipan">Salvar no MiDrive</string>
     <string name="scan_2d_code">Escanear código QR</string>
-    <string name="scan_file">Buscar arquivos/string>
+    <string name="scan_file">Buscar arquivos</string>
     <string name="scan_tip">Por favor, certifique-se de que o destinatário habilitou a conexão e pode receber arquivo(s)</string>
     <string name="scan_title">Focalize o código QR</string>
     <string name="scanning">Procurando</string>

@@ -111,8 +111,8 @@ Aguarde 5 minutos e tente novamente."</string>
     <string name="error_verify_title">Sem permissão</string>
     <string name="fee">%1$s MiCredit</string>
     <string name="forget_password">&lt;u&gt;Resetar senha&lt;/u&gt;</string>
-    <string name="format_date">dd 'de' MMM 'de' yyyy</string>
-    <string name="format_time">dd 'de' MMM 'de' yyyy às hh:mmaa</string>
+    <string name="format_date">"dd-MM-yyyy"</string>
+    <string name="format_time">"dd-de-yyyy_hh:mmaa"</string>
     <string name="frozen">(Congelada)</string>
     <string name="giftcard_acitivity_and_denomination">%2$s-vale-presente MiCredit de %1$s</string>
     <string name="giftcard_denom">MiCredit</string>

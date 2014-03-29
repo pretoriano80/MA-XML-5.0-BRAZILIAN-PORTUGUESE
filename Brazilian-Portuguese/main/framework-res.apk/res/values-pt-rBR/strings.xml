@@ -759,7 +759,6 @@ Entre em contato com seu provedor de serviços sem fio para obter outro cartão 
     <string name="permdesc_sdcardRead">Permite que o aplicativo teste uma permissão para o armazenamento USB que estará disponível em dispositivos futuros.</string>
     <string name="permdesc_sdcardWrite">Permite gravar no armaz. USB.</string>
     <string name="permdesc_sendSms">Permite que o aplicativo envie mensagens SMS. Aplicativos maliciosos podem gerar gastos enviando mensagens sem a sua confirmação.</string>
-    <string name="permdesc_sendSms">Permite que o aplicativo envie mensagens SMS. Isso pode resultar em cobranças inesperadas. Aplicativos maliciosos podem gerar custos através do envio de mensagens sem sua confirmação.</string>
     <string name="permdesc_serialPort">Permite que o detentor tenha acesso a portas seriais usando a API SerialManager.</string>
     <string name="permdesc_setAlarm">Permite que o aplicativo defina um alarme em um aplicativo despertador instalado. Alguns aplicativos despertador podem não implementar este recurso.</string>
     <string name="permdesc_setAlwaysFinish">Permite que o aplicativo controle se as atividades são sempre encerrados ao serem enviados para o plano de fundo. Nunca é necessário para aplicativos normais.</string>
@@ -1058,7 +1057,6 @@ para a conta %s."</string>
     <string name="preposition_for_time">às %s</string>
     <string name="preposition_for_year">em %s</string>
     <string name="progress_erasing">Apagando cartão SD...</string>
-    <string name="progress_erasing">Apagando o armazenamento USB...</string>
     <string name="progress_unmounting">Desconectando armazenamento USB...</string>
     <string name="progress_unmounting_internal">Desconectando armazenamento interno…</string>
     <string name="reboot_safemode_confirm">Deseja reiniciar no modo de segurança? Isso desativará todos os aplicativos de terceiros instalados. Eles serão restaurados quando você reiniciar novamente.</string>

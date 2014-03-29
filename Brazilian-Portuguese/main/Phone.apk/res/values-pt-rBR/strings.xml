@@ -139,7 +139,6 @@
     <string name="call_assistant_miui">Assistente de discagem</string>
     <string name="call_forwarding_number_hint_miui">Insira o número para encaminhar a chamada</string>
     <string name="call_forwarding_settings">Encaminhamento de chamada</string>
-    <string name="call_forwarding_settings">Configurações de encaminhamento de chamada</string>
     <string name="call_ind_services">Serviços Independentes</string>
     <string name="call_lost">A chamada foi perdida.</string>
     <string name="call_number">Para:</string>
@@ -845,7 +844,6 @@ Mudar para o novo provedor?"</string>
     <string name="requesting_rsp_unlock">Requisitando desbloqueio de Provedor de Serviços UIM…</string>
     <string name="requesting_ruim_unlock">Requisitando desbloqueio de UIM…</string>
     <string name="requesting_sim_unlock">Requisitando desbloqueio do SIM</string>
-    <string name="requesting_unlock">Solicitando o desbloqueio de rede…</string>
     <string name="requesting_unlock">Requisitando desbloqueio de rede...</string>
     <string name="reset_my_choice_hint">Você pode alterar qual conta de chamada pela Internet será usada por padrão na tela Telefone > Configurações > Configurações de chamada pela Internet > Contas.</string>
     <string name="respond_via_sms_canned_response_1">Não posso falar agora. Me manda um SMS, por favor?</string>
@@ -956,7 +954,6 @@ Mudar para o novo provedor?"</string>
     <string name="sip_receive_calls">Receber chamadas</string>
     <string name="sip_receive_calls_summary">Reduz a vida útil da bateria</string>
     <string name="sip_settings">Chamadas SIP</string>
-    <string name="sip_settings">Configurações de chamada pela internet</string>
     <string name="sip_system_decide">Automático</string>
     <string name="slide_to_decline_hint">Ignorar</string>
     <string name="sliding_target_hint_miui">Alvo de deslizamento</string>
@@ -1041,7 +1038,6 @@ Mudar para o novo provedor?"</string>
     <string name="tty_mode_entries_off_miui">TTY Desligado</string>
     <string name="tty_mode_entries_vco_miui">TTY VCO</string>
     <string name="tty_mode_option_summary">Ativar modo TTY</string>
-    <string name="tty_mode_option_summary">Definir modo TTY</string>
     <string name="tty_mode_option_title">Modo TTY</string>
     <string name="tty_mode_option_title_miui">Modo TTY</string>
     <string name="turn_off_auto_select_confirm_message_miui">O sinal e a rede móvel podem estar indisponíveis. Você tem certeza que deseja desativar esta função?</string>
