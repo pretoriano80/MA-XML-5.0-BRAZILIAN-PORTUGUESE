@@ -1,6 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="continues">Continuar</string>
+    <string name="data_usage_summary">Caso você não possua um plano de dados, recomendamos que mantenha este recurso desativado para evitar a cobrança de tarifas extras por sua operadora.</string>
+    <string name="default_gprs_sim_name">Por favor, insira \"%s\" limites do plano de dados</string>
+    <string name="input_method">Método de Entrada</string>
+    <string name="input_method_category">Método de Entrada Padrão</string>
     <string name="next">Próximo</string>
     <string name="other_service_google_location">Localização do Google</string>
     <string name="other_service_google_location_use">Local para Google</string>
@@ -20,7 +24,12 @@
     <string name="setup_complete_summary">Configuração concluída! Aproveite a excitante MIUI!</string>
     <string name="shutdown">Desligar</string>
     <string name="sim_card_detection_dialog_message">Detectando cartão SIM. Aguarde.</string>
-    <string name="sim_card_detection_info"/>
-    <string name="sim_card_detection_label">Cartão SIM</string>
-    <string name="sim_card_detection_status_absent">Cartão SIM ausente</string>
+    <string name="sim_card_detection_info">"Não é possível configurar uma conta Xiaomi sem um cartão SIM ativo. Você precisa de um cartão SIM funcional para utilizar as funções de sincronização de dados na nuvem e rastreamento do telefone."</string>
+    <string name="sim_card_detection_label">Detecção de cartão SIM</string>
+    <string name="sim_card_detection_status_absent">O cartão SIM não foi detectado. Insira um cartão SIM e reinicie o aparelho, ou continue sem configurar os serviços Xiaomi.</string>
+    <string name="traffic_protection_label">Proteção de tráfego de dados</string>
+    <string name="traffic_protection_summary">A proteção de tráfego de dados lembra-o quando seu plano de dados atingir seu limite, evitando cobranças adicionais em seu plano.</string>
+    <string name="traffic_protection_text_hint">Insira seu limite de dados mensal.</string>
+    <string name="traffic_protection_unknown"><u>"Inserir mais tarde."</u></string>
+    <string name="use_data">Utilizar dados 3G</string>
 </resources>

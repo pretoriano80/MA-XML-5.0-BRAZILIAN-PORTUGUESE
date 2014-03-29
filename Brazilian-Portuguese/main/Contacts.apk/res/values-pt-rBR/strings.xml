@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="accessibility_calllog_detail">Detalhes do Reg. de Chamadas</string>
     <string name="account_container_title">Da seguinte conta</string>
@@ -39,7 +39,9 @@
     <string name="auto_nickname">Auto</string>
     <string name="auto_set_nickname">Auto</string>
     <string name="batch_delete">Exclusão múltipla de contatos</string>
-    <string name="batch_delete_msg">"Você tem certeza que deseja excluir os %d contatos? Caso você utilize a sincronização de contatos, os dados presentes na nuvem também serão excluídos."</string>
+    <string name="batch_delete_msg">"Você tem certeza que deseja excluir os %d contatos? 
+
+Caso você utilize a sincronização de contatos, os dados presentes na nuvem também serão excluídos."</string>
     <string name="bluetooth_connection_failed_toast">Conexão Bluetooth interrompida</string>
     <string name="blurbJoinContactDataWith">Selecione o contato que deseja mesclar com %s:</string>
     <string name="btn_delete_multi_contacts">Excluir %d contatos</string>
@@ -270,8 +272,8 @@
     <string name="device_bluetooth_title">preparando</string>
     <string name="device_brand_title">selecionar marca</string>
     <string name="device_import_account_dialog_title">Selecionar conta a importar</string>
-    <string name="device_import_account_dialog_title_suffix">"
-(%1$s encontrados)"</string>
+    <string name="device_import_account_dialog_title_suffix">"(%1$s encontrados)"</string>
+    <string name="device_import_done_toast">%1$d contatos importados</string>
     <string name="device_import_failed_message">Falha ao importar!</string>
     <string name="device_import_local_account">Conta local</string>
     <string name="device_import_message">Importando</string>
@@ -413,6 +415,9 @@ Motivo: \"%s\""</string>
     <string name="hint_distance"/>
     <string name="hint_findContacts">Localizar contatos</string>
     <string name="hint_more_contact">una contatos que estejam duplicados</string>
+    <string name="hint_search_contacts">%d contatos</string>
+    <string name="hint_search_emails">%d emails</string>
+    <string name="hint_search_phone_numbers">%d números de contato</string>
     <string name="ic_menu_back">Voltar</string>
     <string name="ic_menu_done">Concluído</string>
     <string name="imLabelsGroup">IM</string>
@@ -444,6 +449,7 @@ Motivo: \"%s\""</string>
     <string name="import_weibo_error_unknown">Atualização de contatos: erro desconhecido</string>
     <string name="import_weibo_error_user_cancel">Atualização de contatos: cancelado por usuário</string>
     <string name="import_weibo_fetch_followers">Obtendo seguidores do sina weibo...</string>
+    <string name="import_weibo_notification_title">Importando contatos do sina weibo...</string>
     <string name="import_weibo_notification_title_done">Importação concluída</string>
     <string name="import_weibo_progress_name">%1$s</string>
     <string name="import_weibo_progress_percent">%1$d%%</string>
@@ -574,65 +580,23 @@ Motivo: \"%s\""</string>
     <string name="noContacts">Nenhum contato.</string>
     <string name="noContactsHelpText">"Você não possui contatos para exibir.
 
-Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>", e então toque em:
- 
-"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contatos sincronizáveis com o telefone
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Novo contato para criar um contato do zero
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contatos do seu cartão SIM ou armazenamento USB
-"</b></font></li>"
-"</string>
+ Para adicionar contatos, toque em "</string>
     <string name="noContactsHelpTextForCreateShortcut">Você não tem contatos para exibir.</string>
-    <string name="noContactsHelpTextWithSync">"Você não possui contatos para exibir. (Caso você tenha adicionado uma conta recentemente, aguarde a sincronização concluir.)
+  <string name="noContactsHelpTextWithSync">"Você não possui contatos para exibir. (Caso você tenha adicionado uma conta recentemente, aguarde a sincronização concluir.)
 
-Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>", e então toque em:
- 
-"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contatos sincronizáveis com o telefone
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Exibir opções para alterar quais contatos são visíveis
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Novo contato para criar um contato do zero
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contatos do seu cartão SIM ou armazenamento USB
-"</b></font></li>"
-"</string>
+ Para adicionar contatos, toque em "</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Você não tem contatos para exibir. Se você acabou de adicionar uma conta, pode levar alguns minutos para sincronizar os contatos.</string>
-    <string name="noContactsNoSimHelpText">"Você não possui contatos para exibir.
+  <string name="noContactsNoSimHelpText">"Você não possui contatos para exibir.
 
-Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>", e então toque em:
- 
-"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contatos sincronizáveis com o telefone
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Novo contato para criar um contato do zero
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contatos do seu cartão SIM ou armazenamento USB
-"</b></font></li>"
-"</string>
-    <string name="noContactsNoSimHelpTextWithSync">"Você não possui contatos para exibir. (Caso você tenha adicionado uma conta recentemente, aguarde a sincronização concluir.)
+ Para adicionar contatos, toque em "</string>
+  <string name="noContactsNoSimHelpTextWithSync">"Você não possui contatos para exibir. (Caso você tenha adicionado uma conta recentemente, aguarde a sincronização concluir.)
 
-Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>", e então toque em:
- 
-"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contatos sincronizáveis com o telefone
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Exibir opções para alterar quais contatos são visíveis
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Novo contato para criar um contato do zero
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contatos do seu cartão SIM ou armazenamento USB
-"</b></font></li>"
-"</string>
+ Para adicionar contatos, toque em "</string>
     <string name="noContactsWithPhoneNumbers">Nenhum contato com números de telefone.</string>
-    <string name="noFavoritesHelpText">"Você não possui nenhum número favorito.
+  <string name="noFavoritesHelpText">"Você não possui nenhum número favorito.
 
  Para adicionar um contato à sua lista de favoritos:
 
-"<li>Toque na aba <b>Contatos</b>"
-"</li>" 
-"<li>"Toque no contato que você deseja adicionar como favorito
-"</li>" 
-"<li>"Toque no ícone de estrela próximo ao nome do contato
-"</li>"
 "</string>
     <string name="noGroups">Nenhum grupo.</string>
     <string name="noMatchingContacts">Nenhum contato correspondente foi encontrado.</string>
@@ -683,8 +647,12 @@ Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>"
     <string name="phone_primary">Primário</string>
     <string name="photoPickerNotFoundText">Nenhuma imagem disponível no telefone.</string>
     <string name="photo_package_activity_title">Pacote de fotos</string>
+    <string name="pick_favorites_contacts_list_title">%1$d contatos favoritos no total</string>
+    <string name="pick_favorites_list_title">%1$d favoritos no total</string>
     <string name="pick_new_photo">Selecionar nova foto da Galeria</string>
     <string name="pick_photo">Escolha fotos da Galeria</string>
+    <string name="pick_recent_contacts_list_title">%1$d contatos recentes no total</string>
+    <string name="pick_recent_list_title">%1$d contatos recentes no total</string>
     <string name="pickerNewContactHeader">Criar novo contato</string>
     <string name="pickerNewContactText">Criar novo contato</string>
     <string name="picker_all_list_empty">Nenhum contato</string>
@@ -759,6 +727,7 @@ Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>"
     <string name="profile_display_name">Configurar meu perfil</string>
     <string name="profile_name">Meu perfil</string>
     <string name="profile_name_photo">Eu</string>
+    <string name="progress_notifier_message" formatted="false">Importando %s/%s: %s</string>
     <string name="quickcontact_missing_app">Nenhum aplicativo foi encontrado para executar esta ação.</string>
     <string name="quit_dialog_confirm_title">Deseja realmente sair?</string>
     <string name="readOnlyContactDeleteConfirmation">Este contato contém informações de diversas contas. As informações de contas somente de leitura ficarão ocultas nas suas listas de contatos, mas não serão excluídas.</string>
@@ -793,6 +762,7 @@ Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>"
     
  Clique em Unir e aguarde os resultados, seguindo as instruções do aplicativo."</string>
     <string name="resource_account_abnormal_state">Erro de conta, por favor tente novamente mais tarde.</string>
+    <string name="resource_account_current">Conta: %1$s</string>
     <string name="resource_account_fail_to_add">Falha ao adicionar conta!</string>
     <string name="resource_account_login">Login</string>
     <string name="resource_account_login_before_action">Por favor efetue login em sua conta Xiaomi.</string>
@@ -814,7 +784,6 @@ Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>"
     <string name="resource_comment_average_score">Pontuação</string>
     <string name="resource_comment_bad_comments">Negativo</string>
     <string name="resource_comment_current_version">Versão atual</string>
-    <string name="resource_comment_date">%1$02d-%2$02d</string>
     <string name="resource_comment_edit_comment">Adic. comentários</string>
     <string name="resource_comment_edit_comment_waiting">Verificando histórico do usuário...</string>
     <string name="resource_comment_edit_text_default">Adic. um comentário</string>
@@ -1057,6 +1026,7 @@ Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>"
     <string name="strequentList">Favoritos</string>
     <string name="success_message_import_from_account">Importado com sucesso</string>
     <string name="summary_kind_title">Sumário</string>
+    <string name="t9_search_guide">Digite o número que deseja, ou pesquise conteúdo pelo índice T9.</string>
     <string name="t9_search_guide_pinyin">Digite 7 e 5 para pesquisar por Steve Jobs</string>
     <string name="t9_search_guide_zhuyin">Digite 7 e 5 para pesquisar por Steve Jobs</string>
     <string name="take_new_photo">Tirar outra foto</string>
@@ -1128,12 +1098,9 @@ Escolha uma das seguintes opções:"</string>
     <string name="yellowPageNavigationIconLabel">Diretório</string>
     <string name="yellowPageNavigationLabel">Diretório</string>
     <string name="yellowpage_navigation_menu_order">Minha ordem</string>
-    <string name="yellowpage_navigation_network_location_enable">Ativar agora</string>
-    <string name="yellowpage_navigation_network_location_enable_later">Ativar depois</string>
-    <string name="yellowpage_navigation_network_location_not_enabled_summary">Ativando o serviço de localização por Wi-Fi &amp; redes móveis a qualidade dos serviços de localização será melhorada.</string>
-    <string name="yellowpage_navigation_network_location_not_enabled_title">Ativar serviço de localização</string>
     <string name="yellowpage_navigation_no_content">Nenhum resultado</string>
     <string name="yellowpage_navigation_search_city_name_hint">Buscar por Cidade</string>
+    <string name="yellowpage_navigation_search_hint">Buscar</string>
     <string name="yellowpage_navigation_search_offline_hint">Rede indisponível</string>
     <string name="yellowpage_navigation_search_result_network_error">Falha ao conectar-se à rede</string>
     <string name="yellowpage_navigation_search_result_no_more">Sem mais resultados</string>

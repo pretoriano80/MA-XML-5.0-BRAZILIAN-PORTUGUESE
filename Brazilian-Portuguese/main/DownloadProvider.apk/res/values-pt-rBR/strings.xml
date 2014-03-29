@@ -24,13 +24,10 @@
     <string name="notification_paused_in_background">Paus. em segundo plano.</string>
     <string name="wifi_required_title">Download muito grande para a rede da operadora</string>
     <string name="wifi_required_body" formatted="false">"Você deve usar o Wi-Fi para completar o download de %s . 
-    
 Toque em %s  para começar o download da próxima vez que você estiver conectado a uma rede Wi-Fi."</string>
     <string name="wifi_recommended_title">Tráfego de dados</string>
     <string name="wifi_recommended_body" formatted="false">"Você está prestes a efetuar um download através de sua operadora de dados móveis:
-    
  %s (%s)
- 
  Efetuar o download deste arquivo sem possuir um plano de dados poderá acarretar em custos substanciais para sua linha telefônica."</string>
     <string name="button_queue_for_wifi">Fila</string>
     <string name="button_cancel_download">Cancelar</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="access_denied">Acesso negado</string>
     <string name="access_token_expired_warning">Sua conta Weibo expirou. Vincule-a novamente</string>
@@ -49,7 +49,6 @@
     <string name="activate_status_title_activating_msim">Ativando seu cartão SIM %s...</string>
     <string name="activating">Ativando...</string>
     <string name="add_weibo_account">Adicionar conta</string>
-    <string name="alert_notif_title_dspt">Restaure a sincronização para garantir a segurança dos dados</string>
     <string name="alert_title_remove_account">Excluir conta</string>
     <string name="app_name">Xiaomi Service Framework</string>
     <string name="available_functionality">Funções disponíveis</string>
@@ -121,8 +120,9 @@
     <string name="login_failed">Falha na conexão</string>
     <string name="login_instead_reg">Fazer login com este número de telefone</string>
     <string name="login_notice">Conectando...</string>
-    <string name="logout_failed">Falha ao fazer logout</string>
-    <string name="master_alert_notif_dspt" formatted="false">"Durante este período você já adicionou %s contatos telefônicos, %s SMS, %s fotos, %s anotações e outros dados. não foram sincronizados."</string>
+    <string name="master_alert_notif_dspt" formatted="false">"Durante este período você já adicionou %s contatos telefônicos, %s SMS, %s fotos, %s anotações e outros dados.
+
+Se o seu telefone for perdido, ou seus dados apagados, estes dados serão perdidos permanentemente. É recomendado que você reative a sincronização para que você mantenha seus dados em segurança."</string>
     <string name="master_alert_notif_title">Os dados não são sincronizados há %s dias</string>
     <string name="micloud_account">Conta Xiaomi</string>
     <string name="micloud_account_details">Detalhes da conta</string>
@@ -143,14 +143,8 @@
     <string name="micloud_activing_account_delayed">"O processo de ativação leva cerca de 30 segundos -Verifique a ativação após este período..."</string>
     <string name="micloud_activing_account_failed">Falha ao ativar sua conta</string>
     <string name="micloud_app_data">Backup de apps MiCloud</string>
-    <string name="micloud_click_email">"
-    
-Clique no link em seu email,
- para ativar sua conta Xiaomi."</string>
-    <string name="micloud_click_email_to_valid">"
-
-Para ativar sua conta,
- clique no link em sua caixa de entrada."</string>
+    <string name="micloud_click_email">Clique no link em seu email para ativar sua conta Xiaomi</string>
+    <string name="micloud_click_email_to_valid">Clique no link de ativação em sua caixa de entrada</string>
     <string name="micloud_data_loading">Carregando...</string>
     <string name="micloud_delete_account">Revogar conta</string>
     <string name="micloud_dspt">Serviços na nuvem incluem Mensagens MiCloud, sincronização, localização do telefone e outras funções. Você também pode gerenciar seus dados online a qualquer momento!</string>
@@ -193,7 +187,6 @@ Para corrigir este problema, você pode excluir arquivos antigos, ou adquirir es
     <string name="micloud_title_dspt" formatted="false">"Espaço total %s
  usado %s | livre %s"</string>
     <string name="micloud_title_full_dspt">O limite de armazenamento foi atingido!</string>
-    <string name="micloud_upgrade_space">Comprar espaço</string>
     <string name="micloud_use_existing">Existente</string>
     <string name="micloud_user_base_info">Info. do usuário</string>
     <string name="micloud_user_email">E-mail</string>
@@ -247,7 +240,9 @@ Para corrigir este problema, você pode excluir arquivos antigos, ou adquirir es
     <string name="skip_setup_account_msg">Usando sua conta Xiaomi, você pode sincronizar e fazer backup de suas mensagens SMS, Contatos, fotos etc. Continuar e configurar depois?</string>
     <string name="skip_setup_account_title">Pular configuração de conta</string>
     <string name="start_micloud">Iniciar</string>
-    <string name="sub_alert_notif_dspt" formatted="false">"Você possui %s contatos locais, %s SMS, %s fotos, %s de anotações e outros dados não sincronizados. "</string>
+    <string name="sub_alert_notif_dspt" formatted="false">"Você possui %s contatos locais, %s SMS, %s fotos, %s de anotações e outros dados não sincronizados. 
+
+Se seu telefone for perdido ou danificado, estes dados serão perdidos permanentemente. É recomendado iniciar a sincronização para garantir a segurança dos seus dados."</string>
     <string name="sub_alert_notif_title">O serviço de sincronização não foi ativado.</string>
     <string name="sync_dspt">Sincronizar conta Xiaomi</string>
     <string name="sync_off">Off</string>
@@ -255,6 +250,7 @@ Para corrigir este problema, você pode excluir arquivos antigos, ou adquirir es
     <string name="sync_sub_dspt">Um SMS será enviado para ativar o serviço</string>
     <string name="sync_sub_int_dspt">Um SMS internacional será enviado para ativar o serviço</string>
     <string name="title_reg">Criar uma conta Xiaomi</string>
+    <string name="title_voucher">Top-up com Mi Credit voucher</string>
     <string name="trust_device">Confiar neste dispositivo</string>
     <string name="unactivated_user">Desativado</string>
     <string name="unbind">Desvincular</string>

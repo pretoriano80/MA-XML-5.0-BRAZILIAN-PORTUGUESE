@@ -45,4 +45,7 @@
     <string name="account_setup_options_mail_window_2weeks">Duas semanas</string>
     <string name="account_setup_options_mail_window_1month">Um mês</string>
     <string name="account_setup_options_mail_window_all">Todos</string>
+    <string name="policy_enable_password_recovery">Autorizar uma senha de recuperação</string>
+    <string name="policy_max_calendar_age">Autorizar validade máxima de eventos de calendário</string>
+    <string name="policy_max_email_age">Autorizar validade máxima de mensagens de e-mail</string>
 </resources>

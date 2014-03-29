@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="access_error">Impossível gravar no modo de Convidado</string>
     <string name="alert_message_delete_record">Deseja apagar este registo?</string>
     <string name="app_name">Gravador de Som</string>
     <string name="audio_db_album_name">Gravações de Áudio</string>
@@ -9,11 +8,8 @@
     <string name="audio_db_title_format">dd-MM-yyyy HH:mm:ss</string>
     <string name="back">Voltar</string>
     <string name="button_ok">OK</string>
-    <string name="button_queue_for_wifi">Fila</string>
-    <string name="button_start_now">Download</string>
     <string name="call_record">Gravação de chamadas(%d)</string>
     <string name="call_record_or">ou</string>
-    <string name="cloud_record">Gravando na nuvem(%d)</string>
     <string name="default_record_name">Gravação sem título</string>
     <string name="delete">Excluir</string>
     <string name="delete_dialog_message">Você deseja excluir a gravação atual?</string>
@@ -35,7 +31,6 @@
     <string name="fm_record">Gravação de FM(%d)</string>
     <string name="hour">%d hora</string>
     <string name="insert_sd_card">Insira um Cartão SD</string>
-    <string name="loading_recording">Carregando gravações</string>
     <string name="low_battery_error">A bateria do telefone está acabando. É necessário que a bateria esteja completamente carregada para garantir que a gravação de audio ocorra sem problemas.</string>
     <string name="low_battery_message_title">Bateria fraca</string>
     <string name="low_battery_warning">Um desligamento inesperado do telefone pode causar perda da gravação. É recomendado que a gravação seja iniciada somente com o telefone completamente carregado.</string>
@@ -46,11 +41,9 @@
     <string name="message_file_size_error">O gravador atingiu o tamanho máximo de arquivo para %s</string>
     <string name="minute">%d minuto</string>
     <string name="no_file">Nenhuma gravação</string>
-    <string name="notification_message_all_paused">Pode aumentar o uso de dados móveis.</string>
     <string name="notification_playback">Executando...</string>
     <string name="notification_recording">Gravando</string>
     <string name="notification_stopped">A gravação parou</string>
-    <string name="notification_title_all_paused">Download em pausa</string>
     <string name="notification_warning">Espaço de armazenamento acabando (menos de %d minutos)...</string>
     <string name="open_file_explorer">Abrir gerenciador de arquivos</string>
     <string name="overwrite_dialog_message">%s já existe, você deseja sobrescrevê-lo?</string>
@@ -65,24 +58,7 @@
     <string name="preference_record_type_title">Tipo de gravação</string>
     <string name="preference_scenes">Configuração de cenas</string>
     <string name="preference_silent_mode">Gravação em modo silencioso</string>
-    <string name="record_download">Download da MiCloud</string>
-    <string name="record_download_activity">Downloader</string>
-    <string name="record_download_complete">Concluído</string>
-    <string name="record_download_failed">Falha</string>
-    <string name="record_download_manager">Gerenciador de downloads</string>
-    <string name="record_download_msg">A gravação pode ser apenas reproduzida após o download ser finalizado.</string>
-    <string name="record_download_msg_reload">"Esta gravação não existe</string>
-    <string name="record_download_paused">Pausado</string>
-    <string name="record_download_progress">%d%%</string>
-    <string name="record_downloading_notification">Baixando…</string>
-    <string name="record_downloading_notification_complete">Download concluído</string>
-    <string name="record_downloading_notification_count">Transferindo %d</string>
     <string name="record_list">Lista de Gravações</string>
-    <string name="record_list_call">Gravação de chamadas</string>
-    <string name="record_list_cloud">Gravação na nuvem</string>
-    <string name="record_list_cloud_call">Gravação de chamadas na nuvem</string>
-    <string name="record_list_cloud_fm">Gravação de FM na nuvem</string>
-    <string name="record_list_fm">Gravação de FM</string>
     <string name="record_loading">Carregando gravação, aguarde.</string>
     <string name="record_name_hour">.</string>
     <string name="record_picker_title">Selecionar gravação</string>
@@ -93,13 +69,11 @@
     <string name="rename_dialog_title">Renomear gravação</string>
     <string name="rename_duplicate">Nome duplicado, por favor insira novamente:</string>
     <string name="rename_illegal">Nome inválido, por favor insira novamente:</string>
-    <string name="retry">Tentar novamente</string>
     <string name="sd_card_not_available">Cartão SD indisponível</string>
     <string name="search_for_recordings_in_folders">Pesquisar gravações na memória</string>
     <string name="second">%d segundo</string>
     <string name="send_to">Enviar para</string>
     <string name="sound_recorder_settings">Configurações</string>
-    <string name="start">Reiniciar</string>
     <string name="start_recording">Iniciar gravação</string>
     <string name="status_bar_anti_disturb">Telefone mudo, ajuste o volume do microfone para continuar.</string>
     <string name="status_bar_back">Toque para retornar ao Gravador</string>
@@ -107,16 +81,9 @@
     <string name="status_bar_recording_pause">"Gravação em pausa. "</string>
     <string name="stop_recording">Parar gravação</string>
     <string name="storage_is_full">Armazenamento cheio</string>
-    <string name="sync_only_in_wifi">Utilizar Wi-Fi para sincronizar</string>
-    <string name="sync_only_in_wifi_alert">Desativar esta opção pode aumentar o uso de seus dados móveis (isto poderá gerar cobranças adicionais).</string>
-    <string name="sync_only_in_wifi_summary">O gravador irá utilizar sua conexão de dasdos móveis para efetuar o download ou upload de gravações quando esta opção estiver desativada.</string>
-    <string name="sync_records">Sincronizar com a Mi Cloud</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
     <string name="toast_max_record_time">App:%1$s suporte máximo de %2$s anexos de gravação</string>
     <string name="toast_uninstall_fileexplorer">"O app Mi-Explorer não está instalado"</string>
     <string name="unknown_caller">Número desconhecido</string>
     <string name="view_list_of_recordings">Lista de gravações</string>
-    <string name="wifi_recommended_body">"Iniciando download utilizando seus dados móveis:
-O download do arquivo poderá acarretar em custos de tráfego extra."</string>
-    <string name="wifi_recommended_title">Lembrete de tráfego</string>
 </resources>

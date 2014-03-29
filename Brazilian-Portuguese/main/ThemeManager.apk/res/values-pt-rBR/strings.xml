@@ -54,6 +54,7 @@
     <string name="payment_info">MiCredits</string>
     <string name="purchased_list">Itens adquiridos</string>
     <string name="resource_account_abnormal_state">Erro na conta, por favor tente novamente mais tarde.</string>
+    <string name="resource_account_current">Conta: %1$s</string>
     <string name="resource_account_fail_to_add">Falha ao adicionar conta!</string>
     <string name="resource_account_login">Login</string>
     <string name="resource_account_login_before_action">Por favor efetue login na sua conta Xiaomi.</string>
@@ -140,7 +141,7 @@
     <string name="resource_exchange_wrong_format_by_server">O código inserido não pôde ser validado. Por favor verifique seu código e tente novamente.</string>
     <string name="resource_expand_full_text">Expandir</string>
     <string name="resource_get_auth_checking">Checando autorização...</string>
-    <string name="resource_get_auth_exceed_max_limit_tips">Dez dispositivos já forma autorizados com esta conta</string>
+    <string name="resource_get_auth_exceed_max_limit_tips">O tema não pode ser aplicado no telefone atual com sua conta Xiaomi, que limita o uso de temas para até 10 aparelhos por ano. Tente fazer o login com uma conta Xiaomi diferente.</string>
     <string name="resource_get_auth_exceed_max_limit_title">Limite de autorizações excedido</string>
     <string name="resource_get_auth_missing">O tema selecionado não foi baixado pela loja oficial. Por favor faça o download de um tema semelhante na loja oficial e tente novamente.</string>
     <string name="resource_get_auth_retrieving">Recebendo autorização...</string>
@@ -194,15 +195,13 @@
     <string name="resource_trial_end_restore">Finalizar teste</string>
     <string name="resource_trial_end_title">Teste expirado</string>
     <string name="resource_trial_time">（teste por %1$d minutos）</string>
-    <string name="resource_unable_to_access">"Atualmente,
-este conteúdo está indisponível em sua região/país."</string>
+    <string name="resource_unable_to_access">"Atualmente disponível em sua região/país."</string>
     <string name="resource_unknow_error">Ocorreu um erro desconhecido.</string>
     <string name="resource_update">Atualizar</string>
     <string name="resource_user_know">OK</string>
     <string name="resource_waiting_download">Aguardando</string>
     <string name="restore_default_theme_alert">Você pode ter sido vítima de falsificação de temas. Por favor acesse o Market de Temas e faça o download do seu tema novamente.</string>
-    <string name="sdcard_not_mounted_dialog_message">"Cartão SD não detectado, 
-insira um novo cartão."</string>
+    <string name="sdcard_not_mounted_dialog_message">"Cartão SD não detectado, insira um novo cartão."</string>
     <string name="sdcard_not_mounted_dialog_title">Cartão SD não detectado</string>
     <string name="selected_resource_file_invalid">O arquivo selecionado é inválido.</string>
     <string name="settings">Configurações</string>

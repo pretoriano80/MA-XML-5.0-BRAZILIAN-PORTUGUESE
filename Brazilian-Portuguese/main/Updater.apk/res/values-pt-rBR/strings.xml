@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="about_device">Informação do Sistema</string>
     <string name="active_xiaomi_account">Ativo</string>
@@ -84,8 +84,7 @@
     <string name="my_update_feel">Minhas impressões</string>
     <string name="my_worst_update">Pior atualização</string>
     <string name="network_error">Impossível conectar, o servidor pode estar indisponível</string>
-    <string name="new_update_content_notification_shade"/>
-    <string name="new_update_content_title">Existe uma nova versão da MIUI disponível</string>
+    <string name="new_update_content_title">Nova versão encontrada!</string>
     <string name="new_update_download_complete_body">Nova versão pronta:%s</string>
     <string name="new_update_downloading_body">Baixando nova versão:%s</string>
     <string name="new_updates_found_notification_title">Nova atualização de sistema encontrada!</string>
@@ -122,12 +121,9 @@
     <string name="share_update_content_unsign">Eu atualizei a MIUI para %s! Para ver o changelog detalhado, por favor visite http://www.miui.com</string>
     <string name="sign_in_add_account">Por favor ative sua conta Xiaomi</string>
     <string name="sign_in_add_account_helper">Seu telefone não está conectado à uma conta MIUI, faça o login para obter pontos após a atualização</string>
-    <string name="sign_in_info">"Seu ranking neste update é %1$s.
-%2$s pessoas já baixaram a versão %3$s"</string>
-    <string name="sign_in_info_rank_more">"Seu ranking neste update é após %1$s.
-Mais de %2$s já se conectaram à MIUI %3$s"</string>
-    <string name="sign_in_info_total_more">"Seu ranking é %1$s. 
-Mais de %2$s usuários já se conectaram à MIUI %3$s"</string>
+    <string name="sign_in_info">"Seu ranking neste update é %1$s. %2$s pessoas já baixaram a versão %3$s"</string>
+    <string name="sign_in_info_rank_more">"Seu ranking neste update é após %1$s. Mais de %2$s já se conectaram à MIUI %3$s"</string>
+    <string name="sign_in_info_total_more">"Seu ranking é %1$s. Mais de %2$s usuários já se conectaram à MIUI %3$s"</string>
     <string name="sina_share_fail">Falha no envio!</string>
     <string name="sina_share_pendding">Enviando...</string>
     <string name="sina_share_success">Enviado com sucesso!</string>
@@ -152,8 +148,7 @@ Mais de %2$s usuários já se conectaram à MIUI %3$s"</string>
     <string name="update_comment_hint">(opcional)</string>
     <string name="update_comment_title">Observações</string>
     <string name="update_feedback">Feedback de betas diários</string>
-    <string name="update_feedback_expired">"Infelizmente você perdeu o prazo para o feedback de betas diários!
-Lembre-se de Votar na Quinta-feira"</string>
+    <string name="update_feedback_expired">"Infelizmente você perdeu o prazo para o feedback de betas diários! Lembre-se de Votar na Quinta-feira"</string>
     <string name="update_feel">1.Como se sente?</string>
     <string name="update_general">Mais ou menos</string>
     <string name="update_happy">Feliz</string>
@@ -165,8 +160,7 @@ Lembre-se de Votar na Quinta-feira"</string>
     <string name="updater_finish_download">Download da ROM finalizado</string>
     <string name="upgrade_close">Fechar</string>
     <string name="upgrade_kernel">Versão do kernel atual precisa ser atualizado</string>
-    <string name="upgrade_kernel_msg">"Versão do kernel atual não coincide com a ROM MIUI. Você precisa atualizar o kernel manualmente. Por favor, consulte o tutorial de atualização:
-"</string>
+    <string name="upgrade_kernel_msg">"Versão do kernel atual não coincide com a ROM MIUI. Você precisa atualizar o kernel manualmente. Por favor, consulte o tutorial de atualização:"</string>
     <string name="verify_and_apply_dialog_message">Verificando MD5 do arquivo...</string>
     <string name="verify_and_apply_dialog_title">Verificar integridade</string>
     <string name="view_install_log">Ver log</string>

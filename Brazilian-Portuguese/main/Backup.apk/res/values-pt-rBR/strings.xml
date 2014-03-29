@@ -149,10 +149,10 @@
     <string name="findlost_contact_online">Restaurar contatos online</string>
     <string name="guarded_mode_dialog_message">Impossível efetuar backup ou restaurar no modo protegido</string>
     <string name="guarded_mode_dialog_title">Modo Protegido</string>
-    <string name="import_from_xiaomi_account_hint1">"1.\u0009Instale o MiTalk e conecte-se.
-\u0009http://www.miliao.com
+    <string name="import_from_xiaomi_account_hint1">"1.Instale o MiTalk e conecte-se.
+http://www.miliao.com
 
-2. \u0009Acesse as configurações do MiTalk e selecione ”Backup de contatos para a conta Xiaomi”"</string>
+2. Acesse as configurações do MiTalk e selecione "Backup de contatos para a conta Xiaomi"</string>
     <string name="import_from_xiaomi_account_hint2">Nota: Vá para o próximo passo caso o backup já exista</string>
     <string name="import_from_xiaomi_account_hint_title">Utilize o MiTalk para fazer backup de contatos em outros telefones compatíveis</string>
     <string name="just_support_op_with_wifi_connected">Suportado somente em Wi-Fi</string>

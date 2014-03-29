@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="account_bind_prompt">Migrando dados de usuário, aguarde...</string>
     <string name="add_task">Adicionar tarefas</string>
@@ -29,7 +29,6 @@
     <string name="category_document">Textos</string>
     <string name="category_favorite">Favoritos</string>
     <string name="category_log">Log</string>
-    <string name="category_mirouter">MiRouter</string>
     <string name="category_music">Música</string>
     <string name="category_other">Outros</string>
     <string name="category_picture">Imagens</string>
@@ -47,7 +46,6 @@
     <string name="cleanup_complete">Concluído</string>
     <string name="cleanup_stopped">Limpeza interrompida</string>
     <string name="close">Fechar</string>
-    <string name="colon">": "</string>
     <string name="compress_fail">Falha ao compactar, o arquivo já existe.</string>
     <string name="compress_message">Compactar para...</string>
     <string name="compress_title">Compactar</string>
@@ -71,6 +69,7 @@
     <string name="delete_failed">Falha ao excluir</string>
     <string name="delete_file">Tem certeza que deseja excluir este arquivo?</string>
     <string name="delete_files">Tem certeza que deseja excluir os %1$d arquivos selecionados?</string>
+    <string name="delete_files_and_folders">Você tem certeza que deseja excluir os %1$d arquivo(s) e %2$d pasta(s)?</string>
     <string name="delete_folder">Tem certeza que deseja excluir esta pasta?</string>
     <string name="delete_folders">Tem certeza que deseja excluir as %1$d pastas selecionadas?</string>
     <string name="des_running_trans">Existem %1$d arquivo(s) para ser(em) transferido(s)</string>
@@ -136,15 +135,12 @@
     <string name="kuaipan_label">KuaiPan</string>
     <string name="kuaipan_over_space">Seu KuaiPan está cheio.</string>
     <string name="kuaipan_prompt">Atenção</string>
-    <string name="kuaipan_prompt_message">"
- Servidor em manutenção, por favor, tente novamente mais tarde.
- "</string>
+    <string name="kuaipan_prompt_message">" Servidor em manutenção, por favor, tente novamente mais tarde... "</string>
     <string name="kuaipan_tech_support">Suporte técnico fornecido por Kingsoft KuaiPan</string>
     <string name="load_err">Falha ao carregar</string>
     <string name="loading">Carregando</string>
     <string name="local_cache_size">Cache local: %s</string>
-    <string name="login_reg_content">"Armazene arquivos e sincronize-os entre múltiplos dispositivos.
-Este recurso requer uma conexão com a internet."</string>
+    <string name="login_reg_content">Armazene arquivos e sincronize-os entre múltiplos dispositivos.</string>
     <string name="login_reg_content0">O KuaiPan é seu armazenamento na nuvem</string>
     <string name="menu_item_cleanup">Limpar Arquivos</string>
     <string name="menu_item_ftp">FTP</string>
@@ -194,8 +190,7 @@ Este recurso requer uma conexão com a internet."</string>
     <string name="operation_decompressing">Descompactando...</string>
     <string name="operation_delete">Excluir</string>
     <string name="operation_delete_confirm_message">Excluir</string>
-    <string name="operation_delete_confirm_message_folder">"Excluindo a pasta você também excluirá todo o seu conteúdo.
-"</string>
+    <string name="operation_delete_confirm_message_folder">"Excluindo a pasta você também excluirá todo o seu conteúdo."</string>
     <string name="operation_deleting">Excluindo...</string>
     <string name="operation_deleting_detail">Excluindo arquivos (%1$d/%2$d)</string>
     <string name="operation_download_link">Gerar link de download</string>
@@ -274,6 +269,8 @@ Armazenamento obtido %1$s"</string>
     <string name="trash_box_link">Para limpar a lixeira, por favor visite <b>pan.xiaomi.com</b></string>
     <string name="trash_box_message1">Excluir arquivos desnecessários para liberar espaço.</string>
     <string name="trash_box_message2">Limpar lixeira para liberar espaço.</string>
+    <string name="ui_bar_txt_download_progress">%1$d arquivo(s) restante(s) para transferir</string>
+    <string name="ui_bar_txt_upload_progress">%1$d arquivo(s) restante(s) para envio</string>
     <string name="ui_filechange_btn_download">Transferir arquivos</string>
     <string name="ui_filechange_btn_upload">Enviar arquivo</string>
     <string name="ui_main_menu_option_sign_in">Conectar</string>

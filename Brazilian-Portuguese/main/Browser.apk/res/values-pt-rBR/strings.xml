@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="MIUI_startpage">Página Inicial</string>
     <string name="accessibility_button_addbookmark">Adicionar página aos favoritos</string>
@@ -350,14 +350,10 @@
     <string name="pref_content_search_engine">Definir mecanismo de pesquisa</string>
     <string name="pref_content_search_engine_summary">Escolher um mecanismo de pesquisa</string>
     <string name="pref_content_title">Conteúdo da página</string>
-    <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
     <string name="pref_data_preload_dialogtitle">Pré-carregando resultados de pesquisa</string>
     <string name="pref_data_preload_summary">Permitir ao naveg. pré-carr. result. de busca de alta confiança em segundo plano</string>
     <string name="pref_data_preload_title">Pré-carreg. dos resultados da pesquisa</string>
-    <string name="pref_data_preload_value_always">ALWAYS</string>
-    <string name="pref_data_preload_value_never">NEVER</string>
     <string name="pref_data_preload_value_never_summary">Nunca permitir que o navecador pré-carregue resultados de pesquisa em segundo plano</string>
-    <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
     <string name="pref_data_title">Gerenc. largura de banda</string>
     <string name="pref_default_text_encoding">Codificação de texto</string>
     <string name="pref_default_text_encoding_default">Latin-1</string>
@@ -402,15 +398,11 @@
     <string name="pref_general_sync_title">Sincronização</string>
     <string name="pref_general_title">Geral</string>
     <string name="pref_gesture_title">Gestos</string>
-    <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>
     <string name="pref_images_preload_dialogtitle">Pré-carregamento de imagens</string>
     <string name="pref_images_preload_summary">" Permitir carregamento antecipado de imagens quando suportado"</string>
     <string name="pref_images_preload_title">Pré-carregar imagens</string>
-    <string name="pref_images_preload_value_always">2</string>
     <string name="pref_images_preload_value_always_summary">Sempre permitir o pré-carregamento de imagens quando suportado</string>
-    <string name="pref_images_preload_value_never">0</string>
     <string name="pref_images_preload_value_never_summary">Nunca permitir o pré-carregamento de imagens quando suportado</string>
-    <string name="pref_images_preload_value_wifi_only">1</string>
     <string name="pref_images_preload_value_wifi_only_summary">Permitir de forma inteligente o pré-carregamento de imagens quando suportado</string>
     <string name="pref_inverted">Renderização invertida</string>
     <string name="pref_inverted_category">Renderização de tela invertida</string>
@@ -423,14 +415,10 @@
     <string name="pref_lab_quick_controls">Controles rápidos</string>
     <string name="pref_lab_quick_controls_summary">Deslize da esq. ou dir. p/ abrir contr. rápidos e ocultar aplic. e barras de URL</string>
     <string name="pref_lab_title">Google Labs</string>
-    <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
     <string name="pref_link_prefetch_dialogtitle">Pré-carregamento de página da web</string>
     <string name="pref_link_prefetch_summary">Permitir que o navegador pré-carregue páginas relacionadas em segundo plano</string>
     <string name="pref_link_prefetch_title">Pré-carregamento de página da web</string>
-    <string name="pref_link_prefetch_value_always">ALWAYS</string>
-    <string name="pref_link_prefetch_value_never">NEVER</string>
     <string name="pref_link_prefetch_value_never_summary">Nunca permitir que o navegador pré-carregue páginas web secundárias em segundo plano</string>
-    <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
     <string name="pref_min_font_size">Tamanho mínimo da fonte</string>
     <string name="pref_min_font_size_value">%dpt</string>
     <string name="pref_privacy_clear_cache">Limpar cache</string>
@@ -480,14 +468,10 @@
     <string name="pref_ua_title">Gerenciar User Agent</string>
     <string name="pref_use_instant_search">Google Instant</string>
     <string name="pref_use_instant_search_summary">Use o Google Instant ao usar a Pesquisa Google para exibir resultados enquanto digita (o uso de dados pode aumentar).</string>
-    <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
     <string name="pref_video_preload_dialogtitle">Pré-carregamento de vídeo</string>
     <string name="pref_video_preload_summary">" Permite que navegador carregue vídeos antecipadamente quando o servidor permitir"</string>
     <string name="pref_video_preload_title">Pré-carregamento de vídeo</string>
-    <string name="pref_video_preload_value_always">ALWAYS</string>
-    <string name="pref_video_preload_value_never">NEVER</string>
     <string name="pref_video_preload_value_never_summary">Nunca permitir que o navegador pré-carregue vídeos em segundo plano</string>
-    <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
     <string name="pref_volume_key_enabled">Botões de volume</string>
     <string name="pref_volume_key_operation">Ação para botões de volume</string>
     <string name="pref_zoom_on_double_tap">Zoom em toque duplo</string>
@@ -545,7 +529,7 @@
     <string name="search_easou">Easou</string>
     <string name="search_google">Google</string>
     <string name="search_hint">Pesquisar ou digitar URL</string>
-    <string name="search_label">Browser</string>
+    <!-- <string name="search_label">Navegador</string> -->
     <string name="search_s139">139</string>
     <string name="search_settings_description">Favoritos e histórico da Web</string>
     <string name="search_shipin">Vídeo</string>
@@ -605,21 +589,14 @@
     <string name="warning">Atenção</string>
     <string name="webapp_add_to_desktop">Adicionar à tela inicial</string>
     <string name="webapp_addtodeskpop_append">App adicionado na tela inicial</string>
-    <string name="webapp_app0">miui.browser.webapps.app.WebApps$App0</string>
-    <string name="webapp_app1">miui.browser.webapps.app.WebApps$App1</string>
-    <string name="webapp_app2">miui.browser.webapps.app.WebApps$App2</string>
-    <string name="webapp_app3">miui.browser.webapps.app.WebApps$App3</string>
-    <string name="webapp_app4">miui.browser.webapps.app.WebApps$App4</string>
-    <string name="webapp_app5">miui.browser.webapps.app.WebApps$App5</string>
     <string name="webapp_app_name">MiMarket web store</string>
-    <string name="webapp_autohority">miui.browser.webapps</string>
     <string name="webapp_bottom_bar_addtodesk">Adicionar à tela inicial</string>
+    <string name="webapp_bottom_bar_already_addtodesk">Item já existente na tela inicial</string>
     <string name="webapp_bottom_bar_exit">Sair</string>
     <string name="webapp_bottom_bar_hidebar">Ocultar barra inferior</string>
     <string name="webapp_bottom_bar_openbrowser">Abrir no navegador</string>
     <string name="webapp_bottom_bar_showbar">Exibir barra inferior</string>
     <string name="webapp_dialog_title">Adicionar app à tela inicial</string>
-    <string name="webapp_pref_addtodesktop_popover">webapp_pref_addtodesktop_popover</string>
     <string name="webapp_splashview_loading">Carregando, aguarde...</string>
     <string name="webapp_web_forward">Avançar</string>
     <string name="webapp_web_goback">Voltar</string>
