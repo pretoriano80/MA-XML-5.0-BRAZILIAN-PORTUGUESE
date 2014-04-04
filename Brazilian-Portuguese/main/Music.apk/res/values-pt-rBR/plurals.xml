@@ -8,6 +8,10 @@
         <item quantity="other">%d músicas</item>
         <item quantity="one">%d música</item>
     </plurals>
+    <plurals name="Nhot_tracks_total">
+        <item quantity="other">%d músicas populares</item>
+        <item quantity="one">%d música popular</item>
+    </plurals>
     <plurals name="Ntracks_string">
         <item quantity="other">%d músicas</item>
         <item quantity="one">%d música</item>
@@ -60,6 +64,10 @@
         <item quantity="other">%d músicas adicionadas à lista de reprodução.</item>
         <item quantity="one">1 música adicionada à lista de reprodução.</item>
     </plurals>
+    <plurals name="Ntracks_remove_from_favorite_playlist">
+        <item quantity="other">%d músicas removidas da lista de reprodução</item>
+        <item quantity="one">1 música removida da lista de reprodução</item>
+    </plurals>
     <plurals name="Nsearch_results">
         <item quantity="other">%d resultados</item>
         <item quantity="one">%d resultado</item>
@@ -84,13 +92,9 @@
         <item quantity="other">%d músicas serão baixadas.</item>
         <item quantity="one">1 música será baixada.</item>
     </plurals>
-    <plurals name="Ntracks_remove_from_favorite_playlist">
-        <item quantity="other">%d músicas removidas da lista de reprodução.</item>
-        <item quantity="one">1 música removida da lista de reprodução.</item>
-    </plurals>
-    <plurals name="Nhot_tracks_total">
-        <item quantity="other">%d músicas top rated</item>
-        <item quantity="one">%d música top rated</item>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d dias restantes</item>
+        <item quantity="one">%d dia restante</item>
     </plurals>
     <plurals name="Nvip_expired_remind">
         <item quantity="other">Seu acesso a músicas de alta qualidade está prestes a expirar (%d dias restantes)</item>

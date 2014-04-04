@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="application_name">Live Wallpapers</string>
-    <string name="live_wallpaper_picker_title">Selecione o wallpaper</string>
+    <string name="live_wallpaper_picker_title">Selecionar plano de fundo</string>
     <string name="live_wallpaper_picker_label">Live Wallpapers</string>
     <string name="live_wallpaper_preview_title">Pré-visualização</string>
     <string name="configure_wallpaper">Configurar…</string>

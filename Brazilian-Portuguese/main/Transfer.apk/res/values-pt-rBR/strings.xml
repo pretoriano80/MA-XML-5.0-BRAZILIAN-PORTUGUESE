@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="about_to_receive">Prestes a receber</string>
-    <string name="about_to_send">Quero enviar arquivo(s)</string>
+    <string name="about_to_send">Enviar arquivos</string>
     <string name="add_download_task_failed">Falha ao adicionar tarefa de download! Por favor, tente novamente!</string>
     <string name="add_to_download">Adicionado à fila de download</string>
     <string name="add_to_restore">Adicionado à restauração</string>
@@ -11,8 +11,8 @@
     <string name="app_name">Transfer</string>
     <string name="back">Voltar</string>
     <string name="button_last">Iniciar agora</string>
-    <string name="button_next">Seguinte</string>
-    <string name="button_pre">Voltar</string>
+    <string name="button_next">Próximo</string>
+    <string name="button_pre">Anterior</string>
     <string name="can_not_find_explorer">Gerenciador de arquivos não encontrado, ele está instalado?</string>
     <string name="can_not_send_this_file">Falha ao enviar arquivo!</string>
     <string name="cancel">Cancelar</string>
@@ -79,14 +79,14 @@
     <string name="history_send">Histórico de envio</string>
     <string name="init_xiaomi_account">Inicializando conta Xiaomi...</string>
     <string name="input_device_name">Digite o nome do telefone</string>
-    <string name="input_device_name_tip">Use o Transfer para enviar arquivos, para interconectividade bluetooth e estabelecer ligações hotspot compartilhadas. Outros telefones verão o nome do seu telefone.</string>
+    <string name="input_device_name_tip">Este nome será visível para outros dispositivos com o rádio Bluetooth ativado.</string>
     <string name="load_file_error">Falha ao carregar arquivo!</string>
     <string name="loading_file">Carregando arquivo...</string>
     <string name="login_failed">Falha no login da conta Xiaomi!</string>
     <string name="mishare_app_name">MiShare</string>
     <string name="miui_device_default_name">MIUIBrasil</string>
     <string name="network_not_connected">Conexão de rede indisponível! Por favor tente novamente.</string>
-    <string name="no_content">Sem conteúdo</string>
+    <string name="no_content">Nenhum registro.</string>
     <string name="no_selected">Nenhum arquivo selecionado</string>
     <string name="no_transfer_history">Sem histórico de transferências</string>
     <string name="not_support_this_type">Tipo de arquivo não suportado.</string>
@@ -113,12 +113,12 @@
     <string name="press_to_view">Toque para visualizarClick to view</string>
     <string name="press_to_view_receive_history">Visualizar histórico de recebimentos</string>
     <string name="press_to_view_send_history">Visualizar histórico</string>
-    <string name="receive">Receber</string>
+    <string name="receive">Receber arquivos</string>
     <string name="receive_cancel_tip">Recebimento incompleto. Tem a certeza de que deseja parar a transferência e sair?</string>
     <string name="receive_cancel_tip2">Cancelar o recebimento. Recebido %1$d / %2$d arquivos(s)</string>
     <string name="receive_canceled">Cancelado</string>
     <string name="receive_cannot_created_file">Falha ao criar arquivo</string>
-    <string name="receive_files">Receber arquivo(s)</string>
+    <string name="receive_files">Receber arquivos</string>
     <string name="receive_finish">Recebimento completo</string>
     <string name="receive_finish_tip">Recebido $1%d arquivo(s):</string>
     <string name="receive_from">Recebido de:</string>
@@ -164,8 +164,8 @@
     <string name="send_to">Enviar para:</string>
     <string name="send_uncompleted">Envio incompleto!</string>
     <string name="sent">Enviar</string>
-    <string name="settings_auto_pair_sender_summary">Pareamento automático de áudio com remetente/destinatário</string>
-    <string name="settings_auto_pair_sender_title">Pareamento automático de áudio do remetente</string>
+    <string name="settings_auto_pair_sender_summary">Efetua o pareamento por áudio com o remetente ou destinatário dos arquivos</string>
+    <string name="settings_auto_pair_sender_title">Pareamento automático de áudio</string>
     <string name="settings_connect">Configurações de conexão</string>
     <string name="settings_label">Configurações</string>
     <string name="settings_photo">Avatar</string>
@@ -188,9 +188,9 @@
     <string name="support_tip">Ao conectar o AnyShare fornecerá suporte técnico</string>
     <string name="title_createfolder">Nova pasta</string>
     <string name="title_selectfile_num">%s arquivos selecionados</string>
-    <string name="title_step_one">1. Os arquivos podem ser transferidos rapidamente sem o uso de conexão de rede e não utilizará o seu plano de dados</string>
-    <string name="title_step_three">3. Compartilhamento ilimitado com seus amigos</string>
-    <string name="title_step_two">2. Sistemas não-MIUI podem aproveitar o AnyShare para transferir arquivos entre sistemas</string>
+    <string name="title_step_one">1. Os arquivos podem ser transferidos rapidamente sem utilizar uma conexão com a internet.</string>
+    <string name="title_step_three">3. Transfer: Compartilhamento ilimitado com seus amigos!</string>
+    <string name="title_step_two">2. Sistemas não-MIUI podem aproveitar o AnyShare para transferir arquivos entre vários dispositivos.</string>
     <string name="trans_complete">Transferência concluída!</string>
     <string name="trans_failed">Falha na transferência!</string>
     <string name="trans_paused">Transferência em pausa</string>
@@ -208,7 +208,7 @@
     <string name="wait_for_upload_to_restore">Aguardando restauração para enviar para o MiDrive, por favor aguarde.</string>
     <string name="wait_login">Aguardando o login</string>
     <string name="wait_net">Aguardando rede</string>
-    <string name="wait_sdcard">Aguardando armazenamento USB</string>
+    <string name="wait_sdcard">Aguardando cartão SD</string>
     <string name="wait_wifi">Aguardando rede Wi-Fi</string>
     <string name="wait_wifi_to_download">Aguardar rede Wi-Fi para efetuar o download automático dos arquivos</string>
     <string name="wait_wifi_to_upload">Aguardar rede Wi-Fi para efetuar o envio automático dos arquivos</string>

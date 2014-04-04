@@ -8,7 +8,7 @@
     <string name="auto_backup">Backup automático</string>
     <string name="auto_backup_all_user_apps">Todos os aplicativos</string>
     <string name="auto_backup_choose">Backup</string>
-    <string name="auto_backup_choose_empty">Sem backups</string>
+    <string name="auto_backup_choose_empty">Nenhum backup</string>
     <string name="auto_backup_choose_title">Backup automático</string>
     <string name="auto_backup_date">Frequência de backup (dias)</string>
     <string name="auto_backup_only_wifi">Usar somente em Wi-Fi</string>
@@ -58,7 +58,7 @@
     <string name="cloud_app_backup_date">"Salvo em "</string>
     <string name="cloud_app_backup_pending">Pendente...</string>
     <string name="cloud_app_backup_progress">Efetuando backup...</string>
-    <string name="cloud_app_backup_summary">Efetuar backup automático de apps e dados do usuário quando o telefone estiver carregando e conectado a uma rede Wi-Fi</string>
+    <string name="cloud_app_backup_summary">Efetuar backup automático de aplicativos e dados do usuário quando o telefone estiver carregando e conectado a uma rede Wi-Fi</string>
     <string name="cloud_app_backup_title">Backup na MiCloud</string>
     <string name="cloud_app_check_data">Consultando dados da MiCloud...</string>
     <string name="cloud_app_check_data_fail">Falha na consulta de dados da MiCloud</string>
@@ -77,7 +77,7 @@
     <string name="cloud_app_load_data">Consultando lista de backups...</string>
     <string name="cloud_app_load_data_timeout">Tempo esgotado consultando dados da MiCloud</string>
     <string name="cloud_app_loading_with_mobile_network_prompt">A rede de dados móveis será utilizada. Deseja continuar com a operação?</string>
-    <string name="cloud_app_mine">Apps transferidos</string>
+    <string name="cloud_app_mine">Aplicativos transferidos</string>
     <string name="cloud_app_name">Backup na Nuvem</string>
     <string name="cloud_app_no_data">Sem dados.</string>
     <string name="cloud_app_no_network">Rede indisponível</string>
@@ -90,8 +90,8 @@
     <string name="cloud_app_remove_error">Falha ao excluir!</string>
     <string name="cloud_app_remove_pending">Aguardando a exclusão...</string>
     <string name="cloud_app_remove_progress">Excluindo...</string>
-    <string name="cloud_app_remove_prompt">%1$s de dados serão excluídcos. Você deseja continuar?</string>
-    <string name="cloud_app_restore_action_bar_title">%1$s de dados foram salvos</string>
+    <string name="cloud_app_remove_prompt">%1$s e seus dados serão excluídos. Você deseja continuar?</string>
+    <string name="cloud_app_restore_action_bar_title">Backup de %1$s</string>
     <string name="cloud_app_restore_app_and_data">Restaurar apps e dados do usuário</string>
     <string name="cloud_app_restore_cancel">Cancelar restauração</string>
     <string name="cloud_app_restore_cancel_prompt_message">"Restauração incompleta, pressione OK para cancelar a restauração"</string>
@@ -206,7 +206,7 @@ http://www.miliao.com
     <string name="sc_unauthorized">Certificado inválido</string>
     <string name="sdcard_no_enough_space">Não há espaço suficiente no cartão SD. Libere espaço no cartão e tente novamente.</string>
     <string name="sdcard_no_enough_space_message">O espaço livre no cartão SD é menor do que 50MB, o backup pode falhar. Continuar?</string>
-    <string name="sdcard_unmounted">Armazenamento USB desmontado ou indisponível!</string>
+    <string name="sdcard_unmounted">Cartão SD desmontado ou indisponível!</string>
     <string name="select_all">Sel. todos</string>
     <string name="select_backup_item">Selecionar item</string>
     <string name="service_stoped">Serviço parado</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Anti-Spam</string>
+    <string name="app_name">Lista de Bloqueio</string>
     <string name="bl_block_info" formatted="false">Bloqueado: %d chamadas | %d mensagens</string>
     <string name="bl_no_blacklist">Nenhum número bloqueado</string>
     <string name="bl_no_block_call">Nenhuma chamada bloqueada</string>
@@ -10,15 +10,15 @@
     <string name="dlg_add_manual_hint">Adicionar número de telefone</string>
     <string name="dlg_add_manual_ok">Adicionar</string>
     <string name="dlg_bl_add_manual">Adicionar número à Lista Negra</string>
-    <string name="dlg_clear_all_call">Limpar todas as chamadas bloqueadas?</string>
-    <string name="dlg_clear_all_ok">Limpar</string>
-    <string name="dlg_clear_all_sms">Limpar todas as mensagens bloqueadas?</string>
-    <string name="dlg_clear_blacklist">Limpar toda a Lista Negra?</string>
-    <string name="dlg_clear_blacklist_ok">Limpar</string>
-    <string name="dlg_clear_current_call">Limpar todas as chamadas bloqueadas deste número?</string>
-    <string name="dlg_clear_current_ok">Limpar</string>
-    <string name="dlg_clear_current_sms">Limpar todas as mensagens bloqueadas deste número?</string>
-    <string name="dlg_delete_keyword">Remover palavras-chave selecionadas?</string>
+    <string name="dlg_clear_all_call">Excluir todas as chamadas bloqueadas?</string>
+    <string name="dlg_clear_all_ok">Excluir</string>
+    <string name="dlg_clear_all_sms">Excluir todas as mensagens bloqueadas?</string>
+    <string name="dlg_clear_blacklist">Excluir toda a Lista Negra?</string>
+    <string name="dlg_clear_blacklist_ok">Excluir</string>
+    <string name="dlg_clear_current_call">Excluir todas as chamadas bloqueadas deste número?</string>
+    <string name="dlg_clear_current_ok">Excluir</string>
+    <string name="dlg_clear_current_sms">Excluir todas as mensagens bloqueadas deste número?</string>
+    <string name="dlg_delete_keyword">Excluir palavras-chave selecionadas?</string>
     <string name="dlg_edit_keyword">Editar palavra-chave</string>
     <string name="dlg_import_blacklist">Adicionando à Lista Negra</string>
     <string name="dlg_import_whitelist">Adicionando à Lista VIP</string>
@@ -40,18 +40,18 @@
     <string name="menu_bl_add_contact">Contatos recentes</string>
     <string name="menu_bl_add_manual">Adicionar</string>
     <string name="menu_bl_call_log">Chamadas bloqueadas</string>
-    <string name="menu_bl_clear">Limpar Lista Negra</string>
+    <string name="menu_bl_clear">Excluir Lista Negra</string>
     <string name="menu_bl_remove">Desbloquear</string>
     <string name="menu_bl_sms_log">Mensagens bloqueadas</string>
     <string name="menu_call">Chamar</string>
-    <string name="menu_clear_all_call">Limpar as chamadas bloqueadas</string>
-    <string name="menu_clear_all_sms">Limpar as mensagens bloqueadas</string>
-    <string name="menu_clear_current_call">Limpar as chamadas bloqueadas deste número</string>
-    <string name="menu_clear_current_sms">Limpar as mensagens bloqueadas deste número</string>
+    <string name="menu_clear_all_call">Excluir as chamadas bloqueadas</string>
+    <string name="menu_clear_all_sms">Excluir as mensagens bloqueadas</string>
+    <string name="menu_clear_current_call">Excluir as chamadas bloqueadas deste número</string>
+    <string name="menu_clear_current_sms">Excluir as mensagens bloqueadas deste número</string>
     <string name="menu_edit">Editar</string>
     <string name="menu_mark">Relatar SPAM</string>
-    <string name="menu_no_block">DesbloquearNão bloquear</string>
-    <string name="menu_remove">Remover</string>
+    <string name="menu_no_block">Desbloquear</string>
+    <string name="menu_remove">Excluir</string>
     <string name="menu_restore">Restaurar para caixa de entrada</string>
     <string name="menu_sms">Enviar mensagem</string>
     <string name="st_advanced_setting_group">Avançado</string>
@@ -60,7 +60,7 @@
     <string name="st_block_private_call_button">Bloquear números privados</string>
     <string name="st_block_setting_group">Configuração da Lista Negra</string>
     <string name="st_block_setting_title">Chamadas e Mensagens</string>
-    <string name="st_block_title">Tipo de bloqueio</string>
+    <string name="st_block_title">Bloquear tudo</string>
     <string name="st_block_unknown_call">Bloquear números desconhecidos</string>
     <string name="st_block_unknown_sms">Bloquear SMS desconhecidas</string>
     <string name="st_call_group">Chamadas</string>
@@ -72,7 +72,7 @@
     <string name="st_filter_sms_button">Filtro de mensagens</string>
     <string name="st_mute_all">Silenciar chamadas e mensagens</string>
     <string name="st_mute_block">Silenciar chamadas e bloquear mensagens</string>
-    <string name="st_mute_title">Não tocar ou vibrar</string>
+    <string name="st_mute_title">Somente silenciar alertas</string>
     <string name="st_other_setting_group">Outros ajustes</string>
     <string name="st_settings_name">Configurações</string>
     <string name="st_show_block_notification">Exibir alerta de bloqueio</string>

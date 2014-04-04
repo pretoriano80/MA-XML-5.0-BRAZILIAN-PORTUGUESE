@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ContactScreen">Adic./Editar contatos do SIM</string>
     <string name="ExportContactScreen">Exportar contatos para cartão SIM</string>
-    <string name="absent_num">ABSENT NUMBER</string>
+    <string name="accept_modify_call_request_prompt">Aceitar solicitação de modificação de número?</string>
     <string name="accessibility_call_muted">Chamada sem áudio.</string>
     <string name="accessibility_speakerphone_enabled">Viva-voz ativado.</string>
     <string name="addSimEntries">Adic. contato no SIM</string>
@@ -37,7 +37,6 @@
     <string name="answer_miui">Atender</string>
     <string name="answer_state_setting_summary">Configurações de silenciar ao virar, sensor de proximidade etc.</string>
     <string name="answer_state_setting_title">Chamadas recebidas</string>
-    <string name="answer_state_setting_title_miui">Configurações de chamadas recebidas</string>
     <string name="answer_widget_dialog_title_miui">Gesto de atendimento</string>
     <string name="answer_widget_sliding_horizontal_miui">Deslizar na horizontal</string>
     <string name="answer_widget_sliding_vertical_miui">Deslizar na vertical</string>
@@ -122,6 +121,7 @@
     <string name="callFailed_dsac_restricted_emergency">As chamadas de emergência são restringidas pelo controle de acesso.</string>
     <string name="callFailed_dsac_restricted_normal">As chamadas normais são restringidas pelo controle de acesso.</string>
     <string name="callFailed_fdn_only">As chamadas enviadas são restringidas pelo FDN.</string>
+    <string name="callFailed_incoming_cb_enabled">O grupo bloqueou todas as chamadas recebidas.</string>
     <string name="callFailed_invalid_credentials">Nome de usuário ou senha incorretos</string>
     <string name="callFailed_limitExceeded">Limite de ACM excedido</string>
     <string name="callFailed_noSignal">Sem sinal</string>
@@ -138,18 +138,20 @@
     <string name="callUnanswered_forwarded">Chamada perdida e encaminhada</string>
     <string name="call_assistant_miui">Assistente de discagem</string>
     <string name="call_forwarding_number_hint_miui">Insira o número para encaminhar a chamada</string>
-    <string name="call_forwarding_settings">Encaminhamento de chamada</string>
+    <string name="call_forwarding_settings">Encaminhamento de chamadas</string>
+    <string name="call_forwarding_settings_miui">Configurar encaminhamento</string>
     <string name="call_ind_services">Serviços Independentes</string>
     <string name="call_lost">A chamada foi perdida.</string>
+    <string name="call_lost_title">Chamada perdida</string>
     <string name="call_number">Para:</string>
     <string name="call_record_button_label">Gravando %s</string>
+    <string name="call_record_error_access">Impossível gravar no modo Convidado</string>
     <string name="call_record_notification_message_low_space_miui">A gravação foi interrompida por falta de espaço, toque para ver %s.</string>
     <string name="call_record_notification_message_miui">Toque para ver %s.</string>
     <string name="call_record_notification_message_sd_unmounted_miui">A gravação foi interrompida pois o cartão SD foi desmontado.</string>
     <string name="call_record_notification_message_start_failed">Falha ao iniciar gravação.</string>
     <string name="call_record_notification_title_error_miui">Falha ao gravar chamada</string>
     <string name="call_record_notification_title_miui">Gravação de chamada concluída</string>
-    <string name="call_record_path_name_of_sdcard_miui">Cartão SD</string>
     <string name="call_record_sd_error_miui">Erro ao acessar cartão SD!</string>
     <string name="call_record_sd_space_low_miui">O cartão SD está com pouco espaço livre. Tente novamente após liberar espaço no cartão SD</string>
     <string name="call_record_setting_miui">Configuração de gravação</string>
@@ -161,9 +163,11 @@
     <string name="call_settings_category_miui">Configurações de chamada</string>
     <string name="call_settings_miui">Configurações de chamada</string>
     <string name="call_title_redialing_with_times_miui">Rediscando %d vezes</string>
+    <string name="call_type">CallType</string>
+    <string name="call_type_title">Tipo de Chamada IMS</string>
     <string name="call_waiting_sum_miui">Durante uma chamada, notificar-me de chamadas em espera</string>
     <string name="call_waiting_tone_continuously_miui">Reproduzir tom continuamente</string>
-    <string name="call_waiting_tone_stop_summary" />
+    <string name="call_waiting_tone_stop_summary"/>
     <string name="call_waiting_tone_title_miui">Tom de chamada em espera</string>
     <string name="call_waiting_tone_twice_and_vibrate_miui">Reproduzir tom e vibrar duas vezes</string>
     <string name="call_waiting_tone_twice_only_miui">Reproduzir tom por duas vezes</string>
@@ -175,11 +179,12 @@
     <string name="callind_multi_sim">Selecionar Operadora</string>
     <string name="calling_via_template">Chamando via %s</string>
     <string name="calling_via_template_miui">"Chamando via ^1 
-"</string>
+"<b>^2</b></string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_call">Cancelar</string>
-    <string name="card_01">Cartão 1</string>
-    <string name="card_02">Cartão 2</string>
+    <string name="card_01">SIM 1</string>
+    <string name="card_02">SIM 2</string>
+    <string name="card_03">SIM 3</string>
     <string name="card_title_MOcall_forwarding">Chamada de saída encaminhada</string>
     <string name="card_title_MTcall_forwarding">Encaminhando chamada recebida</string>
     <string name="card_title_call_deflected">Chamada rejeitada</string>
@@ -307,6 +312,8 @@
     <string name="default_contacts_countrycode_hint_miui">Por exemplo: 55</string>
     <string name="default_contacts_countrycode_miui">Código de país padrão para contatos</string>
     <string name="default_contacts_countrycode_sum_miui">Define o código de país padrão para seus contatos: %s</string>
+    <string name="default_ims_call_type">Voz</string>
+    <string name="default_notification_description">Toque padrão (%1$s)</string>
     <string name="default_port">5060</string>
     <string name="default_preference_summary">&lt;Não definido></string>
     <string name="default_transport">UDP</string>
@@ -324,12 +331,16 @@
     <string name="description_call_recording_miui">Chamada sendo gravada.</string>
     <string name="description_delete_button">backspace</string>
     <string name="description_dial_button">discar</string>
+    <string name="description_direction_down_left">Inferior esquerdo</string>
+    <string name="description_direction_down_right">Inferior direito</string>
     <string name="description_direction_left">Esquerda para %s.</string>
     <string name="description_direction_left_miui">Esquerda para %s.</string>
     <string name="description_direction_right">Direita para %s.</string>
     <string name="description_direction_right_miui">Direita para %s.</string>
     <string name="description_direction_up">Para cima para %s.</string>
+    <string name="description_direction_up_left">Superior esquerdo</string>
     <string name="description_direction_up_miui">Cima para %s.</string>
+    <string name="description_direction_up_right">Superior direito</string>
     <string name="description_image_button_eight">oito</string>
     <string name="description_image_button_five">cinco</string>
     <string name="description_image_button_four">quatro</string>
@@ -344,6 +355,9 @@
     <string name="description_image_button_zero">zero</string>
     <string name="description_target_answer">Responder</string>
     <string name="description_target_answer_miui">Atender</string>
+    <string name="description_target_answer_rx_video">Atender com vídeo RX</string>
+    <string name="description_target_answer_tx_video">Atender com vídeo TX</string>
+    <string name="description_target_answer_video">Atender com vídeo</string>
     <string name="description_target_decline">Recusar</string>
     <string name="description_target_decline_miui">Recusar</string>
     <string name="description_target_send_sms">Enviar SMS</string>
@@ -351,6 +365,7 @@
     <string name="dial">Chamar</string>
     <string name="dial_emergency_empty_error">Chamada não enviada. Disque um número de emergência!</string>
     <string name="dial_emergency_error">Chamada não enviada. %s não é um número de emergência!</string>
+    <string name="dial_pad_autocomplete">Preenchimento automático do discador</string>
     <string name="dial_related_setting_catory_miui">Discar</string>
     <string name="dialerKeyboardHintText">Use o teclado para discar</string>
     <string name="disable">Desativar</string>
@@ -430,6 +445,7 @@
     <string name="enforce_proximity_title_miui">Reforçar sensores</string>
     <string name="enterName">Insira nome:</string>
     <string name="enterNumber">Insira telefone:</string>
+    <string name="enter_input">Telefone requerido. Tente novamente!</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin2_text_miui">PIN2</string>
     <string name="enter_pin_text">PIN do SIM:</string>
@@ -461,8 +477,7 @@
     <string name="fdn_failed">Falha na operação do FDN.</string>
     <string name="fdn_invalid_number">O FDN não foi atualizado porque o número não pode exceder 20 dígitos.</string>
     <string name="fdn_miui">Discagem Fixa (FDN)</string>
-    <string name="fdn_only_error">Operações permitidas somente para números da lista FDN.</string>
-    <string name="fdn_unavailable">Serviço FDN indisponível</string>
+    <string name="fdn_summary_miui">Restringir chamnadas efetuadas para a lista FDN, ou para números de certos DDDs</string>
     <string name="fw_change_failed">"Não foi possível alterar o número de encaminhamento.
 Entre em contato com sua operadora se o problema persistir."</string>
     <string name="fw_get_in_vm_failed">"Não foi possível recuperar e salvar as configurações de número atual de encaminhamento.
@@ -492,6 +507,11 @@ Mudar para o novo provedor?"</string>
     <string name="import_sim_entry_miui">Importar</string>
     <string name="importingSimContacts">Importando contatos do SIM</string>
     <string name="importing_sim_contacts_miui">Importando contatos do SIM...</string>
+    <string name="ims_accounts_title">Conta IMS</string>
+    <string name="ims_domain_address_title">Servidor IMS</string>
+    <string name="ims_edit_title">Detalhes da conta IMS</string>
+    <string name="ims_menu_discard">Descartar</string>
+    <string name="ims_menu_save">Salvar</string>
     <string name="in_calling">Chamando</string>
     <string name="in_sms">Mensagem</string>
     <string name="incall_call_type_label_sip">Chamada pela internet</string>
@@ -529,9 +549,9 @@ Mudar para o novo provedor?"</string>
     <string name="jituan_number_format_error_message_miui">%s somente suporta números e wildcards</string>
     <string name="labelCDMAMore">Configurações de chamada CDMA</string>
     <string name="labelCF">Encaminhamento</string>
-    <string name="labelCFB">Enc. quando ocupado</string>
-    <string name="labelCFNRc">Enc. se não acessível</string>
-    <string name="labelCFNRy">Enc. se não atendido</string>
+    <string name="labelCFB">Quando ocupado</string>
+    <string name="labelCFNRc">Se não acessível</string>
+    <string name="labelCFNRy">Se não atendido</string>
     <string name="labelCFU">Sempre encaminhar</string>
     <string name="labelCW">Chamada em espera</string>
     <string name="labelCallerId">ID da chamada</string>
@@ -553,7 +573,6 @@ Mudar para o novo provedor?"</string>
     <string name="label_rspdp">PIN de desbloqueio da operadora RUIM</string>
     <string name="label_sdp">PIN de desbloqueio do SIM</string>
     <string name="label_spdp">PIN de desbloqueio da operadora SIM</string>
-    <string name="label_subscription">para Operadora</string>
     <string name="lafs_disable">Programação de voos do aeroporto local desativada</string>
     <string name="lafs_enable">Programação de voos do aeroporto local ativada</string>
     <string name="list_language_dtitle">Idiomas</string>
@@ -572,6 +591,13 @@ Mudar para o novo provedor?"</string>
     <string name="manage_fdn_list">Lista FDN</string>
     <string name="manage_fdn_list_miui">Lista FDN</string>
     <string name="manage_fdn_list_sum_miui">Gerenciar lista de números</string>
+    <string name="managed_roaming_dialog_cancel_button">Não</string>
+    <string name="managed_roaming_dialog_content">Dispositivo conectado a uma rede limitada. Você deseja iniciar uma busca de redes?</string>
+    <string name="managed_roaming_dialog_ok_button">Sim</string>
+    <string name="managed_roaming_title">Roaming Assistido</string>
+    <string name="managed_roaming_title_sub1">Roaming Assistido (SIM1)</string>
+    <string name="managed_roaming_title_sub2">Roaming Assistido (SIM2)</string>
+    <string name="managed_roaming_title_sub3">Roaming Assistido (SIM3)</string>
     <string name="menu_add">Adicionar contato</string>
     <string name="menu_delete">Excluir contato</string>
     <string name="menu_deselect_all">Desfazer selec.</string>
@@ -601,11 +627,21 @@ Mudar para o novo provedor?"</string>
     <string name="mobile_network_setting">Configuração de Redes Móveis</string>
     <string name="mobile_networks">Configurações de rede para celular</string>
     <string name="mobile_networks_miui">Redes móveis</string>
+    <string name="modify_call_failure_str">"Falha ao modificar requisição de chamada
+"</string>
+    <string name="modify_call_option_title">Qual o tipo da chamada?</string>
+    <string name="modify_call_option_voice">Somente Voz</string>
+    <string name="modify_call_option_vt">VT</string>
+    <string name="modify_call_option_vt_rx">Receber Vídeo</string>
+    <string name="modify_call_option_vt_tx">Transmitir Vídeo</string>
+    <string name="modify_call_prompt_no">Não</string>
+    <string name="modify_call_prompt_yes">Sim</string>
     <string name="multi_category_disable">Várias categorias desativadas</string>
     <string name="multi_category_enable">Várias categorias ativadas</string>
     <string name="name">Nome</string>
     <string name="national_disable">Notícias nacionais desativadas</string>
     <string name="national_enable">Notícias nacionais ativadas</string>
+    <string name="network_forbidden_miui">%s (proibido)</string>
     <string name="network_manage_settings">Configuração da Rede Móvel</string>
     <string name="network_message">Mensagem de rede</string>
     <string name="network_query_error">Erro ao pesquisar redes.</string>
@@ -627,6 +663,7 @@ Mudar para o novo provedor?"</string>
     <string name="no_vm_number">Número correio de voz ausente</string>
     <string name="no_vm_number_msg">Não há um número correio de voz armazenado no cartão SIM.</string>
     <string name="no_voip">Chamada pela internet não suportada</string>
+    <string name="no_volte">Impossível efetuar chamada IMS</string>
     <string name="no_wifi_available">Você precisa estar conectado a uma rede Wi-Fi para realizar chamadas pela Internet (use as Configurações de redes sem fio e outras).</string>
     <string name="no_wifi_available_title">Nenhuma conexão Wi-Fi</string>
     <string name="not_a_valid_port">O número da porta deve estar entre 1000 e 65534.</string>
@@ -634,6 +671,7 @@ Mudar para o novo provedor?"</string>
     <string name="not_connected_miui">Não conectado</string>
     <string name="not_voice_capable">Chamada de voz não compatível</string>
     <string name="notification_action_end_call">Desligar</string>
+    <string name="notification_dialing">Chamando</string>
     <string name="notification_incoming_call">Recebendo chamada</string>
     <string name="notification_missedCallTicker">Chamada perdida de %s</string>
     <string name="notification_missedCallTitle">Chamada perdida</string>
@@ -667,15 +705,18 @@ Mudar para o novo provedor?"</string>
     <string name="old_pin_hint_miui">PIN atual</string>
     <string name="onHold">Em espera</string>
     <string name="onscreenAddCallText">Adicionar chamada</string>
+    <string name="onscreenAddParticipant">Adicionar participante</string>
     <string name="onscreenAudioText">Áudio</string>
     <string name="onscreenEndCallText">Finalizar</string>
     <string name="onscreenHoldText">Em espera</string>
     <string name="onscreenManageCallsText">Gerenciar chamadas</string>
     <string name="onscreenManageConferenceText">Gerenciar conferência</string>
     <string name="onscreenMergeCallsText">Mesclar chamadas</string>
+    <string name="onscreenModifyCallText">Modificar chamada</string>
     <string name="onscreenMuteText">Desativar som</string>
     <string name="onscreenShowDialpadText">Teclado</string>
     <string name="onscreenSwapCallsText">Trocar</string>
+    <string name="onscreenSwitchText">Trocar cartão SIM</string>
     <string name="onscreen_add_call_text_miui">Nova chamada</string>
     <string name="onscreen_audio_mode_bluetooth_miui">Bluetooth</string>
     <string name="onscreen_audio_mode_handset_miui">Telefone</string>
@@ -711,15 +752,21 @@ Mudar para o novo provedor?"</string>
     <string name="ota_title_activate">Ativar o seu telefone</string>
     <string name="ota_title_activate_success">O telefone está ativado.</string>
     <string name="ota_title_problem_with_activation">Problema com a ativação</string>
-    <string name="ota_touch_activate">"Uma chamada especial precisa ser feita para ativar o serviço do seu telefone. Depois de pressionar “Ativar”, ouça as instruções fornecidas para ativar o seu telefone."</string>
+    <string name="ota_touch_activate">"Uma chamada especial precisa ser feita para ativar o serviço do seu telefone. 
+    
+Depois de pressionar “Ativar”, ouça as instruções fornecidas para ativar o seu telefone."</string>
     <string name="ota_try_again">Tentar novamente</string>
-    <string name="ota_unsuccessful">"Seu telefone não foi ativado. Talvez seja necessário encontrar uma área com uma cobertura melhor (próximo de uma janela ou no lado de fora). Tente novamente ou ligue para o serviço de atendimento ao cliente para obter mais opções."</string>
+    <string name="ota_unsuccessful">"Seu telefone não foi ativado. 
+Talvez seja necessário encontrar uma área com uma cobertura melhor (próximo de uma janela ou no lado de fora).
+
+Tente novamente ou ligue para o serviço de atendimento ao cliente para obter mais opções."</string>
     <string name="other_settings">Outras configurações de chamada</string>
     <string name="other_settings_miui">Outras configurações</string>
     <string name="password">Password</string>
     <string name="password_title">Senha</string>
     <string name="pause_prompt_no">Não</string>
-    <string name="pause_prompt_str">"Enviando tons"</string>
+    <string name="pause_prompt_str">"Enviando tons
+"</string>
     <string name="pause_prompt_yes">Sim</string>
     <string name="payphone">Orelhão</string>
     <string name="phoneAppLabel">Telefone</string>
@@ -731,12 +778,14 @@ Mudar para o novo provedor?"</string>
     <string name="phone_numbers">Insira os números de telefone</string>
     <string name="pick_outgoing_call_phone_type">Chamar</string>
     <string name="pick_outgoing_sip_phone">Usar a conta para chamada pela internet:</string>
-    <string name="pin2_attempts">"Tentativas Restantes :"</string>
+    <string name="pin2_attempts">"
+Tentativas Restantes: "</string>
     <string name="pin2_changed">PIN2 alterado.</string>
     <string name="pin2_changed_miui">PIN2 alterado com sucesso</string>
     <string name="pin2_invalid">O FDN não foi atualizado porque você digitou um PIN incorreto.</string>
     <string name="pin2_invalid_or_name_is_too_long">A lista FDN não foi atualizada: PIN digitado incorreto ou muito grande.</string>
-    <string name="pin2_lock_warning_miui">"Todas as funções que exijam PIN2 estarão bloqueadas na próxima tentativa incorreta!"</string>
+    <string name="pin2_lock_warning_miui">"
+As funções relacionadas ao PIN2 serão bloqueadas após mais uma tentativa incorreta"</string>
     <string name="pin2_locked_message_miui">PIN2 incorreto, e as funções relacionadas ao PIN2 estão bloqueadas. Por favor altere seu PIN2 utilizando seu código PUK2.</string>
     <string name="pin2_or_fdn_invalid">O FDN não foi atualizado. O PIN2 estava incorreto, ou o número de telefone foi rejeitado.</string>
     <string name="pin2_unblocked">PIN2 Desbloqueado!</string>
@@ -744,14 +793,16 @@ Mudar para o novo provedor?"</string>
     <string name="pin_changed">PIN do SIM alterado.</string>
     <string name="pin_changed_miui">PIN do SIM alterado com sucesso</string>
     <string name="pin_failed">O PIN digitado estava incorreto.</string>
-    <string name="pin_lock_warning_miui">"Seu telefone será bloqueado caso insira uma senha incorreta novamente"</string>
+    <string name="pin_lock_warning_miui">"
+Seu telefone será bloqueado caso insira uma senha incorreta novamente"</string>
     <string name="pin_progress_change_pin2_miui">Alterando PIN2…</string>
     <string name="pin_progress_change_pin_miui">Alterando PIN…</string>
     <string name="pin_progress_set_fdn_lock_miui">Definindo estado de FDN…</string>
     <string name="pin_progress_set_icc_lock_miui">Definindo estado de ICC…</string>
     <string name="pin_progress_unlock_icc_miui">Desbloqueando cartão SIM…</string>
-    <string name="place_a_call1">Operadora 1</string>
-    <string name="place_a_call2">Operadora 2</string>
+    <string name="place_a_call1">SIM 1</string>
+    <string name="place_a_call2">SIM 2</string>
+    <string name="place_a_call3">SIM 3</string>
     <string name="port">Port</string>
     <string name="port_title">Número da porta</string>
     <string name="pref_custom_location_summary_miui">Customizar atribuições regionais e de número</string>
@@ -769,11 +820,20 @@ Mudar para o novo provedor?"</string>
     <string name="preferred_network_mode_gsm_only_summary">Modo de rede preferencial: somente GSM</string>
     <string name="preferred_network_mode_gsm_wcdma_summary">Modo de rede preferencial: GSM/WCDMA</string>
     <string name="preferred_network_mode_lte_cdma_evdo_summary">Modo de rede preferencial: CDMA+LTE/EVDO</string>
-    <string name="preferred_network_mode_lte_cdma_summary">Modo preferencial: LTE / CDMA</string>
     <string name="preferred_network_mode_lte_gsm_wcdma_summary">Modo de rede preferencial: GSM/WCDMA/LTE</string>
     <string name="preferred_network_mode_lte_summary">Modo de rede preferencial: LTE</string>
-    <string name="preferred_network_mode_lte_wcdma_summary">Modo de rede preferencial: LTE / WCDMA</string>
-    <string name="preferred_network_mode_summary">Alterar o modo de operação de rede</string>
+    <string name="preferred_network_mode_lte_wcdma_summary">Modo preferencial: LTE / CDMA</string>
+    <string name="preferred_network_mode_summary">Alterar o modo preferencial de rede</string>
+    <string name="preferred_network_mode_td_scdma_cdma_evdo_gsm_wcdma_summary">Modo de rede preferencial: TD-SCDMA/CDMA/EvDo/GSM/WCDMA</string>
+    <string name="preferred_network_mode_td_scdma_gsm_lte_summary">Modo de rede preferencial: TD-SCDMA/GSM/LTE</string>
+    <string name="preferred_network_mode_td_scdma_gsm_summary">Modo de rede preferencial: TD-SCDMA / GSM</string>
+    <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_summary">Modo de rede preferencial: TD-SCDMA/GSM/WCDMA/LTE</string>
+    <string name="preferred_network_mode_td_scdma_gsm_wcdma_summary">Modo de rede preferencial: TD-SCDMA/GSM/WCDMA</string>
+    <string name="preferred_network_mode_td_scdma_lte_cdma_evdo_gsm_wcdma_summary">Modo de rede preferencial: TD-SCDMA/LTE/CDMA/EvDo/GSM/WCDMA</string>
+    <string name="preferred_network_mode_td_scdma_lte_summary">Modo de rede preferencial: TD-SCDMA / LTE</string>
+    <string name="preferred_network_mode_td_scdma_only_summary">Modo de rede preferencial: Somente TD-SCDMA</string>
+    <string name="preferred_network_mode_td_scdma_wcdma_lte_summary">Modo de rede preferencial: TD-SCDMA/WCDMA/LTE</string>
+    <string name="preferred_network_mode_td_scdma_wcdma_summary">Modo de rede preferencial: TD-SCDMA / WCDMA</string>
     <string name="preferred_network_mode_title">Modo de rede</string>
     <string name="preferred_network_mode_wcdma_only_summary">Modo de rede preferencial: somente WCDMA</string>
     <string name="preferred_network_mode_wcdma_perf_summary">Modo de rede preferencial: WCDMA</string>
@@ -785,7 +845,7 @@ Mudar para o novo provedor?"</string>
     <string name="preferred_network_type_pref_entries_global_miui">Global</string>
     <string name="preferred_network_type_pref_entries_only_2g_miui">2G (Economia de energia)</string>
     <string name="preferred_network_type_pref_entries_only_3g_miui">Somente 3G</string>
-    <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
+    <string name="preferred_network_type_td_scdma_miui">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_title_miui">Seleção de tipo de rede</string>
     <string name="primary_account_summary_with">Conta principal. %s</string>
     <string name="private_num">Número privado</string>
@@ -798,7 +858,8 @@ Mudar para o novo provedor?"</string>
     <string name="pstn_phone">Chamada para celular</string>
     <string name="puk2_blocked">PUK2 bloqueado permanentemente.</string>
     <string name="puk2_requested">Senha incorreta. SIM bloqueado. PUK2 solicitado.</string>
-    <string name="puk_lock_warning_miui">"Seu cartão SIM será inutilizado caso a senha seja inserida incorretamente novamente"</string>
+    <string name="puk_lock_warning_miui">"
+Seu cartão SIM será inutilizado caso a senha seja inserida incorretamente novamente"</string>
     <string name="puk_requested">Senha incorreta. SIM bloqueado! PUK2 solicitado.</string>
     <string name="puk_unlock_failed">Falha na requisição de desbloqueio do PUK.</string>
     <string name="puk_unlock_success">PUK desbloqueado com sucesso</string>
@@ -811,8 +872,6 @@ Mudar para o novo provedor?"</string>
     <string name="regional_disable">Notícias regionais desativadas</string>
     <string name="regional_enable">Notícias regionais ativadas</string>
     <string name="register_automatically">Registro automático...</string>
-    <string name="register_network_failed_message_miui">"Impossível registrar-se na rede móvel selecionada. Você gostaria de efetuar uma busca automática?"</string>
-    <string name="register_network_failed_title_miui">Serviço indisponível</string>
     <string name="register_on_network">Registrando na %s…</string>
     <string name="registration_done">Registrado na rede.</string>
     <string name="registration_status_checking_status">Verificando status...</string>
@@ -830,8 +889,9 @@ Mudar para o novo provedor?"</string>
     <string name="reject_via_sms_summary_miui">Definir SMS a ser enviada durante uma rejeição de chamada</string>
     <string name="reject_via_sms_title_miui">Rejeitar com SMS</string>
     <string name="remember_my_choice">Sempre usar para realizar chamadas pela internet</string>
+    <string name="remove_ims_account">Excluir conta</string>
     <string name="remove_miui">Excluir</string>
-    <string name="remove_sip_account">Remover conta</string>
+    <string name="remove_sip_account">Excluir conta</string>
     <string name="removing_account">Removendo a conta...</string>
     <string name="requesting_corporate_unlock">Requisitando desbloqueio corporativo do SIM</string>
     <string name="requesting_nw_subset_unlock">Requisitando desbloqueio de sub-rede SIM...</string>
@@ -844,6 +904,7 @@ Mudar para o novo provedor?"</string>
     <string name="requesting_rsp_unlock">Requisitando desbloqueio de Provedor de Serviços UIM…</string>
     <string name="requesting_ruim_unlock">Requisitando desbloqueio de UIM…</string>
     <string name="requesting_sim_unlock">Requisitando desbloqueio do SIM</string>
+    <string name="requesting_sp_unlock">Solicitando o desbloqueio de rede…</string>
     <string name="requesting_unlock">Requisitando desbloqueio de rede...</string>
     <string name="reset_my_choice_hint">Você pode alterar qual conta de chamada pela Internet será usada por padrão na tela Telefone > Configurações > Configurações de chamada pela Internet > Contas.</string>
     <string name="respond_via_sms_canned_response_1">Não posso falar agora. Me manda um SMS, por favor?</string>
@@ -857,6 +918,7 @@ Mudar para o novo provedor?"</string>
     <string name="respond_via_sms_confirmation_format">Mensagem enviada para %s.</string>
     <string name="respond_via_sms_custom_message">Escreva sua resposta...</string>
     <string name="respond_via_sms_edittext_dialog_title">Resposta rápida</string>
+    <string name="respond_via_sms_menu_reset_default_activity">Restaurar aplicativos padrão</string>
     <string name="respond_via_sms_setting_summary"/>
     <string name="respond_via_sms_setting_title">Respostas rápidas</string>
     <string name="respond_via_sms_setting_title_2">Editar respostas rápidas</string>
@@ -865,6 +927,7 @@ Mudar para o novo provedor?"</string>
     <string name="restaurants_enable">Restaurantes ativados</string>
     <string name="retail_directory_disable">Diretório de varejo desativado</string>
     <string name="retail_directory_enable">Diretório de varejo ativado</string>
+    <string name="retry">Tentar novamente</string>
     <string name="reverting_settings">Revertendo configurações…</string>
     <string name="rhrpd_unlock_failed">Falha na requisição de desbloqueio hrpd do UIM.</string>
     <string name="rhrpd_unlock_success">UIM hrpd desbloqueado com sucesso.</string>
@@ -887,6 +950,8 @@ Mudar para o novo provedor?"</string>
     <string name="search_networks">Pesquisar redes</string>
     <string name="selectContact">selecionar contato</string>
     <string name="select_automatically">Escolher automaticamente</string>
+    <string name="select_network_automatic_hint_miui">"Falha ao registrar na rede selecionada,
+selecione a rede preferencial automaticamente"</string>
     <string name="sendSms">Enviar SMS</string>
     <string name="send_button">Enviar</string>
     <string name="send_keepalive">SendKeepAlive</string>
@@ -899,8 +964,9 @@ Mudar para o novo provedor?"</string>
     <string name="set_smsc_address_error_miui">Falha ao definir o número do centro de mensagens, tente novamente mais tarde.</string>
     <string name="set_smsc_address_timeout_miui">Tempo esgotado ao tentar obter o número do centro de mensagens, tente novamente mais tarde.</string>
     <string name="set_smsc_address_title_miui">Definir centro de mensagens</string>
-    <string name="set_sub_1">Operadora 1:</string>
-    <string name="set_sub_2">Operadora 2:</string>
+    <string name="set_sub_1">SIM 1:</string>
+    <string name="set_sub_2">SIM 2:</string>
+    <string name="set_sub_3">SIM 3:</string>
     <string name="set_sub_activate_failed">Falha ao ativar</string>
     <string name="set_sub_activate_not_supported">Ativação não suportada</string>
     <string name="set_sub_activate_success">Ativado com sucesso</string>
@@ -908,7 +974,10 @@ Mudar para o novo provedor?"</string>
     <string name="set_sub_deactivate_not_supported">Desativação não suportada</string>
     <string name="set_sub_deactivate_success">Desativado com sucesso</string>
     <string name="set_sub_failed">Falha ao definir operadora</string>
+    <string name="set_sub_global_activate_failed">Falha na ativação global</string>
+    <string name="set_sub_global_deactivate_failed">Falha na desativação global</string>
     <string name="set_sub_no_change">Sem alteração de operadora</string>
+    <string name="set_sub_not_supported_phone_in_call">Ativar ou desativar uma operadora não está disponível com uma chamada em andamento.</string>
     <string name="set_sub_success">Operadora definida com sucesso</string>
     <string name="set_subscription">Selecionar operadoras</string>
     <string name="set_subscription_error_atleast_one">Selecione ao menos uma operadora</string>
@@ -918,7 +987,7 @@ Mudar para o novo provedor?"</string>
     <string name="simContacts_empty">Não há contatos no seu cartão SIM.</string>
     <string name="simContacts_emptyLoading">Lendo a partir do cartão SIM…</string>
     <string name="simContacts_title">Selecione os contatos a serem importados</string>
-    <string name="sim_contact_dropdown_menu_deselect_all_miui">Limpar seleção</string>
+    <string name="sim_contact_dropdown_menu_deselect_all_miui">Desfazer</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">Selecionar tudo</string>
     <string name="sim_contact_name_miui">Nome</string>
     <string name="sim_contact_number_miui">Número</string>
@@ -954,8 +1023,9 @@ Mudar para o novo provedor?"</string>
     <string name="sip_receive_calls">Receber chamadas</string>
     <string name="sip_receive_calls_summary">Reduz a vida útil da bateria</string>
     <string name="sip_settings">Chamadas SIP</string>
+    <string name="sip_settings_miui">Configurações de chamada pela internet</string>
     <string name="sip_system_decide">Automático</string>
-    <string name="slide_to_decline_hint">Ignorar</string>
+    <string name="sliding_down_hint_miui">Deslizar para baixo para atender</string>
     <string name="sliding_target_hint_miui">Alvo de deslizamento</string>
     <string name="sliding_up_hint_miui">Deslizar para cima para rejeitar</string>
     <string name="sms_content">O conteúdo é</string>
@@ -968,14 +1038,17 @@ Mudar para o novo provedor?"</string>
     <string name="stk_cc_ss_to_ussd_error">Requisição SS alterada para requisição USSD.</string>
     <string name="stock_quotes_disable">Cotação de ações desativada</string>
     <string name="stock_quotes_enable">Cotação de ações ativada</string>
-    <string name="sub1LineNumber">Sub1 :</string>
-    <string name="sub2LineNumber">Sub2 :</string>
-    <string name="sub_1">SUB 1</string>
-    <string name="sub_2">SUB 2</string>
-    <string name="sub_one">Gerenciar Operadora 1</string>
-    <string name="sub_two">Gerenciar Operadora 2</string>
-    <string name="subone">Operadora 1</string>
-    <string name="subtwo">Operadora 2</string>
+    <string name="sub1">SIM 1</string>
+    <string name="sub1LineNumber">SIM 1:</string>
+    <string name="sub1_summary">Gerenciar SIM 1</string>
+    <string name="sub2">SIM 2</string>
+    <string name="sub2LineNumber">SIM 2:</string>
+    <string name="sub2_summary">Gerenciar SIM 2</string>
+    <string name="sub3">SIM 3</string>
+    <string name="sub3_summary">Gerenciar SIM 3</string>
+    <string name="sub_1">SIM 1</string>
+    <string name="sub_2">SIM 2</string>
+    <string name="sub_3">SIM 3</string>
     <string name="sum_carrier_select">Selecione um operador de rede</string>
     <string name="sum_cdma_call_settings">Configurações adicionais somente de chamada CDMA</string>
     <string name="sum_cfb_disabled">Desativado</string>
@@ -1020,16 +1093,19 @@ Mudar para o novo provedor?"</string>
     <string name="telocation_show_settings_miui">Configuração de exibição</string>
     <string name="third_party_account_summary">No momento, esta conta é usada pelo aplicativo %s.</string>
     <string name="throttle_current_usage">Uso de dados no período atual</string>
-    <string name="throttle_data_rate_reduced_subtext">"Máximo de %1$s excedido. Taxa de dados reduzida para %2$d Kb/s"</string>
+    <string name="throttle_data_rate_reduced_subtext">"Máximo de %1$s excedido. 
+Taxa de dados reduzida para %2$d Kb/s"</string>
     <string name="throttle_data_usage">Uso de dados</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) de %3$s do período máximo</string>
     <string name="throttle_help">Saiba mais</string>
     <string name="throttle_help_subtext">Mais informações sobre a política de uso de dados da rede móvel da sua operadora</string>
     <string name="throttle_rate">Política de taxa de dados</string>
     <string name="throttle_rate_subtext">Taxa de dados reduzida para %1$d Kb/s se o limite de uso de dados for excedido</string>
-    <string name="throttle_status_subtext">"%1$s (%2$d٪) de %3$s do período máximo. Próximo perído começa em %4$d dias (%5$s)"</string>
+    <string name="throttle_status_subtext">"%1$s (%2$d٪) de %3$s do período máximo. 
+Próximo perído começa em %4$d dias (%5$s)"</string>
     <string name="throttle_time_frame">Período de uso de dados</string>
-    <string name="throttle_time_frame_subtext">"%1$d٪ do ciclo expirou O próximo período começa em %2$d dias (%3$s)"</string>
+    <string name="throttle_time_frame_subtext">"%1$d٪ do ciclo expirou.
+O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="title_data_settings">Configuração de Dados Móveis</string>
     <string name="transport">Protocolo</string>
     <string name="transport_title">Tipo de transporte</string>
@@ -1038,6 +1114,7 @@ Mudar para o novo provedor?"</string>
     <string name="tty_mode_entries_off_miui">TTY Desligado</string>
     <string name="tty_mode_entries_vco_miui">TTY VCO</string>
     <string name="tty_mode_option_summary">Ativar modo TTY</string>
+    <string name="tty_mode_option_summary_miui">Definir modo TTY</string>
     <string name="tty_mode_option_title">Modo TTY</string>
     <string name="tty_mode_option_title_miui">Modo TTY</string>
     <string name="turn_off_auto_select_confirm_message_miui">O sinal e a rede móvel podem estar indisponíveis. Você tem certeza que deseja desativar esta função?</string>
@@ -1054,11 +1131,18 @@ Mudar para o novo provedor?"</string>
     <string name="updating_fdn_contact">Atualizando o número de chamadas fixas…</string>
     <string name="updating_settings">Atualizando configurações…</string>
     <string name="updating_title">Configurações de chamadas</string>
+    <string name="upgrade_vt_prompt">Você gostaria de alternar sua chamada para uma chamada de vídeo?</string>
+    <string name="upgrade_vt_rx_prompt">Você gostaria de alternar sua chamada para receber vídeos?</string>
+    <string name="upgrade_vt_tx_prompt">Você gostaria de alternar sua chamada para enviar vídeos?</string>
+    <string name="use_ims_default">UseImsDefault</string>
+    <string name="use_ims_default_summary">Utilizar IMS para todas as chamadas de voz</string>
+    <string name="use_ims_default_title">Sempre utilizar IMS</string>
     <string name="username">Usuário</string>
     <string name="username_title">Nome de usuário</string>
     <string name="ussdRunning">Código USSD em execução…</string>
     <string name="vibrate_on_ring_title">Vibrar quando estiver tocando</string>
-    <string name="vm_change_failed">"Não foi possível alterar o número do correio de voz. Entre em contato com sua operadora se o problema persistir."</string>
+    <string name="vm_change_failed">"Não foi possível alterar o número do correio de voz.
+Entre em contato com sua operadora se o problema persistir."</string>
     <string name="vm_changed">Número correio de voz alterado.</string>
     <string name="voice_privacy">Privacidade de voz</string>
     <string name="voice_privacy_miui">Privacidade de Voz</string>
@@ -1086,7 +1170,10 @@ Mudar para o novo provedor?"</string>
     <string name="voicemail_settings_number_hint_miui">Número do correio de voz</string>
     <string name="voicemail_settings_number_label">Número correio de voz</string>
     <string name="voicemail_settings_number_title_miui">Número</string>
-    <string name="wait_prompt_str">"Enviar os toques a seguir?"</string>
+    <string name="vt_init_fail_str">"Falha na inicialização do VT. Reduzindo chamada para VoLTE
+"</string>
+    <string name="wait_prompt_str">"Enviar os toques a seguir?
+"</string>
     <string name="wild_prompt_str">Substituir caractere curinga por</string>
     <string name="xdivert_active">Ativo</string>
     <string name="xdivert_button">Configuração de X-Divert</string>

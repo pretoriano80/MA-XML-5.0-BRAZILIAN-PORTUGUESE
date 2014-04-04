@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="activity_not_found">Impossível abrir anexo, aplicativo não encontrado.</string>
     <string name="activity_not_found_uri">Impossível encontrar aplicativo correspondente</string>
@@ -146,7 +146,7 @@
     <string name="flatshow_page_no">Edição %1$d</string>
     <string name="forward_from">Encaminhar de:</string>
     <string name="forward_prefix">"Enc.: "</string>
-    <string name="found_old_messages">Foram encontradas SMS de outras contas em seu telefone:%1$s Deseja fazer o upload para sua conta atual %2$s?</string>
+    <string name="found_old_messages">Foram encontradas SMS de outras contas no dispositivo:%1$s Deseja fazer o upload para sua conta atual %2$s?</string>
     <string name="found_old_messages_title">Upload de SMS</string>
     <string name="found_wild_messages">Foram encontradas SMS de outros Cartões SIM na nuvem:%s Deseja fazer o download?</string>
     <string name="found_wild_messages_title">Download de SMS</string>
@@ -272,8 +272,8 @@
     <string name="pref_advanced_settings_title">Opções avançadas</string>
     <string name="pref_collapse_sp_messages_summary">Combinar mensagens de serviço na mesma conversa</string>
     <string name="pref_edit_smsc_address">Centro de mensagens</string>
-    <string name="pref_forward_title">Forward</string>
-    <string name="pref_key_mx_feedback">Submit feedback</string>
+    <string name="pref_forward_title">Encaminhas</string>
+    <string name="pref_key_mx_feedback">Enviar feedback</string>
     <string name="pref_messages_to_save">Definir número de mensagens a serem salvas</string>
     <string name="pref_mms_settings_title">Mensagens multimídia (MMS)</string>
     <string name="pref_notification_settings_title">Notificações</string>
@@ -287,10 +287,9 @@
     <string name="pref_summary_mms_auto_retrieval">Recupera mensagens automaticamente</string>
     <string name="pref_summary_mms_read_reports">Solicita um relatório de leitura para cada mensagem enviada</string>
     <string name="pref_summary_mms_retrieval_during_roaming">Recupera mensagens automaticamente em roaming</string>
-    <string name="pref_summary_mx_feedback">"Ajude-nos a melhorar a MIUI!
-Reporte bugs e envie feedbacks diretamente para a Xiaomi.”</string>
+    <string name="pref_summary_mx_feedback">"Ajude-nos a melhorar a MIUI! Relate problemas e envie feedbacks diretamente para a Xiaomi.</string>
     <string name="pref_summary_new_message_popup">Receber automaticamente uma janela pop-up com mensagens de informação</string>
-    <string name="pref_summary_new_message_popup_when_secure">A janela pop-up é desativada quando o telefone for protegido por senha</string>
+    <string name="pref_summary_new_message_popup_when_secure">A janela pop-up é desativada quando o dispositivo for protegido por senha</string>
     <string name="pref_summary_notification_body_enabled">Visualizar mensagens na tela de bloqueio e na barra de notificação</string>
     <string name="pref_summary_notification_body_enabled_when_secure">Visualização de mensagens desabilitada quando o acesso for restrito</string>
     <string name="pref_summary_off_system_mms_priority">Outro app poderá receber broadcasts de MMS antes do aplicativo de sistema</string>
@@ -342,20 +341,20 @@ Reporte bugs e envie feedbacks diretamente para a Xiaomi.”</string>
     <string name="refresh">Atualizar</string>
     <string name="refresh_failed">A atualização falhou</string>
     <string name="refreshing">Atualizando...</string>
-    <string name="remove">Remover</string>
-    <string name="remove_music">Remover música</string>
-    <string name="remove_picture">Remover imagem</string>
-    <string name="remove_slide">Remover slide</string>
-    <string name="remove_text">Remover texto</string>
-    <string name="remove_video">Remover vídeo</string>
+    <string name="remove">Excluir</string>
+    <string name="remove_music">Excluir música</string>
+    <string name="remove_picture">Excluir imagem</string>
+    <string name="remove_slide">Excluir slide</string>
+    <string name="remove_text">Excluir texto</string>
+    <string name="remove_video">Excluir vídeo</string>
     <string name="replace">Substituir</string>
     <string name="replace_image">Substituir imagem</string>
     <string name="resent_message">Reenviar</string>
     <string name="resize_image_error_information">Esta imagem é muito grande para ser enviada, mesmo redimensionada.</string>
     <string name="restore_all_button_msg">Restaurar todas as mensagens deste número?</string>
     <string name="restore_blocked_message">Restaurar mensagem</string>
-    <string name="restore_to_phone_memory_failed">Falha ao restaurar para a memória do telefone!</string>
-    <string name="restored_to_phone_memory">"Restaurado para a memória do telefone"</string>
+    <string name="restore_to_phone_memory_failed">Falha ao restaurar para a memória do dispositivo!</string>
+    <string name="restored_to_phone_memory">"Restaurado para a memória do dispositivo"</string>
     <string name="save">Salvar</string>
     <string name="save_ringtone">Salvar como toque</string>
     <string name="save_to_sim">Salvar no cartão SIM</string>
@@ -396,7 +395,7 @@ Reporte bugs e envie feedbacks diretamente para a Xiaomi.”</string>
     <string name="sim_card1">SIM 1</string>
     <string name="sim_card2">SIM 2</string>
     <string name="sim_card_cloud">%s (Mensagem Cloud)</string>
-    <string name="sim_copy_to_phone_memory">Copiar para a memória do telefone</string>
+    <string name="sim_copy_to_phone_memory">Copiar para a memória do dispositivo</string>
     <string name="sim_delete">Excluir</string>
     <string name="sim_empty">Nenhuma mensagem no cartão SIM.</string>
     <string name="sim_full_body">Exclua algumas mensagens para criar espaço para mais.</string>
@@ -437,7 +436,7 @@ Reporte bugs e envie feedbacks diretamente para a Xiaomi.”</string>
     <string name="timed_message_expired_title_2">Enviar agora?</string>
     <string name="timed_message_in_total">... (%d no total)</string>
     <string name="timed_message_to">para</string>
-    <string name="title_collapse_sp_messages">Combinar mensagens do provedor de serviços</string>
+    <string name="title_collapse_sp_messages">Unir mensagens da operadora</string>
     <string name="title_date_type">Data e hora</string>
     <string name="title_timed_message_dialog">Configure a programação desta mensagem</string>
     <string name="to_address_label">"Para: "</string>
@@ -459,7 +458,8 @@ Reporte bugs e envie feedbacks diretamente para a Xiaomi.”</string>
     <string name="type_to_compose_text_or_leave_blank">Digite a mensagem ou deixe em branco</string>
     <string name="type_vcard">vCard</string>
     <string name="type_video">vídeo</string>
-    <string name="undelivered_msg_dialog_body">"Não foi possível enviar esta mensagem. Tentativa: %s."</string>
+    <string name="undelivered_msg_dialog_body">"Não foi possível enviar esta mensagem. 
+Tentativas: %s."</string>
     <string name="undelivered_msg_dialog_title">Mensagem não entregue</string>
     <string name="undelivered_sms_dialog_body">Não foi possível enviar esta mensagem.</string>
     <string name="unknown_num">Número desconhecido</string>

@@ -6,9 +6,11 @@
     <string name="all_numbers">Todos os números</string>
     <string name="app_label">Páginas Amarelas</string>
     <string name="balance_inquiry_default_sp_name">Operadora</string>
+    <string name="balance_inquiry_send_sms_fail_hint">"Failed to send SMS. Check your SIM card's status."</string>
     <string name="balance_inquiry_send_sms_hint">Uma mensagem SMS gratuita será enviada para verificar o seu saldo</string>
     <string name="balance_inquiry_send_sms_summmary">Verifique seu saldo</string>
     <string name="balance_inquiry_title">Informação de saldo</string>
+    <string name="call">Call</string>
     <string name="callrecordview_item_newcontact">Novo contato</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d seg</string>
     <string name="callrecordview_item_op_time_missed">Não conectado</string>
@@ -27,6 +29,7 @@
     <string name="custom_mark_category">Personalizado</string>
     <string name="data_error">Serviço atual indisponível, tente novamente mais tarde</string>
     <string name="delete">Excluir</string>
+    <string name="do_not_remind_me">Não me lembrar</string>
     <string name="express_inqiury_select_logistics">Selecionar operadora</string>
     <string name="express_inquiry">Rastreamento</string>
     <string name="express_inquiry_button_text">Rastrear</string>
@@ -50,10 +53,11 @@ Por favor verifique seu número de rastreamento."</string>
     <string name="general_favorite_title">Favoritos</string>
     <string name="general_menu_delete_recent">Excluiir recentes</string>
     <string name="general_menu_favorite">Favoritos</string>
-    <string name="general_menu_unfavorite">Remover dos favoritos</string>
+    <string name="general_menu_unfavorite">Excluir dos favoritos</string>
     <string name="general_no_yellow_page">A lista está vazia</string>
     <string name="general_recent_title">Recentes</string>
     <string name="general_yellow_page_title">Geral</string>
+    <string name="locating_fail">Falha ao localizar, por favor verifique seu serviço de localização</string>
     <string name="login_before_use">Por favor faça o login antes de acessar o serviço.</string>
     <string name="login_ok">Login</string>
     <string name="mark_number_custom_dialog_maintitle">Concordar ou desfazer marcação</string>
@@ -65,9 +69,9 @@ Por favor verifique seu número de rastreamento."</string>
     <string name="menu_copy_text">Copiar para área de transf.</string>
     <string name="menu_correct_yellow_page">Corrigir</string>
     <string name="menu_delete_call_log">Excluir registros</string>
-    <string name="menu_delete_one">Remover do registro de chamada</string>
+    <string name="menu_delete_one">Excluir do registro de chamada</string>
     <string name="menu_refresh">Atualizar</string>
-    <string name="menu_remove_black_list">Remover da blacklist</string>
+    <string name="menu_remove_black_list">Excluir da blacklist</string>
     <string name="mishop_web_payment_title">Checkout MiStore</string>
     <string name="navigation_search_all_cities">Todas as cidades</string>
     <string name="navigation_search_automatically_positioned_city">Cidade atual</string>
@@ -75,10 +79,16 @@ Por favor verifique seu número de rastreamento."</string>
     <string name="navigation_search_no_city_list">Nenhum dado encontrado!</string>
     <string name="navigation_search_positioning">Localizando...</string>
     <string name="navigation_search_positioning_failed">Falha ao localizar cidade</string>
+    <string name="nearby_no_yellow_page">No result nearby</string>
+    <string name="nearby_yellow_page_title">Nearby</string>
+    <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
     <string name="network_unavaliable">Rede indisponível, verifique as configurações de rede</string>
+    <string name="no_more_result">No more results</string>
+    <string name="notify_connect_every_time">Ask for networking permission every time</string>
     <string name="order_empty_hint">Nenhuma compra</string>
     <string name="order_id">Ref. de compra: %s</string>
     <string name="order_merchant_title">Minhas compras</string>
+    <string name="order_merchant_title_format">%1$s-%2$s</string>
     <string name="order_price">%s</string>
     <string name="order_status">%s</string>
     <string name="packages_no_package">Nenhum pacote recomendado</string>
@@ -104,6 +114,7 @@ Por favor verifique seu número de rastreamento."</string>
     <string name="recharge_history">Histórico de recarga</string>
     <string name="recharge_history_empty">Nenhum histórico.</string>
     <string name="recharge_input_phone_title">Insira o número de telefone (China mobile, China Unicom, ou China Telecom)</string>
+    <string name="recharge_my_phone_number">My number</string>
     <string name="recharge_order_actual_price">¥%s</string>
     <string name="recharge_order_id">ID da compra:</string>
     <string name="recharge_order_original_price">RMB%s</string>
@@ -116,10 +127,12 @@ Por favor verifique seu número de rastreamento."</string>
     <string name="recharge_payment_result_ok_summary">Confirme que este valor foi incluído em seu balanço total.</string>
     <string name="recharge_payment_result_ok_title">Adicionado RMB%s.</string>
     <string name="recharge_payment_result_progress_summary">Checando resultado do pagamento...</string>
+    <string name="recharge_phone_number_empty">The phone number you entered should not be empty</string>
     <string name="recharge_phone_number_error">Número de telefone inválido.</string>
     <string name="recharge_select_money_title">Selecione um valor</string>
     <string name="recharge_status_description">Status：</string>
     <string name="recharge_title">Recarregar</string>
+    <string name="recharge_unknown_number">Unknown</string>
     <string name="recharge_user_confirm_summary">"Você será cobrado em %1$s por RMB%2$s！ 
     
 Valor total: RMB%3$s"</string>
@@ -132,6 +145,11 @@ Valor total: RMB%3$s"</string>
     <string name="select_package_before_buy">Selecionar pacote</string>
     <string name="selected_category_format">%1$s(%2$d pessoas já marcaram, clique para concordar)</string>
     <string name="service_unavailiable">sua configuração está incorreta, por favor revise-as!</string>
+    <string name="sina_share_fail">Failed to send</string>
+    <string name="sina_share_pendding">Sending…</string>
+    <string name="sina_share_success">Sent</string>
+    <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
+    <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
     <string name="smart_antispam">Identificar números desconhecidos</string>
     <string name="title_about_yellow_page">Sobre</string>
     <string name="toast_finish_delete_call_log">Registro de chamada foi excluído</string>

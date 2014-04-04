@@ -59,7 +59,7 @@
     <string name="video_info_video_coding_label">Codec de Vídeo:</string>
     <string name="vp_VideoView_error_button">OK</string>
     <string name="vp_VideoView_error_network_not_available">Rede de dados indisponível</string>
-    <string name="vp_VideoView_error_text_invalid_progressive_playback">Desculpe, este vídeo não pode ser reproduzido neste telefone</string>
+    <string name="vp_VideoView_error_text_invalid_progressive_playback">Desculpe, este vídeo não pode ser reproduzido neste dispositivo</string>
     <string name="vp_VideoView_error_text_unknown">Desculpe, este vídeo não pode ser reproduzido</string>
     <string name="vp_VideoView_error_title">Impossível executar vídeo.</string>
 </resources>

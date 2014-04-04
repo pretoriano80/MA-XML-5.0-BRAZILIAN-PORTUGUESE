@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="account_delete_dlg_instructions_fmt">A conta \"%s\" será removida deste e-mail.</string>
-    <string name="account_delete_dlg_title">Remover conta</string>
+    <string name="account_delete_dlg_title">Excluir conta</string>
     <string name="account_duplicate_dlg_message_fmt">Você já está usando este nome de usuário para a conta \"%s\".</string>
     <string name="account_duplicate_dlg_title">Conta duplicada</string>
     <string name="account_folder_list_summary_drafts">Rascunhos</string>
@@ -18,11 +18,11 @@
     <string name="account_settings_action">Configurações da conta</string>
     <string name="account_settings_background_attachments_label">Fazer download dos anexos</string>
     <string name="account_settings_background_attachments_summary">Fazer download automát. dos anexos de mens. recentes via Wi-Fi</string>
-    <string name="account_settings_category_delete_account">Remover conta</string>
+    <string name="account_settings_category_delete_account">Excluir conta</string>
     <string name="account_settings_data_usage">Uso de dados</string>
     <string name="account_settings_default_label">Conta padrão</string>
     <string name="account_settings_default_summary">Enviar e-mail desta conta por padrão</string>
-    <string name="account_settings_delete_account_label">Remover conta</string>
+    <string name="account_settings_delete_account_label">Excluir conta</string>
     <string name="account_settings_description_label">Nome da conta</string>
     <string name="account_settings_edit_quick_responses_label">Respostas rápidas</string>
     <string name="account_settings_edit_quick_responses_summary">Edite o texto que você costuma inserir ao compor e-mails</string>
@@ -75,7 +75,7 @@
     <string name="account_setup_exchange_device_id_label">ID do aparelho celular</string>
     <string name="account_setup_exchange_headline">Configurações do servidor</string>
     <string name="account_setup_exchange_no_certificate">Nenhum</string>
-    <string name="account_setup_exchange_remove_certificate">Remover</string>
+    <string name="account_setup_exchange_remove_certificate">Excluir</string>
     <string name="account_setup_exchange_select_certificate">Selecionar</string>
     <string name="account_setup_exchange_server_label">Servidor</string>
     <string name="account_setup_exchange_ssl_label">Usar conexão segura (SSL)</string>
@@ -194,6 +194,7 @@
     <string name="attachment_not_found">Não foi possível fazer download do anexo.</string>
     <string name="bcc">Cco</string>
     <string name="body_hint">Escrever e-mail</string>
+    <string name="build_number">20080722-0001</string>
     <string name="cancel_action">Cancelar</string>
     <string name="cannot_move_multiple_accounts_toast">Não é possível mover porque a seleção contém várias contas.</string>
     <string name="cannot_move_protocol_not_supported_toast">A ação Mover não é suportada em contas POP3.</string>
@@ -220,12 +221,12 @@
     <string name="copy_email">Copiar endereço de e-mail</string>
     <string name="copy_number">Copiar número de telefone</string>
     <string name="create_action">Criar nova</string>
-    <string name="debug_clear_webview_cache">Limpar cache WebView</string>
+    <string name="debug_clear_webview_cache">Excluir cache WebView</string>
     <string name="debug_disable_graphics_acceleration_label">Desativar aceleração gráfica</string>
-    <string name="debug_enable_debug_logging_label">Ativar LOG extensivo?</string>
-    <string name="debug_enable_exchange_file_logging_label">Ativar log do exchange no cartão SD?</string>
-    <string name="debug_enable_exchange_logging_label">Ativar parser do log do exchange? (extensivo)</string>
-    <string name="debug_enable_strict_mode_label">Ativar modo estrito (com log)</string>
+    <string name="debug_enable_debug_logging_label">Ativar registros extensiovos?</string>
+    <string name="debug_enable_exchange_file_logging_label">Ativar histórico do exchange no cartão SD?</string>
+    <string name="debug_enable_exchange_logging_label">Ativar parser do histórico do exchange? (extensivo)</string>
+    <string name="debug_enable_strict_mode_label">Ativar modo estrito (com registro)</string>
     <string name="debug_force_one_minute_refresh_label">Forçar atualização por minuto de POP/IMAP</string>
     <string name="debug_title">Depurar</string>
     <string name="debug_version_fmt">Versão: %s</string>
@@ -284,7 +285,7 @@
     <string name="mailbox_name_display_unread">Não lido</string>
     <string name="mailbox_name_server_drafts">Drafts</string>
     <string name="mailbox_name_server_inbox">Inbox</string>
-    <string name="mailbox_name_server_junk">Junk</string>
+    <string name="mailbox_name_server_junk">Spam</string>
     <string name="mailbox_name_server_outbox">Outbox</string>
     <string name="mailbox_name_server_sent">Sent</string>
     <string name="mailbox_name_server_trash">Trash</string>
@@ -405,7 +406,7 @@ Cc: %4$s
     <string name="quick_responses_empty_view">Sem respostas rápidas</string>
     <string name="read_action">Marcar como lida</string>
     <string name="refresh_action">Atualizar</string>
-    <string name="remove_star_action">Remover estrela</string>
+    <string name="remove_star_action">Excluir estrela</string>
     <string name="reply_action">Responder</string>
     <string name="reply_all_action">Resp p/ todos</string>
     <string name="require_manual_sync_message">A sincronização em segundo plano para essa conta é desativada durante o roaming.</string>

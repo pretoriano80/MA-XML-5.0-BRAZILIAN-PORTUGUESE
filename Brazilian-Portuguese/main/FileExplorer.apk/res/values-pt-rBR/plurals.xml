@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Excluir %1$d arquivos</item>
+        <item quantity="one">Excluir 1 arquivo</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" and %1$d folders?"</item>
+        <item quantity="one">" and 1 folder?"</item>
+    </plurals>
     <plurals name="directory_item_count">
         <item quantity="other">%d itens</item>
         <item quantity="one">1 item</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d arquivos restando para download</item>
+        <item quantity="one">1 arquivo restando para download</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d arquivos restando para upload</item>
+        <item quantity="one">1 arquivo restando para upload</item>
     </plurals>
 </resources>

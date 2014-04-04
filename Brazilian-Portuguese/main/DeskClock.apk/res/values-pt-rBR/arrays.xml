@@ -30,9 +30,9 @@
         <item>30 minutos</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>Nenhum</item>
-        <item>Soneca</item>
-        <item>Finalizar</item>
+        <item>Não fazer nada</item>
+        <item>Ativar soneca</item>
+        <item>Finalizar alarme</item>
     </string-array>
     <string-array name="alarm_in_furture">
         <item>Alarme em menos de um minuto</item>

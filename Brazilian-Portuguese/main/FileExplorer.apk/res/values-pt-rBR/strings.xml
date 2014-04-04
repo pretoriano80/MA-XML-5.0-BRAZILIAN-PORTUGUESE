@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="account_bind_prompt">Migrando dados de usuário, aguarde...</string>
     <string name="add_task">Adicionar tarefas</string>
@@ -23,12 +23,13 @@
     <string name="cancel_app_garbage_cleanup">Não limpar</string>
     <string name="cancel_with_count_down">Cancelar (%d)</string>
     <string name="category_all">Tudo</string>
-    <string name="category_apk">Apps</string>
+    <string name="category_apk">Aplicativos</string>
     <string name="category_bluetooth">Bluetooth</string>
     <string name="category_default_number_text">(0)</string>
     <string name="category_document">Textos</string>
     <string name="category_favorite">Favoritos</string>
-    <string name="category_log">Log</string>
+    <string name="category_log">Logs</string>
+    <string name="category_mirouter">MiRouter</string>
     <string name="category_music">Música</string>
     <string name="category_other">Outros</string>
     <string name="category_picture">Imagens</string>
@@ -40,12 +41,13 @@
     <string name="clean_app_garbage">Apagar %d item(s)</string>
     <string name="clean_message">%1$s de espaço liberado</string>
     <string name="clean_title">Os arquivos permanecem na lixeira por 30 dias</string>
-    <string name="clean_trash_box">Limpar Lixeira</string>
+    <string name="clean_trash_box">Esvaziar Lixeira</string>
     <string name="cleaned">Limpeza concluída</string>
-    <string name="cleaning">Limpando...</string>
+    <string name="cleaning">Excluindo...</string>
     <string name="cleanup_complete">Concluído</string>
     <string name="cleanup_stopped">Limpeza interrompida</string>
     <string name="close">Fechar</string>
+    <string name="colon">": "</string>
     <string name="compress_fail">Falha ao compactar, o arquivo já existe.</string>
     <string name="compress_message">Compactar para...</string>
     <string name="compress_title">Compactar</string>
@@ -69,7 +71,6 @@
     <string name="delete_failed">Falha ao excluir</string>
     <string name="delete_file">Tem certeza que deseja excluir este arquivo?</string>
     <string name="delete_files">Tem certeza que deseja excluir os %1$d arquivos selecionados?</string>
-    <string name="delete_files_and_folders">Você tem certeza que deseja excluir os %1$d arquivo(s) e %2$d pasta(s)?</string>
     <string name="delete_folder">Tem certeza que deseja excluir esta pasta?</string>
     <string name="delete_folders">Tem certeza que deseja excluir as %1$d pastas selecionadas?</string>
     <string name="des_running_trans">Existem %1$d arquivo(s) para ser(em) transferido(s)</string>
@@ -80,14 +81,14 @@
     <string name="dialog_type_video">Vídeo</string>
     <string name="directory_info_divider">"  |  "</string>
     <string name="directory_no_item">Pasta vazia</string>
-    <string name="dlg_error_unmount_text">"Falha ao desmontar armazenamento USB. Tente novamente mais tarde."</string>
+    <string name="dlg_error_unmount_text">"Falha ao desmontar cartão SD. Tente novamente mais tarde."</string>
     <string name="download_current_progress">%1$d/100</string>
     <string name="download_failed">Falha ao descarregar</string>
     <string name="download_link_completed">Eu compartilhei %1$s via KuaiPan. Clique no link a seguir para acessá-lo:</string>
     <string name="downloading">Transferindo</string>
     <string name="empty_dir_cleanup_indication">%s lixo</string>
     <string name="empty_dir_title">Pastas vazias</string>
-    <string name="enable_sd_card">Nenhum Cartão SD disponível, por favor insira um cartão SD ou desative o Armazenamento USB</string>
+    <string name="enable_sd_card">Nenhum Cartão SD disponível, por favor insira um cartão SD ou desative o Cartão SD</string>
     <string name="error_filename_too_long">Nome de arquivo muito grande</string>
     <string name="error_info_cant_send_folder">Impossível enviar uma pasta</string>
     <string name="error_open_file_failed_no_app_found">Nenhum aplicativo encontrado para executar ação</string>
@@ -135,12 +136,15 @@
     <string name="kuaipan_label">KuaiPan</string>
     <string name="kuaipan_over_space">Seu KuaiPan está cheio.</string>
     <string name="kuaipan_prompt">Atenção</string>
-    <string name="kuaipan_prompt_message">" Servidor em manutenção, por favor, tente novamente mais tarde... "</string>
+    <string name="kuaipan_prompt_message">"
+ Servidor em manutenção, por favor, tente novamente mais tarde.
+ "</string>
     <string name="kuaipan_tech_support">Suporte técnico fornecido por Kingsoft KuaiPan</string>
     <string name="load_err">Falha ao carregar</string>
     <string name="loading">Carregando</string>
     <string name="local_cache_size">Cache local: %s</string>
-    <string name="login_reg_content">Armazene arquivos e sincronize-os entre múltiplos dispositivos.</string>
+    <string name="login_reg_content">"Armazene arquivos e sincronize-os entre múltiplos dispositivos.
+Este recurso requer uma conexão com a internet."</string>
     <string name="login_reg_content0">O KuaiPan é seu armazenamento na nuvem</string>
     <string name="menu_item_cleanup">Limpar Arquivos</string>
     <string name="menu_item_ftp">FTP</string>
@@ -190,11 +194,12 @@
     <string name="operation_decompressing">Descompactando...</string>
     <string name="operation_delete">Excluir</string>
     <string name="operation_delete_confirm_message">Excluir</string>
-    <string name="operation_delete_confirm_message_folder">"Excluindo a pasta você também excluirá todo o seu conteúdo."</string>
+    <string name="operation_delete_confirm_message_folder">"Excluindo a pasta você também excluirá todo o seu conteúdo.
+"</string>
     <string name="operation_deleting">Excluindo...</string>
     <string name="operation_deleting_detail">Excluindo arquivos (%1$d/%2$d)</string>
     <string name="operation_download_link">Gerar link de download</string>
-    <string name="operation_favorite">Favorito</string>
+    <string name="operation_favorite">Adicionar como favorito</string>
     <string name="operation_hide_sys">Não mostrar arquivos ocultos</string>
     <string name="operation_info">Detalhes</string>
     <string name="operation_move">Recortar</string>
@@ -211,7 +216,7 @@
     <string name="operation_resume_all">Iniciar todos</string>
     <string name="operation_send">Enviar</string>
     <string name="operation_show_sys">Mostrar arquivos ocultos</string>
-    <string name="operation_unfavorite">Remover dos Favoritos</string>
+    <string name="operation_unfavorite">Excluir dos Favoritos</string>
     <string name="pan_settting">Configurações do KuaiPan</string>
     <string name="paused">Pausado</string>
     <string name="pull_to_signin">Deslize para baixo para conectar-se.</string>
@@ -250,7 +255,7 @@ Armazenamento obtido %1$s"</string>
     <string name="stop_server">Parar</string>
     <string name="storage_internal">Armazenamento interno</string>
     <string name="storage_sd_card">Cartão SD</string>
-    <string name="storage_usb">Armazenamento USB</string>
+    <string name="storage_usb">Cartão SD</string>
     <string name="storage_warning">Armazenamento externo indisponível</string>
     <string name="sys_size">Espaço total %1$s</string>
     <string name="sys_size_title">Espaço total</string>
@@ -269,8 +274,6 @@ Armazenamento obtido %1$s"</string>
     <string name="trash_box_link">Para limpar a lixeira, por favor visite <b>pan.xiaomi.com</b></string>
     <string name="trash_box_message1">Excluir arquivos desnecessários para liberar espaço.</string>
     <string name="trash_box_message2">Limpar lixeira para liberar espaço.</string>
-    <string name="ui_bar_txt_download_progress">%1$d arquivo(s) restante(s) para transferir</string>
-    <string name="ui_bar_txt_upload_progress">%1$d arquivo(s) restante(s) para envio</string>
     <string name="ui_filechange_btn_download">Transferir arquivos</string>
     <string name="ui_filechange_btn_upload">Enviar arquivo</string>
     <string name="ui_main_menu_option_sign_in">Conectar</string>
@@ -279,7 +282,7 @@ Armazenamento obtido %1$s"</string>
     <string name="ui_main_toast_favorite_removed">Favorito(s) removido(s)</string>
     <string name="ui_main_toast_operation_failed">Remoção de favorito falhou para o item %1$s.</string>
     <string name="uninstall_app_data">Excluir aplicativo e dados</string>
-    <string name="unmount_inform_text">O armazenamento USB será desmontado.</string>
+    <string name="unmount_inform_text">O cartão SD será desmontado.</string>
     <string name="upload_failed">Falha ao enviar</string>
     <string name="upload_file_toolarge_message">"%1$d arquivos maiores que 300MB não podem ser enviados. Verifique o Gerenciador de Transferências para detalhes."</string>
     <string name="uploading">Enviando</string>

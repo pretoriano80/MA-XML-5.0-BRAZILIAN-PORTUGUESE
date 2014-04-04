@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Leia-me</string>
+    <string name="loading_userbook">Carregando...</string>
+    <string name="bakc_key_toast_txt">Pressione novamente para sair</string>
+    <item type="string" name="APKTOOL_DUMMY_0003">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0004">false</item>
+</resources>

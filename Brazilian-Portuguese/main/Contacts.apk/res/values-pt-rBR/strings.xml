@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accessibility_calllog_detail">Detalhes do Reg. de Chamadas</string>
     <string name="account_container_title">Da seguinte conta</string>
@@ -39,9 +39,7 @@
     <string name="auto_nickname">Auto</string>
     <string name="auto_set_nickname">Auto</string>
     <string name="batch_delete">Exclusão múltipla de contatos</string>
-    <string name="batch_delete_msg">"Você tem certeza que deseja excluir os %d contatos? 
-
-Caso você utilize a sincronização de contatos, os dados presentes na nuvem também serão excluídos."</string>
+    <string name="batch_delete_msg">"Você tem certeza que deseja excluir os %d contatos? Caso você utilize a sincronização de contatos, os dados presentes na nuvem também serão excluídos."</string>
     <string name="bluetooth_connection_failed_toast">Conexão Bluetooth interrompida</string>
     <string name="blurbJoinContactDataWith">Selecione o contato que deseja mesclar com %s:</string>
     <string name="btn_delete_multi_contacts">Excluir %d contatos</string>
@@ -99,15 +97,15 @@ Caso você utilize a sincronização de contatos, os dados presentes na nuvem ta
     <string name="callrecordview_item_op_time_short_outgoing">"Efetuada: "</string>
     <string name="callrecordview_menu_add_call_note">Adicionar notas</string>
     <string name="callrecordview_menu_batch_delete">Exclusão múltipla</string>
-    <string name="callrecordview_menu_delete">Excluir reg. de chamadas</string>
-    <string name="callrecordview_menu_delete_accepted">Limpar cham. recebidas</string>
-    <string name="callrecordview_menu_delete_all">Limpar registro</string>
-    <string name="callrecordview_menu_delete_called">Limpar cham. efetuadas</string>
+    <string name="callrecordview_menu_delete">Excluir registro de chamadas</string>
+    <string name="callrecordview_menu_delete_accepted">Excluir chamadas recebidas</string>
+    <string name="callrecordview_menu_delete_all">Excluir registro</string>
+    <string name="callrecordview_menu_delete_called">Excluir chamadas efetuadas</string>
     <string name="callrecordview_menu_delete_confirm">Confirmar %s?</string>
-    <string name="callrecordview_menu_delete_missed">Limpar cham. perdidas</string>
-    <string name="callrecordview_menu_delete_new">Limpar novos contatos</string>
-    <string name="callrecordview_menu_delete_one">Remover entrada do registro de chamadas</string>
-    <string name="callrecordview_menu_delete_stranger">Limpar registro de desconhecidos</string>
+    <string name="callrecordview_menu_delete_missed">Excluir chamadas perdidas</string>
+    <string name="callrecordview_menu_delete_new">Excluir novos contatos</string>
+    <string name="callrecordview_menu_delete_one">Excluir entrada do registro de chamadas</string>
+    <string name="callrecordview_menu_delete_stranger">Excluir registro de desconhecidos</string>
     <string name="callrecordview_menu_edit_call_note">Editar nota de chamada</string>
     <string name="callrecordview_menu_paste">Colar</string>
     <string name="callrecordview_menu_settings">Configurações</string>
@@ -138,12 +136,12 @@ Caso você utilize a sincronização de contatos, os dados presentes na nuvem ta
     <string name="checkhint">verifique o outro telefone</string>
     <string name="clearCallLogConfirmation">Todos os registros de chamada serão eliminados.</string>
     <string name="clearCallLogConfirmation_title">Excluir</string>
-    <string name="clearCallLogProgress_title">Limpando o registro de chamadas...</string>
+    <string name="clearCallLogProgress_title">Excluindo o registro de chamadas...</string>
     <string name="clearFrequentsConfirmation">Você apagará a lista de contatos frequentes nos aplicativos Pessoas e Telefone, fazendo com que os aplicativos de e-mail tenham que descobrir suas preferências de endereçamento.</string>
     <string name="clearFrequentsConfirmation_title">Apagar contatos frequentes?</string>
     <string name="clearFrequentsProgress_title">Apagando contatos frequentes…</string>
-    <string name="clear_default">Limpar padrão</string>
-    <string name="clear_digits">Limpar número de telefone</string>
+    <string name="clear_default">Remover padrão</string>
+    <string name="clear_digits">Excluir número de telefone</string>
     <string name="click_close">Toque na tela para fechar</string>
     <string name="close_dial_pad">Fechar discador</string>
     <string name="cloud_antispam_mark">Marcar</string>
@@ -272,8 +270,8 @@ Caso você utilize a sincronização de contatos, os dados presentes na nuvem ta
     <string name="device_bluetooth_title">preparando</string>
     <string name="device_brand_title">selecionar marca</string>
     <string name="device_import_account_dialog_title">Selecionar conta a importar</string>
-    <string name="device_import_account_dialog_title_suffix">"(%1$s encontrados)"</string>
-    <string name="device_import_done_toast">%1$d contatos importados</string>
+    <string name="device_import_account_dialog_title_suffix">"
+(%1$s encontrados)"</string>
     <string name="device_import_failed_message">Falha ao importar!</string>
     <string name="device_import_local_account">Conta local</string>
     <string name="device_import_message">Importando</string>
@@ -325,9 +323,9 @@ Caso você utilize a sincronização de contatos, os dados presentes na nuvem ta
     <string name="display_options_view_names_as">Visualizar nomes de contatos</string>
     <string name="display_sim_contacts">Exibir contatos do SIM</string>
     <string name="display_ungrouped">Todos os outros contatos</string>
-    <string name="display_warn_remove_ungrouped">A remoção de \"%s\" da sincronização também removerá os contatos não agrupados da sincronização.</string>
+    <string name="display_warn_remove_ungrouped">A remoção de \"%s\" da sincronização também excluirá os contatos não agrupados da sincronização.</string>
     <string name="dlg_add_blacklist">Você tem certeza que deseja adicionar este número da blacklist?</string>
-    <string name="dlg_remove_blacklist">Você tem certeza que deseja remover este número da blacklist?</string>
+    <string name="dlg_remove_blacklist">Você tem certeza que deseja excluir este número da blacklist?</string>
     <string name="download_failed">Falha ao importar</string>
     <string name="download_preview_failed">Falha ao carregar visualização</string>
     <string name="duplicate_group_name">Este grupo já existe</string>
@@ -354,7 +352,7 @@ Caso você utilize a sincronização de contatos, os dados presentes na nuvem ta
     <string name="export_to_sdcard">Exportar para o armazenamento</string>
     <string name="export_to_sim">Exportar para cartão SIM</string>
     <string name="export_to_sim_title">Exportando para cartão SIM...</string>
-    <string name="export_vcard_description">Exportar vCard para seu armazenamento USB</string>
+    <string name="export_vcard_description">Exportar vCard para seu cartão SD</string>
     <string name="exporting_contact_failed_message">"Os dados de contato não foram exportados.
 Motivo: \"%s\""</string>
     <string name="exporting_contact_failed_title">Impossível exportar</string>
@@ -415,9 +413,6 @@ Motivo: \"%s\""</string>
     <string name="hint_distance"/>
     <string name="hint_findContacts">Localizar contatos</string>
     <string name="hint_more_contact">una contatos que estejam duplicados</string>
-    <string name="hint_search_contacts">%d contatos</string>
-    <string name="hint_search_emails">%d emails</string>
-    <string name="hint_search_phone_numbers">%d números de contato</string>
     <string name="ic_menu_back">Voltar</string>
     <string name="ic_menu_done">Concluído</string>
     <string name="imLabelsGroup">IM</string>
@@ -441,7 +436,7 @@ Motivo: \"%s\""</string>
     <string name="import_to_xiaomi_account_progress_message">Importando…</string>
     <string name="import_to_xiaomi_account_progress_title">Importar contatos para a conta Xiaomi</string>
     <string name="import_to_xiaomi_account_title">Você deseja importar estes contatos para sua conta Xiaomi?</string>
-    <string name="import_vcard_description">Importar contatos de seu armazenamento USB</string>
+    <string name="import_vcard_description">Importar contatos de seu cartão SD</string>
     <string name="import_weibo_dialog_title">Importar contatos do Weibo</string>
     <string name="import_weibo_error_no_matched_contacts">Atualização de contatos: nenhum número duplicado</string>
     <string name="import_weibo_error_no_network">Atualização de contatos: erro de rede</string>
@@ -449,7 +444,6 @@ Motivo: \"%s\""</string>
     <string name="import_weibo_error_unknown">Atualização de contatos: erro desconhecido</string>
     <string name="import_weibo_error_user_cancel">Atualização de contatos: cancelado por usuário</string>
     <string name="import_weibo_fetch_followers">Obtendo seguidores do sina weibo...</string>
-    <string name="import_weibo_notification_title">Importando contatos do sina weibo...</string>
     <string name="import_weibo_notification_title_done">Importação concluída</string>
     <string name="import_weibo_progress_name">%1$s</string>
     <string name="import_weibo_progress_percent">%1$d%%</string>
@@ -535,7 +529,7 @@ Motivo: \"%s\""</string>
     <string name="menu_new_group_action_bar">Adicionar grupo</string>
     <string name="menu_not_redirect_calls_to_vm">Correio de voz sem uso</string>
     <string name="menu_redirect_calls_to_vm">Todas as cham. p/ correio voz</string>
-    <string name="menu_removeStar">Remover dos favoritos</string>
+    <string name="menu_removeStar">Excluir dos favoritos</string>
     <string name="menu_search">Pesquisar</string>
     <string name="menu_select_all">Selecionar todos</string>
     <string name="menu_select_none">Desmarcar todos</string>
@@ -547,14 +541,14 @@ Motivo: \"%s\""</string>
     <string name="menu_show_all_calls">Mostrar todas as cham.</string>
     <string name="menu_show_voicemails_only">Mostrar som. correio de voz</string>
     <string name="menu_splitAggregate">Separar</string>
-    <string name="menu_sync_remove">Remover sincronização do grupo</string>
+    <string name="menu_sync_remove">Excluir sincronização do grupo</string>
     <string name="menu_viewContact">Ver contato</string>
     <string name="merge_contact_message">%1$d contatos com dados parcialmente duplicados, %2$d selecionados</string>
     <string name="messageShortcutActivityTitle">Escolha um número para enviar uma mensagem</string>
     <string name="missing_name">(Sem nome)</string>
     <string name="move_and_resize">Mover e dimensionar</string>
     <string name="multipleContactDeleteConfirmation">Excluir este contato irá excluir informações de várias contas.</string>
-    <string name="multipleContactDeleteConfirmationDetail">Ao excluir \"%s\" você irá remover informações de múltiplas contas.</string>
+    <string name="multipleContactDeleteConfirmationDetail">Ao excluir \"%s\" você irá excluir informações de múltiplas contas.</string>
     <string name="my_phone_not_provider_bluetooth">meu telefone não possui bluetooth</string>
     <string name="my_phone_provider_bluetooth">meu telefone possui bluetooth</string>
     <string name="nameLabelsGroup">Nome</string>
@@ -580,23 +574,65 @@ Motivo: \"%s\""</string>
     <string name="noContacts">Nenhum contato.</string>
     <string name="noContactsHelpText">"Você não possui contatos para exibir.
 
- Para adicionar contatos, toque em "</string>
+Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>", e então toque em:
+ 
+"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contatos sincronizáveis com o telefone
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Novo contato para criar um contato do zero
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contatos do seu cartão SIM ou cartão SD
+"</b></font></li>"
+"</string>
     <string name="noContactsHelpTextForCreateShortcut">Você não tem contatos para exibir.</string>
-  <string name="noContactsHelpTextWithSync">"Você não possui contatos para exibir. (Caso você tenha adicionado uma conta recentemente, aguarde a sincronização concluir.)
+    <string name="noContactsHelpTextWithSync">"Você não possui contatos para exibir. (Caso você tenha adicionado uma conta recentemente, aguarde a sincronização concluir.)
 
- Para adicionar contatos, toque em "</string>
+Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>", e então toque em:
+ 
+"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contatos sincronizáveis com o telefone
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Exibir opções para alterar quais contatos são visíveis
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Novo contato para criar um contato do zero
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contatos do seu cartão SIM ou cartão SD
+"</b></font></li>"
+"</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Você não tem contatos para exibir. Se você acabou de adicionar uma conta, pode levar alguns minutos para sincronizar os contatos.</string>
-  <string name="noContactsNoSimHelpText">"Você não possui contatos para exibir.
+    <string name="noContactsNoSimHelpText">"Você não possui contatos para exibir.
 
- Para adicionar contatos, toque em "</string>
-  <string name="noContactsNoSimHelpTextWithSync">"Você não possui contatos para exibir. (Caso você tenha adicionado uma conta recentemente, aguarde a sincronização concluir.)
+Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>", e então toque em:
+ 
+"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contatos sincronizáveis com o telefone
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Novo contato para criar um contato do zero
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contatos do seu cartão SIM ou cartão SD
+"</b></font></li>"
+"</string>
+    <string name="noContactsNoSimHelpTextWithSync">"Você não possui contatos para exibir. (Caso você tenha adicionado uma conta recentemente, aguarde a sincronização concluir.)
 
- Para adicionar contatos, toque em "</string>
+Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>", e então toque em:
+ 
+"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contatos sincronizáveis com o telefone
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Exibir opções para alterar quais contatos são visíveis
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Novo contato para criar um contato do zero
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contatos do seu cartão SIM ou cartão SD
+"</b></font></li>"
+"</string>
     <string name="noContactsWithPhoneNumbers">Nenhum contato com números de telefone.</string>
-  <string name="noFavoritesHelpText">"Você não possui nenhum número favorito.
+    <string name="noFavoritesHelpText">"Você não possui nenhum número favorito.
 
  Para adicionar um contato à sua lista de favoritos:
 
+"<li>Toque na aba <b>Contatos</b>"
+"</li>" 
+"<li>"Toque no contato que você deseja adicionar como favorito
+"</li>" 
+"<li>"Toque no ícone de estrela próximo ao nome do contato
+"</li>"
 "</string>
     <string name="noGroups">Nenhum grupo.</string>
     <string name="noMatchingContacts">Nenhum contato correspondente foi encontrado.</string>
@@ -627,8 +663,8 @@ Motivo: \"%s\""</string>
     <string name="option_delete_contact">Excluir</string>
     <string name="option_delete_group">Excluir</string>
     <string name="option_edit_contact">Editar</string>
-    <string name="option_not_in_group">Remover</string>
-    <string name="option_not_star">Remover dos favoritos</string>
+    <string name="option_not_in_group">Excluir</string>
+    <string name="option_not_star">Excluir dos favoritos</string>
     <string name="option_rename_group">Renomear</string>
     <string name="option_send_to_desktop">Enviar para Tela Inicial</string>
     <string name="option_send_to_others">Enviar para outros</string>
@@ -647,12 +683,8 @@ Motivo: \"%s\""</string>
     <string name="phone_primary">Primário</string>
     <string name="photoPickerNotFoundText">Nenhuma imagem disponível no telefone.</string>
     <string name="photo_package_activity_title">Pacote de fotos</string>
-    <string name="pick_favorites_contacts_list_title">%1$d contatos favoritos no total</string>
-    <string name="pick_favorites_list_title">%1$d favoritos no total</string>
     <string name="pick_new_photo">Selecionar nova foto da Galeria</string>
     <string name="pick_photo">Escolha fotos da Galeria</string>
-    <string name="pick_recent_contacts_list_title">%1$d contatos recentes no total</string>
-    <string name="pick_recent_list_title">%1$d contatos recentes no total</string>
     <string name="pickerNewContactHeader">Criar novo contato</string>
     <string name="pickerNewContactText">Criar novo contato</string>
     <string name="picker_all_list_empty">Nenhum contato</string>
@@ -727,7 +759,6 @@ Motivo: \"%s\""</string>
     <string name="profile_display_name">Configurar meu perfil</string>
     <string name="profile_name">Meu perfil</string>
     <string name="profile_name_photo">Eu</string>
-    <string name="progress_notifier_message" formatted="false">Importando %s/%s: %s</string>
     <string name="quickcontact_missing_app">Nenhum aplicativo foi encontrado para executar esta ação.</string>
     <string name="quit_dialog_confirm_title">Deseja realmente sair?</string>
     <string name="readOnlyContactDeleteConfirmation">Este contato contém informações de diversas contas. As informações de contas somente de leitura ficarão ocultas nas suas listas de contatos, mas não serão excluídas.</string>
@@ -741,10 +772,10 @@ Motivo: \"%s\""</string>
     <string name="recentCallsIconLabel">Chamadas</string>
     <string name="recentCalls_addToContact">Adicionar aos contatos</string>
     <string name="recentCalls_callNumber">Chamar %s</string>
-    <string name="recentCalls_deleteAll">Limpar registro de chamadas</string>
+    <string name="recentCalls_deleteAll">Excluir registro de chamadas</string>
     <string name="recentCalls_editNumberBeforeCall">Editar número antes da chamada</string>
     <string name="recentCalls_empty">O registro de chamadas está vazio.</string>
-    <string name="recentCalls_removeFromRecentList">Remover do registro de chamadas</string>
+    <string name="recentCalls_removeFromRecentList">Excluir do registro de chamadas</string>
     <string name="recentCalls_shareVoicemail">Compartilhar correio de voz</string>
     <string name="recentCalls_trashVoicemail">Excluir correio de voz</string>
     <string name="recent_contacts_label">Recentes</string>
@@ -756,13 +787,12 @@ Motivo: \"%s\""</string>
     <string name="relationLabelsGroup">Relacionamento</string>
     <string name="remind_btn_ignore">Ignorar</string>
     <string name="remind_btn_sync_now">Sincronizar</string>
-    <string name="removePhoto">Remover foto</string>
+    <string name="removePhoto">Excluir foto</string>
     <string name="remove_blacklist">Desbloquear</string>
     <string name="remove_duplicate">"A MIUI irá ajuda-lo a encontrar e unir contatos duplicados. Estes contatos não serão unidos automaticamente, você precisará uni-los manualmente.
     
  Clique em Unir e aguarde os resultados, seguindo as instruções do aplicativo."</string>
     <string name="resource_account_abnormal_state">Erro de conta, por favor tente novamente mais tarde.</string>
-    <string name="resource_account_current">Conta: %1$s</string>
     <string name="resource_account_fail_to_add">Falha ao adicionar conta!</string>
     <string name="resource_account_login">Login</string>
     <string name="resource_account_login_before_action">Por favor efetue login em sua conta Xiaomi.</string>
@@ -784,6 +814,7 @@ Motivo: \"%s\""</string>
     <string name="resource_comment_average_score">Pontuação</string>
     <string name="resource_comment_bad_comments">Negativo</string>
     <string name="resource_comment_current_version">Versão atual</string>
+    <string name="resource_comment_date">%1$02d-%2$02d</string>
     <string name="resource_comment_edit_comment">Adic. comentários</string>
     <string name="resource_comment_edit_comment_waiting">Verificando histórico do usuário...</string>
     <string name="resource_comment_edit_text_default">Adic. um comentário</string>
@@ -1026,7 +1057,6 @@ Motivo: \"%s\""</string>
     <string name="strequentList">Favoritos</string>
     <string name="success_message_import_from_account">Importado com sucesso</string>
     <string name="summary_kind_title">Sumário</string>
-    <string name="t9_search_guide">Digite o número que deseja, ou pesquise conteúdo pelo índice T9.</string>
     <string name="t9_search_guide_pinyin">Digite 7 e 5 para pesquisar por Steve Jobs</string>
     <string name="t9_search_guide_zhuyin">Digite 7 e 5 para pesquisar por Steve Jobs</string>
     <string name="take_new_photo">Tirar outra foto</string>
@@ -1094,13 +1124,16 @@ Escolha uma das seguintes opções:"</string>
     <string name="voicemail_status_voicemail_not_available">Não é possível se conectar ao servidor de correio de voz.</string>
     <string name="websiteLabelsGroup">Website</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
-    <string name="wipe_data">Limpar dados</string>
+    <string name="wipe_data">Excluir dados</string>
     <string name="yellowPageNavigationIconLabel">Diretório</string>
     <string name="yellowPageNavigationLabel">Diretório</string>
     <string name="yellowpage_navigation_menu_order">Minha ordem</string>
+    <string name="yellowpage_navigation_network_location_enable">Ativar agora</string>
+    <string name="yellowpage_navigation_network_location_enable_later">Ativar depois</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_summary">Ativando o serviço de localização por Wi-Fi &amp; redes móveis a qualidade dos serviços de localização será melhorada.</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_title">Ativar serviço de localização</string>
     <string name="yellowpage_navigation_no_content">Nenhum resultado</string>
     <string name="yellowpage_navigation_search_city_name_hint">Buscar por Cidade</string>
-    <string name="yellowpage_navigation_search_hint">Buscar</string>
     <string name="yellowpage_navigation_search_offline_hint">Rede indisponível</string>
     <string name="yellowpage_navigation_search_result_network_error">Falha ao conectar-se à rede</string>
     <string name="yellowpage_navigation_search_result_no_more">Sem mais resultados</string>

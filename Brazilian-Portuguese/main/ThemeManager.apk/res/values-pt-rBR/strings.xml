@@ -8,7 +8,7 @@
     <string name="apply_font_btn_exclude">Aplicar sem fonte</string>
     <string name="apply_font_btn_reboot">Aplicar e reiniciar</string>
     <string name="apply_font_tip">Este tema contém fontes, por isso será necessário reiniciar o telefone.</string>
-    <string name="apply_lockscreen_paper_tips">Lockscreen personalizada em uso, o novo wallpaper poderá não ser visualizado</string>
+    <string name="apply_lockscreen_paper_tips">Tela de bloqueio personalizada em uso, o novo wallpaper poderá não ser visualizado</string>
     <string name="apply_theme_no_select_message">Por favor, selecione o tema!</string>
     <string name="apply_theme_with_ringtones">Aplicar tema e toques</string>
     <string name="backup_preference_title">Backup do tema atual</string>
@@ -17,8 +17,8 @@
     <string name="backup_theme_name">Meu Backup</string>
     <string name="backup_theme_progress_message">Fazendo o backup, aguarde...</string>
     <string name="backup_theme_success_message">Backup feito com sucesso!</string>
-    <string name="basic_info">Info. básica</string>
-    <string name="change_wallpaper">Wallpaper</string>
+    <string name="basic_info">Informações básicas</string>
+    <string name="change_wallpaper">Plano de fundo</string>
     <string name="close">Fechar</string>
     <string name="component_category_finest_title">Destaque</string>
     <string name="component_category_more_title">Mais</string>
@@ -35,7 +35,7 @@
     <string name="description_uploadtime">Atualizado:</string>
     <string name="description_version">Versão:</string>
     <string name="description_version_szie">Versão: %1$s Tamanho: %2$s</string>
-    <string name="desktop_wallpaper">Wallpapers</string>
+    <string name="desktop_wallpaper">Planos de fundo</string>
     <string name="download_failed">Falha no download</string>
     <string name="download_preview_failed">Falha ao carregar pré-visualização</string>
     <string name="download_success">Download concluído</string>
@@ -44,7 +44,7 @@
     <string name="loading">Carregando...</string>
     <string name="loading_resource_detail_fail">Falha ao carregar recursos!</string>
     <string name="loading_resource_detail_info">Carregando ...</string>
-    <string name="lockscreen_wallpaper">Lockscreen</string>
+    <string name="lockscreen_wallpaper">Tela de bloqueio</string>
     <string name="lockstyle_personal_settings">Personalização</string>
     <string name="long_ringtone_resource">Longo(>5seg)</string>
     <string name="maml_component_customization_title">Configurações</string>
@@ -54,7 +54,6 @@
     <string name="payment_info">MiCredits</string>
     <string name="purchased_list">Itens adquiridos</string>
     <string name="resource_account_abnormal_state">Erro na conta, por favor tente novamente mais tarde.</string>
-    <string name="resource_account_current">Conta: %1$s</string>
     <string name="resource_account_fail_to_add">Falha ao adicionar conta!</string>
     <string name="resource_account_login">Login</string>
     <string name="resource_account_login_before_action">Por favor efetue login na sua conta Xiaomi.</string>
@@ -141,7 +140,7 @@
     <string name="resource_exchange_wrong_format_by_server">O código inserido não pôde ser validado. Por favor verifique seu código e tente novamente.</string>
     <string name="resource_expand_full_text">Expandir</string>
     <string name="resource_get_auth_checking">Checando autorização...</string>
-    <string name="resource_get_auth_exceed_max_limit_tips">O tema não pode ser aplicado no telefone atual com sua conta Xiaomi, que limita o uso de temas para até 10 aparelhos por ano. Tente fazer o login com uma conta Xiaomi diferente.</string>
+    <string name="resource_get_auth_exceed_max_limit_tips">Dez dispositivos já forma autorizados com esta conta</string>
     <string name="resource_get_auth_exceed_max_limit_title">Limite de autorizações excedido</string>
     <string name="resource_get_auth_missing">O tema selecionado não foi baixado pela loja oficial. Por favor faça o download de um tema semelhante na loja oficial e tente novamente.</string>
     <string name="resource_get_auth_retrieving">Recebendo autorização...</string>
@@ -195,13 +194,15 @@
     <string name="resource_trial_end_restore">Finalizar teste</string>
     <string name="resource_trial_end_title">Teste expirado</string>
     <string name="resource_trial_time">（teste por %1$d minutos）</string>
-    <string name="resource_unable_to_access">"Atualmente disponível em sua região/país."</string>
+    <string name="resource_unable_to_access">"Atualmente,
+este conteúdo está indisponível em sua região/país."</string>
     <string name="resource_unknow_error">Ocorreu um erro desconhecido.</string>
     <string name="resource_update">Atualizar</string>
     <string name="resource_user_know">OK</string>
     <string name="resource_waiting_download">Aguardando</string>
     <string name="restore_default_theme_alert">Você pode ter sido vítima de falsificação de temas. Por favor acesse o Market de Temas e faça o download do seu tema novamente.</string>
-    <string name="sdcard_not_mounted_dialog_message">"Cartão SD não detectado, insira um novo cartão."</string>
+    <string name="sdcard_not_mounted_dialog_message">"Cartão SD não detectado, 
+insira um novo cartão."</string>
     <string name="sdcard_not_mounted_dialog_title">Cartão SD não detectado</string>
     <string name="selected_resource_file_invalid">O arquivo selecionado é inválido.</string>
     <string name="settings">Configurações</string>
@@ -227,8 +228,8 @@
     <string name="theme_component_title_framework">Tema do sistema</string>
     <string name="theme_component_title_icon">Ícone</string>
     <string name="theme_component_title_launcher">Launcher</string>
-    <string name="theme_component_title_lockstyle">Lockscreen</string>
-    <string name="theme_component_title_lockwallpaper">Wallpaper da Lockscreen</string>
+    <string name="theme_component_title_lockstyle">Tela de bloqueio</string>
+    <string name="theme_component_title_lockwallpaper">Plano de fundo da tela de bloqueio</string>
     <string name="theme_component_title_miwallpaper">Mi Wallpaper</string>
     <string name="theme_component_title_mms">Tema de mensagens</string>
     <string name="theme_component_title_notification">Notificações</string>
@@ -236,7 +237,7 @@
     <string name="theme_component_title_photo_frame">Moldura de fotos</string>
     <string name="theme_component_title_ringtone">Toques</string>
     <string name="theme_component_title_statusbar">Barra de status</string>
-    <string name="theme_component_title_wallpaper">Wallpaper</string>
+    <string name="theme_component_title_wallpaper">Plano de fundo</string>
     <string name="theme_current_using_has_update">O tema atual foi atualizado, toque aqui para aplicar</string>
     <string name="theme_description_title_customized">Personalizado</string>
     <string name="theme_description_title_default">Padrão</string>
@@ -255,7 +256,7 @@
     <string name="wallpaper_decoded_error">Falha ao decodificar</string>
     <string name="wallpaper_loading_text">Carregando ...</string>
     <string name="wallpaper_set_as_both">Definir ambos</string>
-    <string name="wallpaper_set_as_destop">Definir como wallpaper</string>
-    <string name="wallpaper_set_as_lockscreen">Definir como lockscreen</string>
-    <string name="wallpaper_settings">Definir wallpaper</string>
+    <string name="wallpaper_set_as_destop">Definir como plano de fundo</string>
+    <string name="wallpaper_set_as_lockscreen">Definir como tela de bloqueio</string>
+    <string name="wallpaper_settings">Definir plano de fundo</string>
 </resources>

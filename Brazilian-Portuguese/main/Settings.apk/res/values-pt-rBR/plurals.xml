@@ -12,6 +12,10 @@
         <item quantity="other">%d mins</item>
         <item quantity="one">%d min</item>
     </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Você está a %1$d passos de se tornar um desenvolvedor.</item>
+        <item quantity="one">Você está a %1$d passo de se tornar um desenvolvedor.</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">A senha deve conter pelo menos %d letras</item>
         <item quantity="one">A senha deve conter pelo menos uma letra</item>
@@ -35,5 +39,9 @@
     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">A senha deve conter pelo menos %d caracteres que não sejam letras</item>
         <item quantity="one">A senha deve conter pelo menos um caractere que não seja letra</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d apps podem ler notificações</item>
+        <item quantity="one">%d app pode ler notificações</item>
     </plurals>
 </resources>
