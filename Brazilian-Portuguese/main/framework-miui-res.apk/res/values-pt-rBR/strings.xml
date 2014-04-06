@@ -166,7 +166,6 @@ Memória livre: %2$s"</string>
     <string name="no_sim">Nenhum Cartão SIM, serviço indisponível</string>
     <string name="open_wifi_settings">Rede aberta</string>
     <string name="partys_day"/>
-    <string name="passwordIncorrect">@*android:string/passwordIncorrect</string>
     <string name="payphone">Telefone público</string>
     <string name="peace_day">Dia da Paz</string>
     <string name="perm_auto_backup">Backup automático</string>

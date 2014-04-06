@@ -258,7 +258,6 @@ usando %s"</string>
     <string name="default_audio_route_name_headphones">Fones de ouvido</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
     <string name="default_text_encoding">Latin-1</string>
-    <string name="default_wallpaper_component">@null</string>
     <string name="delete">Excluir</string>
     <string name="deleteText">Excluir</string>
     <string name="deny">Negar</string>

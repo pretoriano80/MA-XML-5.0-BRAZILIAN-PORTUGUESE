@@ -40,7 +40,6 @@
     <string name="birthday_event_description">"Hoje é o aniversário de %1$s!"</string>
     <string name="birthday_event_description_detail_leap"/>
     <string name="birthday_event_description_detail_smart"/>
-    <string name="birthday_event_title">@string/birthday_notification_title_today</string>
     <string name="birthday_notification_age_term"/>
     <string name="birthday_notification_text_three_days_later">3 dias até o aniversário (%3$s)</string>
     <string name="birthday_notification_text_today">Não se esqueça de lhe desejar feliz aniversário!</string>
