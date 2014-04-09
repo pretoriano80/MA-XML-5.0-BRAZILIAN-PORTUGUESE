@@ -168,9 +168,6 @@
     <string name="not_synced">não sincronizada</string>
     <string name="online_calendar_activity_label">订阅日历</string>
     <string name="pengzu"/>
-    <string name="prefDefault_alerts_vibrateWhen">never</string>
-    <string name="prefDefault_alerts_vibrate_false">never</string>
-    <string name="prefDefault_alerts_vibrate_true">always</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
     <string name="pref_title_alert_remind">Pop-up de lembrete</string>
     <string name="pref_title_no_remind">Nenhum lembrete</string>
@@ -185,7 +182,6 @@
     <string name="preferences_category_general_title">Geral</string>
     <string name="preferences_clear_search_history_summary">Excluir todas as pesquisas realizadas</string>
     <string name="preferences_clear_search_history_title">Excluir histórico de pesquisa</string>
-    <string name="preferences_default_reminder_default">10</string>
     <string name="preferences_default_reminder_dialog">Momento padrão do lembrete</string>
     <string name="preferences_default_reminder_title">Tempo do lembrete</string>
     <string name="preferences_general_title">Configuração de visualização</string>
@@ -197,7 +193,6 @@
     <string name="preferences_title">Configurações</string>
     <string name="preferences_use_home_tz_descrip">Exibe agendas e eventos no seu fuso horário local quando você viajar</string>
     <string name="preferences_use_home_tz_title">Usar hora local</string>
-    <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">A semana começa em</string>
     <string name="preferences_week_start_day_title">A semana começa em</string>
     <string name="presence_label">Mostrar-me como</string>

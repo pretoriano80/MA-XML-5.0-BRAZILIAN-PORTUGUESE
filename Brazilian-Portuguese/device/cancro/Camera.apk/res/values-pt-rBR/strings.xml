@@ -20,17 +20,12 @@
     <string name="save">Salvar</string>
     <string name="no_save">Não salvar</string>
     <string name="review_cancel">CANCELAR</string>
-    <string name="pref_camera_id_default">0</string>
     <string name="pref_camera_recordlocation_title">Armazenamento de localização</string>
-    <string name="pref_camera_recordlocation_default">false</string>
     <string name="pref_camera_recordlocation_entry_off">Desativado</string>
     <string name="pref_camera_recordlocation_entry_on">Ativado</string>
     <string name="pref_camera_sound_title">Som da câmera</string>
     <string name="pref_camera_sound_title_entry_off">Off</string>
     <string name="pref_camera_sound_title_entry_on">On</string>
-    <string name="pref_camera_sound_default">on</string>
-    <string name="pref_camera_sound_entryvalue_off">off</string>
-    <string name="pref_camera_sound_entryvalue_on">on</string>
     <string name="pref_camera_sound_entry_off">off</string>
     <string name="pref_camera_sound_entry_on">on</string>
     <string name="pref_camera_auto_focus_title_entry_off">Off</string>
@@ -38,12 +33,7 @@
     <string name="pref_captrue_mirror_title">Espelhar câmera frontal</string>
     <string name="pref_captrue_mirror_entry_off">Off</string>
     <string name="pref_captrue_mirror_entry_on">On</string>
-    <string name="pref_captrue_mirror_default">off</string>
-    <string name="pref_captrue_mirror_value_off">off</string>
-    <string name="pref_captrue_mirror_value_on">on</string>
     <string name="pref_video_quality_title">Qualidade do vídeo</string>
-    <string name="pref_video_quality_default">5</string>
-    <string name="pref_mtk_video_quality_default">10</string>
     <string name="pref_video_quality_entry_1080p">FULL HD</string>
     <string name="pref_video_quality_entry_720p">HD</string>
     <string name="pref_video_quality_entry_480p">SD</string>
@@ -52,7 +42,6 @@
     <string name="pref_video_quality_entry_vga">VGA</string>
     <string name="pref_video_quality_entry_wqvga">WQVGA</string>
     <string name="pref_video_time_lapse_frame_interval_title">Intervalo de lapso de tempo</string>
-    <string name="pref_video_time_lapse_frame_interval_default">120</string>
     <string name="pref_video_time_lapse_frame_interval_entry_2">0.06 segundos</string>
     <string name="pref_video_time_lapse_frame_interval_entry_4">0.12 segundos</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">0.3 segundos</string>
@@ -96,31 +85,16 @@
     <string name="pref_camera_picturesize_professional_entry_1440x816">1.2M(1440x816)</string>
     <string name="pref_camera_picturesize_professional_entry_1280x720">0.9M(1280x720)</string>
     <string name="pref_camera_picturesize_professional_entry_1024x768">0.8M(1024x768)</string>
-    <string name="pref_camera_jpegquality_default">normal</string>
-    <string name="pref_camera_picture_size_default">4208x2368</string>
-    <string name="pref_camera_front_picture_size_default">1920x1088</string>
-    <string name="pref_camera_picture_size_default_hm2a">3264x1840</string>
-    <string name="pref_camera_front_picture_size_default_hm2a">1440x816</string>
-    <string name="pref_camera_picture_size_default_hm2">3328x1872</string>
-    <string name="pref_camera_front_picture_size_default_hm2">1280x960</string>
-    <string name="pref_camera_front_picture_size_default_hm3">2592x1456</string>
-    <string name="pref_camera_front_picture_size_default_m4w">3264x1836</string>
-    <string name="pref_camera_picture_format_default">jpeg</string>
     <string name="pref_camera_picture_format_title">Formato de imagem</string>
     <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
     <string name="pref_camera_picture_format_entry_raw">Raw</string>
-    <string name="pref_camera_picture_format_value_jpeg">jpeg</string>
-    <string name="pref_camera_picture_format_value_raw">raw</string>
     <string name="pref_camera_jpegquality_title">Qualidade de imagem</string>
     <string name="pref_camera_jpegquality_entry_high">Alta</string>
     <string name="pref_camera_jpegquality_entry_normal">Normal</string>
     <string name="pref_camera_jpegquality_entry_low">Baixa</string>
-    <string name="pref_camera_histogram_default">disable</string>
     <string name="pref_camera_histogram_title">Histograma</string>
     <string name="pref_camera_histogram_entry_enable">Ativado</string>
     <string name="pref_camera_histogram_entry_disable">Desativado</string>
-    <string name="pref_camera_histogram_value_enable">enable</string>
-    <string name="pref_camera_histogram_value_disable">disable</string>
     <string name="pref_camera_focusmode_title">Modo de foco</string>
     <string name="pref_camera_focusmode_entry_auto">Automático</string>
     <string name="pref_camera_focusmode_entry_normal">Normal</string>
@@ -132,16 +106,10 @@
     <string name="pref_video_focusmode_title">Modo de foco</string>
     <string name="pref_video_focusmode_entry_continuous">Contínuo</string>
     <string name="pref_video_focusmode_entry_auto">Automático</string>
-    <string name="pref_video_focusmode_entryvalue_default">auto</string>
-    <string name="pref_camera_focusmode_value_default">continuous-picture</string>
-    <string name="pref_camera_flashmode_default">auto</string>
-    <string name="pref_camera_skin_beautify_default">off</string>
     <string name="pref_camera_flashmode_title">Modo de flash</string>
     <string name="pref_camera_flashmode_entry_auto">Automático</string>
     <string name="pref_camera_flashmode_entry_on">On</string>
     <string name="pref_camera_flashmode_entry_off">Off</string>
-    <string name="pref_camera_video_flashmode_default">off</string>
-    <string name="pref_camera_whitebalance_default">auto</string>
     <string name="pref_camera_whitebalance_title">Balanço de branco</string>
     <string name="pref_camera_whitebalance_k_value_title">Temperatura do balanço</string>
     <string name="pref_camera_whitebalance_entry_auto">Automático</string>
@@ -151,14 +119,6 @@
     <string name="pref_camera_whitebalance_entry_cloudy">Nublado</string>
     <string name="pref_camera_whitebalance_entry_manual">Manual</string>
     <string name="pref_camera_whitebalance_entry_measure">Medida</string>
-    <string name="pref_camera_whitebalance_entryvalue_auto">auto</string>
-    <string name="pref_camera_whitebalance_entryvalue_incandescent">incandescent</string>
-    <string name="pref_camera_whitebalance_entryvalue_daylight">daylight</string>
-    <string name="pref_camera_whitebalance_entryvalue_fluorescent">fluorescent</string>
-    <string name="pref_camera_whitebalance_entryvalue_cloudy">cloudy-daylight</string>
-    <string name="pref_camera_whitebalance_entryvalue_manual">manual-cct</string>
-    <string name="pref_camera_whitebalance_entryvalue_measure">measure</string>
-    <string name="pref_camera_coloreffect_default">none</string>
     <string name="pref_camera_coloreffect_title">Efeitos de cor</string>
     <string name="pref_camera_coloreffect_entry_none" />
     <string name="pref_camera_coloreffect_entry_mono" />
@@ -166,7 +126,6 @@
     <string name="pref_camera_coloreffect_entry_negative" />
     <string name="pref_camera_coloreffect_entry_posterize" />
     <string name="pref_camera_coloreffect_entry_aqua" />
-    <string name="pref_camera_touchafaec_default">touch-on</string>
     <string name="pref_camera_touchafaec_title">Touch AF/AEC</string>
     <string name="pref_camera_touchafaec_entry_off">Off</string>
     <string name="pref_camera_touchafaec_entry_on">On</string>
@@ -177,18 +136,10 @@
     <string name="pref_camera_multilevel_entry_high">Alto</string>
     <string name="pref_camera_multilevel_entry_higher">Muito alto</string>
     <string name="pref_camera_multilevel_entry_highest">Altíssimo</string>
-    <string name="pref_camera_default_suffix">(Padrão)</string>
     <string name="pref_camera_multilevel_entry_middle">Meio (padrão)</string>
-    <string name="pref_camera_contrast_default">5</string>
-    <string name="pref_mtk_camera_contrast_default">middle</string>
     <string name="pref_camera_contrast_title">Contraste</string>
-    <string name="pref_camera_saturation_default">5</string>
-    <string name="pref_mtk_camera_saturation_default">middle</string>
     <string name="pref_camera_saturation_title">Saturação</string>
-    <string name="pref_camera_sharpness_default">12</string>
-    <string name="pref_mtk_camera_sharpness_default">middle</string>
     <string name="pref_camera_sharpness_title">Nitidez</string>
-    <string name="pref_camera_scenemode_default">Automático</string>
     <string name="pref_camera_scenemode_title">Modo de cena</string>
     <string name="pref_camera_scenemode_entry_off">Off</string>
     <string name="pref_camera_scenemode_entry_auto">Automático</string>
@@ -203,14 +154,10 @@
     <string name="pref_camera_scenemode_entry_sports">Esportes</string>
     <string name="pref_camera_scenemode_entry_backlight">Luz de fundo</string>
     <string name="pref_camera_scenemode_entry_flowers">Flores</string>
-    <string name="pref_camera_scenedetect_default">off</string>
     <string name="pref_camera_scenedetect_title">Detecção de cena</string>
     <string name="not_selectable_in_scene_mode">Não pode ser selecionado no modo de cena.</string>
     <string name="pref_exposure_title">Exposição</string>
-    <string name="pref_exposure_default">0</string>
     <string name="pref_camera_denoise_title">Redução de ruído</string>
-    <string name="pref_camera_denoise_default">denoise-off</string>
-    <string name="pref_camera_iso_default">auto</string>
     <string name="pref_camera_iso_title">Selecionar ISO</string>
     <string name="pref_camera_iso_entry_auto">Automático</string>
     <string name="pref_camera_iso_entry_iso100">ISO100</string>
@@ -219,16 +166,8 @@
     <string name="pref_camera_iso_entry_iso800">ISO800</string>
     <string name="pref_camera_iso_entry_iso1600">ISO1600</string>
     <string name="pref_camera_iso_entry_iso3200">ISO3200</string>
-    <string name="pref_camera_iso_value_auto">auto</string>
-    <string name="pref_camera_iso_value_iso100">ISO100</string>
-    <string name="pref_camera_iso_value_iso200">ISO200</string>
-    <string name="pref_camera_iso_value_iso400">ISO400</string>
-    <string name="pref_camera_iso_value_iso800">ISO800</string>
-    <string name="pref_camera_iso_value_iso1600">ISO1600</string>
-    <string name="pref_camera_iso_value_iso3200">ISO3200</string>
     <string name="pref_camera_iso_prefix">ISO</string>
     <string name="pref_camera_antibanding_title">Anti Banding</string>
-    <string name="pref_camera_antibanding_default">50hz</string>
     <string name="pref_camera_antibanding_60">60hz</string>
     <string name="pref_camera_antibanding_entry_0">Off</string>
     <string name="pref_camera_antibanding_entry_1">50 Hz</string>
@@ -240,24 +179,15 @@
     <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
     <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
     <string name="video_reach_size_limit">Limite de tamanho atingido.</string>
-    <string name="pref_camera_hfr_default">90</string>
     <string name="pref_camera_hfr_title">Taxa de quadros</string>
     <string name="pref_camera_hfr_entry_off">Off</string>
     <string name="pref_camera_hfr_entry_2x">60 fps</string>
     <string name="pref_camera_hfr_entry_3x">90 fps</string>
     <string name="pref_camera_hfr_entry_4x">120 fps</string>
-    <string name="pref_camera_hfr_value_off">off</string>
-    <string name="pref_camera_hfr_value_2x">60</string>
-    <string name="pref_camera_hfr_value_3x">90</string>
-    <string name="pref_camera_hfr_value_4x">120</string>
     <string name="pref_video_speed_title">Velocidade de vídeo</string>
-    <string name="pref_video_speed_default">normal</string>
     <string name="pref_video_speed_entry_normal">Normal</string>
     <string name="pref_video_speed_entry_fast">Rápido</string>
     <string name="pref_video_speed_entry_slow">Lento</string>
-    <string name="pref_video_speed_value_normal">normal</string>
-    <string name="pref_video_speed_value_fast">fast</string>
-    <string name="pref_video_speed_value_slow">slow</string>
     <string name="pano_too_fast_prompt">Muito rápido</string>
     <string name="pano_how_to_use_prompt">Pressione o disparador para capturar o panorama</string>
     <string name="pano_how_to_use_prompt_to_move">Mova o telefone gentilmente</string>
@@ -270,7 +200,6 @@
     <string name="pano_review_saving_indication_str">Salvando...</string>
     <string name="tap_to_focus">Toque para ajustar o foco.</string>
     <string name="tap_to_exposure">Toque para exposição manual.</string>
-    <string name="pref_video_effect_default">none</string>
     <string name="effect_none">Nenhum</string>
     <string name="effect_goofy_face_squeeze">Comprimir</string>
     <string name="effect_goofy_face_big_eyes">Olhos grandes</string>
@@ -307,44 +236,26 @@ Saia de vista por um momento"</string>
     <string name="accessibility_skin_beautify_opened">Melhorias de tom de pele exibidas</string>
     <string name="accessibility_skin_beautify_closed">Melhorias de tom de pele fechadas</string>
     <string name="empty">" "</string>
-    <string name="pref_camera_autoexposure_default">frame-average</string>
     <string name="pref_camera_autoexposure_title">Modo de auto-exposição</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Média de quadros</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Centralizado</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Ponto</string>
-    <string name="pref_camera_autoexposure_value_frameaverage">frame-average</string>
-    <string name="pref_camera_autoexposure_value_centerweighted">center-weighted</string>
-    <string name="pref_camera_autoexposure_value_spotmetering">spot-metering</string>
-    <string name="pref_camera_videoencoder_default">H264</string>
-    <string name="pref_camera_audioencoder_default">AAC</string>
     <string name="pref_camera_audio_capture_title">Microfone</string>
-    <string name="pref_camera_video_duration_default">10</string>
     <string name="pref_camera_video_duration_title">Duração do vídeo</string>
     <string name="pref_camera_video_duration_entry_mms">30 segundos(MMS)</string>
     <string name="pref_camera_video_duration_entry_10">10 minutos</string>
     <string name="pref_camera_video_duration_entry_30">30 minutos</string>
     <string name="pref_camera_video_duration_entry_120">Ilimitado</string>
-    <string name="pref_camera_skinToneEnhancement_default">disable</string>
     <string name="pref_camera_skinToneEnhancement_title">Melhorar cor da pele</string>
     <string name="pref_camera_skinToneEnhancement_entry_auto">Melhoria automática</string>
     <string name="pref_camera_skinToneEnhancement_entry_enable">Ativado</string>
     <string name="pref_camera_skinToneEnhancement_entry_disable">Desativado</string>
-    <string name="pref_camera_skinToneEnhancement_value_auto">auto</string>
-    <string name="pref_camera_skinToneEnhancement_value_enable">enable</string>
-    <string name="pref_camera_skinToneEnhancement_value_disable">disable</string>
     <string name="pref_camera_zsl_title">ZSL</string>
-    <string name="pref_camera_zsl_default">on</string>
-    <string name="pref_camera_selectablezoneaf_default">auto</string>
     <string name="pref_camera_zsl_entry_off">Off</string>
     <string name="pref_camera_zsl_entry_on">On</string>
-    <string name="pref_camera_zsl_value_off">off</string>
-    <string name="pref_camera_zsl_value_on">on</string>
-    <string name="pref_camera_facedetection_default">on</string>
     <string name="pref_camera_facedetection_title">Detecção de rosto</string>
     <string name="pref_camera_facedetection_entry_off">Off</string>
     <string name="pref_camera_facedetection_entry_on">On</string>
-    <string name="pref_camera_powermode_default">Normal_Power</string>
-    <string name="pref_camera_redeyereduction_default">disable</string>
     <string name="error_app_unsupported_raw_wavelet">A redução de olhos vermelhos não terá efeito ao tirar fotos em modo RAW</string>
     <string name="pref_camera_redeyereduction_title">Redução de olhos vermelhos</string>
     <string name="pref_camera_redeyereduction_entry_auto">Câmera traseira</string>
@@ -355,7 +266,6 @@ Saia de vista por um momento"</string>
     <string name="error_app_unsupported">Resolução de vídeo não suportada para o codificador selecionado</string>
     <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
     <string name="pref_camera_hand_night_title">HHT</string>
-    <string name="pref_camera_ae_bracket_hdr_default">Off</string>
     <string name="hdr_exit_button_text">Sair do modo HDR</string>
     <string name="raw_data_exit_button_text">Sair do modo RAW</string>
     <string name="hand_night_exit_button_text">Sair do modo HHT</string>
@@ -371,24 +281,14 @@ Saia de vista por um momento"</string>
     <string name="pref_camera_referenceline_title">Linhas de referência</string>
     <string name="pref_camera_referenceline_entry_off">Off</string>
     <string name="pref_camera_referenceline_entry_on">On</string>
-    <string name="pref_camera_referenceline_entryvalue_default">referenceline-off</string>
-    <string name="pref_camera_referenceline_entryvalue_off">referenceline-off</string>
-    <string name="pref_camera_referenceline_entryvalue_on">referenceline-on</string>
     <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Disparador</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
     <string name="pref_camera_volumekey_function_entry_exposure">Exposição</string>
     <string name="pref_camera_volumekey_function_title">Botões de volume</string>
-    <string name="pref_camera_volumekey_function_entryvalue_volume">volume</string>
-    <string name="pref_camera_volumekey_function_entryvalue_shutter">shutter</string>
-    <string name="pref_camera_volumekey_function_entryvalue_zoom">zoom</string>
-    <string name="pref_camera_volumekey_function_entryvalue_exposure">exposure</string>
-    <string name="pref_camera_volumekey_function_default">shutter</string>
     <string name="pref_camera_long_pressing_burst_shooting_title">Função de toque longo</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_off">Foco</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_on">Disparo Contínuo</string>
-    <string name="pref_camera_long_pressing_burst_shooting_default">on</string>
-    <string name="pref_camera_current_k_value">Valor atual</string>
     <string name="error_fail_to_start_audio_capture">Falha ao iniciar captura de áudio: O microfone pode estar em uso por outro aplicativo.</string>
     <string name="toast_start_audio_capture">Faça barulho para ativar o Disparador por Som</string>
     <string name="record_back_pressed_hint">Pressione novamente para interromper gravação</string>
@@ -399,12 +299,9 @@ Saia de vista por um momento"</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Fotos sequenciais não são suportadas quando a captura de áudio está ativa.</string>
     <string name="toast_burst_snap_forbidden_when_iso_not_auto">Fotos sequenciais não são suportadas fora do modo ISO automático</string>
     <string name="time_lapse_error">Tamanho de vídeo inválido para gravação em lapso de tempo.</string>
-    <string name="pref_camera_movie_solid_default">on</string>
     <string name="pref_camera_movie_solid_title">Filme sólido</string>
     <string name="pref_camera_movie_solid_entry_off">Off</string>
     <string name="pref_camera_movie_solid_entry_on">On</string>
-    <string name="pref_camera_movie_solid_value_off">off</string>
-    <string name="pref_camera_movie_solid_value_on">on</string>
     <string name="unit_mm">mm</string>
     <string name="share">Compartilhar</string>
     <string name="send">Enviar</string>
@@ -552,9 +449,6 @@ Saia de vista por um momento"</string>
     <string name="pref_camera_watermark_title">"Marca d'água"</string>
     <string name="pref_camera_watermark_entry_off">Off</string>
     <string name="pref_camera_watermark_entry_on">On</string>
-    <string name="pref_camera_watermark_default">Off</string>
-    <string name="pref_camera_watermark_entryvalue_off">Off</string>
-    <string name="pref_camera_watermark_entryvalue_on">On</string>
     <string name="accessibility_flash_mode_button">FlashButton</string>
     <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
     <string name="accessibility_scroll_button_slider">Camera-Video-Switcher</string>
@@ -565,12 +459,8 @@ Saia de vista por um momento"</string>
     <string name="pref_scan_qrcode_title">Escanear código QR</string>
     <string name="pref_scan_qrcode_entry_off">Off</string>
     <string name="pref_scan_qrcode_entry_on">On</string>
-    <string name="pref_scan_qrcode_default">on</string>
-    <string name="pref_scan_qrcode_value_off">off</string>
-    <string name="pref_scan_qrcode_value_on">on</string>
     <string name="pref_manual_exposure_title">Exposição Manual</string>
     <string name="pref_camera_exposuretime_title">Tempo de exposição</string>
-    <string name="pref_camera_exposuretime_default">0</string>
     <string name="pref_camera_exposuretime_entry_auto">Auto</string>
     <string name="pref_camera_exposuretime_entry_0.5">2s</string>
     <string name="pref_camera_exposuretime_entry_1">1s</string>
@@ -590,7 +480,6 @@ Saia de vista por um momento"</string>
     <string name="face_beauty_intelligent_title">Ajuste automático</string>
     <string name="face_beauty_manual_title">Ajuste manual</string>
     <string name="face_beauty_simple_mode_title">Tons de pele</string>
-    <string name="camera_face_beauty_default">i:0</string>
     <string name="camera_face_beauty_simple_mode_close">i:0</string>
     <string name="camera_face_beauty_simple_mode_open">i:2</string>
     <string name="face_beauty_intelligent_level_0">Off</string>
@@ -598,7 +487,6 @@ Saia de vista por um momento"</string>
     <string name="face_beauty_intelligent_level_2">Médio</string>
     <string name="face_beauty_intelligent_level_3">Alto</string>
     <string name="pref_camera_show_gender_age_title">Reconhecimento facial</string>
-    <string name="pref_camera_show_gender_age_default">on</string>
     <string name="pref_camera_show_gender_age_entry_off">Off</string>
     <string name="pref_camera_show_gender_age_entry_on">Exibir sexo e idade</string>
     <string name="pref_camera_show_gender_age_entry_alias">Exibir idade</string>
@@ -619,59 +507,10 @@ Saia de vista por um momento"</string>
     <string name="pref_camera_multiple_face_beauty_title">Melhorar tons de pele</string>
     <string name="pref_camera_multiple_face_beauty_entry_off">1 pessoa</string>
     <string name="pref_camera_multiple_face_beauty_entry_on">2 pessoas</string>
-    <string name="pref_camera_multiple_face_beauty_default">off</string>
-    <string name="pref_camera_multiple_face_beauty_values_off">off</string>
-    <string name="pref_camera_multiple_face_beauty_values_on">on</string>
     <string name="measure_whitebalance_button">Média de branco</string>
     <string name="measure_whitebalance_text">"Coloque uma folha de papel em branco a 15cm de distância da lente da câmera, e então tire uma foto.."</string>
     <string name="pref_camera_hdr_type_title">Tipo de HDR</string>
     <string name="pref_camera_hdr_type_entry_normal">Normal</string>
     <string name="pref_camera_hdr_type_entry_live">Tempo real</string>
-    <string name="pref_camera_hdr_type_entryvalue_normal">normal</string>
-    <string name="pref_camera_hdr_type_entryvalue_default">normal</string>
-    <string name="pref_camera_hdr_type_entryvalue_live">live</string>
     <string name="accessibility_ev_control">Compensação de exposição</string>
-    <item type="string" name="APKTOOL_DUMMY_0276">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0277">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0278">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0279">false</item>
-    <item type="string" name="APKTOOL_DUMMY_027a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_027b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_027c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_027d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_027e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_027f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0280">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0281">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0282">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0283">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0284">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0285">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0286">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0287">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0288">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0289">false</item>
-    <item type="string" name="APKTOOL_DUMMY_028a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_028b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_028c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_028d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_028e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_028f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0290">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0291">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0292">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0293">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0294">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0295">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0296">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0297">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0298">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0299">false</item>
-    <item type="string" name="APKTOOL_DUMMY_029a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_029b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_029c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_029d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_029e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_029f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02a0">false</item>
 </resources>

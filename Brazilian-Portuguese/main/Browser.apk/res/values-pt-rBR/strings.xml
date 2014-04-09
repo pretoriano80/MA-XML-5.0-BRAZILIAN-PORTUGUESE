@@ -589,14 +589,12 @@
     <string name="webapp_add_to_desktop">Adicionar à tela inicial</string>
     <string name="webapp_addtodeskpop_append">App adicionado na tela inicial</string>
     <string name="webapp_app_name">MiMarket web store</string>
-    <string name="webapp_autohority">miui.browser.webapps</string>
     <string name="webapp_bottom_bar_addtodesk">Adicionar à tela inicial</string>
     <string name="webapp_bottom_bar_exit">Sair</string>
     <string name="webapp_bottom_bar_hidebar">Ocultar barra inferior</string>
     <string name="webapp_bottom_bar_openbrowser">Abrir no navegador</string>
     <string name="webapp_bottom_bar_showbar">Exibir barra inferior</string>
     <string name="webapp_dialog_title">Adicionar app à tela inicial</string>
-    <string name="webapp_pref_addtodesktop_popover">webapp_pref_addtodesktop_popover</string>
     <string name="webapp_splashview_loading">Carregando, aguarde...</string>
     <string name="webapp_web_forward">Avançar</string>
     <string name="webapp_web_goback">Voltar</string>
