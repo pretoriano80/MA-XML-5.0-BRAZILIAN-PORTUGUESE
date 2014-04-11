@@ -7,42 +7,28 @@
         <item>Alarme</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-        <item>Nenhum</item>
-        <item>0 minutos</item>
-        <item>Um minuto</item>
-        <item>Cinco minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
-        <item>20 minutos</item>
-        <item>25 minutos</item>
-        <item>30 minutos</item>
-        <item>45 minutos</item>
-        <item>Uma hora</item>
-        <item>Duas horas</item>
-        <item>Três horas</item>
-        <item>12 horas</item>
-        <item>24 horas</item>
-        <item>Dois dias</item>
-        <item>Uma semana</item>
+        <item>None</item>
+        <item>0 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>1 week</item>
     </string-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>Nenhum</item>
-        <item>0 minutos</item>
-        <item>Um minuto</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
-        <item>20 minutos</item>
-        <item>25 minutos</item>
-        <item>30 minutos</item>
-        <item>45 minutos</item>
-        <item>Uma hora</item>
-        <item>Duas horas</item>
-        <item>Três horas</item>
-        <item>12 horas</item>
-        <item>24 horas</item>
-        <item>Dois dias</item>
-        <item>Uma semana</item>
+        <item>None</item>
+        <item>0 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>1 week</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Localidade padrão</item>
