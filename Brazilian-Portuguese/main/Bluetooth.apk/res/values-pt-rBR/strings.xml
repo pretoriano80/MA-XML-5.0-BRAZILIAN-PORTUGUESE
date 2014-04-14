@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="ErrorTooManyRequests">Há muitas solicitações sendo processadas. Tente novamente mais tarde.</string>
     <string name="ack_record">Confirmar registro</string>

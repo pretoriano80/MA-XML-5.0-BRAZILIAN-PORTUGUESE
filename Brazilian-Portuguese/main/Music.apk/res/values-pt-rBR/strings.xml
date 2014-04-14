@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="account_and_synchronization">Contas &amp; Sincronização</string>
     <string name="account_setting">Configurações de conta</string>
@@ -193,8 +193,8 @@
     <string name="mediaplaybacklabel">Música</string>
     <string name="menu_higher_quality_music">Músicas em alta qualidade (acesso mensal)</string>
     <string name="mi_effect">MI Effects</string>
-    <string name="mi_effect_summary">Utilizar sempre melhorias MiSound ao utilizar alto-falantes</string>
-    <string name="mi_effect_title">Melhorias MiSound</string>
+    <string name="mi_effect_summary">Utilizar sempre melhorias de áudio ao utilizar alto-falantes</string>
+    <string name="mi_effect_title">Melhorias de áudio</string>
     <string name="min_interval">1</string>
     <string name="mobile_connect_settings">Serviços online</string>
     <string name="modify_id3_for_list">As músicas na atual lista de informações da ID3 Tag serão editadas</string>
@@ -216,6 +216,7 @@
     <string name="new_playlist">Novo</string>
     <string name="new_playlist_name_template">Nova playlist %d</string>
     <string name="no_effect">Sem efeitos</string>
+    <string name="no_music_to_play">Nenhuma música para executar</string>
     <string name="no_song_downloaded">Nenhuma música pode ser baixada.</string>
     <string name="normal_quality">Qualidade normal</string>
     <string name="not_login">Login</string>
@@ -271,9 +272,9 @@
     <string name="request_fail">Falha na solicitação!</string>
     <string name="requesting">Solicitando...</string>
     <string name="retry">Tentar novamente</string>
-    <string name="ringtone_menu">Usar como toque do telefone</string>
-    <string name="ringtone_not_support">Formato de áudio não suportado para toque do telefone.</string>
-    <string name="ringtone_set">\"%s\" definido como toque do telefone.</string>
+    <string name="ringtone_menu">Usar como som de toque</string>
+    <string name="ringtone_not_support">Formato de áudio não suportado para som de toque.</string>
+    <string name="ringtone_set">\"%s\" definido como som de toque.</string>
     <string name="save">Salvar</string>
     <string name="scan_barcode_to_connect">"Alinhe o código QR do console KTV no quadro para escaneamento"</string>
     <string name="scanning">Pesquisando o cartão SD…</string>

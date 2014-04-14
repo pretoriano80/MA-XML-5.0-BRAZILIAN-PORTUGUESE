@@ -28,7 +28,7 @@
     <string name="error_note_empty_for_send_to_desktop">Desculpe, não é possível enviar uma anotação para a tela inicial</string>
     <string name="error_note_not_exist">A anotação não existe</string>
     <string name="error_unsupport_content">Esta anotação contém dados não suportados. Por favor, clique aqui para atualizar o sistema</string>
-    <string name="error_widget_exist_for_send_to_desktop">Esta anotação já existe em sua tela inicial</string>   
+    <string name="error_widget_exist_for_send_to_desktop">Esta anotação já existe em sua tela inicial</string>
     <string name="folder_exist">A pasta %1$s já existe, entre com outro nome</string>
     <string name="format_folder_files_count">(%d)</string>
     <string name="format_move_notes_to_folder">%1$d anotações movidas para a pasta %2$s</string>

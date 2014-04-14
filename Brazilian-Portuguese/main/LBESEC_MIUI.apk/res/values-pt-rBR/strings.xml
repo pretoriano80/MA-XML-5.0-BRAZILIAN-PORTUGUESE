@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="Dashboard_App">Apps</string>
     <string name="Dashboard_HIPS_Disable_Content">"Ao desativar o monitor você fará com que a MIUI pare de monitorar requisições de aplicativos, não mais protegendo sua segurança e privacidade. 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="activity_not_found">O aplicativo não está instalado no seu telefone.</string>
     <string name="application_name">MiuiHome</string>
@@ -20,11 +20,11 @@
     <string name="confirm_btn_label">OK</string>
     <string name="custom_wallpaper_picker">Explorar</string>
     <string name="default_folder_title_game">Jogos</string>
-    <string name="default_folder_title_recommend">Recomendados</string>
-    <string name="default_folder_title_security">Segurança</string>
+    <string name="default_folder_title_recommend">Mais apps</string>
+    <string name="default_folder_title_security">Sistema</string>
     <string name="default_folder_title_tools">Ferramentas</string>
     <string name="default_name">Padrão</string>
-    <string name="default_shortcut_title_10086">google.com</string>
+    <string name="default_shortcut_title_10086">1086.cn</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort">%2$2d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>

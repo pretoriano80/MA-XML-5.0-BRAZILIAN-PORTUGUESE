@@ -6,13 +6,13 @@
     </string-array>
     <string-array name="act_weather_main_listview_key">
         <item>Ventos:</item>
-        <item>Índice UV:　</item>
-        <item>Roupas recomendadas:</item>
-        <item>Sensação térmica:</item>
-        <item>Ao ar livre:</item>
-        <item>Afazeres domésticos:</item>
-        <item>Atividades matinais:</item>
-        <item>Viagens programadas:</item>
+        <item>Índice UV:</item>
+        <item>Roupas:</item>
+        <item>Sensação:</item>
+        <item>Ar livre:</item>
+        <item>Afazeres:</item>
+        <item>Ativ. matinais:</item>
+        <item>Lazer:</item>
     </string-array>
     <string-array name="weather_image">
         <item>Céu aberto</item>
@@ -83,28 +83,28 @@
         <item></item>
         <item></item>
         <item></item>
-		<item>Não Não se esqueça de levar um guarda-chuva!</item>
-		<item>Não Não se esqueça de levar um guarda-chuva!</item>
-		<item>Não Não se esqueça de levar um guarda-chuva!</item>
-		<item>Não Não se esqueça de levar um guarda-chuva!</item>
-		<item>Não Não se esqueça de levar um guarda-chuva!</item>
-		<item>Não Não se esqueça de levar um guarda-chuva!</item>
-		<item>Não Não se esqueça de levar um guarda-chuva!</item>
-		<item>Não Não se esqueça de levar um guarda-chuva!</item>
-		<item>Não Não se esqueça de levar um guarda-chuva!</item>
-		<item>Lembre-se de se agasalhar!</item>
-		<item>Lembre-se de se agasalhar!</item>
-		<item>Lembre-se de se agasalhar!</item>
-		<item>Lembre-se de se agasalhar!</item>
-		<item>Lembre-se de se agasalhar!</item>
-		<item>Tenha cuidado lá fora!</item>
-		<item>Tenha cuidado lá fora!</item>
-		<item>Tenha cuidado lá fora!</item>
-		<item>Tenha cuidado lá fora!</item>
-		<item>Cuidado! As estradas estão escorregadias.</item>
+	<item>Não se esqueça de levar um guarda-chuva!</item>
+	<item>Não se esqueça de levar um guarda-chuva!</item>
+	<item>Não se esqueça de levar um guarda-chuva!</item>
+	<item>Não se esqueça de levar um guarda-chuva!</item>
+	<item>Não se esqueça de levar um guarda-chuva!</item>
+	<item>Não se esqueça de levar um guarda-chuva!</item>
+	<item>Não se esqueça de levar um guarda-chuva!</item>
+	<item>Não se esqueça de levar um guarda-chuva!</item>
+	<item>Não se esqueça de levar um guarda-chuva!</item>
+	<item>Lembre-se de se agasalhar!</item>
+	<item>Lembre-se de se agasalhar!</item>
+	<item>Lembre-se de se agasalhar!</item>
+	<item>Lembre-se de se agasalhar!</item>
+	<item>Lembre-se de se agasalhar!</item>
+	<item>Tenha cuidado lá fora!</item>
+	<item>Tenha cuidado lá fora!</item>
+	<item>Tenha cuidado lá fora!</item>
+	<item>Tenha cuidado lá fora!</item>
+	<item>Cuidado! As estradas estão escorregadias.</item>
     </string-array>
     <string-array name="weather_sms_content">
-		<item>Lembre-se de colocar protetor solar.</item>
+	<item>Lembre-se de colocar protetor solar.</item>
         <item>Hoje será um dia nublado.</item>
         <item>Tente ficar dentro de casa.</item>
         <item>Dirija com cuidado.</item>

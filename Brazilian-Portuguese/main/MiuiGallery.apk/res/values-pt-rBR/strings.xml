@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="Import">Importar</string>
     <string name="accept">Aceitar</string>
@@ -288,8 +288,6 @@ na nuvem com seus amigos. Vejam seus
     <string name="menu_item_sort_name_desc">Nome (Z-A)</string>
     <string name="menu_item_sort_size_asc">Tamanho crescente</string>
     <string name="menu_item_sort_size_desc">Tamanho decrescente</string>
-    <string name="menu_item_sort_visit_asc">Frequência crescente</string>
-    <string name="menu_item_sort_visit_desc">Frequência decrescente</string>
     <string name="menu_view_contact">Ver contato</string>
     <string name="message_no_delete_access">Acesso negado, Impossível excluir arquivo ou pasta: %s</string>
     <string name="message_no_delete_access_with_count">Falha ao excluir %d arquivo(s) ou pasta(s). Ela(s) pode(m) não existir ou o acesso está bloqueado.</string>
@@ -337,11 +335,11 @@ na nuvem com seus amigos. Vejam seus
     <string name="operation_in_process">Processando...</string>
     <string name="operation_refresh">Atualizar</string>
     <string name="operation_rename">Renomear</string>
-    <string name="operation_set_as_screensaver">Definir como Screensaver</string>
+    <string name="operation_set_as_screensaver">Definir como Proteção de tela</string>
     <string name="operation_share">Compartilhar</string>
     <string name="operation_successful">Concluído.</string>
     <string name="operation_too_often">Sua operação excede o limite de envios para o momento. Tente novamente após 1 minuto.</string>
-    <string name="operation_unset_as_screensaver">Desativar Screensaver</string>
+    <string name="operation_unset_as_screensaver">Desativar Proteção de tela</string>
     <string name="orientation">Orientação</string>
     <string name="other_category">Configurações extras</string>
     <string name="owner_album_subtitle">compartilhado com %1$s membros</string>
@@ -400,10 +398,10 @@ na nuvem com seus amigos. Vejam seus
     <string name="scan_barcode_to_join">Escanear código QR para acessar um álbum.</string>
     <string name="scan_qr_code_buttom_text">Escaneie o código QR para visualizar este álbum.</string>
     <string name="scan_qr_code_failure">Falha ao escanear.</string>
-    <string name="screensaver_activate_mode">Apresentação de slides no Screensaver</string>
-    <string name="screensaver_activate_only_charging">Ativar Screensaver somente durante carregamento</string>
-    <string name="screensaver_category">Screensaver</string>
-    <string name="screensaver_path">Álbum do Screensaver:</string>
+    <string name="screensaver_activate_mode">Apresentação de slides na Proteção de tela</string>
+    <string name="screensaver_activate_only_charging">Ativar Proteção de tela somente durante carregamento</string>
+    <string name="screensaver_category">Proteção de tela</string>
+    <string name="screensaver_path">Álbum da Proteção de tela:</string>
     <string name="screensaver_path_not_set">Não definido</string>
     <string name="sd_not_available">cartão SD desmontado ou indisponível</string>
     <string name="seconds">segundos</string>
@@ -428,7 +426,7 @@ na nuvem com seus amigos. Vejam seus
     <string name="set_recent_album">Marcar como favorito</string>
     <string name="set_screensaver_path_message">As fotos neste álbum serão exibidas 5 segundos após a tela desligar. Esta mensagem não será exibida novamente.</string>
     <string name="set_screensaver_path_message_if_only_charging">Imagens neste álbum só serão exibidas no screensaver quando seu dispositivo estiver carregando.</string>
-    <string name="set_screensaver_path_title">Apresentação de slides no Screensaver</string>
+    <string name="set_screensaver_path_title">Apresentação de slides na Proteção de tela</string>
     <string name="set_wallpaper">Plano de fundo da tela inicial</string>
     <string name="settings">Configurações</string>
     <string name="settings_i_xiaomi_com">Veja seus álbuns na nuvem em qualquer lugar:\n Acesse i.xiaomi.com e divirta-se :)</string>
@@ -518,5 +516,6 @@ na nuvem com seus amigos. Vejam seus
     <string name="widget_type_photo">Selecionar uma imagem</string>
     <string name="widget_type_shuffle">Reprodução aleatória</string>
     <string name="width">Largura</string>
+    <string name="yellow_page">Páginas amarelas</string>
     <string name="yes">Sim</string>
 </resources>

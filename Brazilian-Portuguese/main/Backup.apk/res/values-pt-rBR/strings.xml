@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="account_contact_backup_info">Dados (Conta Xiaomi, Gmail e contas de E-mail. Armazena contas e contatos em conjunto.)</string>
     <string name="account_login">Login</string>

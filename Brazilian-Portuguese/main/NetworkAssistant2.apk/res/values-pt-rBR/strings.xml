@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">Atualizado há mais de um mês</string>
     <string name="adjust_traffic_carrier_summary_more_oneweek_before">Atualizado há mais de uma semana</string>
@@ -20,7 +20,7 @@
     <string name="data_usage_correction_timeout_title">Tempo esgotado durante sincronização de dados</string>
     <string name="data_usage_disabled_dialog">"Você atingiu seu limite de uso de dados móveis.
 
-A utilização emk excesso deste pacote pode resultar em taxas abusivas da operadora."</string>
+A utilização em excesso deste pacote pode resultar em taxas abusivas da operadora."</string>
     <string name="data_usage_disabled_dialog_enable">Ativar dados</string>
     <string name="data_usage_leisure_warning_body">Toque para visualizar detalhes de utilização.</string>
     <string name="data_usage_leisure_warning_title">Limite de uso fora do pico</string>
@@ -163,11 +163,11 @@ Usado"</string>
     <string name="traffic_correction_start_correction_failed">Falha durante a requisição, por favor verifique suas configurações</string>
     <string name="traffic_correction_success">Limite de dados atualizado</string>
     <string name="traffic_none">Nenhum</string>
-    <string name="traffic_protection_data_usage_summary">O uso em excesso de seu plano de dados pode resultar em cobrança de tarifas adicionais.</string>
+    <string name="traffic_protection_data_usage_summary">Lembre-se, o uso em excesso do seu plano de dados móveis pode resultar em cobranças adicionais de sua operadora!</string>
     <string name="traffic_protection_label">Aviso de limite de dados</string>
     <string name="traffic_protection_next">Próximo</string>
-    <string name="traffic_protection_summary">Definir alertas quando o limite de dados atingir um certo nível</string>
-    <string name="traffic_protection_text_hint">Definir limite de dados</string>
+    <string name="traffic_protection_summary">Defina um limite de uso para sua conexão de dados móveis (3G) para controlar sua utilização.</string>
+    <string name="traffic_protection_text_hint">Definir limite de dados para %s</string>
     <string name="traffic_protection_unknown"><u>Definir depois</u></string>
     <string name="traffic_protection_use_data">Dados ativados</string>
     <string name="traffic_setting_fragment_area">Local</string>

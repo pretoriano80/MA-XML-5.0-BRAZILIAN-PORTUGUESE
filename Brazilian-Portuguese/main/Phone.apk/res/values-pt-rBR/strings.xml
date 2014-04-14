@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="ContactScreen">Adic./Editar contatos do SIM</string>
     <string name="ExportContactScreen">Exportar contatos para cartão SIM</string>
@@ -84,11 +84,11 @@
     <string name="auto_ip_setting_miui">Configurações de DDD e DDI</string>
     <string name="auto_ip_summary_not_enabled">Desativado</string>
     <string name="auto_ip_support_local_numbers">Usar DDD para números locais</string>
-    <string name="auto_record_call_summary_miui">Iniciar a gravação quando a chamada for conectada, e salve-a na pasta MIUI/sound_recorder/call_rec do cartão SD</string>
+    <string name="auto_record_call_summary_miui">A gravação será iniciada quando a chamada for conectada. O arquivo será salvo na pasta MIUI &gt; sound recorder &gt; call rec em seu cartão SD</string>
     <string name="auto_record_call_title_miui">Gravação automática</string>
     <string name="auto_record_scenario_enteries_always_miui">Gravar todas as chamadas</string>
     <string name="auto_record_scenario_enteries_whitelist_miui">Gravar números específicos</string>
-    <string name="auto_record_scenario_title_miui">Cenário de gravação automática</string>
+    <string name="auto_record_scenario_title_miui">Gravação automática</string>
     <string name="auto_record_unknown_miui">Números desconhecidos</string>
     <string name="auto_record_whitelist_miui">Definir números</string>
     <string name="auto_record_whitelist_no_item_miui">Toque no botão abaixo para adicionar números para a gravação automática</string>
@@ -931,7 +931,7 @@ Seu cartão SIM será inutilizado caso a senha seja inserida incorretamente nova
     <string name="reverting_settings">Revertendo configurações…</string>
     <string name="rhrpd_unlock_failed">Falha na requisição de desbloqueio hrpd do UIM.</string>
     <string name="rhrpd_unlock_success">UIM hrpd desbloqueado com sucesso.</string>
-    <string name="ringtone_title">Toque do telefone</string>
+    <string name="ringtone_title">Som de toque</string>
     <string name="rnw1_unlock_failed">Falha na requisição de desbloqueio de rede1 UIM.</string>
     <string name="rnw1_unlock_success">Rede 1 UIM desbloqueada com sucesso.</string>
     <string name="rnw2_unlock_failed">Falha na requisição de desbloqueio de rede2 UIM.</string>

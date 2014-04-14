@@ -23,13 +23,13 @@
         <item>Configurações do Launcher</item>
         <item>Configurações do Alarme</item>
         <item>Anotações</item>
-        <item>AntiSpam</item>
+        <item>Lista de Bloqueio</item>
         <item>Contas do Sistema</item>
     </string-array>
     <string-array name="app_type_desc">
         <item>Dados</item>
-        <item>Aplicativos</item>
-        <item>Aplicativos seus dados</item>
+        <item>Aplicativo</item>
+        <item>Aplicativo e seus dados</item>
     </string-array>
     <string-array name="cloud_data_label">
         <item>Contatos</item>

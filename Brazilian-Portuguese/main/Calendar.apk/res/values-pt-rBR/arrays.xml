@@ -7,28 +7,28 @@
         <item>Alarme</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-        <item>None</item>
-        <item>0 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>1 day</item>
-        <item>2 days</item>
-        <item>1 week</item>
+        <item>Nenhum</item>
+        <item>0 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>1 dia</item>
+        <item>2 dias</item>
+        <item>1 semana</item>
     </string-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>None</item>
-        <item>0 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>1 day</item>
-        <item>2 days</item>
-        <item>1 week</item>
+        <item>Nenhum</item>
+        <item>0 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>1 dia</item>
+        <item>2 dias</item>
+        <item>1 semana</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Localidade padrão</item>

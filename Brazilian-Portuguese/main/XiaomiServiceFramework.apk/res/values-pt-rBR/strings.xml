@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="access_denied">Acesso negado</string>
     <string name="access_token_expired_warning">Sua conta Weibo expirou. Vincule-a novamente</string>
@@ -243,7 +243,7 @@ Para corrigir este problema, você pode excluir arquivos antigos, ou adquirir es
     <string name="sim_changed_notification_content">Cartão SIM inativo, ative-o novamente</string>
     <string name="sina_weibo">Sina WeiBo</string>
     <string name="skip_login">Pular login</string>
-    <string name="skip_login_u">&lt;u&gt;Pular login&lt;/u&gt;</string>
+    <string name="skip_login_u"/>
     <string name="skip_setup_account_msg">Usando sua conta Xiaomi, você pode sincronizar e fazer backup de suas mensagens SMS, Contatos, fotos etc. Continuar e configurar depois?</string>
     <string name="skip_setup_account_title">Pular configuração de conta</string>
     <string name="start_micloud">Iniciar</string>
@@ -261,7 +261,7 @@ Para corrigir este problema, você pode excluir arquivos antigos, ou adquirir es
     <string name="update_contacts">Atualizar a agenda de endereços</string>
     <string name="update_contacts_description">Sina micro Fair utiliza sua conta millet, número de telefone, o avatar correspondente de seus amigos, data de aniversário e outras informações à agenda de endereços</string>
     <string name="updated_contacts">%s contatos atualizados</string>
-    <string name="updated_notihng">Nada atualizado</string>
+    <string name="updated_nothing">Nada atualizado</string>
     <string name="user_agreement_p1">"Ao se registrar, você está aceitando os 
 "</string>
     <string name="user_agreement_p2">Termos de Serviço da Xiaomi</string>
@@ -269,7 +269,7 @@ Para corrigir este problema, você pode excluir arquivos antigos, ou adquirir es
     <string name="user_agreement_p4">Política de Privacidade</string>
     <string name="user_agreement_p5">"Ao se registrar, você está aceitando o 
 "</string>
-    <string name="value">Value</string>
+    <string name="vcode">Código de verificação</string>
     <string name="vcode_notification_title">Sua verificação de login está incompleta</string>
     <string name="vcode_prompt_long">Por favor insira o código de verificação gerado pelo token de segurança Xiaomi</string>
     <string name="wipe_data_dialog_msg">%s ainda não foram sincronizados (estes dados serão perdidos se você continuar).</string>

@@ -151,20 +151,20 @@
         <item>Estados Unidos (88.1MHz a 107.9MHz a 200 Khz/Canal)</item>
     </string-array>
     <string-array name="rf_cfg">
-        <item>Get Current Station Parameters</item>
-        <item>Get Station Parameters Repeat 20 times</item>
-        <item>Get Search station parameters</item>
-        <item>Get FM Band sweep parameters</item>
-        <item>Configure FM Search Parameters</item>
+        <item>Obter Parâmetros atuais da estação</item>
+        <item>Obter Parâmetros da estação 20 vezes</item>
+        <item>Obter Parâmetros de pesquisa de estações</item>
+        <item>Obter Parâmetros da banda FM</item>
+        <item>Obter Parâmetros de pesquisa do rádio FM</item>
     </string-array>
     <string-array name="cfg_rf">
-        <item>Set FM RSSI Delta</item>
-        <item>Set Signal Threshold</item>
-        <item>RF Statistics</item>
+        <item>Definir Delta FM RSSI</item>
+        <item>Definir limite de sinal</item>
+        <item>Estatísticas do rádio</item>
     </string-array>
     <string-array name="stats_options">
-        <item>Select the option</item>
-        <item>Configure FM Search parameters</item>
-        <item>RF Statistics</item>
+        <item>Selecionar opção</item>
+        <item>Configurar parâmetro de pesquisa</item>
+        <item>Estatísticas do rádio</item>
     </string-array>
 </resources>

@@ -167,7 +167,7 @@
     <string name="account_setup_security_required_title">Administração de segurança remota</string>
     <string name="account_setup_username_password_toast">Digite um endereço de e-mail e senha válidos.</string>
     <string name="account_setup_username_uneditable_error">Não é possível alterar o nome de usuário de uma conta. Para adicionar uma conta com um nome de usuário diferente, toque em Adicionar conta.</string>
-    <string name="account_shortcut_picker_name">Con e-mail</string>
+    <string name="account_shortcut_picker_name">Contas</string>
     <string name="account_shortcut_picker_title">Escolha uma conta</string>
     <string name="accounts_welcome">É possível configurar a maioria das contas de e-mail em apenas algumas etapas.</string>
     <string name="accounts_welcome_exchange">É possível configurar uma conta do Exchange em apenas algumas etapas.</string>
@@ -269,7 +269,6 @@
     <string name="header_label_general_preferences">Geral</string>
     <string name="login_failed_ticker">Falha no login de %s.</string>
     <string name="login_failed_title">Não foi possível fazer login</string>
-    <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
     <string name="mailbox_list_account_selector_account_header">Contas</string>
     <string name="mailbox_list_account_selector_combined_view">Visualização combinada</string>
     <string name="mailbox_list_account_selector_mailbox_header_fmt">Pastas recentes (%s)</string>

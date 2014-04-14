@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="accessibility_airplane_mode">Modo avião.</string>
     <string name="accessibility_back">Voltar</string>
@@ -116,7 +116,7 @@ Se você reativar os dados móveis, cobranças adicionais poderão ser realizada
     <string name="gps_notification_searching_text">Procurando GPS</string>
     <string name="headset_custom">Personalizar</string>
     <string name="headset_info">Função dos botões</string>
-    <string name="headset_settings">Headsets</string>
+    <string name="headset_settings">Fones de ouvido</string>
     <string name="invalid_charger">"Carregamento USB não suportado. 
 Use somente o carregador fornecido."</string>
     <string name="key_position_custom">Posição personalizada do botão</string>
@@ -215,8 +215,8 @@ dd-MM-yyyy"</string>
     <string name="status_bar_recording_back">Toque aqui para retornar ao Gravador</string>
     <string name="status_bar_recording_pause">Gravação em pausa. Toque aqui para retornar ao Gravador</string>
     <string name="status_bar_settings_airplane">Modo avião</string>
-    <string name="status_bar_settings_auto_brightness_label">Brilho autom.</string>
-    <string name="status_bar_settings_auto_rotation">Girar tela autom.</string>
+    <string name="status_bar_settings_auto_brightness_label">Brilho automático</string>
+    <string name="status_bar_settings_auto_rotation">Girar tela automaticamente</string>
     <string name="status_bar_settings_battery_meter_format">%d%%</string>
     <string name="status_bar_settings_notifications">Notificações</string>
     <string name="status_bar_settings_settings_button">Configurações</string>
@@ -226,7 +226,7 @@ dd-MM-yyyy"</string>
     <string name="status_bar_style_settings">Notificações</string>
     <string name="status_bar_toggle_ac">Controle de Acesso</string>
     <string name="status_bar_toggle_advanced_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
-    <string name="status_bar_toggle_auto_brightness">Brilho</string>
+    <string name="status_bar_toggle_auto_brightness">Brilho Automático</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
     <string name="status_bar_toggle_brightness">Brilho</string>
@@ -261,7 +261,7 @@ dd-MM-yyyy"</string>
     <string name="status_bar_toggle_rotate_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
     <string name="status_bar_toggle_screen_button">Botões virtuais</string>
     <string name="status_bar_toggle_screenshot">Screenshot</string>
-    <string name="status_bar_toggle_shutdown">Energia</string>
+    <string name="status_bar_toggle_shutdown">Desligar</string>
     <string name="status_bar_toggle_sync">Sincronização</string>
     <string name="status_bar_toggle_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
     <string name="status_bar_toggle_sync_auto">Sincr. automática</string>

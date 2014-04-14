@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="accessibility_calllog_detail">Detalhes do Reg. de Chamadas</string>
     <string name="account_container_title">Da seguinte conta</string>
     <string name="account_default">Telefone</string>
     <string name="account_phone">Somente telefone, não sincronizado</string>
     <string name="account_sim">Salvo somente no cartão SIM</string>
+    <string name="account_sim2">Salvo somente no cartão SIM %d</string>
     <string name="account_type_format">Contato de %1$s</string>
     <string name="account_unactivated">Conta inativa</string>
     <string name="actionIncomingCall">Chamadas recebidas</string>
@@ -105,6 +106,7 @@
     <string name="callrecordview_menu_delete_missed">Excluir chamadas perdidas</string>
     <string name="callrecordview_menu_delete_new">Excluir novos contatos</string>
     <string name="callrecordview_menu_delete_one">Excluir entrada do registro de chamadas</string>
+    <string name="callrecordview_menu_delete_sim">Excluir %s registros de chamada</string>
     <string name="callrecordview_menu_delete_stranger">Excluir registro de desconhecidos</string>
     <string name="callrecordview_menu_edit_call_note">Editar nota de chamada</string>
     <string name="callrecordview_menu_paste">Colar</string>
@@ -115,6 +117,7 @@
     <string name="callrecordview_menu_show_called">Chamadas efetuadas</string>
     <string name="callrecordview_menu_show_missed">Chamadas perdidas</string>
     <string name="callrecordview_menu_show_new">Novos contatos</string>
+    <string name="callrecordview_menu_show_sim">%s chamadas</string>
     <string name="callrecordview_menu_show_stranger">Números desconhecidos</string>
     <string name="callrecordview_menu_show_title">Selecione o tipo de registro a ser exibido</string>
     <string name="cancel_confirmation_dialog_message">Descartar as alterações?</string>
@@ -184,7 +187,7 @@
     <string name="contact_list_loading">Carregando...</string>
     <string name="contact_pick_photo">Foto</string>
     <string name="contact_read_only">Não pode ser editado neste aplicativo.</string>
-    <string name="contact_status_update_attribution">por meio de %1$s</string>
+    <string name="contact_status_update_attribution">via %1$s</string>
     <string name="contact_status_update_attribution_with_date">%1$s via %2$s</string>
     <string name="contact_unfavorite_toast">Contato removido dos favoritos com sucesso</string>
     <string name="contactsAllLabel">Todos os contatos</string>
@@ -343,7 +346,8 @@
     <string name="emptyGroup">Nenhuma pessoa neste grupo.</string>
     <string name="empty_divider_title">Você pode</string>
     <string name="enter_contact_name">Digite o nome da pessoa</string>
-    <string name="eventLabelsGroup">Eventos</string>
+    <string name="eventLabelsGroup">Aniversário</string>
+    <string name="eventTypeCustom">Personalizado</string>
     <string name="event_edit_field_hint_text">Data</string>
     <string name="export_sim_contact_finish">Exportação para cartão SIM concluída</string>
     <string name="export_sim_contact_finish_failure">Falha causada por armazenamento cheio, Completo: %1$d Incompleto: %2$d</string>
@@ -351,6 +355,7 @@
     <string name="export_sim_contacts_dialog_message">Seu cartão SIM pode armazenar %d contatos. Deseja continuar?</string>
     <string name="export_to_sdcard">Exportar para o armazenamento</string>
     <string name="export_to_sim">Exportar para cartão SIM</string>
+    <string name="export_to_sim2">Exportar para cartão SIM 2</string>
     <string name="export_to_sim_title">Exportando para cartão SIM...</string>
     <string name="export_vcard_description">Exportar vCard para seu cartão SD</string>
     <string name="exporting_contact_failed_message">"Os dados de contato não foram exportados.
@@ -417,6 +422,7 @@ Motivo: \"%s\""</string>
     <string name="ic_menu_done">Concluído</string>
     <string name="imLabelsGroup">IM</string>
     <string name="imei">IMEI</string>
+    <string name="imei_invalid">IMEI inválido</string>
     <string name="import_all_sim_entries_miui">Importar todos os contatos</string>
     <string name="import_all_vcard_string">Importar todos os arquivos vCard</string>
     <string name="import_contact_card_button">Importar contato</string>
@@ -424,6 +430,7 @@ Motivo: \"%s\""</string>
     <string name="import_from_other_phone">Importar de outro telefone</string>
     <string name="import_from_sdcard">Importar do armazenamento</string>
     <string name="import_from_sim">Importar do cartão SIM</string>
+    <string name="import_from_sim2">Importar do cartão SIM 2</string>
     <string name="import_multiple_vcard_string">Importar vários arquivos vCard</string>
     <string name="import_name">nome</string>
     <string name="import_one_vcard_string">Importar um arquivo vCard</string>
@@ -494,6 +501,7 @@ Motivo: \"%s\""</string>
     <string name="map_other">Ver endereço</string>
     <string name="map_work">Ver endereço comercial</string>
     <string name="meid">MEID</string>
+    <string name="meid_invalid">MEID inválido</string>
     <string name="menu_accounts">Contas</string>
     <string name="menu_addStar">Adicionar aos favoritos</string>
     <string name="menu_bar_group_add">Adic.</string>
@@ -512,6 +520,7 @@ Motivo: \"%s\""</string>
     <string name="menu_create_contact_shortcut">Colocar na tela inicial</string>
     <string name="menu_deleteContact">Excluir</string>
     <string name="menu_deleteGroup">Excluir</string>
+    <string name="menu_dial_ip_number">Chamar VoIP</string>
     <string name="menu_dialpad_text">Teclado</string>
     <string name="menu_discard">Descartar</string>
     <string name="menu_display_all">Mostrar todos</string>
@@ -712,6 +721,7 @@ Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>"
     <string name="pref_key_rebuild_t9_index_message">Repara erros em caso de problemas na pesquisa T9</string>
     <string name="pref_key_rebuild_t9_index_title">Reindexar dados de T9</string>
     <string name="pref_key_sim_manage">Opções do SIM</string>
+    <string name="pref_key_sim_manage2">Opções do SIM 2</string>
     <string name="pref_summary_import_from_account">Importar contatos do Google e Exchange para minha conta Xiaomi</string>
     <string name="pref_title_account_import">Importar de uma conta</string>
     <string name="pref_title_import_from_account">Importar para conta Xiaomi</string>
@@ -726,7 +736,7 @@ Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>"
     <string name="preference_dial_pad_touch_tone_human">Voz humana</string>
     <string name="preference_dial_pad_touch_tone_piano">Piano</string>
     <string name="preference_dial_pad_touch_tone_switch">Tons do teclado de discagem</string>
-    <string name="preference_dial_pad_touch_tone_title">Tons do teclado</string>
+    <string name="preference_dial_pad_touch_tone_title">Tons do teclado de discagem</string>
     <string name="preference_display">Exibir</string>
     <string name="preference_displayOptions">Opções de exibição</string>
     <string name="preference_export">Exportar</string>
@@ -750,7 +760,7 @@ Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>"
     <string name="preference_telocation_summary_countrycode_on">Adicionar código do país automaticamente</string>
     <string name="preference_telocation_summary_teloc_off">Ocultar localização</string>
     <string name="preference_telocation_summary_teloc_on">Mostrar localização</string>
-    <string name="preference_telocation_title">Localização</string>
+    <string name="preference_telocation_title">Configuração de local</string>
     <string name="preference_tone_title">Tom</string>
     <string name="prepare_import">preparando importação</string>
     <string name="preview_contact_card_title">Importando contatos…</string>
@@ -992,8 +1002,9 @@ Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>"
     <string name="sim_card_no_free_space_title">Cartão SIM cheio</string>
     <string name="sim_contact_dropdown_menu_deselect_all_miui">Sel. nenhum</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">Selecionar todos</string>
-    <string name="sim_contact_existing">Contact already exists</string>
-    <string name="sim_contact_invalid">Invalid SIM contact</string>
+    <string name="sim_contact_existing">Este contato já existe</string>
+    <string name="sim_contact_invalid">Contato do SIM inválido</string>
+    <string name="sim_contact_number_missing">Número do contato do SIM ausente.</string>
     <string name="sim_contact_search_error">Ocorreu um erro ao pesquisar contatos do SIM</string>
     <string name="sim_contacts">Contatos do SIM</string>
     <string name="sim_error_anr_full">Espaço insuficiente no cartão SIM</string>

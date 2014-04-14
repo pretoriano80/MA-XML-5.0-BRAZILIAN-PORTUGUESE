@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="MIUI_startpage">Página Inicial</string>
     <string name="accessibility_button_addbookmark">Adicionar página aos favoritos</string>
@@ -354,7 +354,7 @@
     <string name="pref_data_preload_summary">Permitir ao naveg. pré-carr. result. de busca de alta confiança em segundo plano</string>
     <string name="pref_data_preload_title">Pré-carreg. dos resultados da pesquisa</string>
     <string name="pref_data_preload_value_never_summary">Nunca permitir que o navecador pré-carregue resultados de pesquisa em segundo plano</string>
-    <string name="pref_data_title">Gerenc. largura de banda</string>
+    <string name="pref_data_title">Gerenciar largura de banda</string>
     <string name="pref_default_text_encoding">Codificação de texto</string>
     <string name="pref_default_text_encoding_default">Latin-1</string>
     <string name="pref_default_text_encoding_dialogtitle">Codificação de texto</string>
@@ -376,7 +376,7 @@
     <string name="pref_development_viewport">Usar wide viewport</string>
     <string name="pref_development_visual_indicator">Ativar Indicador Visual</string>
     <string name="pref_exit_on_closing_last_tab_enabled_title">Sair ao fechar última aba</string>
-    <string name="pref_extras_reset_default">Redefinir para o padrão</string>
+    <string name="pref_extras_reset_default">Redefinir padrões</string>
     <string name="pref_extras_reset_default_dlg">Reverter as configurações para os valores padrão?</string>
     <string name="pref_extras_reset_default_summary">Restaurar as configurações padrão</string>
     <string name="pref_extras_reset_default_title">Redefinir padrões</string>
@@ -388,7 +388,7 @@
     <string name="pref_file_download_save_modify_default_path">Modificar local de download</string>
     <string name="pref_file_download_save_title">Baixar e salvar arquivo</string>
     <string name="pref_fling_on_border_enabled">Deslizar nas bordas</string>
-    <string name="pref_fling_on_border_enabled_title_summary">Ação ao deslizar nas bordas da janela</string>
+    <string name="pref_fling_on_border_enabled_title_summary">Alternar abas ao deslizar entre as bordas da janela</string>
     <string name="pref_font_size_category">Tamanho do texto</string>
     <string name="pref_force_userscalable">Forçar ativação de zoom</string>
     <string name="pref_force_userscalable_summary">Subst. solicit. do site p/ control. comport. de zoom</string>
@@ -486,7 +486,7 @@
     <string name="quicklinks_most_visited_title">Adicionar à página inicial</string>
     <string name="readmode_already_add_to_bookshelf">Entrou na estante</string>
     <string name="readmode_battery">Bateria</string>
-    <string name="readmode_login">login</string>
+    <string name="readmode_login">Login</string>
     <string name="readmode_login_message">capítulos subsequentes precisam fazer login antes de estarem disponíveis para visualização no celular</string>
     <string name="readmode_page_load_error">Não foi possível carregar a página, toque em Atualizar para tentar novamente</string>
     <string name="readmode_page_loading">Carregando por favor aguarde...</string>
@@ -541,7 +541,7 @@
     <string name="security_warning">Aviso de segurança</string>
     <string name="select_dot">Selecionar texto</string>
     <string name="send_bookmark_to_home_screen">Enviar à tela inicial</string>
-    <string name="send_to_desktop">atalho</string>
+    <string name="send_to_popular">popular</string>
     <string name="set_as_homepage">Definir como página inicial</string>
     <string name="share_link">Compartilhar link</string>
     <string name="share_page">Compartilhar página</string>

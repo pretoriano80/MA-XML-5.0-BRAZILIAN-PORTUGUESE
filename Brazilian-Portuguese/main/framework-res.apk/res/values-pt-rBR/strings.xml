@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="BaMmi">Bloqueio de chamadas</string>
     <string name="CLIRDefaultOffNextCallOff">O ID da chamada assume o padrão de não restrito. Próxima chamada: Não restrita</string>
@@ -189,13 +189,10 @@ Deseja fechá-lo?"</string>
     <string name="config_dreamsDefaultComponent">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
     <string name="config_ethernet_iface_regex">eth\\d</string>
     <string name="config_fusedLocationProviderPackageName">com.android.location.fused</string>
-    <string name="config_geocodeProvider">com.android.location.service.GeocodeProvider</string>
     <string name="config_geocoderProviderPackageName">@null</string>
     <string name="config_geofenceProvider">com.qualcomm.location</string>
     <string name="config_geofenceProviderPackageName">@null</string>
     <string name="config_isoImagePath"/>
-    <string name="config_networkLocationProvider1">com.google.android.location.NetworkLocationProvider</string>
-    <string name="config_networkLocationProvider2">com.android.location.service.NetworkLocationProvider</string>
     <string name="config_networkLocationProviderPackageName">@null</string>
     <string name="config_ntpServer">2.android.pool.ntp.org</string>
     <string name="config_tether_apndata"/>
@@ -1084,7 +1081,7 @@ para a conta %s."</string>
     <string name="permlab_sdcardRead">testar o acesso ao armazenamento protegido</string>
     <string name="permlab_sdcardWrite">modificar ou excluir conteúdo do cartão SD</string>
     <string name="permlab_sendRespondViaMessageRequest">send respond-via-message events</string>
-    <string name="permlab_sendSmsNoConfirmation">enviar mensagens SMS sem confirmação</string>
+    <string name="permlab_sendSms">enviar mensagens SMS</string>
     <string name="permlab_serialPort">acessar portas seriais</string>
     <string name="permlab_setAlarm">definir um alarme</string>
     <string name="permlab_setAlwaysFinish">forçar encerramento de aplicativos em segundo plano</string>
@@ -1156,8 +1153,8 @@ para a conta %s."</string>
     <string name="phoneTypeWork">Comercial</string>
     <string name="phoneTypeWorkMobile">Celular comercial</string>
     <string name="phoneTypeWorkPager">Pager comercial</string>
-    <string name="pinpuk_attempts">"Tentativas restantes :"</string>
-    <string name="pm">PM</string>
+    <string name="pinpuk_attempts">"
+Tentativas restantes:"</string>
     <string name="policydesc_disableCamera">Impeça o uso de todas as câmeras do dispositivo.</string>
     <string name="policydesc_disableKeyguardFeatures">Prevent use of some features in keyguard.</string>
     <string name="policydesc_encryptedStorage">Exija que os dados armazenados do aplicativo sejam criptografados.</string>

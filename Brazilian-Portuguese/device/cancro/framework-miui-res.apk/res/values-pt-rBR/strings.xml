@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="activate">Ativar</string>
     <string name="activate_fail_notification_title">Reativar serviço de sincronização Xiaomi</string>
     <string name="activating">Ativando...</string>
     <string name="alwaysUsePrompt">Definir Padrão (nenhum prompt será exibido na próxima vez)</string>
+    <string name="android_lockscreen_glogin_instructions">Para desbloquear, efetue o login em sua conta</string>
     <string name="anniversary_of_lifting_martial_law"/>
     <string name="anti_aggression_day"/>
     <string name="app_no_notification">nada</string>
@@ -29,7 +30,6 @@
     <string name="day_of_month">" %d"</string>
     <string name="days">dias</string>
     <string name="delete">Apagar</string>
-    <string name="deprecated_alarm_message_12_hour_formate"/>
     <string name="device_hongmi">Telefone Redmi</string>
     <string name="device_xiaomi">Telefone Xiaomi</string>
     <string name="double_seventh_day"/>
@@ -55,7 +55,7 @@ Para desbloqueá-lo, insira o cartão SIM"</string>
     <string name="find_device_turn_off_flight_mode">Desabilitar modo avião</string>
     <string name="find_device_turn_off_flight_mode_instructions">"Seu telefone foi bloqueado.
 Para desbloqueá-lo, desative o modo para Avião"</string>
-    <string name="firewall_setting">Firewall</string>
+    <string name="firewall_setting">Lista de Bloqueio</string>
     <string name="first_back_long_press_message">"Você deseja ativar a opção de finalizar aplicativos em execução ao pressionar longamente a tecla voltar?  
     
 Ative em Configurações > Sistema > Botões"</string>
@@ -196,7 +196,7 @@ Memória livre: %2$s"</string>
     <string name="safetylegal_activity_unreachable">O telefone não está conectado ao serviço de dados. Para ver estas informações agora, acesse %s em qualquer computador conectado à internet.</string>
     <string name="screen_button_notification_text">"Pressione 'Home'+'Power' para reativar"</string>
     <string name="screen_button_notification_title">Botões inferiores desabilitados</string>
-    <string name="screen_on_proximity_sensor_hint">"Forçar saída pressionando os botões 'Voltar' + 'Aumentar Volume'"</string>
+    <string name="screen_on_proximity_sensor_hint">"Está aqui por engano? Pressione os botões 'Voltar' + 'Aumentar Volume'"</string>
     <string name="screen_on_proximity_sensor_summary">"Não cubra a parte superior do telefone"</string>
     <string name="screen_on_proximity_sensor_title">Prevenção de má operação</string>
     <string name="sd_not_available">O cartão SD não está disponível, insira-o</string>
@@ -257,7 +257,7 @@ Memória livre: %2$s"</string>
     <string name="user_agreement2">" Política de privacidade"</string>
     <string name="user_agreement3">" e "</string>
     <string name="user_agreement4">Termos de utilização</string>
-    <string name="user_agreement5">Toque em OK para concordar que está de acordo com o conteúdo acima. Toque em Cancelar para sair.</string>
+    <string name="user_agreement5">Toque em OK para concordar com o conteúdo acima. Toque em Cancelar para sair.</string>
     <string name="v5_date_picker_label_day" />
     <string name="v5_date_picker_label_month" />
     <string name="v5_date_picker_label_year" />
