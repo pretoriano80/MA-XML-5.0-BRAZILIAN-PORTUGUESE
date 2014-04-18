@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="transport_types">
-        <item>UDP</item>
-        <item>TCP</item>
-    </string-array>
     <string-array name="ims_call_types">
         <item>Voz</item>
         <item>Vídeo</item>
@@ -75,10 +71,6 @@
     <string-array name="cdma_system_select_choices">
         <item>Somente doméstica</item>
         <item>Automático</item>
-    </string-array>
-    <string-array name="cdma_subscription_choices">
-        <item>UIM</item>
-        <item>NV</item>
     </string-array>
     <string-array name="tty_mode_entries">
         <item>TTY desativado</item>

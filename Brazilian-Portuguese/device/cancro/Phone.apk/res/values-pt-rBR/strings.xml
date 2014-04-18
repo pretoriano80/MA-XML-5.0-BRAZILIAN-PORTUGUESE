@@ -167,7 +167,7 @@
     <string name="call_type_title">Tipo de Chamada IMS</string>
     <string name="call_waiting_sum_miui">Durante uma chamada, notificar-me de chamadas em espera</string>
     <string name="call_waiting_tone_continuously_miui">Reproduzir tom continuamente</string>
-    <string name="call_waiting_tone_stop_summary" />
+    <string name="call_waiting_tone_stop_summary"/>
     <string name="call_waiting_tone_title_miui">Tom de chamada em espera</string>
     <string name="call_waiting_tone_twice_and_vibrate_miui">Reproduzir tom e vibrar duas vezes</string>
     <string name="call_waiting_tone_twice_only_miui">Reproduzir tom por duas vezes</string>
@@ -179,7 +179,7 @@
     <string name="callind_multi_sim">Selecionar Operadora</string>
     <string name="calling_via_template">Chamando via %s</string>
     <string name="calling_via_template_miui">"Chamando via ^1 
-"</string>
+"<b>^2</b></string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_call">Cancelar</string>
     <string name="card_01">SIM 1</string>
@@ -315,7 +315,7 @@
     <string name="default_ims_call_type">Voz</string>
     <string name="default_notification_description">Toque padrão (%1$s)</string>
     <string name="default_port">5060</string>
-    <string name="default_preference_summary">&lt;Não definido&gt;</string>
+    <string name="default_preference_summary">&lt;Não definido></string>
     <string name="default_transport">UDP</string>
     <string name="delete">Excluir</string>
     <string name="deleteAllSimEntries">Excluir contatos do SIM</string>
@@ -380,7 +380,7 @@
     <string name="disable_sim_pin">Desativar PIN do SIM</string>
     <string name="disable_sim_pin_miui">Desativar PIN do SIM</string>
     <string name="display_name">DisplayName</string>
-    <string name="display_name_summary">&lt;Igual ao nome de usuário&gt;</string>
+    <string name="display_name_summary">&lt;Igual ao nome de usuário></string>
     <string name="display_name_title">Nome de exibição</string>
     <string name="domain_address">SipDomain</string>
     <string name="domain_address_title">Servidor</string>
@@ -736,7 +736,7 @@ Mudar para o novo provedor?"</string>
     <string name="onscreen_swap_calls_text_miui">Alternar</string>
     <string name="onscreen_tools_off_miui">Ferramentas</string>
     <string name="onscreen_tools_on_miui">Ferramentas</string>
-    <string name="optional_summary">&lt;Opcional&gt;</string>
+    <string name="optional_summary">&lt;Opcional></string>
     <string name="ota_activate">Ativar</string>
     <string name="ota_call_end">Voltar</string>
     <string name="ota_failure">Falha de programação</string>
@@ -906,7 +906,7 @@ Seu cartão SIM será inutilizado caso a senha seja inserida incorretamente nova
     <string name="requesting_sim_unlock">Requisitando desbloqueio do SIM</string>
     <string name="requesting_sp_unlock">Solicitando o desbloqueio de rede…</string>
     <string name="requesting_unlock">Requisitando desbloqueio de rede...</string>
-    <string name="reset_my_choice_hint">Você pode alterar qual conta de chamada pela Internet será usada por padrão na tela Telefone &gt; Configurações &gt; Configurações de chamada pela Internet &gt; Contas.</string>
+    <string name="reset_my_choice_hint">Você pode alterar qual conta de chamada pela Internet será usada por padrão na tela Telefone > Configurações > Configurações de chamada pela Internet > Contas.</string>
     <string name="respond_via_sms_canned_response_1">Não posso falar agora. Me manda um SMS, por favor?</string>
     <string name="respond_via_sms_canned_response_1_miui">"Desculpe, não posso atender o telefone agora. Irei retornar a chamada assim que possível."</string>
     <string name="respond_via_sms_canned_response_2">Já te ligo de volta.</string>
@@ -919,7 +919,7 @@ Seu cartão SIM será inutilizado caso a senha seja inserida incorretamente nova
     <string name="respond_via_sms_custom_message">Escreva sua resposta...</string>
     <string name="respond_via_sms_edittext_dialog_title">Resposta rápida</string>
     <string name="respond_via_sms_menu_reset_default_activity">Restaurar aplicativos padrão</string>
-    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_setting_summary"/>
     <string name="respond_via_sms_setting_title">Respostas rápidas</string>
     <string name="respond_via_sms_setting_title_2">Editar respostas rápidas</string>
     <string name="response_error">Resposta inesperada da rede.</string>
@@ -1160,7 +1160,7 @@ Entre em contato com sua operadora se o problema persistir."</string>
     <string name="voicemail_notification_vibarte_when_dialog_title">Vibrar</string>
     <string name="voicemail_notification_vibrate_when_default">nunca</string>
     <string name="voicemail_notification_vibrate_when_title">Vibrar</string>
-    <string name="voicemail_number_not_set">&lt;Não definido&gt;</string>
+    <string name="voicemail_number_not_set">&lt;Não definido></string>
     <string name="voicemail_provider">Serviço</string>
     <string name="voicemail_provider_miui">Serviço de correio de voz</string>
     <string name="voicemail_provider_sum_miui">Escolha serv. de correio de voz</string>
