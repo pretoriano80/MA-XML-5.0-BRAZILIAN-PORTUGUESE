@@ -14,7 +14,6 @@
     <string name="abc_searchview_description_voice">Pesquisa por voz</string>
     <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
-    <string name="account_cache_provider">Provedor de Cache de Contas</string>
     <string name="account_duplicate_dlg_message_fmt">Você já está usando este nome de usuário para a conta \"%s\".</string>
     <string name="account_duplicate_dlg_title">Conta duplicada</string>
     <string name="account_folder_list_summary_drafts">Rascunhos</string>
@@ -166,7 +165,6 @@
     <string name="account_setup_security_policies_required_fmt">O servidor %s requer a permissão de controle remoto de alguns recursos de segurança do seu dispositivo Android. Deseja concluir a configuração desta conta?</string>
     <string name="account_setup_security_required_title">Administração de segurança remota</string>
     <string name="account_setup_username_password_toast">Digite um endereço de e-mail e senha válidos.</string>
-    <string name="account_setup_username_password_toast">Insira um endereço de e-mail e senha válidos.</string>
     <string name="account_setup_username_uneditable_error">Não é possível alterar o nome de usuário de uma conta. Para adicionar uma conta com um nome de usuário diferente, toque em Adicionar conta.</string>
     <string name="account_sync_off">A sincronização da conta está desativada.</string>
     <string name="account_type_exchange">Exchange</string>
@@ -250,7 +248,6 @@
     <string name="collapse_recipient_details">Recolher detalhes do destinatário</string>
     <string name="colon">:</string>
     <string name="compose">Escrever</string>
-    <string name="compose_help_context">Escrever</string>
     <string name="confirm">Confirmar</string>
     <string name="confirm_discard_text">Descartar esta mensagem?</string>
     <string name="confirm_response">Enviando resposta...</string>
@@ -277,7 +274,6 @@
     <string name="contextmenu_send_mail">Enviar e-mail</string>
     <string name="contextmenu_sharelink">Compartilhar link</string>
     <string name="contextmenu_sms_dot">SMS…</string>
-    <string name="conversation_content_provider">Provedor de Conteúdo de Conversas</string>
     <string name="conversation_folder_moved">Movida para %1$s</string>
     <string name="conversation_photo_welcome_text">Toque na imagem do remetente para selecionar a conversa.</string>
     <string name="copy_email">Copiar endereço de e-mail</string>
@@ -354,7 +350,6 @@
     <string name="forward_attribution_no_headers">---------- Mensagem encaminhada ----------</string>
     <string name="forward_download_failed_ticker">Não foi possível encaminhar todos os anexos.</string>
     <string name="forward_download_failed_title">Anexo não encaminhado</string>
-    <string name="forward_subject_label">Enc:</string>
     <string name="from">De</string>
     <string name="from_heading">"De: "</string>
     <string name="general_preference_confirm_delete_label">Confirmar antes de excluir</string>
@@ -466,7 +461,6 @@ Cc: %4$s
     <string name="message_invite_title">Convite da Agenda</string>
     <string name="message_saved">Mensagem salva como rascunho.</string>
     <string name="message_view_attachment_background_load">Um ou mais anexos de sua mensagem encaminhada serão transferidos antes do envio.</string>
-    <string name="mock_content_provider">Provedor de Conteúdo Fictício</string>
     <string name="more_atts_total">%1$d anexos no total</string>
     <string name="more_info_attachment">Informações</string>
     <string name="more_string">+%1$s</string>
@@ -593,14 +587,9 @@ Cc: %4$s
     <string name="reply">Responder</string>
     <string name="reply_all">Res. a todos</string>
     <string name="reply_attribution" formatted="false">Em %s, %s escreveu:</string>
-    <string name="reply_subject_label">Res:</string>
     <string name="replyto_heading">"Responder para: "</string>
     <string name="report">Informar</string>
     <string name="report_phishing">Denunciar phishing</string>
-    <string name="report_rendering_improvement">Parece boa</string>
-    <string name="report_rendering_improvement_desc">Esta mensagem parece boa.</string>
-    <string name="report_rendering_problem">Parece ruim</string>
-    <string name="report_rendering_problem_desc">Esta mensagem parece ruim.</string>
     <string name="report_spam">Denunciar spam</string>
     <string name="require_manual_sync_message">A sincronização em segundo plano para essa conta é desativada durante o roaming.</string>
     <string name="respond_inline">Responder em linha</string>
@@ -697,7 +686,6 @@ Toque em "<b>Sincronizar agora</b> para sincronizar os e-mails uma vez ou em <b>
     <string name="wait_for_sync_body">Seu e-mail será exibido em breve.</string>
     <string name="wait_for_sync_body_2">O servidor do Exchange irá notificá-lo dentrod e 30 segundos para confirmar as configurações de segurança e ativar a conta.</string>
     <string name="wait_for_sync_title">Aguardando sincronização</string>
-    <string name="wait_help_context">aguardando</string>
     <string name="widget_all_mail">Todos os e-mails</string>
     <string name="widget_other_views">Outros</string>
     <string name="wrong_password">Senha incorreta</string>
