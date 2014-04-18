@@ -47,6 +47,7 @@
     <string name="aqi_quality_index_dangerous">perigosa</string>
     <string name="aqi_quality_index_good">boa</string>
     <string name="aqi_quality_index_hazardous">arriscada</string>
+    <string name="aqi_quality_index_break">Yikes!</string>
     <string name="aqi_quality_index_light_pollution">poluição leve</string>
     <string name="aqi_quality_index_moderate">moderada</string>
     <string name="aqi_quality_index_pure">excelente</string>

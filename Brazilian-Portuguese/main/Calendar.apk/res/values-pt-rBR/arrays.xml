@@ -2,8 +2,8 @@
 <resources>
     <string-array name="reminder_methods_labels">
         <item>Notificação</item>
-        <item>Email</item>
-        <item>SMS</item>
+        <item>E-mail</item>
+        <item>Mensagem</item>
         <item>Alarme</item>
     </string-array>
     <string-array name="reminder_minutes_labels">

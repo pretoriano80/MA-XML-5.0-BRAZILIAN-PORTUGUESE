@@ -5,10 +5,6 @@
         <item>Perguntar antes</item>
         <item>Desligado</item>
     </string-array>
-    <string-array name="pref_homepage_choices">
-        <item>Página inicial</item>
-        <item>Outro</item>
-    </string-array>
     <string-array name="pref_text_size_choices">
         <item>Muito pequeno</item>
         <item>Pequeno</item>
@@ -20,14 +16,6 @@
         <item>Longe</item>
         <item>Médio</item>
         <item>Perto</item>
-    </string-array>
-    <string-array name="pref_development_ua_choices">
-        <item>Android</item>
-        <item>Desktop</item>
-        <item>iPhone</item>
-        <item>iPad</item>
-        <item>Froyo-N1</item>
-        <item>Honeycomb-Xoom</item>
     </string-array>
     <string-array name="pref_default_text_encoding_choices">
         <item>Latin-1 (ISO-8859-1)</item>
@@ -54,21 +42,6 @@
         <item>Apenas com Wi-Fi</item>
         <item>Sempre</item>
     </string-array>
-    <string-array name="menu_theme_setting">
-        <item>Branco</item>
-        <item>Amarelo</item>
-        <item>Cinza</item>
-        <item>Marrom</item>
-        <item>Verde</item>
-        <item>Azul</item>
-        <item>Preto</item>
-    </string-array>
-    <string-array name="pref_ua_choices">
-        <item>Android</item>
-        <item>Desktop</item>
-        <item>iPhone</item>
-        <item>iPad</item>
-    </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Página anterior/Próxima página</item>
         <item>Aba anterior/Próxima aba</item>
@@ -76,6 +49,11 @@
     <string-array name="pref_fling_on_border_choices">
         <item>Voltar/Avançar página</item>
         <item>Alternar abas</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Pequeno</item>
+        <item>Médio</item>
+        <item>Grande</item>
     </string-array>
     <string-array name="pref_images_preload_choices">
         <item>Nunca</item>

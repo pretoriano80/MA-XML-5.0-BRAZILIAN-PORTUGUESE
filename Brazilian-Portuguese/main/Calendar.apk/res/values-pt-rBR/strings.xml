@@ -24,8 +24,6 @@
     <string name="acessibility_selected_marker_description">Evento selecionado</string>
     <string name="acessibility_snooze_notification">Notificação de Adiamento</string>
     <string name="action_bar_today">H</string>
-    <string name="activity_summary">Loteria 10 yuans</string>
-    <string name="activity_title">Presentes MIUI de ano novo</string>
     <string name="add_account">Adicionar conta</string>
     <string name="add_calendar">Adicionar agenda</string>
     <string name="add_topic_success">\"%s\" adicionado com sucesso</string>
@@ -38,25 +36,26 @@
     <string name="attendees_label">Convidados</string>
     <string name="birthday_calendar_display_name">Lembrete de Aniversário</string>
     <string name="birthday_event_description">"Hoje é o aniversário de %1$s!"</string>
-    <string name="birthday_event_description_detail_leap" />
-    <string name="birthday_event_description_detail_smart" />
-    <string name="birthday_notification_age_term" />
+    <string name="birthday_event_description_detail_leap"/>
+    <string name="birthday_event_description_detail_smart"/>
+    <string name="birthday_notification_age_term"/>
     <string name="birthday_notification_text_three_days_later">3 dias até o aniversário (%3$s)</string>
     <string name="birthday_notification_text_today">Não se esqueça de lhe desejar feliz aniversário!</string>
     <string name="birthday_notification_title_three_days_later">"O aniversário de %1$s está chegando"</string>
     <string name="birthday_notification_title_today">"Aniversário de %1$s"</string>
-    <string name="birthday_notification_type_term_lunar" />
+    <string name="birthday_notification_type_term_lunar"/>
     <string name="button_day">D</string>
     <string name="button_month">M</string>
+    <string name="button_online">Online</string>
     <string name="calendar_refresh">Atualizar</string>
     <string name="calendar_server_error">网络错误</string>
     <string name="change_response_title">Alterar resposta</string>
-    <string name="chongsha" />
+    <string name="chongsha"/>
     <string name="copy_db">Enviar banco de dados</string>
     <string name="copy_email">Copiar endereço de e-mail</string>
     <string name="copy_number">Copiar número de telefone</string>
     <string name="create_an_account_desc">"O aplicativo Agenda funciona melhor com uma Conta do Google.
-    
+
  • Acesse-o a partir de qualquer navegador da web
  • Faça backup de seus eventos com segurança"</string>
     <string name="creating_event">Evento criado.</string>
@@ -95,8 +94,10 @@
     <string name="event_account">Conta do calendário</string>
     <string name="event_all_day_label">O dia inteiro</string>
     <string name="event_create">Novo evento</string>
+    <string name="event_date_format">dd/MM</string>
     <string name="event_delete">Excluir evento</string>
     <string name="event_edit">Editar evento</string>
+    <string name="event_full_date_format">dd/MM/yyyy</string>
     <string name="event_hide_more">Ocultar</string>
     <string name="event_info_descrip">"Descrição: "</string>
     <string name="event_info_organizer">Organizador:</string>
@@ -106,7 +107,7 @@
     <string name="event_info_title_invite">Convite para reunião</string>
     <string name="event_info_when">"Quando: "</string>
     <string name="event_info_where">"Onde: "</string>
-    <string name="event_lunar_month" />
+    <string name="event_lunar_month"/>
     <string name="event_show_more">Exibir</string>
     <string name="event_view">Visualizar evento</string>
     <string name="every_weekday">Todos os dias da semana (de segunda a sexta)</string>
@@ -120,8 +121,8 @@
     <string name="hint_what">Nome do evento</string>
     <string name="hint_where">Localização</string>
     <string name="holiday_label">Festival</string>
-    <string name="huangli_bad_type" />
-    <string name="huangli_good_type" />
+    <string name="huangli_bad_type"/>
+    <string name="huangli_good_type"/>
     <string name="huangli_label">Huang Li</string>
     <string name="jump_date">Pular</string>
     <string name="jump_date_full">Pular para data</string>
@@ -134,8 +135,8 @@
     <string name="menu_general_preferences">Configurações gerais</string>
     <string name="menu_preferences">Configurações</string>
     <string name="menu_select_visible_calendars">Agendas para exibição</string>
-    <string name="miui_chinese_week_range_double" />
-    <string name="miui_chinese_week_range_single" />
+    <string name="miui_chinese_week_range_double"/>
+    <string name="miui_chinese_week_range_single"/>
     <string name="miui_menu_create_event">Novo</string>
     <string name="modify_all">Alterar todos os eventos da série</string>
     <string name="modify_all_following">Alterar este e todos os eventos futuros</string>
@@ -166,8 +167,12 @@
     <string name="no_syncable_calendars">Nenhuma agenda disponível</string>
     <string name="no_title_label">(Sem título)</string>
     <string name="not_synced">não sincronizada</string>
-    <string name="online_calendar_activity_label">订阅日历</string>
-    <string name="pengzu" />
+    <string name="online_calendar_activity_label">Inscrever na Agenda</string>
+    <string name="online_reminder_change_text">Modificar lembrete</string>
+    <string name="online_reminder_header_text">Lembrete</string>
+    <string name="online_reminder_minutes_text">Duração do lembrete</string>
+    <string name="online_reminder_slider_text">Ativar alerta</string>
+    <string name="pengzu"/>
     <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
     <string name="pref_title_alarm_remind">Alarme para lembrete</string>
     <string name="pref_title_alert_remind">Pop-up para lembrete</string>
@@ -211,7 +216,7 @@
     <string name="response_maybe">Talvez</string>
     <string name="response_no">Não</string>
     <string name="response_yes">Sim</string>
-    <string name="rest_day_indication" />
+    <string name="rest_day_indication"/>
     <string name="save_label">Concluído</string>
     <string name="saving_event">Evento salvo.</string>
     <string name="saving_event_with_guest">As atualizações serão enviadas.</string>
@@ -221,6 +226,7 @@
     <string name="select_synced_calendars_button">Agendas para sincronização</string>
     <string name="select_synced_calendars_title">Agendas para sincronização</string>
     <string name="select_visible_calendars_title">Agendas para exibição</string>
+    <string name="setting_load_images_under_data_conn">A conexão de dados móveis será utilizada para carregar os dados</string>
     <string name="show_controls">Mostrar controles</string>
     <string name="show_day_view">Mostrar dia</string>
     <string name="show_newer_events">Toque para ver os eventos depois de %1$s</string>
@@ -229,9 +235,10 @@
     <string name="snooze_label">Adiar</string>
     <string name="subscribe_all">Subscrever</string>
     <string name="synced">sincronizado</string>
+    <string name="tab_category">Categoria</string>
     <string name="tab_local">Local</string>
     <string name="tab_online">Online</string>
-    <string name="taishen" />
+    <string name="taishen"/>
     <string name="tardis">TARDIS</string>
     <string name="template_announce_item_index">Evento %1$s de %2$s.</string>
     <string name="time_zone">Fuso horário</string>
@@ -239,9 +246,9 @@
     <string name="today">Hoje</string>
     <string name="today_at_time_fmt">Hoje, às %s</string>
     <string name="today_no_events">Nenhum evento</string>
-    <string name="today_weather_unavailable">Previsão do tempo indisponível</string>
     <string name="tomorrow">Amanhã</string>
     <string name="tomorrow_at_time_fmt">Amanhã, às %s</string>
+    <string name="topic_event_list_header_label">Eventos futuros</string>
     <string name="view_event_calendar_label">Agenda:</string>
     <string name="view_event_organizer_label">Organizador:</string>
     <string name="view_event_response_label">Você vai?</string>
@@ -253,10 +260,10 @@
     <string name="widget_events">Próximos eventos</string>
     <string name="widget_no_events">Nenhum evento próximo</string>
     <string name="widget_select_style">Selecionar estilo de widget</string>
-    <string name="work_day_indication" />
-    <string name="wuxing" />
-    <string name="xingxiu" />
+    <string name="work_day_indication"/>
+    <string name="wuxing"/>
+    <string name="xingxiu"/>
     <string name="yearly">Anualmente (em %s)</string>
     <string name="yearly_plain">Anualmente</string>
-    <string name="zhushen" />
+    <string name="zhushen"/>
 </resources>

@@ -51,6 +51,7 @@ para a MiBox ou TV"</string>
     <string name="cancel_waitfornewset">Deixar de seguir</string>
     <string name="cant_connecting">Falha ao conectar-se ao servidor</string>
     <string name="channel_more">Mais</string>
+    <string name="check_network">Impossível conectar-se à rede. Verifique sua conexão e tente novamente.</string>
     <string name="clear_cache">Excluir cache de imagens</string>
     <string name="clear_cache_success">Cache limpo</string>
     <string name="clear_cache_summary">Excluir cache de miniaturas de vídeo</string>

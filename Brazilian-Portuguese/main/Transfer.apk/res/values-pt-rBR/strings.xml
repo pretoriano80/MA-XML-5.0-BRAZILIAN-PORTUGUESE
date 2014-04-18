@@ -56,6 +56,7 @@
     <string name="failed">Falhou</string>
     <string name="file_download">Download de arquivo</string>
     <string name="file_downloading">Download em andamento</string>
+    <string name="file_not_exist">Arquivo inexistente</string>
     <string name="file_restore">Restaurar arquivos</string>
     <string name="file_share_download_complete">Arquivo recebido!</string>
     <string name="file_share_upload_complete">Arquivo enviado!</string>
@@ -141,7 +142,8 @@
     <string name="save_to_kuaipan">Salvar no MiDrive</string>
     <string name="scan_2d_code">Escanear código QR</string>
     <string name="scan_file">Buscar arquivos</string>
-    <string name="scan_tip">Por favor, certifique-se de que o destinatário habilitou a conexão e pode receber arquivo(s)</string>
+    <string name="scan_tip">"Por favor, certifique-se de que o destinatário habilitou a conexão
+e pode receber arquivos."</string>
     <string name="scan_title">Focalize o código QR</string>
     <string name="scanning">Procurando</string>
     <string name="sdcard_invalid">Nenhum armazenazmento disponível!</string>
@@ -184,13 +186,13 @@
     <string name="shortmessage">Mensagem curta</string>
     <string name="start">Iniciar</string>
     <string name="summary_step_one">Envie fotos, músicas, contatos e vários outros arquivos</string>
-    <string name="summary_step_two">Convide os seus amigos para instalar o AnyShare</string>
-    <string name="support_tip">Suporte técnico fornecido por AnyShare</string>
+    <string name="summary_step_two">Convide os seus amigos para instalar o SHAREit</string>
+    <string name="support_tip">Suporte técnico fornecido por SHAREit</string>
     <string name="title_createfolder">Nova pasta</string>
     <string name="title_selectfile_num">%s arquivos selecionados</string>
     <string name="title_step_one">1. Os arquivos podem ser transferidos rapidamente sem utilizar uma conexão com a internet.</string>
     <string name="title_step_three">3. Transfer: Compartilhamento ilimitado com seus amigos!</string>
-    <string name="title_step_two">2. Sistemas não-MIUI podem aproveitar o AnyShare para transferir arquivos entre vários dispositivos.</string>
+    <string name="title_step_two">2. Sistemas não-MIUI podem aproveitar o SHAREit para transferir arquivos entre vários dispositivos.</string>
     <string name="trans_complete">Transferência concluída!</string>
     <string name="trans_failed">Falha na transferência!</string>
     <string name="trans_paused">Transferência em pausa</string>
