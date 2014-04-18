@@ -50,11 +50,6 @@
         <item>Voltar/Avançar página</item>
         <item>Alternar abas</item>
     </string-array>
-    <string-array name="pref_default_zoom_choices">
-        <item>Pequeno</item>
-        <item>Médio</item>
-        <item>Grande</item>
-    </string-array>
     <string-array name="pref_images_preload_choices">
         <item>Nunca</item>
         <item>Somente em Wi-Fi</item>
