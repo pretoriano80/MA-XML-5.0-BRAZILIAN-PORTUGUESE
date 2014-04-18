@@ -873,7 +873,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
     <string name="dlg_confirm_unmount_text">Se você desconectar o cartão SD, alguns aplicativos que estão em uso serão interrompidos e podem não estar disponíveis até você conectar o cartão SD novamente.</string>
     <string name="dlg_confirm_unmount_title">Desconectar cartão SD?</string>
     <string name="dlg_error_unmount_text">Não é possível desconectar o cartão SD. Tente novamente mais tarde.</string>
-    <string name="dlg_error_unmount_title"/>
+    <string name="dlg_error_unmount_title" />
     <string name="dlg_ok">OK</string>
     <string name="dndm_auto_button_title">Programação de horário</string>
     <string name="dndm_auto_setting_group">Programação</string>
@@ -899,7 +899,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
     <string name="dndm_vip_call_button_title">Permitir chamadas de exceções</string>
     <string name="dndm_vip_call_setting_title">Configurar exceções</string>
     <string name="dndm_vip_call_summary_contact">Todos os contatos</string>
-    <string name="dndm_vip_call_summary_custom">%d exceções</string>
+    <string name="dndm_vip_call_summary_custom">%1$d exceções</string>
     <string name="dndm_vip_call_summary_none">Toque para configurar</string>
     <string name="dndm_vip_list_contact">Todos os contatos</string>
     <string name="dndm_vip_list_custom">Exceções</string>

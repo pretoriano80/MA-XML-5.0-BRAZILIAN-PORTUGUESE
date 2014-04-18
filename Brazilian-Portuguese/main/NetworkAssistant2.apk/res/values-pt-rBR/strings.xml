@@ -130,6 +130,7 @@ Usado"</string>
     <string name="pref_month_begin_date">Ciclo de uso</string>
     <string name="pref_month_first_day">Primeiro dia do mês</string>
     <string name="pref_more_traffic_settings">Configurações adicionais</string>
+    <string name="pref_new_installed_preconfig_title">Configuração padrão para novos apps</string>
     <string name="pref_open_adjust_traffic">Sincronizar sua utilização de dados com sua operadora</string>
     <string name="pref_package_traffic_leisure">%1$s | Fora do pico: %2$s</string>
     <string name="pref_package_traffic_normal">Pico: %s</string>
@@ -155,7 +156,7 @@ Usado"</string>
     <string name="sorted_dialog_title">Ordenar por</string>
     <string name="stop_app_button">Parar</string>
     <string name="system_app">Sistema</string>
-    <string name="text_day"/>
+    <string name="text_day" />
     <string name="tips_dialog_title">Não conhece seu limite?</string>
     <string name="tips_message">Caso você não tenha certeza dos detalhes de seu plano de dados móveis, você precisará entrar em contato com sua operadora.</string>
     <string name="traffic_correction_failed">Impossível obter limite de dados</string>
