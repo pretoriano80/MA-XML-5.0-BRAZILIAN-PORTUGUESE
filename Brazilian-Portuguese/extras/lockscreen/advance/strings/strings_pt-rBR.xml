@@ -1,7 +1,0 @@
-<strings>
-    <string name="short_date_format" value="EEEE, dd 'de' MMMM" />
-    <string name="long_date_format" value="dd 'de' MMMM 'de yyyy" />
-    <string name="date_format" value="EEEE, dd 'de' MMMM" />
-    <string name="emergency_call" value="Chamada de emergência"/>
-    <string name="unknown_number" value="Número desconhecido" />
-</strings>

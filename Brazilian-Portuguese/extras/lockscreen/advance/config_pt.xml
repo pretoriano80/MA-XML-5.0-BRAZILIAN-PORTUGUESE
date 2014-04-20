@@ -1,0 +1,20 @@
+﻿<Config>
+	<Group text="Geral">
+		<NumberChoice text="Relógio" summary="Selecionar fonte para o relógio" id="TimeStyle" default="1">
+			<Item text="Regular" value="1"/>
+			<Item text="Negrito" value="2"/>
+		</NumberChoice>
+		<CheckBox text="Alarme" summary="Exibir horário do próximo alarme" id="alarm_ifo" default="0"/>
+	</Group>
+	<Group text="Clima">
+		<CheckBox text="Clima" summary="Exibir informações de clima" id="weather_ifo" default="1"/>
+		<NumberChoice text="Exibição" id="weather_text"  default="1">
+			<Item text="Temperatura e clima" value="1" />
+			<Item text="Somente temperatura" value="2" />
+		</NumberChoice>
+		<NumberChoice text="Estilo de ícones" id="weather_icon"  default="1">
+			<Item text="1" value="1" />
+			<Item text="2" value="2" />
+		</NumberChoice>
+	</Group>
+</Config>
