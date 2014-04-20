@@ -16,7 +16,6 @@
     <string name="administrative_disable">Administrativo desativado</string>
     <string name="administrative_enable">Administrativo ativado</string>
     <string name="advanced_settings">Configurações opcionais</string>
-    <string name="advanced_settings_container">container de configurações avançadas</string>
     <string name="advanced_settings_hide">▽ Toque para ocultar todos</string>
     <string name="advanced_settings_show">▷ Toque para mostrar todos</string>
     <string name="advertisements_disable">Anúncios desativados</string>
@@ -712,7 +711,6 @@ Talvez seja necessário encontrar uma área com uma cobertura melhor (próximo d
 Tente novamente ou ligue para o serviço de atendimento ao cliente para obter mais opções."</string>
     <string name="other_settings">Outras configurações de chamada</string>
     <string name="other_settings_miui">Outras configurações</string>
-    <string name="password">Password</string>
     <string name="password_title">Senha</string>
     <string name="pause_prompt_no">Não</string>
     <string name="pause_prompt_str">"Enviando tons
@@ -792,7 +790,6 @@ Seu telefone será bloqueado caso insira uma senha incorreta novamente"</string>
     <string name="progress_dialog_exiting_ecm">Saindo do modo de retorno de chamada de emergência</string>
     <string name="prompt">Perguntar</string>
     <string name="prompt_user">Perguntar Usuário</string>
-    <string name="proxy_address">ProxyAddress</string>
     <string name="proxy_address_title">End. proxy de saída</string>
     <string name="pstn_phone">Chamada para celular</string>
     <string name="puk2_blocked">PUK2 bloqueado permanentemente.</string>
@@ -1031,7 +1028,6 @@ Próximo perído começa em %4$d dias (%5$s)"</string>
     <string name="throttle_time_frame_subtext">"%1$d٪ do ciclo expirou.
 O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="title_data_settings">Configuração de Dados Móveis</string>
-    <string name="transport">Protocolo</string>
     <string name="transport_title">Tipo de transporte</string>
     <string name="tty_mode_entries_full_miui">TTY Completo</string>
     <string name="tty_mode_entries_hco_miui">TTY HCO</string>
@@ -1055,7 +1051,6 @@ O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="updating_fdn_contact">Atualizando o número de chamadas fixas…</string>
     <string name="updating_settings">Atualizando configurações…</string>
     <string name="updating_title">Configurações de chamadas</string>
-    <string name="username">Usuário</string>
     <string name="username_title">Nome de usuário</string>
     <string name="ussdRunning">Código USSD em execução…</string>
     <string name="vibrate_on_ring_title">Vibrar quando estiver tocando</string>
