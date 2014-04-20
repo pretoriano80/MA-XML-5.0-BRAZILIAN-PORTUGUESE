@@ -91,8 +91,6 @@
     <string name="add_device_admin">Ativar</string>
     <string name="add_device_admin_msg">Ativar o administrador do telefone?</string>
     <string name="add_whitelist">Desbloquear</string>
-    <string name="additional_system_update"/>
-    <string name="additional_system_update_menu"/>
     <string name="additional_system_update_settings_list_item_title">Atualizações adicionais</string>
     <string name="advanced_settings">Configurações avançadas</string>
     <string name="advanced_settings_summary">Ativa mais opções de configuração</string>
@@ -109,10 +107,8 @@
     <string name="always_allow_bind_appwidgets_text">Você escolher permitir que este app crie widgets e acesse os seus dados.</string>
     <string name="android_beam_disabled_summary">Indisponível porque o NFC está desativado</string>
     <string name="android_beam_explained">"Você pode arrastar páginas do navegador, vídeos do YouTube, contatos de pessoas e muito mais pelo NFC, bastando posicionar os telefones próximos (normalmente de costas um para o outro) e tocar em sua tela. O aplicativo determina o que é arrastado."</string>
-    <string name="android_beam_label">Android Beam</string>
     <string name="android_beam_off_summary">Desativado</string>
     <string name="android_beam_on_summary">Pronto para transmitir conteúdo de aplicativos via NFC</string>
-    <string name="android_beam_settings_title">Android Beam</string>
     <string name="android_beam_tips">Certifique-se de que ambos dispositivos estão se tocando, em seguida selecione o conteúdo a ser compartilhado.</string>
     <string name="android_beam_witch_label">Ativar Android Beam</string>
     <string name="animator_duration_scale_title">Duração das animações</string>
@@ -126,22 +122,14 @@
     <string name="apk_status_install">Instalado</string>
     <string name="apk_status_installed_old">Versão antiga</string>
     <string name="apk_status_uninstalled">Não instalado</string>
-    <string name="apn_apn">APN</string>
     <string name="apn_auth_type">Tipo de autenticação</string>
-    <string name="apn_auth_type_chap">CHAP</string>
     <string name="apn_auth_type_none">Nenhum</string>
-    <string name="apn_auth_type_pap">PAP</string>
     <string name="apn_auth_type_pap_chap">PAP ou CHAP</string>
     <string name="apn_edit">Editar APN</string>
     <string name="apn_general">GERAL</string>
     <string name="apn_http_port">Porta</string>
-    <string name="apn_http_proxy">Proxy</string>
-    <string name="apn_mcc">MCC</string>
-    <string name="apn_mms">MMS</string>
     <string name="apn_mms_port">Porta MMS</string>
     <string name="apn_mms_proxy">Proxy MMS</string>
-    <string name="apn_mmsc">MMSC</string>
-    <string name="apn_mnc">MNC</string>
     <string name="apn_name">Nome</string>
     <string name="apn_new">Novo ponto de acesso</string>
     <string name="apn_not_set">Não definido</string>
@@ -173,7 +161,6 @@ Deseja realmente permitir esta ação?"</string>
     <string name="app_name">Segurança</string>
     <string name="app_name_label">Aplicativo</string>
     <string name="app_not_found_dlg_text">O aplicativo não foi encontrado na lista de aplicativos instalados.</string>
-    <string name="app_not_found_dlg_title"/>
     <string name="app_notifications_switch_label">Mostrar notificações</string>
     <string name="app_process_limit_title">Limite de processos em 2o. plano</string>
     <string name="app_uninstall_residual">Excluir arquivos residuais do aplicativo?</string>
@@ -225,7 +212,6 @@ Deseja realmente permitir esta ação?"</string>
     <string name="backup_data_summary">Efetua backup de dados de aplicativos, senhas da rede Wi-Fi e outras configurações nos servidores do Google</string>
     <string name="backup_data_title">Fazer backup</string>
     <string name="backup_erase_dialog_message">Interromper o backup de suas senhas Wi-Fi, favoritos, outras configurações, dados de aplicativos, além de apagar todas as cópias nos servidores do Google?</string>
-    <string name="backup_erase_dialog_title"/>
     <string name="backup_lock_settings_picker_title">Selec. o bloq. de backup</string>
     <string name="backup_pw_cancel_button_text">Cancelar</string>
     <string name="backup_pw_set_button_text">Definir senha</string>
@@ -250,10 +236,6 @@ Deseja realmente permitir esta ação?"</string>
     <string name="battery_desc_standby">Bateria usada quando o telefone está ocioso</string>
     <string name="battery_desc_voice">Bateria usada por chamadas de voz</string>
     <string name="battery_desc_wifi">Bateria usada por Wi-Fi</string>
-    <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
-    <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>
-    <string name="battery_history_minutes">%1$dm %2$ds</string>
-    <string name="battery_history_seconds">%1$ds</string>
     <string name="battery_indicator_style">Indicador da bateria</string>
     <string name="battery_info_awake_battery">Tempo ativo da bateria:</string>
     <string name="battery_info_awake_plugged">Tempo ativo ao carregar:</string>
@@ -272,12 +254,10 @@ Deseja realmente permitir esta ação?"</string>
     <string name="battery_info_power_label">Tomada de alimentação:</string>
     <string name="battery_info_power_unknown">Desconhecido</string>
     <string name="battery_info_power_unplugged">Desconectado</string>
-    <string name="battery_info_power_usb">USB</string>
     <string name="battery_info_scale_label">Escala da bateria:</string>
     <string name="battery_info_screen_on">Tempo ativo da tela:</string>
     <string name="battery_info_status_charging">Carregando</string>
     <string name="battery_info_status_charging_ac">(CA)</string>
-    <string name="battery_info_status_charging_usb">(USB)</string>
     <string name="battery_info_status_discharging">Descarregando</string>
     <string name="battery_info_status_full">Cheio</string>
     <string name="battery_info_status_label">Status da bateria:</string>
@@ -288,7 +268,6 @@ Deseja realmente permitir esta ação?"</string>
     <string name="battery_info_temperature_units">° C</string>
     <string name="battery_info_uptime">Tempo desde a inicialização:</string>
     <string name="battery_info_voltage_label">Voltagem da bateria:</string>
-    <string name="battery_info_voltage_units">mV</string>
     <string name="battery_level_title">Nível da bateria</string>
     <string name="battery_settings">Bateria</string>
     <string name="battery_settings_title">Bateria</string>
@@ -297,7 +276,6 @@ Deseja realmente permitir esta ação?"</string>
     <string name="battery_stats_charging_label">Carregando</string>
     <string name="battery_stats_duration">%1$s desde que foi desconectado</string>
     <string name="battery_stats_gps_on_label">GPS ligado</string>
-    <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
     <string name="battery_stats_on_battery">%1$s da bateria</string>
     <string name="battery_stats_phone_signal_label">Sinal da rede móvel</string>
     <string name="battery_stats_screen_on_label">Tela ativada</string>
@@ -389,7 +367,6 @@ Deseja realmente permitir esta ação?"</string>
     <string name="bluetooth_enter_pin_msg_hs">"
 Insira o PIN para parear com \"%1$s\". [Segurança reforçada ativada: Necessário código com 16 caracteres]"</string>
     <string name="bluetooth_enter_pin_other_device">Talvez seja necessário digitar este PIN no outro telefone.</string>
-    <string name="bluetooth_error_title"/>
     <string name="bluetooth_ftp_acceptance_dialog_text">%1$s gostaria de acessar suas pastas e arquivos. Conceder acesso a %2$s?</string>
     <string name="bluetooth_ftp_connection_permission_request">Solicitação de conexão FTP</string>
     <string name="bluetooth_ftp_remember_choice">"Não perguntar novamente"</string>
@@ -477,7 +454,6 @@ Insira o PIN para parear com \"%1$s\". [Segurança reforçada ativada: Necessár
     <string name="bluetooth_tethering_overflow_error">Não é possível vincular mais de %1$d telefones.</string>
     <string name="bluetooth_turning_off">Desligar o Bluetooth…</string>
     <string name="bluetooth_turning_on">Ativar Bluetooth?</string>
-    <string name="bluetooth_unknown"/>
     <string name="bluetooth_untether_blank">%1$s será vinculado.</string>
     <string name="bluetooth_visibility">Detectável</string>
     <string name="bluetooth_visibility_timeout">Tempo limite de visibilidade</string>
@@ -547,8 +523,6 @@ Insira o PIN para parear com \"%1$s\". [Segurança reforçada ativada: Necessár
     <string name="carrier_enabled">Ativar/Desativar APN</string>
     <string name="carrier_enabled_summaryOff">APN desativado</string>
     <string name="carrier_enabled_summaryOn">APN ativado</string>
-    <string name="category_key_power_usage_details">key_power_usage_details</string>
-    <string name="category_key_power_usage_packages">key_power_usage_packages</string>
     <string name="cdma_security_settings_summary">Definir o Meu local, o desbloqueio de tela, o bloqueio do armazenamento de credenciais</string>
     <string name="cell_broadcast_settings">Cell broadcasts</string>
     <string name="cell_broadcast_settings_summary">Selecione os tipos de alerta a exibir.</string>
@@ -581,9 +555,6 @@ Insira o PIN para parear com \"%1$s\". [Segurança reforçada ativada: Necessár
     <string name="complete_settings">Todos os itens</string>
     <string name="computing_size">Calculando…</string>
     <string name="config_list_label">Redes configuradas</string>
-    <string name="config_mass_storage_function_name">mass_storage</string>
-    <string name="config_mtp_function_name">mtp</string>
-    <string name="config_ptp_function_name">ptp</string>
     <string name="configure_input_method">Configurar métodos de entrada</string>
     <string name="confirm">OK</string>
     <string name="confirm_clear_blacklist">Excluir Lista Negra?</string>
@@ -616,7 +587,6 @@ Insira o PIN para parear com \"%1$s\". [Segurança reforçada ativada: Necessár
     <string name="credentials_reset_warning">Senha incorreta. Você tem uma ou mais tentativas antes do armazenamento de credencial ser apagado.</string>
     <string name="credentials_reset_warning_plural">Senha incorreta. Você tem mais %1$d tentativas antes do armazenamento de credencial ser apagado.</string>
     <string name="credentials_title">Armazenamento de credenciais</string>
-    <string name="credentials_unlock"/>
     <string name="credentials_unlock_hint">Digite a senha para o armazenamento de credenciais.</string>
     <string name="credentials_wrong_password">Senha incorreta.</string>
     <string name="crypt_keeper_button_text">Criptografar telefone</string>
@@ -659,8 +629,8 @@ Controles mais adequados de uso de dados podem ser encontrados nas configuraçõ
     <string name="data_usage_app_restrict_dialog_title">Restringir dados de segundo plano?</string>
     <string name="data_usage_app_restricted">Restrito</string>
     <string name="data_usage_app_settings">Ver configurações do aplicativo</string>
-    <string name="data_usage_auto_sync_off_dialog">"This will conserve data and battery usage, but you'll need to sync each account manually to collect recent information. And you won't receive notifications when updates occur."</string>
-    <string name="data_usage_auto_sync_off_dialog_title">Turn auto-sync data off?</string>
+    <string name="data_usage_auto_sync_off_dialog">"Isto conservará seus dados móveis e o uso da bateria, mas você precisará sincronizar suas contas manualmente para receber informações recentes. Você não será notificado quando atualizações ocorrerem."</string>
+    <string name="data_usage_auto_sync_off_dialog_title">Desativar sincronização automática?</string>
     <string name="data_usage_auto_sync_on_dialog">"Qualquer alteração que você fizer em suas contas na internet serão automaticamente sincronizadas com o seu telefone.
 
 Algumas contas poderão copiar automaticamente do telefone para a internet. Uma conta Google funciona deste modo.
@@ -726,8 +696,6 @@ Como o uso de dados é calculado por seu telefone, e sua operadora pode explicar
     <string name="date_and_time_settings_title">Data e hora</string>
     <string name="date_and_time_settings_title_setup_wizard">Configurar data e hora</string>
     <string name="date_picker_title">Data</string>
-    <string name="date_time_12_hour_sample">1:00 pm</string>
-    <string name="date_time_24_hour_sample">13:00</string>
     <string name="date_time_24hour">Formato de 24 horas</string>
     <string name="date_time_auto">Data e hora automáticas</string>
     <string name="date_time_auto_summaryOff">Usar horário fornecido pela rede</string>
@@ -824,7 +792,6 @@ Como o uso de dados é calculado por seu telefone, e sua operadora pode explicar
     <string name="dirac_mode_in_ear">"Fone Intra-auricular Xiaomi"</string>
     <string name="dirac_mode_off">Dirac desligado</string>
     <string name="dirac_mode_piston_100">Fones Xiaomi Piston</string>
-    <string name="disableNetwork">disableNetwork</string>
     <string name="disable_adb_debug_summary">Desativar depuração USB</string>
     <string name="disable_anti_spam_summary">Filtro de mensagens desativado</string>
     <string name="disable_app_permission_summary">Monitor de permissões desativado</string>
@@ -833,7 +800,6 @@ Como o uso de dados é calculado por seu telefone, e sua operadora pode explicar
     <string name="disable_power_key_long_press_under_keyguard">Desativar na lockscreen</string>
     <string name="disable_text">Desativar</string>
     <string name="disabled">Desativado</string>
-    <string name="disconnect">disconnect</string>
     <string name="display_font_size_label">Tamanho da fonte:</string>
     <string name="display_label">Tela</string>
     <string name="display_order_text">Classificar por:</string>
@@ -844,7 +810,6 @@ Como o uso de dados é calculado por seu telefone, e sua operadora pode explicar
     <string name="dlg_confirm_unmount_text">Se você desmontar o cartão SD, alguns aplicativos que estão em uso serão interrompidos e podem não estar disponíveis até você montar o cartão SD novamente.</string>
     <string name="dlg_confirm_unmount_title">Desmontar cartão SD?</string>
     <string name="dlg_error_unmount_text">Não é possível desmontar o cartão SD. Tente novamente mais tarde.</string>
-    <string name="dlg_error_unmount_title"/>
     <string name="dlg_ok">OK</string>
     <string name="dndm_auto_button_title">Horário</string>
     <string name="dndm_auto_setting_group">Programação</string>
@@ -866,7 +831,6 @@ Como o uso de dados é calculado por seu telefone, e sua operadora pode explicar
     <string name="dndm_special_call_setting_group">Exceções</string>
     <string name="dndm_summary">Quando o modo não perturbe está ativado, chamadas e notificações são automaticamente silenciadas quando seu telefone estiver bloqueado.</string>
     <string name="dndm_twelve_hour_time_format">a h:mm</string>
-    <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
     <string name="dndm_vip_call_button_title">Permitir chamadas de exceções</string>
     <string name="dndm_vip_call_setting_title">Ajuste de exceções</string>
     <string name="dndm_vip_call_summary_contact">Todos os contatos</string>
@@ -929,7 +893,6 @@ Como o uso de dados é calculado por seu telefone, e sua operadora pode explicar
     <string name="empty_list_msg">Você não tem aplicativos de terceiros instalados.</string>
     <string name="emptylist_fwlog_call">Lista de chamadas bloqueadas vazia.</string>
     <string name="emptylist_fwlog_ms">Lista de mensagens bloqueada vazia.</string>
-    <string name="enableNetwork">enableNetwork</string>
     <string name="enable_adb">Depuração USB</string>
     <string name="enable_adb_debug_summary">Quando conectado via USB, ativar suporte ao ADB</string>
     <string name="enable_adb_debug_title">Ativar depuração USB</string>
@@ -980,9 +943,6 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="external_data_size_label">Cartão SD</string>
     <string name="factory_reset_summary">Você pode apagar seus dados pessoais redefinindo o telefone, ou optando por apagar os programas instalados e formatar o cartão SD para restaurar as configurações de fábrica</string>
     <string name="failed_to_open_app_settings_toast">Falha ao abrir configurações %1$s</string>
-    <string name="fancy_icon_antispam">com.miui.antispam.AntiSpam</string>
-    <string name="fancy_icon_network_assistant">com.wali.miui.networkassistant</string>
-    <string name="fancy_icon_power_center">com.miui.powercenter.PowerCenter</string>
     <string name="fcc_equipment_id">ID</string>
     <string name="filter">Filtro</string>
     <string name="filter_apps_all">Todos</string>
@@ -1012,8 +972,6 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="font_size_large">Grande</string>
     <string name="font_size_medium">Média</string>
     <string name="font_size_normal">Normal</string>
-    <string name="font_size_preview">MIUI</string>
-    <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
     <string name="font_size_save">OK</string>
     <string name="font_size_small">Pequena</string>
     <string name="font_size_summary">Ajustar tamanho da fonte ou layout de aplicativos como Discador, Mensagens, Contatos, etc, para melhorar usabilidade e leitura.</string>
@@ -1100,8 +1058,6 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="gadget_toggle_wifi">Atualizando configuração Wi-Fi</string>
     <string name="game_controller_settings_category">Controle de Jogos</string>
     <string name="garbage_white_list_empty_content">Lista branca vazia</string>
-    <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-    <string name="getConnectionInfo">getConnectionInfo</string>
     <string name="haptic_feedback_enable_title">Feedback táctil</string>
     <string name="haptic_feedback_level">Nível de vibração</string>
     <string name="hardkeyboard_category">Configurações de teclado físico</string>
@@ -1134,17 +1090,6 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="heavy_weight_stop_description">Não é possível interromper este aplicativo com segurança. Se ele for interrompido, alguns de seus trabalhos atuais podem ser perdidos.</string>
     <string name="hello_world">Olá mundo!</string>
     <string name="help_label">Ajuda</string>
-    <string name="help_url_accounts"/>
-    <string name="help_url_backup_reset"/>
-    <string name="help_url_battery"/>
-    <string name="help_url_bluetooth"/>
-    <string name="help_url_choose_lockscreen"/>
-    <string name="help_url_data_usage"/>
-    <string name="help_url_more_networks"/>
-    <string name="help_url_sound"/>
-    <string name="help_url_tether"/>
-    <string name="help_url_vpn"/>
-    <string name="help_url_wifi"/>
     <string name="hidden_ssid_label">SSID oculto:</string>
     <string name="history_details_title">Detalhes do histórico</string>
     <string name="home_key">Botão Home</string>
@@ -1158,12 +1103,8 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="input_method">Método de entrada</string>
     <string name="input_method_selector">Seletor do método de entrada</string>
     <string name="input_method_selector_always_hide_title">Sempre ocultar</string>
-    <string name="input_method_selector_always_hide_value">2</string>
     <string name="input_method_selector_always_show_title">Mostrar sempre</string>
-    <string name="input_method_selector_always_show_value">1</string>
     <string name="input_method_selector_show_automatically_title">Automático</string>
-    <string name="input_method_selector_show_automatically_value">0</string>
-    <string name="input_method_selector_visibility_default_value">0</string>
     <string name="input_method_settings">Configurações</string>
     <string name="input_method_settings_button">Configurações</string>
     <string name="input_methods_and_subtype_enabler_title">Selec. métodos ativos de entrada</string>
@@ -1221,9 +1162,7 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="item_usb_debug">Depuração USB</string>
     <string name="item_virus">Antivírus</string>
     <string name="item_virus_lib">Atualizar definições de vírus automaticamente</string>
-    <string name="join_many_items_first">%1$s, %2$s</string>
     <string name="join_many_items_last">%1$s e %2$s</string>
-    <string name="join_many_items_middle">%1$s, %2$s</string>
     <string name="join_two_items">%1$s e %2$s</string>
     <string name="just_checked">O Sistema está OK!</string>
     <string name="keep_screen_on">Permanecer ativo</string>
@@ -1334,9 +1273,7 @@ Pronto para começar? Toque em Próximo."</string>
     <string name="lockpattern_continue_button_text">Continuar</string>
     <string name="lockpattern_need_to_confirm">Desenhe o padrão novamente para confirmar:</string>
     <string name="lockpattern_need_to_unlock">Confirmar padrão salvo</string>
-    <string name="lockpattern_need_to_unlock_footer"/>
     <string name="lockpattern_need_to_unlock_wrong">Tente novamente:</string>
-    <string name="lockpattern_need_to_unlock_wrong_footer"/>
     <string name="lockpattern_pattern_confirmed_header">Seu novo padrão de desbloqueio:</string>
     <string name="lockpattern_pattern_entered_header">Padrão registrado.</string>
     <string name="lockpattern_recording_incorrect_too_short">Conectar no mínimo %d pontos. Tente novamente:</string>
@@ -1358,7 +1295,6 @@ Pronto para começar? Toque em Próximo."</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Muitas tentativas incorretas!</string>
     <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
     <string name="lockpattern_tutorial_continue_label">Avançar</string>
-    <string name="log_count">(%d)</string>
     <string name="lte_ram_dump_off">Desativar descarga de RAM do LTE</string>
     <string name="lte_ram_dump_on">Ativar descarga de RAM do LTE</string>
     <string name="macaddr_label">MAC:</string>
@@ -1632,12 +1568,9 @@ Tente o seguinte:
     <string name="optimizing_virus">Removendo vírus...</string>
     <string name="other_relative">Outras</string>
     <string name="owner_info_settings_edit_text_hint">Digite o texto a ser exibido na lockscreen</string>
-    <string name="owner_info_settings_summary"/>
     <string name="owner_info_settings_title">Info do proprietário</string>
     <string name="packages_subtitle">Pacotes incluídos</string>
     <string name="password_guard">Proteção por senha</string>
-    <string name="percent_mark">%</string>
-    <string name="percentage">%d%%</string>
     <string name="perm">Permissões</string>
     <string name="perm_app">Apps</string>
     <string name="perm_app_enable">Monitorar solicitações de permissão</string>
@@ -1817,7 +1750,6 @@ Nota: Apps com este tipo de permissão podem causar instabilidade do sistema, pe
     <string name="phone_call_noise_suppression">Supressão de ruídos para chamadas</string>
     <string name="phone_info_label">Informações do telefone</string>
     <string name="phone_language">Idioma</string>
-    <string name="phone_language_summary"/>
     <string name="pico_installed">Instalado</string>
     <string name="pico_languages_and_voices">Idiomas e vozes</string>
     <string name="pico_not_installed">Não instalado</string>
@@ -2031,28 +1963,6 @@ Você precisará alterar esta configuração antes de excluir o perfil."</string
     <string name="pref_volume_wake_summary">Ao pressionar os botões de volume o telefone acordará</string>
     <string name="pref_volume_wake_title">Ligar tela com botão de volume</string>
     <string name="preference_change_password_title">Alterar senha</string>
-    <string name="preference_key_about_version">key_about_version</string>
-    <string name="preference_key_auto_update_cleanup_db">key_auto_update_cleanup_db</string>
-    <string name="preference_key_cleanup_white_list">key_cleanup_white_list</string>
-    <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
-    <string name="preference_key_create_shortcut">key_create_shortcut</string>
-    <string name="preference_key_default_expand_cache_group">key_default_expand_cache_group</string>
-    <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
-    <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
-    <string name="preference_key_manual_update_cleanup_db">key_manual_update_cleanup_db</string>
-    <string name="preference_key_module_antipam">module_antipam</string>
-    <string name="preference_key_module_antivirus">key_module_antivirus</string>
-    <string name="preference_key_module_garbage_cleanup">key_garbage_cleanup</string>
-    <string name="preference_key_module_network_assistant">key_network_assistant</string>
-    <string name="preference_key_module_power_center">module_power_center</string>
-    <string name="preference_key_power_usage_details_title">key_power_usage_details_title</string>
-    <string name="preference_key_shortcut_antispam">key_shortcut_antispam</string>
-    <string name="preference_key_shortcut_network_assistant">key_shortcut_network_assistant</string>
-    <string name="preference_key_shortcut_optimize_center">_key_shortcut_optimize_center</string>
-    <string name="preference_key_shortcut_perm_center">key_shortcut_perm_center</string>
-    <string name="preference_key_shortcut_power_center">key_shortcut_power_center</string>
-    <string name="preference_key_shortcut_quick_cleanup">key_shortcut_quick_cleanup</string>
-    <string name="preference_key_shortcut_virus_center">key_shortcut_virus_center</string>
     <string name="preferred_app_settings">Aplicativos padrão</string>
     <string name="preferred_app_settings_default">Padrão</string>
     <string name="preferred_app_settings_reset">Restaurar padrão</string>
@@ -2098,11 +2008,8 @@ Você precisará alterar esta configuração antes de excluir o perfil."</string
     <string name="proxy_error_invalid_exclusion_list">A lista de exclusão digitada não está formatada corretamente. Insira uma lista dos domínios excluídos separados por vírgula.</string>
     <string name="proxy_error_invalid_host">O nome de host digitado não é válido.</string>
     <string name="proxy_error_invalid_port">A porta digitada não é válida.</string>
-    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
     <string name="proxy_exclusionlist_label">Evitar proxy para</string>
-    <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="proxy_hostname_label">Hostname do proxy</string>
-    <string name="proxy_port_hint">8080</string>
     <string name="proxy_port_label">Porta do proxy</string>
     <string name="proxy_settings_label">Configurações de proxy</string>
     <string name="proxy_settings_title">Configurações de proxy</string>
@@ -2133,11 +2040,6 @@ Você precisará alterar esta configuração antes de excluir o perfil."</string
     <string name="radioInfo_data_connecting">Conectando</string>
     <string name="radioInfo_data_disconnected">Desconectado</string>
     <string name="radioInfo_data_suspended">Suspenso</string>
-    <string name="radioInfo_display_asu">asu</string>
-    <string name="radioInfo_display_bytes">bytes</string>
-    <string name="radioInfo_display_dbm">dBm</string>
-    <string name="radioInfo_display_packets">pkts</string>
-    <string name="radioInfo_lac">LAC</string>
     <string name="radioInfo_menu_getPDP">Obter a lista PDP</string>
     <string name="radioInfo_menu_viewADN">Visualizar o catálogo de endereços do SIM</string>
     <string name="radioInfo_menu_viewFDN">Visualizar números de chamada fixa</string>
@@ -2546,7 +2448,6 @@ Um método do Google para sincronizar dados de modo a permitir o acesso aos seus
     <string name="system">Sistema</string>
     <string name="system_cache_title">Cache do sistema</string>
     <string name="system_package">As atualizações do sistema não podem ser instaladas em mídia externa.</string>
-    <string name="system_update_settings_list_item_summary"/>
     <string name="system_update_settings_list_item_title">Atualizações do sistema</string>
     <string name="tab_title_external_storage">Armazenamento externo</string>
     <string name="tab_title_internal_storage">Armazenamento interno</string>
@@ -2688,14 +2589,12 @@ Um método do Google para sincronizar dados de modo a permitir o acesso aos seus
     <string name="unlock_set_unlock_mode_pin">Protegido com PIN</string>
     <string name="unlock_set_unlock_none_summary">Sem segurança</string>
     <string name="unlock_set_unlock_none_title">Deslizar</string>
-    <string name="unlock_set_unlock_off_summary"/>
     <string name="unlock_set_unlock_off_title">Nenhuma</string>
     <string name="unlock_set_unlock_password_summary">Alta segurança</string>
     <string name="unlock_set_unlock_password_title">Senha</string>
     <string name="unlock_set_unlock_pattern_summary">Segurança média</string>
     <string name="unlock_set_unlock_pattern_title">Padrão</string>
     <string name="unlock_set_unlock_pin_summary">Segurança média a alta</string>
-    <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">Por favor ative a segurança para utilizar a proteção por senha</string>
     <string name="unmount_inform_text">O cartão SD será desmontado.</string>
     <string name="untitled_apn">Sem título</string>
@@ -2760,7 +2659,6 @@ Um método do Google para sincronizar dados de modo a permitir o acesso aos seus
     <string name="user_dict_settings_empty_text">"Você não possui palavras no dicionário do usuário. 
  Adicione uma palavra tocando no botão Adicionar (+)."</string>
     <string name="user_dict_settings_more_languages">Mais Idiomas...</string>
-    <string name="user_dict_settings_summary"/>
     <string name="user_dict_settings_titlebar">Dicionário do usuário</string>
     <string name="user_dict_single_settings_title">Dicionário pessoal</string>
     <string name="user_discard_user_menu">Descartar</string>
@@ -2776,8 +2674,6 @@ Um método do Google para sincronizar dados de modo a permitir o acesso aos seus
     <string name="user_settings_title">Usuários &amp; restrições</string>
     <string name="user_system_apps_heading">Apps do sistema</string>
     <string name="valuation">Limpeza recomendada</string>
-    <string name="versionCode">3</string>
-    <string name="versionName">1.0.140225</string>
     <string name="version_text">versão %1$s</string>
     <string name="vibrate_category_title">Vibrar</string>
     <string name="vibrate_in_normal_title">Vibrar em modo normal</string>
@@ -2989,9 +2885,6 @@ Um método do Google para sincronizar dados de modo a permitir o acesso aos seus
     <string name="wifi_disabled_help">A rede Wi-Fi foi desconectada devido a sua baixa qualidade de conexão. Para ajustar esta configuração, vá em Configurações > Wi-Fi > Menu avançado.</string>
     <string name="wifi_disabled_network_failure">Conexão com a Internet de baixa qualidade evitada</string>
     <string name="wifi_disabled_password_failure">Problema de autenticação</string>
-    <string name="wifi_dns1">DNS 1</string>
-    <string name="wifi_dns1_hint">8.8.8.8</string>
-    <string name="wifi_dns2">DNS 2</string>
     <string name="wifi_dns2_hint">8.8.4.4</string>
     <string name="wifi_eap_anonymous">Identidade anônima</string>
     <string name="wifi_eap_ca_cert">Certificado CA</string>
@@ -3008,11 +2901,8 @@ Um método do Google para sincronizar dados de modo a permitir o acesso aos seus
     <string name="wifi_failed_forget_message">Falha ao esquecer rede</string>
     <string name="wifi_failed_save_message">Falha ao salvar rede</string>
     <string name="wifi_forget">Esquecer</string>
-    <string name="wifi_gateway">Gateway</string>
-    <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_in_airplane_mode">No modo para avião</string>
     <string name="wifi_ip_address">Endereço IP</string>
-    <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_ip_settings">Configurações de IP</string>
     <string name="wifi_ip_settings_invalid_dns">Digite um endereço de DNS válido.</string>
     <string name="wifi_ip_settings_invalid_gateway">Digite um endereço de gateway válido.</string>
@@ -3031,7 +2921,6 @@ Um método do Google para sincronizar dados de modo a permitir o acesso aos seus
     <string name="wifi_menu_wps_pin">PIN WPS</string>
     <string name="wifi_more">Mais</string>
     <string name="wifi_network_prefix_length">Tamanho do pref. de rede</string>
-    <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_not_in_range">Não está dentro do alcance</string>
     <string name="wifi_notify_open_networks">Notificação de rede Wi-Fi</string>
     <string name="wifi_notify_open_networks_summary">Exibir notificações quando uma rede Wi-Fi aberta estiver disponível para conexão</string>
@@ -3065,23 +2954,7 @@ Um método do Google para sincronizar dados de modo a permitir o acesso aos seus
     <string name="wifi_secured_first_item">Protegido por %1$s</string>
     <string name="wifi_secured_second_item">, protegido por %1$s</string>
     <string name="wifi_security">Segurança</string>
-    <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
-    <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Nenhuma</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
-    <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
-    <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_short_eap">802.1x</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
-    <string name="wifi_security_short_wep">WEP</string>
-    <string name="wifi_security_short_wpa">WPA</string>
-    <string name="wifi_security_short_wpa2">WPA2</string>
-    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_wep">WEP</string>
-    <string name="wifi_security_wpa">WPA PSK</string>
-    <string name="wifi_security_wpa2">WPA2 PSK</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
     <string name="wifi_setting_frequency_band_error">Houve um erro ao configurar a banda de frequência.</string>
     <string name="wifi_setting_frequency_band_summary">Especifique a faixa de frequência da operação</string>
     <string name="wifi_setting_frequency_band_title">Faixa de frequência Wi-Fi</string>

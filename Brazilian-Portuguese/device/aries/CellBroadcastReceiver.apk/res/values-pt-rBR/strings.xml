@@ -1,11 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="alert_sound_duration_summary"/>
     <string name="alert_sound_duration_title">Duração do tom de alerta</string>
-    <string name="app_label">Cell Broadcasts</string>
     <string name="button_cancel">Cancelar</string>
     <string name="button_delete">Excluir</string>
-    <string name="button_dismiss">OK</string>
     <string name="category_brazil_settings_title">Configurações para o Brasil</string>
     <string name="category_dev_settings_title">Opções do desenvolvedor</string>
     <string name="category_etws_settings_title">Configurações ETWS</string>

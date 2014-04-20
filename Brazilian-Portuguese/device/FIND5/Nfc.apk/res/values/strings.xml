@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC Service</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="inbound_me_profile_title">Contact received over NFC</string>
+    <string name="inbound_me_profile_text">Touch to add this person as a contact.</string>
+    <string name="outbound_me_profile_title">NFC interaction complete</string>
+    <string name="outbound_me_profile_text">Touch to give this person your contact info.</string>
+    <string name="accessibility_nfc_enabled">NFC enabled.</string>
+    <string name="touch">Touch to beam</string>
+    <string name="beam_progress">Incoming beam...</string>
+    <string name="beam_complete">Beam complete</string>
+    <string name="beam_failed">Beam did not complete</string>
+    <string name="beam_canceled">Beam canceled</string>
+    <string name="cancel">Cancel</string>
+    <string name="beam_touch_to_view">Touch to view</string>
+    <string name="beam_handover_not_supported">"The receiver's device doesn't support large file transfer via beam."</string>
+    <string name="connecting_headset">Connecting</string>
+    <string name="connected_headset">Connected</string>
+    <string name="connect_headset_failed">Could not connect</string>
+    <string name="disconnecting_headset">Disconnecting</string>
+    <string name="disconnected_headset">Disconnected</string>
+    <string name="pairing_headset">Pairing</string>
+    <string name="pairing_headset_failed">Could not pair</string>
+    <string name="failed_to_enable_bt">Could not enable Bluetooth</string>
+    <string name="confirm_pairing">Are you sure you want to pair the Bluetooth device %1$s?</string>
+    <string name="pair_yes">Yes</string>
+    <string name="pair_no">No</string>
+    <string name="beam_folder">Download</string>
+    <string name="beam_folder_pic">Pictures</string>
+    <string name="beam_folder_music">Music</string>
+    <string name="beam_folder_video">Movies</string>
+    <string name="chooseActivity">Choose an action</string>
+</resources>

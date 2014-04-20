@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="perm_hips_action">
+        <item>Permitir</item>
+        <item>Perguntar</item>
+        <item>Negar</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Alta Performance</item>
+        <item>Balanceado</item>
+        <item>Economia de Energia</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Após 1 minuto</item>
+        <item>Após 5 minutos</item>
+        <item>Após 10 minutos</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 segundos</item>
+        <item>30 segundos</item>
+        <item>1 minuto</item>
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Alta performance</item>
+        <item>Balanceado</item>
+        <item>Economia de energia</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Nunca vibrar</item>
+        <item>Vibrar com toque silenciado</item>
+        <item>Sempre vibrar</item>
+    </string-array>
+    <string-array name="score_descriptions">
+        <item>Lista Negra desativada</item>
+        <item>Monitor de Permissões desativado</item>
+        <item>Muitos arquivos desnecessários</item>
+        <item>Definições de vírus desatualizadas</item>
+        <item>Muitos processos em segundo plano</item>
+    </string-array>
+    <string-array name="score_suggests">
+        <item>Ativar Lista Negra</item>
+        <item>Ativar Monitor de Permissões</item>
+        <item>Limpar arquivos desnecessários</item>
+        <item>Atualizar definições de vírus</item>
+        <item>Você está executando muitos apps em segundo plano...</item>
+    </string-array>
+    <string-array name="timezone_filters">
+        <item>Américas</item>
+        <item>Europa</item>
+        <item>África</item>
+        <item>Ásia</item>
+        <item>Austrália</item>
+        <item>Pacífico</item>
+        <item>Todos</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 segundos</item>
+        <item>30 sgundos</item>
+        <item>1 minuto</item>
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="dream_timeout_entries">
+        <item>Nunca</item>
+        <item>15 segundos</item>
+        <item>30 segundos</item>
+        <item>1 minuto</item>
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Imediatamente</item>
+        <item>5 segundos</item>
+        <item>15 segundos</item>
+        <item>30 segundos</item>
+        <item>1 minuto</item>
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Pequeno</item>
+        <item>Normal</item>
+        <item>Grande</item>
+        <item>Enorme</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Muito devagar</item>
+        <item>Devagar</item>
+        <item>Normal</item>
+        <item>Rápido</item>
+        <item>Muito rápido</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Muito baixa</item>
+        <item>Baixa</item>
+        <item>Normal</item>
+        <item>Alta</item>
+        <item>Muito alta</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item/>
+        <item>Buscando…</item>
+        <item>Conectando…</item>
+        <item>Autenticando…</item>
+        <item>Obtendo endereço IP…</item>
+        <item>Conectado</item>
+        <item>Suspenso</item>
+        <item>Desconectando…</item>
+        <item>Desconectado</item>
+        <item>Falha na conexão</item>
+        <item>Bloqueado</item>
+        <item>Conexão de qualidade baixa evitada</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item/>
+        <item>Buscando…</item>
+        <item>Conectando à rede %1$s…</item>
+        <item>Autenticando com %1$s…</item>
+        <item>Obtendo endereço IP de %1$s…</item>
+        <item>Conectado à rede %1$s</item>
+        <item>Suspenso</item>
+        <item>Desconectando da rede %1$s…</item>
+        <item>Desconectado</item>
+        <item>Falha na conexão</item>
+        <item>Bloqueado</item>
+        <item>Conexão de qualidade baixa evitada</item>
+    </string-array>
+    <string-array name="wifi_ap_security">
+        <item>Aberta</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>Pressionar botão WPS</item>
+        <item>PIN de outro dispositivo</item>
+        <item>PIN deste dispositivo</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Conectado</item>
+        <item>Convidado</item>
+        <item>Falha na conexão</item>
+        <item>Disponível</item>
+        <item>Fora de alcance</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>Dois minutos</item>
+        <item>Cinco minutos</item>
+        <item>Uma hora</item>
+        <item>Nunca definir tempo limite</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Fraco</item>
+        <item>Regular</item>
+        <item>Bom</item>
+        <item>Excelente</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Sempre</item>
+        <item>Somente quando carregando</item>
+        <item>Nunca (aumenta consumo de dados)</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Sempre</item>
+        <item>Somente quando carregando</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Automático</item>
+        <item>Apenas 5 GHz</item>
+        <item>Apenas 2.4 GHz</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Tempo de uso</item>
+        <item>Contagem de inícios</item>
+        <item>Nome do app</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Nenhum</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Estático</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Nenhum</item>
+        <item>Manual</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Off</item>
+        <item>Alerta</item>
+        <item>Vibrar</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Nenhuma</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP ou CHAP</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>Não especificado</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Armazenamento interno</item>
+        <item>Cartão SD removível</item>
+        <item>Deixar o sistema decidir</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Curto</item>
+        <item>Médio</item>
+        <item>Longo</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Nunca verificar</item>
+        <item>Apenas para conteúdo DRM</item>
+        <item>Sempre verificar</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Nunca utilizar verificação de HDCP</item>
+        <item>Apenas para conteúdo DRM</item>
+        <item>Sempre utilizar verificação de HDCP</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animação desligada</item>
+        <item>Escala de animação .5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1.5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animação desligada</item>
+        <item>Escala de animação .5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1.5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animação desligada</item>
+        <item>Escala de animação .5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1.5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Limite padrão</item>
+        <item>Sem processos em segundo plano</item>
+        <item>No máximo um processo</item>
+        <item>No máximo dois processos</item>
+        <item>No máximo três processos</item>
+        <item>No máximo quatro processos</item>
+    </string-array>
+    <string-array name="vpn_types_long">
+        <item>VPN PPTP</item>
+        <item>L2TP/IPSec VPN com chaves pré-compartilhadas</item>
+        <item>VPN L2TP/IPSec com certificados</item>
+        <item>VPN IPSec com chaves pré-compartilhadas e autenticação Xauth</item>
+        <item>VPN IPSec com autenticação de certificados e Xauth</item>
+        <item>VPN IPSec com certificados e autenticação híbrida</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Desconectado</item>
+        <item>Inicializando...</item>
+        <item>Conectando...</item>
+        <item>Conectado</item>
+        <item>Tempo limite</item>
+        <item>Malsucedida</item>
+    </string-array>
+    <string-array name="user_content_ratings_entries">
+        <item>Ser superior</item>
+        <item>Humano</item>
+        <item>Neandertal</item>
+        <item>Chimpanzé</item>
+        <item>Macaco</item>
+    </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Perguntar</item>
+        <item>Nunca permitir</item>
+        <item>Sempre permitir</item>
+    </string-array>
+    <string-array name="haptic_feedback_level_entries">
+        <item>Forte</item>
+        <item>Média</item>
+        <item>Fraco</item>
+    </string-array>
+    <string-array name="media_feedback_level_entries">
+        <item>Forte</item>
+        <item>Médio</item>
+        <item>Baixo</item>
+    </string-array>
+    <string-array name="battery_indicator_style_entries">
+        <item>Gráfico</item>
+        <item>Porcentagem</item>
+        <item>Barra no topo</item>
+    </string-array>
+    <string-array name="usb_connection_mode_entries">
+        <item>Perguntar sempre</item>
+        <item>Somente Carregar</item>
+        <item>Montar Cartão SD</item>
+    </string-array>
+    <string-array name="led_freq_entries">
+        <item>2 segundos</item>
+        <item>3 segundos</item>
+        <item>4 segundos</item>
+        <item>5 segundos</item>
+        <item>6 segundos</item>
+        <item>7 segundos</item>
+        <item>8 segundos</item>
+        <item>9 segundos</item>
+    </string-array>
+    <string-array name="mi1_led_color_entries">
+        <item>Azul</item>
+        <item>Vermelho</item>
+        <item>Verde</item>
+        <item>Rosa</item>
+        <item>Violeta</item>
+        <item>Roxo</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>Azul</item>
+        <item>Vermelho</item>
+        <item>Amarelo</item>
+        <item>Verde</item>
+        <item>Ciano</item>
+        <item>Branco</item>
+        <item>Violeta</item>
+    </string-array>
+    <string-array name="screen_key_long_press_action">
+        <item>Nenhum</item>
+        <item>Aplicativos recentes</item>
+        <item>Assistente Xiaomi</item>
+        <item>Google Now</item>
+        <item>Fechar aplicativo</item>
+    </string-array>
+    <string-array name="screen_key_long_press_timeout">
+        <item>0.5 segundo</item>
+        <item>1 segundo</item>
+        <item>1.5 segundos</item>
+        <item>2 segundos</item>
+    </string-array>
+    <string-array name="button_light_timeout_entries">
+        <item>1 segundo</item>
+        <item>2 segundos</item>
+        <item>5 segundos</item>
+        <item>10 segundos</item>
+        <item>20 segundos</item>
+        <item>Sempre</item>
+    </string-array>
+    <string-array name="wfd_status">
+        <item>Dispositivo conectado, criando sessão…</item>
+        <item>Sessão criada.</item>
+        <item>Sessão se desfazendo…</item>
+        <item>Falha na sessão.</item>
+        <item>Tempo esgotado, tentando novamente…</item>
+        <item>Dispositivo conectado</item>
+    </string-array>
+    <string-array name="msd_pc_system">
+        <item>Windows XP e versões antigas do Windows</item>
+        <item>Windows Vista e versões novas do Windows</item>
+        <item>Mac OS</item>
+        <item>Linux</item>
+    </string-array>
+    <string-array name="msd_pc_system_install_start_summary">
+        <item>"Para Windows XP e versões mais antigas,
+o driver precisa ser instalado manualmente"</item>
+        <item>"Para Windows Vista e versões mais recentes,
+o Music Player do MI 3 aparecerá em seu computador"</item>
+        <item>"Para o MAC OS,
+o software do driver precisa ser instalado manualmente"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_1_summary">
+        <item>"(Ignorar o Assistente de Instalação)
+Quando conectado, um dispositivo de armazenamento em massa aparecerá com o nome Xiaomi.
+Abra e selecione o arquivo Setup.exe para instalar"</item>
+        <item></item>
+        <item>"Quando conectado, um dispositivo de armazenamento em massa aparecerá com o nome Xiaomi em seu desktop.
+Abra e selecione o arquivo AndroidFileTransfer.dmg para instalar."</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_2_summary">
+        <item>"2.O Cartão SD do MI 3 aparecerá em seu computador.
+Você pode transferir arquivos agora."</item>
+        <item></item>
+        <item>Transfira arquivos da mesma forma que o faz em pen drives.</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_finish_summary">
+        <item>"Se você instalar este driver
+o armazenamento do MI 3 aparecerá em seu computador"</item>
+        <item>"Para Windows Vista e versões mais recentes,
+o Music Player do MI 3 aparecerá em seu computador"</item>
+        <item>"Se você instalar este driver
+O computador abrirá automaticamente o telefone e lerá seus dados"</item>
+        <item/>
+    </string-array>
+    <string-array name="screen_color_title">
+        <item>Quente</item>
+        <item>Padrão</item>
+        <item>Frio</item>
+    </string-array>
+    <string-array name="screen_saturation_title">
+        <item>Brilhante</item>
+        <item>Padrão</item>
+    </string-array>
+    <string-array name="startup_hips_action">
+        <item>Permitir</item>
+        <item>Negar</item>
+    </string-array>
+    <string-array name="entries_color_calibration">
+        <item>sRGB</item>
+        <item>Nativo</item>
+    </string-array>
+    <string-array name="phone_call_noise_suppression_title">
+        <item>Supressão de ruído com um microfone</item>
+        <item>Supressão de ruido com dois microfones</item>
+    </string-array>
+    <string-array name="change_security_lock_picker">
+        <item>Desbloqueio facial</item>
+        <item>Padrão</item>
+        <item>PIN</item>
+        <item>Senha</item>
+    </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>Conectar automaticamente</item>
+        <item>Conectar manualmente</item>
+        <item>Sempre perguntar</item>
+    </string-array>
+    <string-array name="slideshow_time_entries">
+        <item>5 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>Ilimitado</item>
+    </string-array>
+    <string-array name="preferred_app_entries">
+        <item>Launcher</item>
+        <item>Discador</item>
+        <item>Mensagens</item>
+        <item>Navegador</item>
+        <item>Câmera</item>
+        <item>Galeria</item>
+        <item>Música</item>
+        <item>E-mail</item>
+    </string-array>
+    <string-array name="network_speed_slow_summary">
+        <item>A rede está devagar devido ao grande volume de dados</item>
+        <item>A rede está devagar devido ao baixo sinal da rede</item>
+        <item>Movendo…</item>
+    </string-array>
+</resources>

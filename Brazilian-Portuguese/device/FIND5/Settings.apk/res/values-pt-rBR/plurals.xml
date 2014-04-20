@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d dias "</item>
+        <item quantity="one">"%d dia "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d hrs "</item>
+        <item quantity="one">"%d hr "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d mins "</item>
+        <item quantity="one">"%d min "</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Você está a %1$d passos de se tornar um desenvolvedor.</item>
+        <item quantity="one">Você está a %1$d passo de se tornar um desenvolvedor.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">A senha deve conter pelo menos %d letras</item>
+        <item quantity="one">A senha deve conter pelo menos uma letra</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">A senha deve conter pelo menos %d letras minúsculas</item>
+        <item quantity="one">A senha deve conter pelo menos uma letra minúscula</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">A senha deve conter pelo menos %d letras maiúsculas</item>
+        <item quantity="one">A senha deve conter pelo menos uma letra maiúscula</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">A senha deve conter pelo menos %d dígitos numéricos</item>
+        <item quantity="one">A senha deve conter pelo menos um dígito numérico</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">A senha deve conter pelo menos %d símbolos especiais</item>
+        <item quantity="one">A senha deve conter pelo menos um símbolo especial</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">A senha deve conter pelo menos %d caracteres que não sejam letras</item>
+        <item quantity="one">A senha deve conter pelo menos um caractere que não seja letra</item>
+    </plurals>
+</resources>

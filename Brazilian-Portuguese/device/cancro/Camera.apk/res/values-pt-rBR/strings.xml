@@ -14,7 +14,7 @@
     <string name="accessibility_more_ptions_opened">Opções adicionais exibidas</string>
     <string name="accessibility_open_more_ptions">Abrir mais opções</string>
     <string name="accessibility_review_thumbnail">Foto mais recente</string>
-    <string name="accessibility_scroll_button_slider">Camera-Video-Switcher</string>
+    <string name="accessibility_scroll_button_slider">Alternar entre câmera e filmadora</string>
     <string name="accessibility_show_setting_panel_button">Botão de Configurações</string>
     <string name="accessibility_shutter_button">Botão \"Tirar foto\"</string>
     <string name="accessibility_skin_beautify_button">Botão para melhorias de tom de pele</string>
@@ -84,7 +84,6 @@ Saia de vista por um momento"</string>
     <string name="effect_goofy_face_squeeze">Comprimir</string>
     <string name="effect_none">Nenhum</string>
     <string name="effect_silly_faces">CARETAS</string>
-    <string name="empty">" "</string>
     <string name="error_app_unsupported">Resolução de vídeo não suportada para o codificador selecionado</string>
     <string name="error_app_unsupported_hfr_720p">720P suporta até 90 fps</string>
     <string name="error_app_unsupported_hfr_codec">Apenas o Encoding de Vídeo H264 é suportado ao gravar com uma taxa de quadros alta</string>
@@ -155,7 +154,6 @@ Saia de vista por um momento"</string>
     <string name="manual">Manual</string>
     <string name="measure_whitebalance_button">Média de branco</string>
     <string name="measure_whitebalance_text">"Coloque uma folha de papel em branco a 15cm de distância da lente da câmera, e então tire uma foto.."</string>
-    <string name="mimetype">MIME type</string>
     <string name="model">Modelo</string>
     <string name="no_save">Não salvar</string>
     <string name="no_storage">Insira um cartão SD antes de usar a câmera.</string>
