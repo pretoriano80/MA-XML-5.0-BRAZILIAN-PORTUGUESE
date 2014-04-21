@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="absent_num">ABSENT NUMBER</string>
     <string name="accessibility_call_muted">Chamada sem áudio.</string>
     <string name="accessibility_speakerphone_enabled">Viva-voz ativado.</string>
     <string name="add_button_miui">Adicionar</string>
@@ -14,7 +13,6 @@
     <string name="administrative_disable">Administrativo desativado</string>
     <string name="administrative_enable">Administrativo ativado</string>
     <string name="advanced_settings">Configurações opcionais</string>
-    <string name="advanced_settings_container">advanced settings container</string>
     <string name="advanced_settings_hide">▽ Toque para ocultar todos</string>
     <string name="advanced_settings_show">▷ Toque para mostrar todos</string>
     <string name="advertisements_disable">Anúncios desativados</string>
@@ -50,7 +48,6 @@
     <string name="audio_mode_earpiece">Minifone do aparelho</string>
     <string name="audio_mode_speaker">Alto-falante</string>
     <string name="audio_mode_wired_headset">Fones com fio</string>
-    <string name="auth_username">AuthUserName</string>
     <string name="auth_username_summary">Nome de usuário utilizado para autenticação</string>
     <string name="auth_username_title">Autenticação de nome de usuário</string>
     <string name="auto_answer_delay_entries_delay_10s_miui">10s</string>
@@ -312,10 +309,8 @@
     <string name="disable_pin_ok">PIN do SIM desativado</string>
     <string name="disable_sim_pin">Desativar PIN do SIM</string>
     <string name="disable_sim_pin_miui">Desativar PIN do SIM</string>
-    <string name="display_name">DisplayName</string>
     <string name="display_name_summary">&lt;Igual ao nome de usuário></string>
     <string name="display_name_title">Nome de exibição</string>
-    <string name="domain_address">SipDomain</string>
     <string name="domain_address_title">Servidor</string>
     <string name="doneButton">Concluído</string>
     <string name="dtmf_tone_enable_title">Sons do Teclado</string>
@@ -647,7 +642,6 @@ Talvez seja necessário encontrar uma área com uma cobertura melhor (próximo d
 Tente novamente ou ligue para o serviço de atendimento ao cliente para obter mais opções."</string>
     <string name="other_settings">Outras configurações de chamada</string>
     <string name="other_settings_miui">Outras configurações</string>
-    <string name="password">Password</string>
     <string name="password_title">Senha</string>
     <string name="pause_prompt_no">Não</string>
     <string name="pause_prompt_str">"Enviando tons
@@ -681,7 +675,6 @@ Seu telefone será bloqueado caso insira uma senha incorreta novamente"</string>
     <string name="pin_progress_set_fdn_lock_miui">Definindo estado de FDN…</string>
     <string name="pin_progress_set_icc_lock_miui">Definindo estado de ICC…</string>
     <string name="pin_progress_unlock_icc_miui">Desbloqueando cartão SIM…</string>
-    <string name="port">Port</string>
     <string name="port_title">Número da porta</string>
     <string name="pref_custom_location_summary_miui">Customizar atribuições regionais e de número</string>
     <string name="pref_custom_location_title_miui">Customizar atribuições</string>
@@ -713,7 +706,6 @@ Seu telefone será bloqueado caso insira uma senha incorreta novamente"</string>
     <string name="primary_account_summary_with">Conta primária. %s</string>
     <string name="private_num">Número privado</string>
     <string name="progress_dialog_exiting_ecm">Saindo do modo de retorno de chamada de emergência</string>
-    <string name="proxy_address">ProxyAddress</string>
     <string name="proxy_address_title">End. proxy de saída</string>
     <string name="pstn_phone">Chamada para celular</string>
     <string name="puk2_requested">Senha incorreta. SIM bloqueado! PUK2 solicitado.</string>
@@ -796,7 +788,6 @@ Efetuando busca automática por rede preferencial."</string>
     <string name="selectContact">selecione contato</string>
     <string name="select_automatically">Selecionar automaticamente</string>
     <string name="send_button">Enviar</string>
-    <string name="send_keepalive">SendKeepAlive</string>
     <string name="send_keepalive_title">Enviar sinal de atividade</string>
     <string name="separate_from_conference_miui">Chamada única</string>
     <string name="set_preferred_network_type_when_data_enabled_miui">Tipo preferido de operadora suportado somente com os dados móveis ativados</string>
@@ -827,10 +818,7 @@ Efetuando busca automática por rede preferencial."</string>
     <string name="sip_accounts">Contas de chamada pela internet (SIP)</string>
     <string name="sip_accounts_title">Contas</string>
     <string name="sip_add_account_tip_text">Adicione uma conta SIP para utilizar VoIP</string>
-    <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-    <string name="sip_always">SIP_ALWAYS</string>
     <string name="sip_always_send_keepalive">Sempre enviar</string>
-    <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
     <string name="sip_call_options_entry_1">Para todas as chamadas, quando a rede de dados estiver disponível</string>
     <string name="sip_call_options_entry_2">Apenas para chamada pela internet</string>
     <string name="sip_call_options_entry_3">Perguntar toda chamada</string>
@@ -909,7 +897,6 @@ Próximo período começa em %4$d dias (%5$s)"</string>
     <string name="throttle_time_frame">Período de uso de dados</string>
     <string name="throttle_time_frame_subtext">"%1$d٪ do ciclo expirou
 O próximo período começa em %2$d dias (%3$s)"</string>
-    <string name="transport">Protocol</string>
     <string name="transport_title">Tipo de transporte</string>
     <string name="tty_mode_entries_full_miui">TTY Completo</string>
     <string name="tty_mode_entries_hco_miui">TTY HCO</string>
@@ -933,7 +920,6 @@ O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="updating_fdn_contact">Atualizando o número de discagem fixa (FDN)…</string>
     <string name="updating_settings">Atualizando configurações…</string>
     <string name="updating_title">Configurações de chamadas</string>
-    <string name="username">UserName</string>
     <string name="username_title">Nome de usuário</string>
     <string name="ussdRunning">Código USSD em execução…</string>
     <string name="vibrate_on_ring_title">Vibrar ao receber cham.</string>

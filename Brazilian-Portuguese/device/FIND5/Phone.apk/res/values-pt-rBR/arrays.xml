@@ -5,11 +5,6 @@
         <item>Ocultar número</item>
         <item>Mostrar número</item>
     </string-array>
-    <string-array name="clir_values">
-        <item>DEFAULT</item>
-        <item>HIDE</item>
-        <item>SHOW</item>
-    </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>LTE/CDMA</item>
         <item>EvDo</item>

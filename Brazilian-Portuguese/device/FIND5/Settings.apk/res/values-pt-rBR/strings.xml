@@ -5,7 +5,7 @@
     <string name="Settings_title_garbage_cleanup">Configurações de limpeza de lixo</string>
     <string name="Settings_title_network_assistants">Configurações do assistente de rede</string>
     <string name="Settings_title_power_center">Configurações de energia</string>
-    <string name="about_settings">Sobre o dispositivo</string>
+    <string name="about_settings">Sobre o telefone</string>
     <string name="about_settings_summary">Ver informações legais, status, versão do software</string>
     <string name="ac_enable_title">Controle de acesso</string>
     <string name="ac_privacy_mode_sum">Introduza a senha para desativar o Controle de acesso.</string>
@@ -223,7 +223,6 @@ Deseja realmente permitir esta ação?"</string>
     <string name="assisted_gps_disabled">Usar servidor para auxiliar GPS (desmarque para aprimorar o desempenho do GPS)</string>
     <string name="assisted_gps_enabled">Usar servidor para auxiliar GPS (desmarque para reduzir o uso da rede)</string>
     <string name="audio_profile_settings_title">Perfis de áudio</string>
-    
     <string name="audio_record_proc_title">Cancelamento dos ruídos</string>
     <string name="auto_caps">Capitaliz. automática</string>
     <string name="auto_caps_summary">Escrever a primeira letra nas sentenças com letra maiúscula</string>
@@ -331,7 +330,6 @@ Deseja realmente permitir esta ação?"</string>
     <string name="battery_stats_charging_label">Carregando</string>
     <string name="battery_stats_duration">%1$s desde que foi desconectado</string>
     <string name="battery_stats_gps_on_label">GPS ligado</string>
-    <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
     <string name="battery_stats_on_battery">%1$s da bateria</string>
     <string name="battery_stats_phone_signal_label">Sinal da rede móvel</string>
     <string name="battery_stats_screen_on_label">Tela ativada</string>
@@ -2511,7 +2509,7 @@ PIN possivelmente incorreto."</string>
     <string name="sim_enter_ok">OK</string>
     <string name="sim_enter_old">PIN do SIM antigo</string>
     <string name="sim_enter_pin">PIN do SIM</string>
-    <string name="sim_lock_change_not_supported">"Impossível alterar bloqueio do SIM. 
+    <string name="sim_lock_change_not_supported">"Impossível alterar bloqueio do SIM.</string>
     <string name="sim_lock_failed">"Não é possível alterar o estado de bloqueio do cartão SIM.
 PIN possivelmente incorreto."</string>
     <string name="sim_lock_off">Exigir PIN para usar o telefone</string>
@@ -2621,7 +2619,7 @@ PIN possivelmente incorreto."</string>
     <string name="sync_menu_sync_now">Sincronizar agora</string>
     <string name="sync_one_time_sync">"Toque para sincronizar agora
 %1$s"</string>
-    <string name="sync_plug"><font fgcolor="#ffffffff">Bem-vindo ao Google sync!</font>"
+    <string name="sync_plug">"<font fgcolor="#ffffffff">Bem-vindo ao Google sync!</font>
 Um jeito Google de sincronizar dados e permitir que você acesse seus contatos, agenda, e muito mais de qualquer lugar."</string>
     <string name="sync_settings">Contas &amp; sincronização</string>
     <string name="sync_wifi_label">Config. Wi-Fi</string>
@@ -3224,11 +3222,9 @@ Adicione uma palavra tocando no botão Adicionar (+)."</string>
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Nenhuma</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
@@ -3250,9 +3246,9 @@ Adicione uma palavra tocando no botão Adicionar (+)."</string>
     <string name="wifi_setup_back">Voltar</string>
     <string name="wifi_setup_cancel">Cancelar</string>
     <string name="wifi_setup_connect">Conectar</string>
-    <string name="wifi_setup_description_connected">Toque em <b>Próximo</b>" para continuar a configuração.
+    <string name="wifi_setup_description_connected">"Toque em <b>Próximo</b>" para continuar a configuração.
     
-Toque em "<b>Voltar</b> para conectar-se a outra rede Wi-Fi.</string>
+Toque em "<b>Voltar</b> para conectar-se a outra rede Wi-Fi."</string>
     <string name="wifi_setup_description_connecting">A conexão pode levar alguns minutos...</string>
     <string name="wifi_setup_detail">Detalhes da rede</string>
     <string name="wifi_setup_eap_not_supported">Não é possível configurar uma conexão Wi-Fi EAP durante a configuração. É possível fazer isso em seguida, na opção \"Configurações\" > \"Sem fio e redes\".</string>
