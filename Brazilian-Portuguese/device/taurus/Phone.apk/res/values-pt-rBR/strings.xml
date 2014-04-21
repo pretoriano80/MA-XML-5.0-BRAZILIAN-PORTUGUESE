@@ -17,7 +17,6 @@
     <string name="administrative_disable">Administrativo desativado</string>
     <string name="administrative_enable">Administrativo ativado</string>
     <string name="advanced_settings">Configurações opcionais</string>
-    <string name="advanced_settings_container">container de configurações avançadas</string>
     <string name="advanced_settings_hide">▽ Toque para ocultar todos</string>
     <string name="advanced_settings_show">▷ Toque para mostrar todos</string>
     <string name="advertisements_disable">Anúncios desativados</string>
@@ -54,8 +53,7 @@
     <string name="audio_mode_bluetooth">Bluetooth</string>
     <string name="audio_mode_earpiece">Minifone do aparelho</string>
     <string name="audio_mode_speaker">Alto-falante</string>
-    <string name="audio_mode_wired_headset">Fone de ouvido com fio</string>
-    <string name="auth_username">AuthUserName</string>
+    <string name="audio_mode_wired_headset">Fones com fio</string>
     <string name="auth_username_summary">Nome de usuário utilizado para autenticação</string>
     <string name="auth_username_title">Autenticação de nome de usuário</string>
     <string name="auto_answer_delay_entries_delay_10s_miui">10s</string>
@@ -364,10 +362,8 @@
     <string name="disable_pin_ok">PIN do SIM desativado.</string>
     <string name="disable_sim_pin">Desativar PIN do SIM</string>
     <string name="disable_sim_pin_miui">Desativar PIN do SIM</string>
-    <string name="display_name">DisplayName</string>
     <string name="display_name_summary">&lt;Igual ao nome de usuário></string>
     <string name="display_name_title">Nome de exibição</string>
-    <string name="domain_address">SipDomain</string>
     <string name="domain_address_title">Servidor</string>
     <string name="doneButton">Concluído</string>
     <string name="dtmf_tone_enable_title">Tons de toque do teclado numérico</string>
@@ -721,7 +717,6 @@ Talvez seja necessário encontrar uma área com uma cobertura melhor (próximo d
 Tente novamente ou ligue para o serviço de atendimento ao cliente para obter mais opções."</string>
     <string name="other_settings">Outras configurações de chamada</string>
     <string name="other_settings_miui">Outras configurações</string>
-    <string name="password">Password</string>
     <string name="password_title">Senha</string>
     <string name="pause_prompt_no">Não</string>
     <string name="pause_prompt_str">"Enviando tons
@@ -761,7 +756,6 @@ Seu telefone será bloqueado caso insira uma senha incorreta novamente"</string>
     <string name="pin_progress_unlock_icc_miui">Desbloqueando cartão SIM…</string>
     <string name="place_a_call1">SIM 1</string>
     <string name="place_a_call2">SIM 2</string>
-    <string name="port">Port</string>
     <string name="port_title">Número da porta</string>
     <string name="pref_custom_location_summary_miui">Customizar atribuições regionais e de número</string>
     <string name="pref_custom_location_title_miui">Customizar atribuições</string>
@@ -778,7 +772,7 @@ Seu telefone será bloqueado caso insira uma senha incorreta novamente"</string>
     <string name="preferred_network_mode_gsm_only_summary">Modo de rede preferencial: somente GSM</string>
     <string name="preferred_network_mode_gsm_wcdma_summary">Modo de rede preferencial: GSM/WCDMA</string>
     <string name="preferred_network_mode_lte_cdma_evdo_summary">Modo de rede preferencial: CDMA+LTE/EVDO</string>
-    <string name="preferred_network_mode_lte_cdma_summary">Preferred network mode: LTE / CDMA</string>
+    <string name="preferred_network_mode_lte_cdma_summary">Modo de rede preferencial: LTE / CDMA</string>
     <string name="preferred_network_mode_lte_gsm_wcdma_summary">Modo de rede preferencial: GSM/WCDMA/LTE</string>
     <string name="preferred_network_mode_lte_summary">Modo de rede preferencial: LTE</string>
     <string name="preferred_network_mode_lte_wcdma_summary">Modo preferencial: LTE / CDMA</string>
@@ -794,7 +788,7 @@ Seu telefone será bloqueado caso insira uma senha incorreta novamente"</string>
     <string name="preferred_network_type_pref_entries_global_miui">Global</string>
     <string name="preferred_network_type_pref_entries_only_2g_miui">2G (Economia de energia)</string>
     <string name="preferred_network_type_pref_entries_only_3g_miui">Somente 3G</string>
-    <string name="preferred_network_type_td_scdma_miui">GSM/TD-SCDMA</string>
+    <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_title_miui">Seleção de tipo de rede</string>
     <string name="primary_account_summary_with">Conta principal. %s</string>
     <string name="private_num">Número privado</string>
@@ -802,7 +796,6 @@ Seu telefone será bloqueado caso insira uma senha incorreta novamente"</string>
     <string name="progress_dialog_exiting_ecm">Saindo do modo de retorno de chamada de emergência</string>
     <string name="prompt">Perguntar</string>
     <string name="prompt_user">Perguntar Usuário</string>
-    <string name="proxy_address">ProxyAddress</string>
     <string name="proxy_address_title">End. proxy de saída</string>
     <string name="pstn_phone">Chamada para celular</string>
     <string name="puk2_blocked">PUK2 bloqueado permanentemente.</string>
@@ -821,9 +814,9 @@ Seu cartão SIM será inutilizado caso a senha seja inserida incorretamente nova
     <string name="regional_disable">Notícias regionais desativadas</string>
     <string name="regional_enable">Notícias regionais ativadas</string>
     <string name="register_automatically">Registro automático...</string>
-    <string name="register_network_failed_message_miui">"Can't register to the network you selected.
-Will use preferred network instead."</string>
-    <string name="register_network_failed_title_miui">"Couldn't connect to network"</string>
+    <string name="register_network_failed_message_miui">"Falha ao conectar-se à rede selecionada.
+A rede preferencial será utilizada."</string>
+    <string name="register_network_failed_title_miui">"Falha ao conectar-se à rede"</string>
     <string name="register_on_network">Registrando na %s…</string>
     <string name="registration_done">Registrado na rede.</string>
     <string name="registration_status_checking_status">Verificando status...</string>
@@ -901,7 +894,6 @@ Will use preferred network instead."</string>
     <string name="select_automatically">Escolher automaticamente</string>
     <string name="sendSms">Enviar SMS</string>
     <string name="send_button">Enviar</string>
-    <string name="send_keepalive">SendKeepAlive</string>
     <string name="send_keepalive_title">Enviar sinal de atividade</string>
     <string name="separate_from_conference_miui">Chamada única</string>
     <string name="set_preferred_network_type_when_data_enabled_miui">Tipo preferido de operadora suportado somente com os dados móveis ativados</string>
@@ -948,10 +940,7 @@ Will use preferred network instead."</string>
     <string name="sip_accounts">Contas para chamada pela internet (SIP)</string>
     <string name="sip_accounts_title">Contas</string>
     <string name="sip_add_account_tip_text">Adicione uma conta SIP para utilizar VoIP</string>
-    <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-    <string name="sip_always">SIP_ALWAYS</string>
     <string name="sip_always_send_keepalive">Sempre enviar</string>
-    <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
     <string name="sip_call_options_entry_1">Para todas as chamadas, quando a rede de dados estiver disponível</string>
     <string name="sip_call_options_entry_2">Apenas para cham. pela internet</string>
     <string name="sip_call_options_entry_3">Perguntar toda chamada</string>
@@ -983,12 +972,12 @@ Will use preferred network instead."</string>
     <string name="stock_quotes_enable">Cotação de ações ativada</string>
     <string name="sub1LineNumber">SIM 1:</string>
     <string name="sub2LineNumber">SIM 2:</string>
-    <string name="sub_1">SUB 1</string>
-    <string name="sub_2">SUB 2</string>
-    <string name="sub_one">Manage Subscription 1</string>
-    <string name="sub_two">Manage Subscription 2</string>
-    <string name="subone">Subscription 1</string>
-    <string name="subtwo">Subscription 2</string>
+    <string name="sub_1">SIM 1</string>
+    <string name="sub_2">SIM 2</string>
+    <string name="sub_one">Gerenciar SIM 1</string>
+    <string name="sub_two">Gerenciar SIM 2</string>
+    <string name="subone">SIM 1</string>
+    <string name="subtwo">SIM 2</string>
     <string name="sum_carrier_select">Selecione um operador de rede</string>
     <string name="sum_cdma_call_settings">Configurações adicionais somente de chamada CDMA</string>
     <string name="sum_cfb_disabled">Desativado</string>
@@ -1047,7 +1036,6 @@ Próximo perído começa em %4$d dias (%5$s)"</string>
     <string name="throttle_time_frame_subtext">"%1$d٪ do ciclo expirou.
 O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="title_data_settings">Configuração de Dados Móveis</string>
-    <string name="transport">Protocolo</string>
     <string name="transport_title">Tipo de transporte</string>
     <string name="tty_mode_entries_full_miui">TTY Completo</string>
     <string name="tty_mode_entries_hco_miui">TTY HCO</string>
@@ -1071,7 +1059,6 @@ O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="updating_fdn_contact">Atualizando o número de chamadas fixas…</string>
     <string name="updating_settings">Atualizando configurações…</string>
     <string name="updating_title">Configurações de chamadas</string>
-    <string name="username">Usuário</string>
     <string name="username_title">Nome de usuário</string>
     <string name="ussdRunning">Código USSD em execução…</string>
     <string name="vibrate_on_ring_title">Vibrar quando estiver tocando</string>
