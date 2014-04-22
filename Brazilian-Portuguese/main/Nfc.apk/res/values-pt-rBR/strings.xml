@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="accessibility_nfc_enabled">NFC habilitado.</string>
-    <string name="app_name">Serviço Nfc</string>
+    <string name="app_name">Serviço NFC</string>
     <string name="beam_canceled">Envio cancelado</string>
     <string name="beam_complete">Envio concluído</string>
     <string name="beam_failed">O envio não foi concluído</string>
@@ -23,7 +23,7 @@
     <string name="failed_to_enable_bt">Não foi possível ativar o Bluetooth</string>
     <string name="inbound_me_profile_text">Toque para adicionar essa pessoa como um contato.</string>
     <string name="inbound_me_profile_title">Contato recebido por NFC</string>
-    <string name="nfcUserLabel">Nfc</string>
+    <string name="nfcUserLabel">NFC</string>
     <string name="outbound_me_profile_text">Toque para fornecer suas informações de contato para essa pessoa</string>
     <string name="outbound_me_profile_title">Interação de NFC completa</string>
     <string name="pair_no">Não</string>

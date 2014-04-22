@@ -5,7 +5,7 @@
     <string name="accessibility_battery_level">Bateria %d por cento.</string>
     <string name="accessibility_bluetooth_connected">Bluetooth conectado.</string>
     <string name="accessibility_bluetooth_disconnected">Bluetooth desconectado.</string>
-    <string name="accessibility_bluetooth_tether">Tethering Bluetooth.</string>
+    <string name="accessibility_bluetooth_tether">Vínculo Bluetooth.</string>
     <string name="accessibility_clear_all">Limpar todas as notificações.</string>
     <string name="accessibility_compatibility_zoom_button">Botão do zoom de compatibilidade.</string>
     <string name="accessibility_compatibility_zoom_example">Zoom de tela pequena para tela grande.</string>
@@ -31,7 +31,7 @@
     <string name="accessibility_phone_signal_full">Sinal cheio.</string>
     <string name="accessibility_phone_three_bars">Sinal de três barras.</string>
     <string name="accessibility_phone_two_bars">Sinal de duas barras.</string>
-    <string name="accessibility_recent">Apps recentes</string>
+    <string name="accessibility_recent">Aplicativos recentes</string>
     <string name="accessibility_recents_item_dismissed">%s dispensados.</string>
     <string name="accessibility_remove_notification">Limpar notificação.</string>
     <string name="accessibility_ringer_silent">Toque silencioso.</string>
@@ -71,7 +71,7 @@
     <string name="camera_key_action_shortcut_wake">Bloquear/Desbloquear</string>
     <string name="camera_key_action_toggle_title">Atalho rápido</string>
     <string name="chooseUsbActivity">Selecione um aplicativo para o dispositivo USB</string>
-    <string name="compat_mode_help_body">Quando um app é criado para telas menores, um controle de zoom aparecerá perto do relógio, para controle da tela.</string>
+    <string name="compat_mode_help_body">Quando um aplicativo é criado para telas menores, um controle de zoom aparecerá perto do relógio, para controle da tela.</string>
     <string name="compat_mode_help_header">Zoom de compatibilidade</string>
     <string name="compat_mode_off">Esticar a imagem para preencher a tela</string>
     <string name="compat_mode_on">Amplie a imagem para preencher a tela</string>
@@ -123,7 +123,7 @@ Use somente o carregador fornecido."</string>
     <string name="mdb_restore_cancel">Cancelar</string>
     <string name="mdb_restore_info1">"Isto irá restaurar os dados do seu dispositivo"</string>
     <string name="mdb_restore_info2">"Por favor, não desconecte o cabo USB do PC"</string>
-    <string name="mdb_restore_label">Restauração Mdb</string>
+    <string name="mdb_restore_label">Restauração MDB</string>
     <string name="mdb_restore_mode">Modo de restauração</string>
     <string name="mdb_usb_disconnection_exit">USB desconectada, abortando restauração</string>
     <string name="mount_storage">Sim</string>
@@ -145,7 +145,7 @@ Use somente o carregador fornecido."</string>
     <string name="notification_otg_unknow_in">Dispositivo OTG conectado</string>
     <string name="notification_otg_unknow_out">Dispositivo OTG desconectado</string>
     <string name="notifications_off_text">Toque aqui para ativar as notificações novamente.</string>
-    <string name="notifications_off_title">Notificações desl.</string>
+    <string name="notifications_off_title">Notificações desativadas</string>
     <string name="oldman_airplane_mode_text">Avião</string>
     <string name="oldman_incall_text">Chamada</string>
     <string name="oldman_status_bar_time_format">HH:mm</string>
@@ -180,7 +180,7 @@ Use somente o carregador fornecido."</string>
     <string name="settings_show_network_speed">Exibir velocidade de rede</string>
     <string name="settings_show_notificationBar_notification">Exibir notificações</string>
     <string name="settings_show_screenshot_notification">Exibir notificação de screenshots</string>
-    <string name="settings_show_statusBar_notification">Exibir notif. na barra de status</string>
+    <string name="settings_show_statusBar_notification">Notificar na barra de status</string>
     <string name="settings_status_bar">Barra de status</string>
     <string name="settings_toggle_collapse_after_clicked">Retrair após clicado</string>
     <string name="settings_toggle_layout_style">Estilo de Atalhos</string>
@@ -194,19 +194,19 @@ Use somente o carregador fornecido."</string>
     <string name="share">Compartilhar</string>
     <string name="status_bar_and_notification_bar">Notificações e Barra de status</string>
     <string name="status_bar_date_format">"EEEE
-dd-MM-yyyy"</string>
+dd/MM/yyyy"</string>
     <string name="status_bar_date_formatter">%2$s</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Configurar métodos de entrada</string>
     <string name="status_bar_network_flow">"Hoje:%1$s    Restante:%2$s    Pacote:%3$s"</string>
     <string name="status_bar_network_flow_exceed">"Hoje:%1$s    Excedido:%2$s    Pacote:%3$s"</string>
     <string name="status_bar_network_flow_today">Hoje:%1$s</string>
     <string name="status_bar_network_name_separator">|</string>
-    <string name="status_bar_no_recent_apps">Nenhum app recente</string>
-    <string name="status_bar_notification_inspect_item_title">Info do app</string>
+    <string name="status_bar_no_recent_apps">Nenhum aplicativo recente</string>
+    <string name="status_bar_notification_inspect_item_title">Informações do aplicativo</string>
     <string name="status_bar_recent_guide_all">Deslize para cima para fechar, para baixo para travar</string>
     <string name="status_bar_recent_guide_bottom">Deslize para baixo para travar</string>
     <string name="status_bar_recent_guide_top">Deslize para cima para fechar</string>
-    <string name="status_bar_recent_inspect_item_title">Info do app</string>
+    <string name="status_bar_recent_inspect_item_title">Informações do aplicativo</string>
     <string name="status_bar_recent_memory_info">%1$s / %2$s disponíveis</string>
     <string name="status_bar_recent_remove_item_title">Excluir da lista</string>
     <string name="status_bar_recording_back">Toque aqui para retornar ao Gravador</string>
@@ -247,8 +247,8 @@ dd-MM-yyyy"</string>
     <string name="status_bar_toggle_screenshot">Screenshot</string>
     <string name="status_bar_toggle_shutdown">Desligar</string>
     <string name="status_bar_toggle_sync">Sincronização</string>
-    <string name="status_bar_toggle_sync_auto">Sincr. automática</string>
-    <string name="status_bar_toggle_sync_manual">Sincr. manual</string>
+    <string name="status_bar_toggle_sync_auto">Sincronização automática</string>
+    <string name="status_bar_toggle_sync_manual">Sincronização manual</string>
     <string name="status_bar_toggle_syncing">Sincronizando</string>
     <string name="status_bar_toggle_torch">Lanterna</string>
     <string name="status_bar_toggle_vibrate">Vibrar</string>
@@ -263,24 +263,24 @@ dd-MM-yyyy"</string>
     <string name="torch_closed">Lanterna desligada</string>
     <string name="torch_opened">Lanterna ligada</string>
     <string name="usb_accessory_confirm_prompt">Abrir %1$s quando o acessório USB estiver conectado?</string>
-    <string name="usb_accessory_permission_prompt">Permitir ao app %1$s o acesso ao acessório USB?</string>
+    <string name="usb_accessory_permission_prompt">Permitir ao aplicativo %1$s o acesso ao acessório USB?</string>
     <string name="usb_accessory_uri_prompt">Nenhum aplicativo instalado funciona com este acessório USB. Conheça mais sobre este acessório em %1$s</string>
     <string name="usb_debugging_always">Sempre permitir este computador</string>
     <string name="usb_debugging_message">"A impressão RSA do computador é: 
 %1$s"</string>
     <string name="usb_debugging_title">Permitir depuração USB?</string>
     <string name="usb_device_confirm_prompt">Abrir %1$s quando o dispositivo USB estiver conectado?</string>
-    <string name="usb_device_permission_prompt">Permitir ao app %1$s o acesso ao dispositivo USB?</string>
+    <string name="usb_device_permission_prompt">Permitir ao aplicativo %1$s o acesso ao dispositivo USB?</string>
     <string name="usb_mode_dont_ask">"Não perguntar novamente"</string>
-    <string name="usb_mode_mount_storage_title">Abrir armazenamento usb agora?</string>
+    <string name="usb_mode_mount_storage_title">Abrir armazenamento USB agora?</string>
     <string name="usb_mode_notification">Cartão SD</string>
     <string name="usb_mtp_text">Arquivos</string>
     <string name="usb_notification">Conexão USB</string>
     <string name="usb_notification_mtp_info">Acesse arquivos pelo computador</string>
     <string name="usb_notification_mtp_problem">Ajuda ></string>
-    <string name="usb_notification_mtp_ticker_text">Conectado ao USB(Arquivos)</string>
-    <string name="usb_notification_ptp_info">Acesse fotos pelo computador</string>
-    <string name="usb_notification_ptp_ticker_text">Conectado ao USB(Fotos)</string>
+    <string name="usb_notification_mtp_ticker_text">Conectado ao USB (MTP)</string>
+    <string name="usb_notification_ptp_info">Importe imagens pelo computador</string>
+    <string name="usb_notification_ptp_ticker_text">Conectado ao USB (PTP)</string>
     <string name="usb_ptp_text">Fotos</string>
     <string name="usb_share_net_info">Compartilhar internet via USB</string>
     <string name="usb_storage_error_message">Ocorreu um problema ao utilizar seu cartão SD para armazenamento.</string>
@@ -292,7 +292,7 @@ dd-MM-yyyy"</string>
     <string name="usb_storage_stop_notification_title">Desativar Cartão SD</string>
     <string name="usb_storage_stop_title">Cartão SD em uso</string>
     <string name="usb_storage_title">USB conectado</string>
-    <string name="user_guide_for_notification">Nova notificação recebida，você pode deslizar a barra de status para verificar detalhes</string>
+    <string name="user_guide_for_notification">Nova notificação recebida, deslize a barra de status para verificá-la</string>
     <string name="user_guide_for_toggle">A lista de atalhos pode ser deslizada horizontalmente</string>
-    <string name="user_guide_for_toggle_list">Clique aqui para customizar a lista de atalhos</string>
+    <string name="user_guide_for_toggle_list">Clique aqui para personalizar a lista de atalhos</string>
 </resources>

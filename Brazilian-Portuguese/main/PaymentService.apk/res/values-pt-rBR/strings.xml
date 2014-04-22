@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="account_detail">"Conta Xiaomi:
+    <string name="account_detail">"Conta Xiaomi: 
 %1$s"</string>
     <string name="app_name">Serviço de pagamento</string>
     <string name="balance">Balanço: %1$s MiCredits</string>
@@ -17,7 +17,7 @@
     <string name="bankcall_credit_card">Cartão de Crédito</string>
     <string name="bankcall_debit_card">Cartão de Débito</string>
     <string name="bankcall_denom">Valor:</string>
-    <string name="bankcall_denom_number">%1$s yuan</string>
+    <string name="bankcall_denom_number">￥%1$s</string>
     <string name="bankcall_error_card">Número da conta inválido. Por favor, corrija-o.</string>
     <string name="bankcall_error_card_info">Informações da conta estão incorretas. Por favor, corrija-as.</string>
     <string name="bankcall_hint">Este serviço é criptografado e autorizado pela UnionPay.</string>
@@ -38,31 +38,31 @@
     <string name="btn_count_down_auto">Consultar após %1$s segundos</string>
     <string name="btn_delete_record">Excluir</string>
     <string name="btn_mili_center_recharge">Recarregar MiCredits</string>
-    <string name="btn_net_connection_retry">Tentar novamente</string>
-    <string name="btn_next">Próximo</string>
+    <string name="btn_net_connection_retry">Repetir</string>
+    <string name="btn_next">Avançar</string>
     <string name="btn_other_bankcard">Usar outro cartão</string>
-    <string name="btn_prev">Anterior</string>
+    <string name="btn_prev">Voltar</string>
     <string name="btn_query">Consultar</string>
     <string name="btn_recharge_confirm">Confirmação de compra</string>
     <string name="btn_recharge_large">Recarregar</string>
     <string name="btn_recharge_other">Recarregar</string>
     <string name="btn_recharge_success">Recarga concluída</string>
     <string name="btn_recharge_success_quick">Recarga concluída</string>
-    <string name="btn_wait_call">Aguardando…</string>
+    <string name="btn_wait_call">Aguardando...</string>
     <string name="btn_wait_call_count">Aguardando (%1$s)</string>
     <string name="btn_wait_confirm">Aguardando</string>
     <string name="btn_wait_confirm_count">Aguardando （%1$s）</string>
     <string name="button_call">Chamar</string>
     <string name="button_cancel">Cancelar</string>
     <string name="button_confirm">Confirmar</string>
-    <string name="button_next">Próximo</string>
+    <string name="button_next">Avançar</string>
     <string name="button_pay">Confirmar</string>
     <string name="button_recharge">Recarregar</string>
     <string name="button_recharge_pay">Confirmar</string>
-    <string name="button_retry">Tentar novamente</string>
+    <string name="button_retry">Repetir</string>
     <string name="cancel">Cancelar</string>
-    <string name="change_security_lock">Alterar código de segurnaça</string>
-    <string name="colon">": "</string>
+    <string name="change_security_lock">Alterar código de segurança</string>
+    <string name="colon">:\u0020</string>
     <string name="detail_consume_account">ID do cliente</string>
     <string name="detail_consume_amount">Valor</string>
     <string name="detail_consume_name">Produto</string>
@@ -82,7 +82,7 @@
     <string name="detail_recharge_time">Horário</string>
     <string name="detail_recharge_title">Histórico de recargar</string>
     <string name="error_account_changed_summary">"As informações de conta foram alteradas.
-Por favor conecte-se novamente."</string>
+Por favor efetue o login novamente."</string>
     <string name="error_account_changed_title">Conta alterada</string>
     <string name="error_auth_summary">Erro de login na conta, por favor conecte-se novamente.</string>
     <string name="error_auth_title">Erro de login</string>
@@ -114,7 +114,7 @@ Aguarde 5 minutos e tente novamente."</string>
     <string name="error_verify_summary">Seu aplicativo não possui permissão para solicitar este serviço</string>
     <string name="error_verify_title">Sem permissão</string>
     <string name="fee">%1$s MiCredit</string>
-    <string name="forget_password">&lt;u&gt;Resetar senha&lt;/u&gt;</string>
+    <string name="forget_password">&lt;u&gt;Redefinir senha&lt;/u&gt;</string>
     <string name="format_date">dd-MM-yyyy</string>
     <string name="format_time">dd-MM-yyyy às hh:mmaa</string>
     <string name="frozen">(Congelada)</string>
@@ -148,7 +148,7 @@ por favor entre em contato com o SAC do serviço de pagamentos China Mobile: 400
     <string name="hfb_order_price">Total da compra:</string>
     <string name="hfb_other_case">Caso você não receba uma mensagem do número 10658008 acesse os itens de ajuda.</string>
     <string name="hfb_pay_by_phone">Pagar pelo telefone:</string>
-    <string name="hfb_retry_receive">Tentar novamente</string>
+    <string name="hfb_retry_receive">Repetir</string>
     <string name="hfb_return">Voltar</string>
     <string name="hfb_succ_label">Compra concluída</string>
     <string name="hfb_succ_result">"Obrigado por utilizar nossos serviços de pagamento.</string>
@@ -170,37 +170,37 @@ por favor entre em contato com o SAC do serviço de pagamentos China Mobile: 400
     <string name="lockpattern_recording_incorrect_too_short">Conecte no mínimo %d pontos. Por favor tente novamente:</string>
     <string name="lockpattern_recording_inprogress">Levante o dedo da tela ao finalizar.</string>
     <string name="lockpattern_recording_intro_header">Desenhe o padrão de desbloqueio:</string>
-    <string name="lockpattern_retry_text">&lt;u&gt;Resetar padrão&lt;/u&gt;</string>
+    <string name="lockpattern_retry_text">&lt;u&gt;Redefinir padrão&lt;/u&gt;</string>
     <string name="lockpattern_settings_help_how_to_record">Como desenhar um padrão de desbloqueio</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Tente novamente em %d segundos.</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Muitas tentativas incorretas!&lt;/font&gt;</string>
     <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
-    <string name="lockpattern_tutorial_continue_label">Próximo</string>
-    <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Esqueci meu padrão&lt;/u&gt;</string>
+    <string name="lockpattern_tutorial_continue_label">Avançar</string>
+    <string name="lockscreen_forgot_pattern_button_text">&lt;u>Esqueci meu padrão&lt;/u></string>
     <string name="login">Login</string>
     <string name="memu_refresh">Atualizar</string>
-    <string name="mibi_license_message">Toque em OK se você concorda com os termos e condições descritos no %1$s.</string>
+    <string name="mibi_license_message">Você está prestes a utilizar o Mi Credit, que é um serviço fornecido pela Xiaomi Inf. Antes de utilizar o serviço, você precisa concordar com os Termos de Serviço existentes em "%1$s".</string>
     <string name="mibi_license_message_span">Termo do usuário MiCredit</string>
     <string name="mibi_license_title">Termo do Usuário</string>
     <string name="mili_center">MiCredit</string>
     <string name="msg_denomination_type">MiCredit</string>
     <string name="msg_error">Falha na recarga</string>
-    <string name="msg_order_hint_1_1">After you touch Confirm purchase, your phone will</string>
-    <string name="msg_order_hint_1_2">Automatically contact your service provider.</string>
+    <string name="msg_order_hint_1_1">Após você selecionar \"Confirmar compra\", seu telefone irá</string>
+    <string name="msg_order_hint_1_2">Sua operadora será contactada automaticamente.</string>
     <string name="msg_picker_hint_1_1">1.</string>
-    <string name="msg_picker_hint_1_2">A recarga via SMS pode ser mais cara: &lt;font color=red&gt;%1$d yuan = %2$d MiCredit&lt;/font&gt;</string>
+    <string name="msg_picker_hint_1_2">A recarga via SMS pode ser mais cara: &lt;font color=red&gt;￥%1$d = %2$d MiCredit&lt;/font&gt;</string>
     <string name="msg_picker_hint_2_1">2.</string>
-    <string name="msg_picker_hint_2_2">Operadoras cobram um valor de %1$s yuan para taxa de serviço de recarga</string>
-    <string name="msg_progress_hint_2_1">Your network provider has been contacted!</string>
-    <string name="msg_progress_hint_2_2">You will receive a text confirmation shortly.</string>
+    <string name="msg_picker_hint_2_2">Operadoras cobram um valor de ￥%1$s para taxa de serviço de recarga</string>
+    <string name="msg_progress_hint_2_1">Sua operadora foi contactada!</string>
+    <string name="msg_progress_hint_2_2">Você irá receber uma confirmação por SMS em breve.</string>
     <string name="msg_send_no_net_error">Falha ao enviar mensagem: Impossível conectar-se ao provedor de rede.</string>
     <string name="msg_send_no_sim_error">Falha ao enviar mensagem: tente reinserir seu cartão SIM.</string>
-    <string name="msg_send_send_fail_error">Falha ao enviar mensagem!</string>
-    <string name="msg_telecom_order_denom">%1s yuan (o valor não inclui taxas de tráfego de dados móveis)</string>
+    <string name="msg_send_send_fail_error">Falha ao enviar mensagem</string>
+    <string name="msg_telecom_order_denom">￥%1s (o valor não inclui taxas de tráfego de dados móveis)</string>
     <string name="msg_telecom_order_denom_label">Valor a pagar:</string>
     <string name="msg_telecom_order_goods">%1s MiCredits</string>
     <string name="msg_telecom_order_goods_label">Descrição do produto:</string>
-    <string name="msg_telecom_sending">Contactando operadora…</string>
+    <string name="msg_telecom_sending">Contactando operadora...</string>
     <string name="order_price">%1$s MiCredits</string>
     <string name="password_error">Senha incorreta.</string>
     <string name="password_forget">Esqueceu a sua senha?</string>
@@ -218,19 +218,19 @@ por favor entre em contato com o SAC do serviço de pagamentos China Mobile: 400
     <string name="prepaid_error_carrier">Selecionar operadora</string>
     <string name="prepaid_error_denomination">Selecionar valor</string>
     <string name="prepaid_error_password">Senha do cartão inválida.</string>
-    <string name="prepaid_grid_carrier_hint">Select carrier</string>
-    <string name="prepaid_grid_denomination_hint">Select amount</string>
+    <string name="prepaid_grid_carrier_hint">Selecionar operadora</string>
+    <string name="prepaid_grid_denomination_hint">Selecionar valor</string>
     <string name="prepaid_number_edit_hint">Número</string>
     <string name="prepaid_password_edit_hint">Senha</string>
     <string name="prepaid_picker_hint_1_1">1.</string>
     <string name="prepaid_picker_hint_1_2">Suporta apenas pagamentos únicos;</string>
     <string name="prepaid_picker_hint_2_1">2.</string>
     <string name="prepaid_picker_hint_2_2_a">O valor nominal selecionado precisa ser consistente com o valor do cartão pré-pago. Escolher outro valor irá invalidar o cartão. Esta ação não pode ser desfeita.</string>
-    <string name="prepaid_picker_hint_2_2_b">Se o valor nominal do cartão pré-pago não for &lt;font color=red&gt;￥%1$s&lt;/font&gt;, o cartão será invalidado. A Xiaomi não é responsável por quaisquer erros ou perdas monetárias que possam ocorrer em resultado de erro de usuário.</string>
-    <string name="progress_bankcall_card_creating">Gerando compra…</string>
-    <string name="progress_bankcall_card_querying">Verificando tipo de conta…</string>
+    <string name="prepaid_picker_hint_2_2_b">Se o valor nominal do cartão pré-pago não for &lt;font color=red&gt;￥%1$s&lt;/font>, o cartão será invalidado. A Xiaomi não é responsável por quaisquer erros ou perdas monetárias que possam ocorrer em resultado de erro de usuário.</string>
+    <string name="progress_bankcall_card_creating">Gerando compra...</string>
+    <string name="progress_bankcall_card_querying">Verificando tipo de conta...</string>
     <string name="progress_creating">Recebendo informações de compra…</string>
-    <string name="progress_downloading">Carregando…</string>
+    <string name="progress_downloading">Carregando...</string>
     <string name="progress_error_pay_summary">%1$s MiCredits adicionados, mas o pagamento falhou! Por favor tente novamente mais tarde.</string>
     <string name="progress_error_pay_title">Falha no pagamento</string>
     <string name="progress_error_recharge_summary">Falha na recarga! Por favor tente novamente mais tarde.</string>
@@ -238,7 +238,7 @@ por favor entre em contato com o SAC do serviço de pagamentos China Mobile: 400
     <string name="progress_loading">Processando...</string>
     <string name="progress_msg_creating">Gerando recarga...</string>
     <string name="progress_paytool_creating">Gerando compra de %1$s...</string>
-    <string name="progress_paytool_installing">Instalando plugin de segurança móvel %1$s…</string>
+    <string name="progress_paytool_installing">Instalando plugin de segurança móvel %1$s...</string>
     <string name="progress_prepaid_creating">Gerando compra...</string>
     <string name="progress_querying">Processando...</string>
     <string name="progress_submit_hint">A recarga será creditada em sua conta em até 3 minutos.</string>
@@ -252,15 +252,15 @@ por favor entre em contato com o SAC do serviço de pagamentos China Mobile: 400
     <string name="progress_warning_check">"O pagamento ainda não foi processado. 
 Nós verificaremos novamente em dois dias úteis."</string>
     <string name="progress_warning_contact_server">"O pagamento ainda não foi processado. 
-1. Por favor entre em contato com o SAC：%1$s 
+1. Por favor entre em contato com o SAC： %1$s 
 2. Quando solicitado, insira o número de série: %2$s."</string>
     <string name="progress_warning_waiting">"O pagamento ainda não foi processado."</string>
     <string name="recharge_alipay_title">Alipay</string>
     <string name="recharge_bankcall_title">Cartão bancário</string>
-    <string name="recharge_denomination">%1$s yuan</string>
-    <string name="recharge_grid_edit_hint">Valor (yuan)</string>
-    <string name="recharge_grid_edit_limit">%1$s~%2$s yuan</string>
-    <string name="recharge_grid_edit_upper_limit">"Não deve exceder %1$s yuan"</string>
+    <string name="recharge_denomination">￥%1$s</string>
+    <string name="recharge_grid_edit_hint">Valor (￥)</string>
+    <string name="recharge_grid_edit_limit">￥%1$s~%2$s</string>
+    <string name="recharge_grid_edit_upper_limit">Não deve exceder ￥%1$s</string>
     <string name="recharge_grid_error_denomination">Por favor selecione o valor correto entre ￥%1$s~%2$s</string>
     <string name="recharge_grid_picker_hint">Selecionar valor</string>
     <string name="recharge_group_favorite">Utilizar método de recarga anterior</string>
@@ -277,8 +277,8 @@ Nós verificaremos novamente em dois dias úteis."</string>
     <string name="recharge_tenpay_title">Tenpay</string>
     <string name="recharge_voucher_title">Cartão de MiCredits</string>
     <string name="scan_prompt_number">Escanear código pré-pago %1$s</string>
-    <string name="scan_prompt_password">Escanear senha do cartão pré-pago %1$s</string>
-    <string name="scan_prompt_retry">Keep the card in the position of non-reflective, remains stable after retry</string>
+    <string name="scan_prompt_password">Escanear senha do cartão pré-pago </string>
+    <string name="scan_prompt_retry">Mantenha o cartão em uma posição não-reflexiva, e tente novamente</string>
     <string name="scan_prompt_voucher">Escanear senha do MiCredit</string>
     <string name="security_setting">Configurações de segurança</string>
     <string name="summary_lockpattern">Exigir padrão de desbloqueio para MiCredit</string>
@@ -292,14 +292,14 @@ Nós verificaremos novamente em dois dias úteis."</string>
     <string name="title_nopassword">Não exigir para pagamentos pequenos</string>
     <string name="title_nopassword_dialog">Limite diário</string>
     <string name="title_password">Senha</string>
-    <string name="title_password_threshold">Limite diário = %1$s yuan</string>
+    <string name="title_password_threshold">Limite diário = ￥%1$s</string>
     <string name="title_pay_record">Registros de pagamento</string>
     <string name="title_recharge">Recarregar MiCredit</string>
     <string name="title_recharge_record">Registros de recarga</string>
     <string name="title_transaction">Transações</string>
     <string name="title_visible_pattern">Tornar padrão visível</string>
     <string name="voucher_edit_hint">Código</string>
-    <string name="voucher_edit_limit">digitos</string>
+    <string name="voucher_edit_limit">dígitos</string>
     <string name="voucher_error_password">Código voucher inválido!</string>
     <string name="voucher_input_password_prompt">Inserir código</string>
 </resources>

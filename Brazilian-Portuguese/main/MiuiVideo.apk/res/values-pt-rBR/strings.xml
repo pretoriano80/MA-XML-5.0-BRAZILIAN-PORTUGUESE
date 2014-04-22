@@ -8,8 +8,8 @@
     <string name="about_version_label">Versão</string>
     <string name="actors_colon">"Elenco: "</string>
     <string name="add_review">Adic. comentário</string>
-    <string name="adjust_position_next_media_notice">Próximo</string>
-    <string name="adjust_position_prev_media_notice">Anterior</string>
+    <string name="adjust_position_next_media_notice">Avançar</string>
+    <string name="adjust_position_prev_media_notice">Voltar</string>
     <string name="airkan_control_device_des">Para controlar a reprodução, toque na barra inferior</string>
     <string name="airkan_device_xiaomi_phone">Xiaomi</string>
     <string name="airkan_tips">"Toque aqui para enviar o vídeo 
@@ -21,7 +21,7 @@ para a MiBox ou TV"</string>
     <string name="all_reviews">Comentários</string>
     <string name="all_specials">Destaque</string>
     <string name="alreadyselected">Selecionado</string>
-    <string name="app_name">Vídeo</string>
+     <string name="app_name">Vídeos</string>
     <string name="app_recommendation">Recomendados</string>
     <string name="area_colon">"País: "</string>
     <string name="authenticated_failed">Falha no login</string>
@@ -47,7 +47,7 @@ para a MiBox ou TV"</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_favorite">Excluir</string>
     <string name="cancel_hide">Restaurar</string>
-    <string name="cancel_select_all">Desfazer</string>
+    <string name="cancel_select_all">Desfaz. sel.</string>
     <string name="cancel_waitfornewset">Deixar de seguir</string>
     <string name="cant_connecting">Falha ao conectar-se ao servidor</string>
     <string name="channel_more">Mais</string>
@@ -180,7 +180,7 @@ para a MiBox ou TV"</string>
     <string name="menu_item_media_info_label">Ver informações do vídeo</string>
     <string name="menu_item_orientation_auto_sensor_action">Ativar rotação automática</string>
     <string name="menu_item_orientation_fixed_by_videosize_action">Desativar rotação automática</string>
-    <string name="menu_item_screen_shot">Capturar</string>
+    <string name="menu_item_screen_shot">Capturar tela</string>
     <string name="menu_item_sub_title">Legendas</string>
     <string name="menu_item_switch_width_height_label">Alternar formato de tela</string>
     <string name="menu_wh_item_adapt_height_label">Preencher altura</string>
@@ -263,7 +263,7 @@ para a MiBox ou TV"</string>
     <string name="recommendation">Você gostará de</string>
     <string name="reloading_tip">Falha ao conectar-se à rede</string>
     <string name="retrieving">Recebendo…</string>
-    <string name="retry">Reiniciar</string>
+    <string name="retry">Repetir</string>
     <string name="review_success">Comentário enviado</string>
     <string name="sdcard_storage">Memória interna</string>
     <string name="search">Pesquisar</string>
@@ -271,7 +271,7 @@ para a MiBox ou TV"</string>
     <string name="search_result_recommend_title">Todos estão assistindo"</string>
     <string name="searching">" "</string>
     <string name="seconds">segs</string>
-    <string name="select_all">Selecionar tudo</string>
+    <string name="select_all">Selec. tudo</string>
     <string name="select_media_source">Selecionar fonte de vídeos</string>
     <string name="series_colon">"Episódios: "</string>
     <string name="setting">Configurações</string>
@@ -291,13 +291,13 @@ para a MiBox ou TV"</string>
     <string name="temp_play_history_button_label">Histórico de reprodução</string>
     <string name="tencent">Tencent</string>
     <string name="time_colon">"Data: "</string>
-    <string name="to_be_play_label_v5">"Próximo: "</string>
+    <string name="to_be_play_label_v5">"Avançar: "</string>
     <string name="to_live_status">Aguardando transmissão iniciar</string>
     <string name="to_play_airekan">Elenco</string>
     <string name="toast_back_key_pressed_notice">Pressione voltar novamente para sair</string>
-    <string name="toast_message_continue_play_from">Reproduzindo de </string>
-    <string name="toast_message_continue_play_hour">h </string>
-    <string name="toast_message_continue_play_minute">m </string>
+    <string name="toast_message_continue_play_from">Reproduzindo de  </string>
+    <string name="toast_message_continue_play_hour"> h</string>
+    <string name="toast_message_continue_play_minute"> m</string>
     <string name="toast_message_continue_play_second_and_play">s</string>
     <string name="toast_message_set_misound">Por favor configure o MI Audio...</string>
     <string name="today">Hoje</string>
@@ -316,7 +316,7 @@ para a MiBox ou TV"</string>
     <string name="video_info_audio_bitrate_label">Taxa de bits:</string>
     <string name="video_info_audio_coding_label">Formato de áudio:</string>
     <string name="video_info_audio_null">Nenhum</string>
-    <string name="video_info_frame_rate_label">Framerate:</string>
+    <string name="video_info_frame_rate_label">Tx de quadros:</string>
     <string name="video_info_length_label">Duração:</string>
     <string name="video_info_resolution_label">Resolução de vídeo:</string>
     <string name="video_info_video_coding_label">Formato de vídeo:</string>
@@ -330,7 +330,7 @@ para a MiBox ou TV"</string>
     <string name="vp_VideoView_error_title">Erro desconhecido</string>
     <string name="vp_full_high_definition">1080P</string>
     <string name="vp_high_definition">HD</string>
-    <string name="vp_next_ci">Próximo</string>
+    <string name="vp_next_ci">Avançar</string>
     <string name="vp_offline">Offline</string>
     <string name="vp_select_ci">Selecionar</string>
     <string name="vp_standard_definition">SD</string>

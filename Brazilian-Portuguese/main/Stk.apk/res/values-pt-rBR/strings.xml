@@ -21,6 +21,6 @@
     <string name="stk_app_state">Estado do aplicativo</string>
     <string name="stk_dialog_accept">SIM</string>
     <string name="stk_dialog_reject">NÃO</string>
-    <string name="stk_dialog_title">Toolkit do SIM</string>
+    <string name="stk_dialog_title">Ferramentas do SIM</string>
     <string name="stk_no_service">Nenhum serviço disponível</string>
 </resources>

@@ -2,9 +2,9 @@
 <resources>
     <string name="app_name">MIUIStats</string>
     <string name="main_title">Estatísticas de utilização</string>
-    <string name="main_desc">A participação no envio de dados estatísticos permite aos desenvolvedores e tradutores da MIUI um melhor acompanhamento de seus usuários por localidade. As informações fornecidas incluem um identificador exclusivo e totalmente anônimo de seu telefone, o modelo do mesmo e a versão utilizada. Os dados são transmitidos a cada boot para os servidores da MIUI. Para visualizar o que é transmitido, toque no botão abaixo."</string>
+    <string name="main_desc">A participação no envio de dados estatísticos permite aos desenvolvedores e tradutores da MIUI um melhor acompanhamento de seus usuários por localidade. As informações fornecidas incluem um identificador exclusivo e totalmente anônimo de seu telefone, o modelo do mesmo e a versão utilizada. Os dados são transmitidos a cada inicialização para os servidores da MIUI. Para visualizar o que é transmitido, toque no botão abaixo."</string>
     <string name="main_optin">Enviar estatísticas</string>
-    <string name="main_btn_preview">preview</string>
+    <string name="main_btn_preview">Pré-visualizar</string>
     <string name="main_btn_save">Salvar</string>
     <string name="main_show_stats">Estatísticas</string>
     <string name="preview_id_lbl">Identificador único</string>

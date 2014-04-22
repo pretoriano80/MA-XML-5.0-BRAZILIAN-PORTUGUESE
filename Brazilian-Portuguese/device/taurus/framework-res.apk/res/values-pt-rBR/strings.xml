@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="BaMmi">Bloqueio de chamadas</string>
     <string name="CLIRDefaultOffNextCallOff">O ID da chamada assume o padrão de não restrito. Próxima chamada: Não restrita</string>
@@ -34,7 +34,6 @@
     <string name="VideoView_error_text_invalid_progressive_playback">Este vídeo não é válido para transmissão neste dispositivo.</string>
     <string name="VideoView_error_text_unknown">Não é possível reproduzir este vídeo.</string>
     <string name="VideoView_error_title">Problema com o vídeo</string>
-    <string name="abbrev_month">%-b</string>
     <string name="abbrev_month_day" formatted="false">%-e de %b</string>
     <string name="abbrev_month_day_year" formatted="false">%d/%m/%Y</string>
     <string name="abbrev_month_year" formatted="false">%b de %Y</string>
@@ -59,7 +58,6 @@
     <string name="add_account_label">Adicionar uma conta</string>
     <string name="aerr_application">O %1$s parou.</string>
     <string name="aerr_process">O processo %1$s parou.</string>
-    <string name="aerr_title"/>
     <string name="allow">Permitir</string>
     <string name="alwaysUse">Usar como padrão para esta ação.</string>
     <string name="am">am</string>
@@ -84,14 +82,12 @@ Deseja fechá-lo?"</string>
     <string name="badPuk">O PUK digitado está incorreto.</string>
     <string name="beforeOneMonthDurationPast">Antes de 1 mês atrás</string>
     <string name="bluetooth_a2dp_audio_route_name">Áudio Bluetooth</string>
-    <string name="byteShort">B</string>
     <string name="cancel">Cancelar</string>
     <string name="candidates_style"><u>candidatos</u></string>
     <string name="capital_off">DESL</string>
     <string name="capital_on">LIG</string>
     <string name="car_mode_disable_notification_message">Toque para sair do modo Carro.</string>
     <string name="car_mode_disable_notification_title">Modo de carro ativado</string>
-    <string name="cfTemplateForwarded">{0}: {1}</string>
     <string name="cfTemplateForwardedTime">{0}: {1} após {2} segundos</string>
     <string name="cfTemplateNotForwarded">{0}: Não encaminhado</string>
     <string name="cfTemplateRegistered">{0}: Não encaminhado</string>
@@ -101,11 +97,7 @@ Deseja fechá-lo?"</string>
     <string name="choose_account_label">Escolha uma conta</string>
     <string name="chooser_wallpaper">Alterar plano de fundo</string>
     <string name="clearDefaultHintMsg">Padrão claro em Configurações do sistema > Aplicativos > Baixado.</string>
-    <string name="common_last_name_prefixes"/>
     <string name="common_name">Nome comum:</string>
-    <string name="common_name_conjunctions"/>
-    <string name="common_name_prefixes"/>
-    <string name="common_name_suffixes"/>
     <string name="configure_input_methods">Configurar métodos de entrada</string>
     <string name="contentServiceSync">Sincronizar</string>
     <string name="contentServiceSyncNotificationTitle">Sincronizar</string>
@@ -177,12 +169,11 @@ usando %s"</string>
     <string name="db_default_sync_mode">FULL</string>
     <string name="db_wal_sync_mode">FULL</string>
     <string name="decline">Recusar</string>
-    <string name="defaultMsisdnAlphaTag">MSISDN1</string>
     <string name="defaultVoiceMailAlphaTag">Correio de voz</string>
     <string name="default_audio_route_category_name">Sistema</string>
     <string name="default_audio_route_name">Telefone</string>
     <string name="default_audio_route_name_dock_speakers">Alto-falantes da dock</string>
-    <string name="default_audio_route_name_hdmi">HDMI áudio</string>
+    <string name="default_audio_route_name_hdmi">HDMI</string>
     <string name="default_audio_route_name_headphones">Fones de ouvido</string>
     <string name="delete">Excluir</string>
     <string name="deleteText">Excluir</string>
@@ -206,9 +197,6 @@ usando %s"</string>
     <string name="dlg_ok">OK</string>
     <string name="double_tap_toast">Dica: toque duas vezes para aumentar e diminuir o zoom.</string>
     <string name="editTextMenuTitle">Ações de texto</string>
-    <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
-    <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
-    <string name="ellipsis">…</string>
     <string name="ellipsis_two_dots">..</string>
     <string name="emailTypeCustom">Personalizado</string>
     <string name="emailTypeHome">Residencial</string>
@@ -247,11 +235,8 @@ usando %s"</string>
     <string name="factorytest_no_action">Nenhum pacote que forneça a ação FACTORY_TEST foi encontrado.</string>
     <string name="factorytest_not_system">A ação FACTORY_TEST é suportada apenas para pacotes instalados em /system/app.</string>
     <string name="factorytest_reboot">Reiniciar</string>
-    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Código de recurso concluído.</string>
     <string name="fcError">Problema de conexão ou código de recurso inválido.</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="find">Localizar</string>
     <string name="find_on_page">Localizar na página</string>
     <string name="fingerprints">Impressões digitais</string>
@@ -281,18 +266,12 @@ usando %s"</string>
     <string name="granularity_label_line">linha</string>
     <string name="granularity_label_link">link</string>
     <string name="granularity_label_word">palavra</string>
-    <string name="gsm_alphabet_default_charset"/>
     <string name="hardware">Hardware</string>
     <string name="heavy_weight_notification">%1$s em execução</string>
     <string name="heavy_weight_notification_detail">Toque para alternar para o aplicativo</string>
     <string name="heavy_weight_switcher_text">Outro aplicativo já está em execução e deve ser interrompido antes que você inicie um novo aplicativo.</string>
     <string name="heavy_weight_switcher_title">Alternar entre aplicativos?</string>
     <string name="hour">hora</string>
-    <string name="hour_ampm" formatted="false">%-l%P</string>
-    <string name="hour_cap_ampm" formatted="false">%-l%p</string>
-    <string name="hour_minute_24" formatted="false">%H:%M</string>
-    <string name="hour_minute_ampm" formatted="false">%-l:%M%p</string>
-    <string name="hour_minute_cap_ampm" formatted="false">%-l:%M%^p</string>
     <string name="hours">horas</string>
     <string name="httpError">Ocorreu um erro na rede.</string>
     <string name="httpErrorAuth">Não foi possível autenticar.</string>
@@ -343,7 +322,7 @@ usando %s"</string>
     
 Tem certeza de que deseja sair desta página?
 
-Toque em OK para continuar, ou Cancelar para permanecer nesta página."</string>
+Toque em OK para continuar, ou Cancelar para permanecer na página atual."</string>
     <string name="js_dialog_title">A página em \"%s\" diz:</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="keyboard_headset_required_to_hear_password">Conecte um fone de ouvido para ouvir as teclas da senha.</string>
@@ -570,9 +549,6 @@ Tente novamente em %d segundos."</string>
     <string name="org_name">Organização:</string>
     <string name="org_unit">Unidade organizacional:</string>
     <string name="passwordIncorrect">Senha incorreta.</string>
-    <string name="password_keyboard_label_alpha_key">ABC</string>
-    <string name="password_keyboard_label_alt_key">ALT</string>
-    <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="paste">Colar</string>
     <string name="permdesc_accessCoarseLocation">Permite que o aplicativo acesse sua localização aproximada por meio do sistema de posicionamento global (GPS) ou de fontes de localização da rede, como torres de celulares e redes Wi-Fi. Esses serviços de localização devem estar ativados e disponíveis para que sejam usados pelo aplicativo. O aplicativo pode usar esta permissão para determinar aproximadamente onde você está.</string>
     <string name="permdesc_accessContentProvidersExternally">Permite que o proprietário tenha acesso a fornecedores de conteúdo a partir da camada. Nunca deve ser necessário para aplicativos normais.</string>
@@ -614,7 +590,7 @@ Tente novamente em %d segundos."</string>
     <string name="permdesc_cache_filesystem">Permite que o aplicativo leia e grave o sistema de arquivos cache.</string>
     <string name="permdesc_callPhone">Permite que o aplicativo ligue para números de telefone sem sua intervenção. Isso pode resultar em cobranças ou chamadas inesperadas. Esta opção não permite que o aplicativo ligue para números de emergência. Aplicativos maliciosos podem gerar custos com chamadas feitas sem sua confirmação.</string>
     <string name="permdesc_callPrivileged">Permite que o aplicativo chame qualquer número de telefone, incluindo números de emergência, sem sua intervenção. Aplicativos maliciosos podem fazer chamadas desnecessárias e ilegais para os serviços de emergência.</string>
-    <string name="permdesc_camera">Allows the app to take pictures and videos with the camera. This permission allows the app to use the camera at any time without your confirmation.</string>
+    <string name="permdesc_camera">Permite que o aplicativo tire fotos e filme vídeos com a câmera. Esta permissão autoriza o aplicativo a usar a câmera a qualquer momento sem sua confirmação.</string>
     <string name="permdesc_changeBackgroundDataSetting">Permite que o aplicativo altere as configurações de uso de dados de segundo plano.</string>
     <string name="permdesc_changeComponentState">Permite que o aplicativo altere se um componente de outro aplicativo está ativado ou não. Aplicativos maliciosos podem usar esse recurso para desativar recursos importantes do telefone. Deve-se tomar cuidado com essa permissão, uma vez que isso pode deixar os componentes do aplicativo inutilizáveis, inconsistentes ou instáveis.</string>
     <string name="permdesc_changeConfiguration">Permite que o aplicativo altere a configuração atual, como o local ou o tamanho da fonte.</string>
@@ -746,7 +722,7 @@ Tente novamente em %d segundos."</string>
     <string name="permdesc_writeSms">Permite que o aplicativo grave mensagens SMS armazenadas no telefone ou cartão SIM. Aplicativos maliciosos podem excluir suas mensagens.</string>
     <string name="permdesc_writeSocialStream">Permite que o aplicativo exiba atualizações sociais de seus amigos. Tenha cuidado ao compartilhar informações: isto permite que o aplicativo produza mensagens aparentemente enviadas por amigos. Observação: pode não ser aplicável a todas as redes sociais.</string>
     <string name="permdesc_writeSyncSettings">Permite que o aplicativo modifique as configurações de sincronização de uma conta. Por exemplo, pode ser usado para ativar a sincronização do aplicativo People com uma conta.</string>
-    <string name="permgroupdesc_accounts">Access the available accounts.</string>
+    <string name="permgroupdesc_accounts">Acessar as contas disponíveis.</string>
     <string name="permgroupdesc_costMoney">Faça coisas que podem custar dinheiro.</string>
     <string name="permgroupdesc_developmentTools">Recursos necessários apenas para desenvolvedores de aplicativos.</string>
     <string name="permgroupdesc_hardwareControls">Acessa o hardware diretamente no aparelho.</string>
@@ -973,7 +949,6 @@ para a conta %s."</string>
     <string name="pinpuk_attempts">"
 Tentativas restantes:"</string>
     <string name="policydesc_disableCamera">Impeça o uso de todas as câmeras do dispositivo.</string>
-    <string name="policydesc_disableKeyguardFeatures">Prevent use of some features in keyguard.</string>
     <string name="policydesc_encryptedStorage">Exija que os dados armazenados do aplicativo sejam criptografados.</string>
     <string name="policydesc_expirePassword">Controle a frequência com que a senha da tela de bloqueio deve ser alterada.</string>
     <string name="policydesc_forceLock">Controle como e quando a tela é bloqueada.</string>
@@ -1023,7 +998,6 @@ Tentativas restantes:"</string>
     <string name="relationTypeRelative">Parente</string>
     <string name="relationTypeSister">Irmã</string>
     <string name="relationTypeSpouse">Cônjuge</string>
-    <string name="relative_time">%1$s, %2$s</string>
     <string name="replace">Substituir...</string>
     <string name="report">Informar</string>
     <string name="reset">Redefinir</string>
@@ -1110,7 +1084,6 @@ Tentativas restantes:"</string>
     <string name="share_action_provider_share_with">Compartilhar com</string>
     <string name="shareactionprovider_share_with">Compartilhar com</string>
     <string name="shareactionprovider_share_with_application">Compartilhar com %s</string>
-    <string name="short_format_month">%b</string>
     <string name="shutdown_confirm">O seu telefone será desligado.</string>
     <string name="shutdown_confirm_question">Deseja desligar?</string>
     <string name="shutdown_progress">Encerrando…</string>
@@ -1174,7 +1147,6 @@ Tentativas restantes:"</string>
     <string name="time_picker_increment_hour_button">Aumentar hora</string>
     <string name="time_picker_increment_minute_button">Aumentar minuto</string>
     <string name="time_picker_increment_set_pm_button">Configurar valor PM</string>
-    <string name="time_picker_separator">:</string>
     <string name="time_wday">%1$s %2$s</string>
     <string name="time_wday_date">%1$s %2$s, %3$s</string>
     <string name="today">Hoje</string>
@@ -1182,8 +1154,6 @@ Tentativas restantes:"</string>
     <string name="turn_off_radio">Desativar a rede sem fio</string>
     <string name="turn_on_radio">Ativar sem fio</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Toque duas vezes para controlar o zoom</string>
-    <string name="twelve_hour_time_format">h:mm a</string>
-    <string name="twenty_four_hour_time_format">HH:mm</string>
     <string name="unknownName">(Desconhecido)</string>
     <string name="untitled">&lt;Sem título></string>
     <string name="upload_file">Escolher arquivo</string>
@@ -1229,9 +1199,6 @@ Tentativas restantes:"</string>
     <string name="wallpaper_binding_label">Plano de fundo</string>
     <string name="wday1_date1_time1_wday2_date2_time2">%3$s %1$s, %2$s - %6$s %4$s, %5$s</string>
     <string name="wday1_date1_wday2_date2">%1$s, %2$s - %4$s, %5$s</string>
-    <string name="wday_date">%2$s, %3$s</string>
-    <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
-    <string name="web_user_agent_target_content">"Mobile "</string>
     <string name="webpage_unresponsive">"A página não responde.
 
 Deseja fechá-la?"</string>
@@ -1240,7 +1207,6 @@ Deseja fechá-la?"</string>
     <string name="weeks">semanas</string>
     <string name="whichApplication">Complete a ação usando</string>
     <string name="wifi_available_sign_in">Fazer login na rede Wi-Fi</string>
-    <string name="wifi_available_sign_in_detailed">%1$s</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_enabled_notification_message">Tocar para acessar configurações</string>
     <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct ativado</string>
@@ -1252,7 +1218,6 @@ Deseja fechá-la?"</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
     <string name="wifi_p2p_to_message">Para:</string>
     <string name="wifi_p2p_turnon_message">Iniciar o Wi-Fi Direct. Isso desativará o ponto de acesso/cliente Wi-Fi.</string>
-    <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
     <string name="wifi_watchdog_network_disabled">Não foi possível se conectar a redes Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled_detailed">" tem uma conexão de baixa qualidade com a Internet."</string>
     <string name="year">ano</string>

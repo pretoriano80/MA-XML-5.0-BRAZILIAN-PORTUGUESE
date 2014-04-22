@@ -23,8 +23,8 @@
     <string name="accessibility_zoom_control">Controle de zoom</string>
     <string name="albums">Álbuns</string>
     <string name="aperture">Abertura</string>
-    <string name="app_details">Detalhes do app:</string>
-    <string name="auto">Autom.</string>
+    <string name="app_details">Detalhes do aplicativo:</string>
+    <string name="auto">Automático</string>
     <string name="bg_replacement_message">"Abaixe seu telefone
 Saia de vista por um momento"</string>
     <string name="camera_disabled">A câmera foi desativada devido às políticas de segurança.</string>
@@ -49,7 +49,7 @@ Saia de vista por um momento"</string>
     <string name="contact_birthday">Aniversário</string>
     <string name="contact_company">Empresa</string>
     <string name="contact_details">Detalhes do contato:</string>
-    <string name="contact_email">Email</string>
+    <string name="contact_email">E-mail</string>
     <string name="contact_name">Nome</string>
     <string name="contact_nickname">Apelido</string>
     <string name="contact_note">Anotação</string>
@@ -65,7 +65,7 @@ Saia de vista por um momento"</string>
     <string name="details">Detalhes</string>
     <string name="details_title">%1$d de %2$d itens:</string>
     <string name="dialog_ok">OK</string>
-    <string name="disable_video_snapshot_hint">O instant. de vídeo é desat. quando os efeitos esp. estão ativad.</string>
+    <string name="disable_video_snapshot_hint">O instantâneo de vídeo é desativado quando os efeitos especiais estão ativados</string>
     <string name="download_by_browser">Transferir pelo navegador</string>
     <string name="download_qq">Baixar QQ</string>
     <string name="download_wechat">Download do WeChat</string>
@@ -86,7 +86,7 @@ Saia de vista por um momento"</string>
     <string name="effect_silly_faces">CARETAS</string>
     <string name="error_app_unsupported">Resolução de vídeo não suportada para o codificador selecionado</string>
     <string name="error_app_unsupported_hfr_720p">720P suporta até 90 fps</string>
-    <string name="error_app_unsupported_hfr_codec">Apenas o Encoding de Vídeo H264 é suportado ao gravar com uma taxa de quadros alta</string>
+    <string name="error_app_unsupported_hfr_codec">Apenas a codificação de vídeo H264 é suportada ao gravar com uma taxa de quadros alta</string>
     <string name="error_app_unsupported_raw_wavelet">A redução de olhos vermelhos não terá efeito ao tirar fotos em modo RAW</string>
     <string name="error_fail_to_start_audio_capture">Falha ao iniciar captura de áudio: O microfone pode estar em uso por outro aplicativo.</string>
     <string name="exposure_time">Tempo de exposição</string>
@@ -153,7 +153,7 @@ Saia de vista por um momento"</string>
     <string name="maker">Fabricante</string>
     <string name="manual">Manual</string>
     <string name="measure_whitebalance_button">Média de branco</string>
-    <string name="measure_whitebalance_text">"Coloque uma folha de papel em branco a 15cm de distância da lente da câmera, e então tire uma foto.."</string>
+    <string name="measure_whitebalance_text">"Coloque uma folha de papel em branco a 15cm de distância da lente da câmera, e então tire uma foto."</string>
     <string name="model">Modelo</string>
     <string name="no_save">Não salvar</string>
     <string name="no_storage">Insira um cartão SD antes de usar a câmera.</string>
@@ -444,12 +444,12 @@ para capturar o panorama"</string>
     <string name="resume_playing_resume">Retomar</string>
     <string name="resume_playing_title">Retomar vídeo</string>
     <string name="review_cancel">CANCELAR</string>
-    <string name="rotate_left">Girar para esq.</string>
-    <string name="rotate_right">Girar para dir.</string>
+    <string name="rotate_left">Girar para esquerda</string>
+    <string name="rotate_right">Girar para direita</string>
     <string name="save">Salvar</string>
     <string name="scan_qrcode">Escanear código QR</string>
     <string name="secure_access_web_url">Acesso Seguro</string>
-    <string name="see_app_details">Ver detalhes do app</string>
+    <string name="see_app_details">Ver detalhes do aplicativo</string>
     <string name="see_qrcode_detals">Ver detalhes</string>
     <string name="select_all">Selecionar tudo</string>
     <string name="select_image">Selecionar foto</string>
@@ -474,9 +474,9 @@ para capturar o panorama"</string>
     <string name="simple_mode_button_text_panorama">Fechar panorama</string>
     <string name="simple_mode_button_text_slow_video">Fechar câmera slow-motion</string>
     <string name="simple_mode_title">Modo básico</string>
-    <string name="slideshow">Slideshow</string>
+    <string name="slideshow">Exibição de slides</string>
     <string name="snapshot_lower_than_video">Snapshot de vídeo maior que a própria gravação.</string>
-    <string name="snapshot_qcif_and_d1">Somente o tamanho de Snapshot de Vídeo é suportado neste modo.</string>
+    <string name="snapshot_qcif_and_d1">Somente o tamanho de snapshot de vídeo é suportado neste modo.</string>
     <string name="snapshotsize_low_powermode">Resolução da imagem no modo de Baixa Bateria não é suportado. Miniatura do tamanho do vídeo será usada. Por favor selecione Modo de Alta Energia para o tamanho da imagem.</string>
     <string name="spaceIsLow_content">Seu cartão SD está sem espaço. Altere a configuração de qualidade ou exclua algumas imagens ou outros arquivos.</string>
     <string name="success_message_import_from_account">Importação concluída</string>
@@ -493,7 +493,7 @@ para capturar o panorama"</string>
     <string name="toast_burst_snap_forbidden_when_face_beauty_open">A captura sequencial não está disponível quando efeitos de tons de pele estão ativos</string>
     <string name="toast_burst_snap_forbidden_when_hdr_open">Fotos sequenciais não são suportadas com o HDR ativo.</string>
     <string name="toast_burst_snap_forbidden_when_iso_not_auto">Fotos sequenciais não são suportadas fora do modo ISO automático</string>
-    <string name="toast_start_audio_capture">Faça barulho para ativar o Disparador por Som</string>
+    <string name="toast_start_audio_capture">Faça barulho para ativar o disparador por som</string>
     <string name="undo">Desfazer</string>
     <string name="unit_mm">mm</string>
     <string name="video_camera_label">Filmadora</string>

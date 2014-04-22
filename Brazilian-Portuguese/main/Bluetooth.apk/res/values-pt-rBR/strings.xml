@@ -6,7 +6,7 @@
     <string name="airplane_error_title">Modo para avião</string>
     <string name="app_name">Compartilhamento Bluetooth</string>
     <string name="auth_notif_message">Digite a chave de sessão para %1$s</string>
-    <string name="auth_notif_ticker">Solicitação de autenticação Obex</string>
+    <string name="auth_notif_ticker">Solicitação de autenticação OBEX</string>
     <string name="auth_notif_title">Chave de sessão</string>
     <string name="bt_enable_cancel">Cancelar</string>
     <string name="bt_enable_line1">Para usar os serviços de Bluetooth, é necessário ativar o Bluetooth.</string>
@@ -41,13 +41,13 @@
     <string name="download_ok">Ocultar</string>
     <string name="download_succ_line5">Arquivo recebido</string>
     <string name="download_succ_ok">Abrir</string>
-    <string name="download_success">%1$s Recebimento concluído.</string>
+    <string name="download_success">%1$s recebido.</string>
     <string name="download_title">Transferência de arquivo</string>
-    <string name="empty_file_notification_sent">Compart. Bluetooth: Telefone remoto rejeitou o arquivo de tamanho nulo %1$s</string>
+    <string name="empty_file_notification_sent">Compartilhamento Bluetooth: Telefone remoto rejeitou o arquivo de tamanho nulo %1$s</string>
     <string name="enabling_progress_content">Ativando Bluetooth...</string>
     <string name="enabling_progress_title">Aguarde...</string>
     <string name="format_progress_text">%1$d%%</string>
-    <string name="hello">Hello World, atividade de teste</string>
+    <string name="hello">Olá mundo, atividade de teste</string>
     <string name="inbound_history_title">Transferências de entrada</string>
     <string name="inbound_noti_title">Compartilhamento Bluetooth: Arquivos recebidos</string>
     <string name="incoming_file_confirm_Notification_caption">Deseja receber este arquivo?</string>
@@ -71,13 +71,13 @@
     <string name="not_exist_file_desc">"O arquivo não existe.
 "</string>
     <string name="noti_caption">%1$s com êxito, %2$s com falha.</string>
-    <string name="notification_received">Compart. Bluetooth: %1$s recebido</string>
-    <string name="notification_received_fail">Compart. Bluetooth: o arquivo %1$s não foi recebido</string>
-    <string name="notification_receiving">Compart. Bluetooth: recebendo %1$s</string>
-    <string name="notification_sending">Compart. Bluetooth: enviando %1$s</string>
-    <string name="notification_sent">Compart. Bluetooth: %1$s enviado</string>
+    <string name="notification_received">Compartilhamento Bluetooth: %1$s recebido</string>
+    <string name="notification_received_fail">Compartilhamento Bluetooth: o arquivo %1$s não foi recebido</string>
+    <string name="notification_receiving">Compartilhamento Bluetooth: recebendo %1$s</string>
+    <string name="notification_sending">Compartilhamento Bluetooth: enviando %1$s</string>
+    <string name="notification_sent">Compartilhamento Bluetooth: %1$s enviado</string>
     <string name="notification_sent_complete">100% concluído</string>
-    <string name="notification_sent_fail">Compart. Bluetooth: o arquivo %1$s não foi enviado</string>
+    <string name="notification_sent_fail">Compartilhamento Bluetooth: o arquivo %1$s não foi enviado</string>
     <string name="notify_server">Notificar servidor TCP</string>
     <string name="ok_button">OK</string>
     <string name="outbound_history_title">Transferências de saída</string>
@@ -113,7 +113,7 @@
     <string name="unknownNumber">Desconhecido</string>
     <string name="unknown_device">Dispositivo desconhecido</string>
     <string name="unknown_file">Arquivo desconhecido</string>
-    <string name="unknown_file_desc">"Não há um aplicativo para 1idar com este tipo de arquivo.
+    <string name="unknown_file_desc">"Não há um aplicativo para lidar com este tipo de arquivo.
 "</string>
     <string name="update_record">Confirmar registro</string>
     <string name="upload_fail_cancel">Fechar</string>

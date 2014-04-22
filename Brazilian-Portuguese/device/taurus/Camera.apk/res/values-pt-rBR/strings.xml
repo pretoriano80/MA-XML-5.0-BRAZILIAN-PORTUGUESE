@@ -22,8 +22,8 @@
     <string name="accessibility_zoom_control">Controle de zoom</string>
     <string name="albums">Álbuns</string>
     <string name="aperture">Abertura</string>
-    <string name="app_details">Detalhes do app:</string>
-    <string name="auto">Autom.</string>
+    <string name="app_details">Detalhes do aplicativo:</string>
+    <string name="auto">Automático</string>
     <string name="bg_replacement_message">"Abaixe seu telefone
 Saia de vista por um momento"</string>
     <string name="camera_disabled">A câmera foi desativada devido às políticas de segurança.</string>
@@ -62,11 +62,9 @@ Saia de vista por um momento"</string>
     <string name="deleted">Excluído</string>
     <string name="description">Descrição</string>
     <string name="details">Detalhes</string>
-    <string name="details_hms">%1$d:%2$02d:%3$02d</string>
-    <string name="details_ms">%1$02d:%2$02d</string>
     <string name="details_title">%1$d de %2$d itens:</string>
     <string name="dialog_ok">OK</string>
-    <string name="disable_video_snapshot_hint">O instant. de vídeo é desat. quando os efeitos esp. estão ativad.</string>
+    <string name="disable_video_snapshot_hint">O instantâneo de vídeo é desativado quando os efeitos especiais estão ativados</string>
     <string name="download_by_browser">Transferir pelo navegador</string>
     <string name="download_qq">Baixar QQ</string>
     <string name="download_wechat">Download do WeChat</string>
@@ -85,10 +83,9 @@ Saia de vista por um momento"</string>
     <string name="effect_goofy_face_squeeze">Comprimir</string>
     <string name="effect_none">Nenhum</string>
     <string name="effect_silly_faces">CARETAS</string>
-    <string name="empty">" "</string>
     <string name="error_app_unsupported">Resolução de vídeo não suportada para o codificador selecionado</string>
     <string name="error_app_unsupported_hfr_720p">720P suporta até 90 fps</string>
-    <string name="error_app_unsupported_hfr_codec">Apenas o Encoding de Vídeo H264 é suportado ao gravar com uma taxa de quadros alta</string>
+    <string name="error_app_unsupported_hfr_codec">Apenas a codificação de vídeo H264 é suportada ao gravar com uma taxa de quadros alta</string>
     <string name="error_app_unsupported_raw_wavelet">A redução de olhos vermelhos não terá efeito ao tirar fotos em modo RAW</string>
     <string name="error_fail_to_start_audio_capture">Falha ao iniciar captura de áudio: O microfone pode estar em uso por outro aplicativo.</string>
     <string name="exposure_time">Tempo de exposição</string>
@@ -160,9 +157,6 @@ Saia de vista por um momento"</string>
     <string name="pref_camera_ae_bracket_hdr_entry_hdr">HDR</string>
     <string name="pref_camera_ae_bracket_hdr_entry_off">Off</string>
     <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
-    <string name="pref_camera_ae_bracket_hdr_value_ae_bracket">AE-Bracket</string>
-    <string name="pref_camera_ae_bracket_hdr_value_hdr">HDR</string>
-    <string name="pref_camera_ae_bracket_hdr_value_off">Off</string>
     <string name="pref_camera_antibanding_entry_0">Off</string>
     <string name="pref_camera_antibanding_entry_1">50 Hz</string>
     <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -203,7 +197,6 @@ Saia de vista por um momento"</string>
     <string name="pref_camera_flashmode_entry_auto">Automático</string>
     <string name="pref_camera_flashmode_entry_off">Off</string>
     <string name="pref_camera_flashmode_entry_on">On</string>
-    <string name="pref_camera_flashmode_no_flash">no_flash</string>
     <string name="pref_camera_flashmode_title">Modo de flash</string>
     <string name="pref_camera_focusmode_entry_auto">Automático</string>
     <string name="pref_camera_focusmode_entry_continuous">Contínuo</string>
@@ -266,10 +259,6 @@ Saia de vista por um momento"</string>
     <string name="pref_camera_preview_entry_2000">2 segundos</string>
     <string name="pref_camera_preview_entry_5000">5 segundos</string>
     <string name="pref_camera_preview_entry_off">off</string>
-    <string name="pref_camera_preview_value_1000">1000</string>
-    <string name="pref_camera_preview_value_2000">2000</string>
-    <string name="pref_camera_preview_value_5000">5000</string>
-    <string name="pref_camera_preview_value_off">off</string>
     <string name="pref_camera_recordlocation_entry_off">Desativado</string>
     <string name="pref_camera_recordlocation_entry_on">Ativado</string>
     <string name="pref_camera_recordlocation_title">Armazenamento de localização</string>
@@ -448,7 +437,6 @@ Saia de vista por um momento"</string>
     <string name="toast_burst_snap_forbidden_when_iso_not_auto">Fotos sequenciais não são suportadas fora do modo ISO automático</string>
     <string name="toast_start_audio_capture">Faça barulho para ativar o Disparador por Som</string>
     <string name="undo">Desfazer</string>
-    <string name="unit_mm">mm</string>
     <string name="video_camera_label">Filmadora</string>
     <string name="video_err">"Impossível executar vídeo."</string>
     <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>

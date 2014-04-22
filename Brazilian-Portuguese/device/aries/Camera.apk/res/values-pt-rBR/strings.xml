@@ -22,8 +22,8 @@
     <string name="accessibility_zoom_control">Controle de zoom</string>
     <string name="albums">Álbuns</string>
     <string name="aperture">Abertura</string>
-    <string name="app_details">Detalhes do app:</string>
-    <string name="auto">Autom.</string>
+    <string name="app_details">Detalhes do aplicativo:</string>
+    <string name="auto">Automático</string>
     <string name="bg_replacement_message">"Abaixe seu telefone
 Saia de vista por um momento"</string>
     <string name="camera_disabled">A câmera foi desativada devido às políticas de segurança.</string>
@@ -64,7 +64,7 @@ Saia de vista por um momento"</string>
     <string name="details">Detalhes</string>
     <string name="details_title">%1$d de %2$d itens:</string>
     <string name="dialog_ok">OK</string>
-    <string name="disable_video_snapshot_hint">O instant. de vídeo é desat. quando os efeitos esp. estão ativad.</string>
+    <string name="disable_video_snapshot_hint">O instantâneo de vídeo é desativado quando os efeitos especiais estão ativados</string>
     <string name="download_by_browser">Transferir pelo navegador</string>
     <string name="download_qq">Baixar QQ</string>
     <string name="download_wechat">Download do WeChat</string>
@@ -85,7 +85,7 @@ Saia de vista por um momento"</string>
     <string name="effect_silly_faces">CARETAS</string>
     <string name="error_app_unsupported">Resolução de vídeo não suportada para o codificador selecionado</string>
     <string name="error_app_unsupported_hfr_720p">720P suporta até 90 fps</string>
-    <string name="error_app_unsupported_hfr_codec">Apenas o Encoding de Vídeo H264 é suportado ao gravar com uma taxa de quadros alta</string>
+    <string name="error_app_unsupported_hfr_codec">Apenas a codificação de vídeo H264 é suportada ao gravar com uma taxa de quadros alta</string>
     <string name="error_app_unsupported_raw_wavelet">A redução de olhos vermelhos não terá efeito ao tirar fotos em modo RAW</string>
     <string name="error_fail_to_start_audio_capture">Falha ao iniciar captura de áudio: O microfone pode estar em uso por outro aplicativo.</string>
     <string name="exposure_time">Tempo de exposição</string>

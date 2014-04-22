@@ -2,7 +2,6 @@
 <resources>
     <string name="ContactScreen">Adic./Editar contatos do SIM</string>
     <string name="ExportContactScreen">Exportar contatos para cartão SIM</string>
-    <string name="absent_num">ABSENT NUMBER</string>
     <string name="accessibility_call_muted">Chamada sem áudio.</string>
     <string name="accessibility_speakerphone_enabled">Viva-voz ativado.</string>
     <string name="addSimEntries">Adic. contato no SIM</string>
@@ -41,7 +40,6 @@
     <string name="answer_widget_sliding_vertical_miui">Deslizar na vertical</string>
     <string name="answer_widget_title_miui">Gesto de atendimento</string>
     <string name="antispam_marked_count">Marcado por %1$d pessoa(s)</string>
-    <string name="antispam_marked_title">%1$s</string>
     <string name="antispam_notification_title">Identificar número desconhecido de forma inteligente</string>
     <string name="antispam_provider">Identificado por %s</string>
     <string name="apn_settings">Configurações de APN</string>
@@ -51,9 +49,9 @@
     <string name="atr_disable">Relatórios de trânsito da área desativados</string>
     <string name="atr_enable">Relatórios de trânsito da área ativados</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
-    <string name="audio_mode_earpiece">Minifone do aparelho</string>
+    <string name="audio_mode_earpiece">Fone do aparelho</string>
     <string name="audio_mode_speaker">Alto-falante</string>
-    <string name="audio_mode_wired_headset">Fones com fio</string>
+    <string name="audio_mode_wired_headset">Fone de ouvido com fio</string>
     <string name="auth_username_summary">Nome de usuário utilizado para autenticação</string>
     <string name="auth_username_title">Autenticação de nome de usuário</string>
     <string name="auto_answer_delay_entries_delay_10s_miui">10s</string>
@@ -161,7 +159,6 @@
     <string name="call_title_redialing_with_times_miui">Rediscando %d vezes</string>
     <string name="call_waiting_sum_miui">Durante uma chamada, notificar-me de chamadas em espera</string>
     <string name="call_waiting_tone_continuously_miui">Reproduzir tom continuamente</string>
-    <string name="call_waiting_tone_stop_summary"/>
     <string name="call_waiting_tone_title_miui">Tom de chamada em espera</string>
     <string name="call_waiting_tone_twice_and_vibrate_miui">Reproduzir tom e vibrar duas vezes</string>
     <string name="call_waiting_tone_twice_only_miui">Reproduzir tom por duas vezes</string>
@@ -296,7 +293,7 @@
     <string name="cursorError">O cursor não está respondendo adequadamente.</string>
     <string name="custom_location_location_hint_miui">Nome</string>
     <string name="custom_location_location_no_item_miui">"Toque em 'Adicionar' abaixo para personalizar o local"</string>
-    <string name="custom_location_number_hint_miui">Código de area como 032, número de grupo como 32#####</string>
+    <string name="custom_location_number_hint_miui">Código de área como 032, número de grupo como 32#####</string>
     <string name="cw_title_miui">Chamada em espera</string>
     <string name="data_connected_change">Falha ao selecionar outra rede enquanto o serviço de dados estiver em uso. Desativar serviço atual e selecionar nova rede?</string>
     <string name="data_enable_summary">Ativar acesso a dados pela rede móvel</string>
@@ -305,9 +302,7 @@
     <string name="default_contacts_countrycode_hint_miui">Por exemplo: 55</string>
     <string name="default_contacts_countrycode_miui">Código de país padrão para contatos</string>
     <string name="default_contacts_countrycode_sum_miui">Define o código de país padrão para seus contatos: %s</string>
-    <string name="default_port">5060</string>
     <string name="default_preference_summary">&lt;Não definido></string>
-    <string name="default_transport">UDP</string>
     <string name="delete">Excluir</string>
     <string name="deleteAllSimEntries">Excluir contatos do SIM</string>
     <string name="deleteSimContacts">Excluindo contatos do SIM</string>
@@ -374,7 +369,6 @@
     <string name="dtmf_tones_title">Tons DTMF</string>
     <string name="dtmf_tones_title_miui">Tons DTMF</string>
     <string name="duringcall">Operação não permitida durante uma chamada</string>
-    <string name="ecm_exit_dialog">EcmExitDialog</string>
     <string name="editContact">Editar</string>
     <string name="edit_custom_location_title_miui">Customizar configurações regionais como número e operadoras</string>
     <string name="edit_fdn_contact">Editar o número de chamadas fixas</string>
@@ -394,8 +388,8 @@
     <string name="enable_disable_administrative">Administrativo</string>
     <string name="enable_disable_advertisements">Anúncios</string>
     <string name="enable_disable_atr">Relatórios de trânsito da área</string>
-    <string name="enable_disable_cell_bc_sms">SMS de difusão celular</string>
-    <string name="enable_disable_emergency_broadcast">Difusão de emergência</string>
+    <string name="enable_disable_cell_bc_sms">SMS de transmissão celular</string>
+    <string name="enable_disable_emergency_broadcast">Transmissão de emergência</string>
     <string name="enable_disable_eo">Oportunidades de emprego</string>
     <string name="enable_disable_international">Internacional</string>
     <string name="enable_disable_lafs">Programação de voos do aeroporto local</string>
@@ -503,7 +497,7 @@ Mudar para o novo provedor?"</string>
     <string name="incall_error_supp_service_switch">Não é possível alternar chamadas.</string>
     <string name="incall_error_supp_service_transfer">Não é possível transferir a chamada.</string>
     <string name="incall_error_supp_service_unknown">Serviço não suportado.</string>
-    <string name="incall_screen_background_summary_miui">"Utilizar wallpaper quando não houver avatar"</string>
+    <string name="incall_screen_background_summary_miui">"Utilizar plano de fundo quando não houver foto no contato"</string>
     <string name="incall_screen_background_title_miui">Fundo da tela de chamadas</string>
     <string name="incall_status_dialed_mmi">Iniciando sequência MMI…</string>
     <string name="information">Informação</string>
@@ -570,9 +564,9 @@ Mudar para o novo provedor?"</string>
     <string name="manage_fdn_list_sum_miui">Gerenciar lista de números</string>
     <string name="menu_add">Adicionar contato</string>
     <string name="menu_delete">Excluir contato</string>
-    <string name="menu_deselect_all">Desfazer selec.</string>
+    <string name="menu_deselect_all">Desfaz. sel.</string>
     <string name="menu_edit">Editar contato</string>
-    <string name="menu_select_all">Selecionar tudo</string>
+    <string name="menu_select_all">Selec. tudo</string>
     <string name="menu_select_title">%d selecionado(s)</string>
     <string name="messageCFB">Número quando ocupado</string>
     <string name="messageCFNRc">Número quando não acessível</string>
@@ -614,7 +608,7 @@ Mudar para o novo provedor?"</string>
     <string name="new_cards_available">Novo cartão disponível. Configure a operadora.</string>
     <string name="new_pin2_hint_miui">Novo PIN2</string>
     <string name="new_pin_hint_miui">Novo PIN</string>
-    <string name="next_miui">Próximo</string>
+    <string name="next_miui">Avançar</string>
     <string name="no_change">Nenhuma alteração foi feita.</string>
     <string name="no_internet_available">Antes de fazer uma chamada pela Internet, primeiro verifique a conexão com a Internet.</string>
     <string name="no_internet_available_title">Nenhuma conexão à internet</string>
@@ -862,7 +856,6 @@ A rede preferencial será utilizada."</string>
     <string name="respond_via_sms_confirmation_format">Mensagem enviada para %s.</string>
     <string name="respond_via_sms_custom_message">Escreva sua resposta...</string>
     <string name="respond_via_sms_edittext_dialog_title">Resposta rápida</string>
-    <string name="respond_via_sms_setting_summary"/>
     <string name="respond_via_sms_setting_title">Respostas rápidas</string>
     <string name="respond_via_sms_setting_title_2">Editar respostas rápidas</string>
     <string name="response_error">Resposta inesperada da rede.</string>
@@ -897,7 +890,6 @@ A rede preferencial será utilizada."</string>
     <string name="send_keepalive_title">Enviar sinal de atividade</string>
     <string name="separate_from_conference_miui">Chamada única</string>
     <string name="set_preferred_network_type_when_data_enabled_miui">Tipo preferido de operadora suportado somente com os dados móveis ativados</string>
-    <string name="set_primary">SetPrimary</string>
     <string name="set_primary_summary">Utilizado para chamadas de saída</string>
     <string name="set_primary_title">Def. como conta principal</string>
     <string name="set_smsc_address_error_miui">Falha ao definir o número do centro de mensagens, tente novamente mais tarde.</string>
@@ -922,8 +914,8 @@ A rede preferencial será utilizada."</string>
     <string name="simContacts_empty">Não há contatos no seu cartão SIM.</string>
     <string name="simContacts_emptyLoading">Lendo a partir do cartão SIM…</string>
     <string name="simContacts_title">Selecione os contatos a serem importados</string>
-    <string name="sim_contact_dropdown_menu_deselect_all_miui">Desfazer</string>
-    <string name="sim_contact_dropdown_menu_select_all_miui">Selecionar tudo</string>
+    <string name="sim_contact_dropdown_menu_deselect_all_miui">Desfaz. sel.</string>
+    <string name="sim_contact_dropdown_menu_select_all_miui">Selec. tudo</string>
     <string name="sim_contact_name_miui">Nome</string>
     <string name="sim_contact_number_miui">Número</string>
     <string name="sim_contacts_title_miui">Contatos no cartão SIM</string>
@@ -1015,8 +1007,8 @@ A rede preferencial será utilizada."</string>
     <string name="technology_news_disable">Notícias de tecnologia desativadas</string>
     <string name="technology_news_enable">Notícias de tecnologia ativadas</string>
     <string name="telocation_setting_miui">Configuração de local</string>
-    <string name="telocation_setting_summary_countrycode_off">Não adic. código de país automat.</string>
-    <string name="telocation_setting_summary_countrycode_on">Adic. código de país automat.</string>
+    <string name="telocation_setting_summary_countrycode_off">Não adicionar código do país automaticamente</string>
+    <string name="telocation_setting_summary_countrycode_on">Adicionar código do país automaticamente</string>
     <string name="telocation_setting_summary_teloc_off">Ocultar local</string>
     <string name="telocation_setting_summary_teloc_on">Exibir local</string>
     <string name="telocation_show_settings_miui">Configuração de exibição</string>
@@ -1084,7 +1076,7 @@ Entre em contato com sua operadora se o problema persistir."</string>
     <string name="voicemail_number_not_set">&lt;Não definido></string>
     <string name="voicemail_provider">Serviço</string>
     <string name="voicemail_provider_miui">Serviço de correio de voz</string>
-    <string name="voicemail_provider_sum_miui">Escolha serv. de correio de voz</string>
+    <string name="voicemail_provider_sum_miui">Escolher serviço de correio de voz</string>
     <string name="voicemail_settings">Configuração</string>
     <string name="voicemail_settings_for">Configurações para %s</string>
     <string name="voicemail_settings_miui">Configurações de correio de voz</string>
@@ -1105,5 +1097,4 @@ Entre em contato com sua operadora se o problema persistir."</string>
     <string name="xdivert_status">Status do X-Divert</string>
     <string name="xdivert_sub_absent">Ambas subscrições precisam estar ativadas para o uso do X-Divert</string>
     <string name="xdivert_summary">Configuração de CFNRc</string>
-    <string name="xdivert_title">X-Divert</string>
 </resources>

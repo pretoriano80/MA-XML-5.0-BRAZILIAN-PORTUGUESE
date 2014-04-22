@@ -85,14 +85,14 @@
     <string name="call_work">Ligar para trabalho</string>
     <string name="call_work_mobile">Ligar para celular comercial</string>
     <string name="call_work_pager">Ligar para pager comercial</string>
-    <string name="calllog_menu_blacklist">Adic. à Lista negra</string>
+    <string name="calllog_menu_blacklist">Bloquear número</string>
     <string name="calllog_menu_edit_before_call">Editar antes de chamar</string>
     <string name="calllog_menu_send_sms">Enviar SMS</string>
     <string name="callrecordview_item_newcontact">Novo Contato</string>
-    <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d seg</string>
+    <string name="callrecordview_item_op_time_minutes_seconds">%1$d min. %2$d seg.</string>
     <string name="callrecordview_item_op_time_missed">Não atendida</string>
-    <string name="callrecordview_item_op_time_only_minutes">%d min</string>
-    <string name="callrecordview_item_op_time_only_seconds">%d seg</string>
+    <string name="callrecordview_item_op_time_only_minutes">%d min.</string>
+    <string name="callrecordview_item_op_time_only_seconds">%d seg.</string>
     <string name="callrecordview_item_op_time_rejected">Chamada rejeitada</string>
     <string name="callrecordview_item_op_time_short_incoming">"Recebida: "</string>
     <string name="callrecordview_item_op_time_short_outgoing">"Efetuada: "</string>
@@ -125,10 +125,10 @@
     <string name="cancel_import_confirmation_message">Cancelar a importação de %s?</string>
     <string name="cancel_import_dialog_message">Deseja realmente parar a importação dos contatos?</string>
     <string name="cancel_import_dialog_title">Parar importação</string>
-    <string name="cancel_vcard_import_or_export_failed">Impossível cancelar imp./export. vCard</string>
+    <string name="cancel_vcard_import_or_export_failed">Impossível cancelar importação/exportação de vCard</string>
     <string name="chat">Bater papo</string>
     <string name="chat_aim">Bater papo usando o AIM</string>
-    <string name="chat_gtalk">Bater papo usando o Google Talk</string>
+    <string name="chat_gtalk">Bater papo usando o Hangouts</string>
     <string name="chat_icq">Bater papo usando o ICQ</string>
     <string name="chat_jabber">Bater papo usando o Jabber</string>
     <string name="chat_msn">Bater papo usando o Windows Live</string>
@@ -269,7 +269,7 @@
     <string name="description_view_contact">Visualizar contato %1$s</string>
     <string name="description_view_contact_detail">Visualizar contato</string>
     <string name="description_voicemail_button">correio de voz</string>
-    <string name="deselect_all">Desfazer selec.</string>
+    <string name="deselect_all">Desfaz. sel.</string>
     <string name="device_bluetooth_title">preparando</string>
     <string name="device_brand_title">selecionar marca</string>
     <string name="device_import_account_dialog_title">Selecionar conta a importar</string>
@@ -327,8 +327,8 @@
     <string name="display_sim_contacts">Exibir contatos do SIM</string>
     <string name="display_ungrouped">Todos os outros contatos</string>
     <string name="display_warn_remove_ungrouped">A remoção de \"%s\" da sincronização também excluirá os contatos não agrupados da sincronização.</string>
-    <string name="dlg_add_blacklist">Você tem certeza que deseja adicionar este número da blacklist?</string>
-    <string name="dlg_remove_blacklist">Você tem certeza que deseja excluir este número da blacklist?</string>
+    <string name="dlg_add_blacklist">Você tem certeza que deseja adicionar este número na lista de bloqueio?</string>
+    <string name="dlg_remove_blacklist">Você tem certeza que deseja excluir este número da lista de bloqueio?</string>
     <string name="download_failed">Falha ao importar</string>
     <string name="download_preview_failed">Falha ao carregar visualização</string>
     <string name="duplicate_group_name">Este grupo já existe</string>
@@ -504,7 +504,7 @@ Motivo: \"%s\""</string>
     <string name="meid_invalid">MEID inválido</string>
     <string name="menu_accounts">Contas</string>
     <string name="menu_addStar">Adicionar aos favoritos</string>
-    <string name="menu_bar_group_add">Adic.</string>
+    <string name="menu_bar_group_add">Adicionar</string>
     <string name="menu_bar_group_delete">Excluir</string>
     <string name="menu_bar_group_rename">Renomear</string>
     <string name="menu_bar_group_ringtone">Toque do Grupo</string>
@@ -536,12 +536,12 @@ Motivo: \"%s\""</string>
     <string name="menu_new_contact_action_bar">Adicionar contato</string>
     <string name="menu_new_favorite_action_bar">Novo</string>
     <string name="menu_new_group_action_bar">Adicionar grupo</string>
-    <string name="menu_not_redirect_calls_to_vm">Correio de voz sem uso</string>
-    <string name="menu_redirect_calls_to_vm">Todas as cham. p/ correio voz</string>
+    <string name="menu_not_redirect_calls_to_vm">Liberar recebimento de chamadas</string>
+    <string name="menu_redirect_calls_to_vm">Desviar p/ correio de voz</string>
     <string name="menu_removeStar">Excluir dos favoritos</string>
     <string name="menu_search">Pesquisar</string>
-    <string name="menu_select_all">Selecionar todos</string>
-    <string name="menu_select_none">Desmarcar todos</string>
+    <string name="menu_select_all">Selec. tudo</string>
+    <string name="menu_select_none">Desfaz. sel.</string>
     <string name="menu_sendSMS">Enviar SMS/MMS para o contato</string>
     <string name="menu_sendTextMessage">Enviar SMS</string>
     <string name="menu_set_ring_tone">Definir toque</string>
@@ -570,7 +570,7 @@ Motivo: \"%s\""</string>
     <string name="name_phonetic_middle">Nome do meio fonético</string>
     <string name="name_prefix">Prefixo do nome</string>
     <string name="name_suffix">Sufixo do nome</string>
-    <string name="next">avançar</string>
+    <string name="next">Avançar</string>
     <string name="next_birthday">Próximo aniversário: %s</string>
     <string name="nfc_vcard_file_name">Contato via NFC</string>
     <string name="nicknameLabelsGroup">Apelido</string>
@@ -969,7 +969,7 @@ Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>"
     <string name="search_results_searching">Pesquisando...</string>
     <string name="search_settings_description">Nomes dos seus contatos</string>
     <string name="searching_vcard_message">Procurando dados do vCard no armazenamento...</string>
-    <string name="select_all">Selec. todos</string>
+    <string name="select_all">Selec. tudo</string>
     <string name="select_device">Selecionar telefone a conectar</string>
     <string name="select_groups">Selecionar grupos</string>
     <string name="select_new_photo_from_photo_package">Selecionar nova foto do pacote de fotos</string>
@@ -1000,8 +1000,8 @@ Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>"
     <string name="sim_capacity_content" formatted="false">Capacidade total %d | %d usado</string>
     <string name="sim_card_no_free_space_message">Sem espaço suficiente: seu cartão SIM está cheio</string>
     <string name="sim_card_no_free_space_title">Cartão SIM cheio</string>
-    <string name="sim_contact_dropdown_menu_deselect_all_miui">Sel. nenhum</string>
-    <string name="sim_contact_dropdown_menu_select_all_miui">Selecionar todos</string>
+    <string name="sim_contact_dropdown_menu_deselect_all_miui">Desfaz. sel.</string>
+    <string name="sim_contact_dropdown_menu_select_all_miui">Selec. tudo</string>
     <string name="sim_contact_existing">Este contato já existe</string>
     <string name="sim_contact_invalid">Contato do SIM inválido</string>
     <string name="sim_contact_number_missing">Número do contato do SIM ausente.</string>
@@ -1101,7 +1101,7 @@ Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>"
 O processo de atualização requer aproximadamente %s MB de armazenamento interno.
 
 Escolha uma das seguintes opções:"</string>
-    <string name="upgrade_out_of_memory_retry">Tentar atualizar novamente</string>
+    <string name="upgrade_out_of_memory_retry">Repetir</string>
     <string name="upgrade_out_of_memory_uninstall">Desinstalar alguns aplicativos</string>
     <string name="use_photo_as_primary">Usar esta foto</string>
     <string name="use_photo_as_primary2">Utilizar foto de contato de %s</string>

@@ -2,7 +2,7 @@
 <resources>
     <string name="activity_not_found">Impossível abrir anexo, aplicativo não encontrado.</string>
     <string name="activity_not_found_uri">Impossível encontrar aplicativo correspondente</string>
-    <string name="addBlackList">Adic. à Lista Negra</string>
+    <string name="addBlackList">Bloquear</string>
     <string name="add_attachment">Anexar</string>
     <string name="add_bookmark">Favoritos</string>
     <string name="add_contact">Adicionar Contato</string>
@@ -54,7 +54,7 @@
     <string name="close">Fechar</string>
     <string name="compressing">Imagem muito grande. Comprimindo...</string>
     <string name="confirm">Confirmar</string>
-    <string name="confirm_add_blacklist_dialog_dspt">Adicionar este número à blacklist?</string>
+    <string name="confirm_add_blacklist_dialog_dspt">Adicionar este número à lista de bloqueio?</string>
     <string name="confirm_delete_SIM_message">Deseja excluir esta mensagem do cartão SIM?</string>
     <string name="confirm_delete_all_SIM_messages">Deseja excluir todas as mensagens do cartão SIM?</string>
     <string name="confirm_delete_all_conversations">Deseja excluir todas as conversas?</string>
@@ -127,7 +127,7 @@
     <string name="enter_edit_mode">Editar</string>
     <string name="error_code_label">"Código do erro: "</string>
     <string name="error_state">Estado inconsistente</string>
-    <string name="error_state_text">O estado das conversas e dos destinatários está inconsistente. Capture um relatório de bug e envie-o para http://go/droidanizer</string>
+    <string name="error_state_text">O estado das conversas e dos destinatários está inconsistente. Capture um relatório de erros e envie-o para http://go/droidanizer</string>
     <string name="error_timed_msg">Impossível programar para um horário anterior</string>
     <string name="ex_type_mx">Mensagem na nuvem</string>
     <string name="ex_type_sms">SMS</string>
@@ -137,7 +137,7 @@
     <string name="failed_to_add_media">Você não pode adicionar este %1$s a sua mensagem.</string>
     <string name="failed_to_resize_image">Imagem não redimensionada.</string>
     <string name="fdn_check_failure">Você só pode enviar mensagens para números de discagem fixa (FDN).</string>
-    <string name="feedback_description_hint">Por favor insira seu feedback aqui</string>
+    <string name="feedback_description_hint">Por favor insira seu comentário aqui</string>
     <string name="feedback_submit">Enviar</string>
     <string name="festival">Recomendado</string>
     <string name="festival_sms_category_count_format">(%s)</string>
@@ -274,7 +274,7 @@
     <string name="pref_collapse_sp_messages_summary">Combinar mensagens de serviço na mesma conversa</string>
     <string name="pref_edit_smsc_address">Centro de mensagens</string>
     <string name="pref_forward_title">Encaminhas</string>
-    <string name="pref_key_mx_feedback">Enviar feedback</string>
+    <string name="pref_key_mx_feedback">Enviar comentário</string>
     <string name="pref_messages_to_save">Definir número de mensagens a serem salvas</string>
     <string name="pref_mms_settings_title">Mensagens multimídia (MMS)</string>
     <string name="pref_notification_settings_title">Notificações</string>
@@ -288,13 +288,13 @@
     <string name="pref_summary_mms_auto_retrieval">Recupera mensagens automaticamente</string>
     <string name="pref_summary_mms_read_reports">Solicita um relatório de leitura para cada mensagem enviada</string>
     <string name="pref_summary_mms_retrieval_during_roaming">Recupera mensagens automaticamente em roaming</string>
-    <string name="pref_summary_mx_feedback">"Ajude-nos a melhorar a MIUI! Relate problemas e envie feedbacks diretamente para a Xiaomi.</string>
+    <string name="pref_summary_mx_feedback">"Ajude-nos a melhorar a MIUI! Relate problemas e envie comentários diretamente para a Xiaomi.</string>
     <string name="pref_summary_new_message_popup">Receber automaticamente uma janela pop-up com mensagens de informação</string>
     <string name="pref_summary_new_message_popup_when_secure">A janela pop-up é desativada quando o dispositivo for protegido por senha</string>
     <string name="pref_summary_notification_body_enabled">Visualizar mensagens na tela de bloqueio e na barra de notificação</string>
     <string name="pref_summary_notification_body_enabled_when_secure">Visualização de mensagens desabilitada quando o acesso for restrito</string>
-    <string name="pref_summary_off_system_mms_priority">Outro app poderá receber broadcasts de MMS antes do aplicativo de sistema</string>
-    <string name="pref_summary_on_system_mms_priority">Aplicativos de MMS do sistema têm prioridade de broadcast</string>
+    <string name="pref_summary_off_system_mms_priority">Outro aplicativo poderá receber transmissões de MMS antes do aplicativo de sistema</string>
+    <string name="pref_summary_on_system_mms_priority">Aplicativos de MMS do sistema têm prioridade de transmissão</string>
     <string name="pref_summary_show_recent_contacts">Exibe uma lista de contatos recentes ao compor uma nova mensagem</string>
     <string name="pref_summary_wake_up_screen">Ligar a tela quando você receber novas informações</string>
     <string name="pref_system_title">Sistema</string>
@@ -308,7 +308,7 @@
     <string name="pref_title_manage_sim_messages">Gerenciar mensagens do SIM</string>
     <string name="pref_title_miui_card">Enviar via MIUICard</string>
     <string name="pref_title_mms_auto_retrieval">Recuperação automática</string>
-    <string name="pref_title_mms_delete">Limite de mens. multimídia</string>
+    <string name="pref_title_mms_delete">Limite de MMS</string>
     <string name="pref_title_mms_read_reports">Relatórios de leitura</string>
     <string name="pref_title_mms_retrieval_during_roaming">Recuperar em roaming</string>
     <string name="pref_title_new_message_popup">Pop-up de informações</string>
@@ -431,7 +431,7 @@
     <string name="storage_limits_setting_dismiss">Sem limite</string>
     <string name="subject_hint">Assunto</string>
     <string name="subject_label">"Assunto: "</string>
-    <string name="text_in_popup_saved_to_clipboard">O texto editado no popup foi salvo na área de transferência</string>
+    <string name="text_in_popup_saved_to_clipboard">O texto editado no pop-up foi salvo na área de transferência</string>
     <string name="text_message">Mensagem de texto</string>
     <string name="timed_message_expired_title">%d mensagem(ns) programada(s) não enviada(s)</string>
     <string name="timed_message_expired_title_2">Enviar agora?</string>
@@ -444,10 +444,10 @@
     <string name="to_count">Total de %d pessoas</string>
     <string name="to_label">"Para "</string>
     <string name="to_send_wrapper">Enviar às %s</string>
-    <string name="toast_description_required">É necessário escrever um feedback para ser enviado</string>
-    <string name="toast_feedback_finish">Seu feedback será enviado automaticamente quando você conectar-se a uma rede Wi-Fi</string>
-    <string name="toast_feedback_max">Somente três feedbacks podem ser enviados por dia</string>
-    <string name="toast_feedback_start">Enviando dados de feedback...</string>
+    <string name="toast_description_required">É necessário escrever um comentário para ser enviado</string>
+    <string name="toast_feedback_finish">Seu comentário será enviado automaticamente quando você conectar-se a uma rede Wi-Fi</string>
+    <string name="toast_feedback_max">Somente três comentários podem ser enviados por dia</string>
+    <string name="toast_feedback_start">Enviando comentário...</string>
     <string name="too_many_attachments">Há um limite de %1$s anexos. Apenas o primeiro %2$s será adicionado.</string>
     <string name="too_many_recipients">A mensagem tem muitos destinatários (%1$s). Há um limite de %2$s destinatários.</string>
     <string name="too_many_unsent_mms">Não é possível enviar a mensagem no momento. Há muitas mensagens multimídia não enviadas.</string>

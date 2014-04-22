@@ -337,7 +337,7 @@
     <string name="fetching_attachment">Buscando anexo</string>
     <string name="file_deleted_success">Arquivo excluído com sucesso</string>
     <string name="file_not_found">Arquivo não encontrado no servidor</string>
-    <string name="file_not_found_reDownload">Arquivo não encontradoo, efetue o download novamente.</string>
+    <string name="file_not_found_reDownload">Arquivo não encontrado, efetue o download novamente.</string>
     <string name="file_rar_not_support">O arquivo selecionado não pode ser aberto.</string>
     <string name="filtered_tag">[%1$s]%2$s</string>
     <string name="folder_icon_desc">Ícone de pasta</string>
@@ -432,9 +432,9 @@
     <string name="menu_manage_folders">Configurações de pastas</string>
     <string name="menu_move_to">Mover para</string>
     <string name="menu_move_to_inbox">Mover para a Caixa de entrada</string>
-    <string name="menu_photo_save_all">Salvar td.</string>
-    <string name="menu_photo_share">Compart.</string>
-    <string name="menu_photo_share_all">Comp. td.</string>
+    <string name="menu_photo_save_all">Salvar tudo</string>
+    <string name="menu_photo_share">Compartilhar</string>
+    <string name="menu_photo_share_all">Comp. tudo</string>
     <string name="menu_search">Pesquisar</string>
     <string name="menu_settings">Configurações</string>
     <string name="menu_show_original">Reverter dimens. automát.</string>
@@ -515,7 +515,7 @@ Cc: %4$s
     <string name="please_fill_in_your_mailbox_information2">Por favor preencha as informações de sua conta de e-mail:</string>
     <string name="please_wait">Aguarde…</string>
     <string name="policy_app_blacklist">Desautorizar aplicativos especificados</string>
-    <string name="policy_app_whitelist">Permitir somente aplic. especificados</string>
+    <string name="policy_app_whitelist">Permitir somente aplicativos especificados</string>
     <string name="policy_bluetooth_restricted">Restringir o uso de Bluetooth</string>
     <string name="policy_calendar_age">Limitar o número de eventos da agenda sincronizados</string>
     <string name="policy_dont_allow_attachments">Não permitir anexos</string>
@@ -523,21 +523,21 @@ Cc: %4$s
     <string name="policy_dont_allow_camera">Não permitir o uso da câmera do dispositivo</string>
     <string name="policy_dont_allow_consumer_email">Não permitir e-mail do consumidor</string>
     <string name="policy_dont_allow_html">Não permitir e-mail em HTML</string>
-    <string name="policy_dont_allow_internet_sharing">Não permitir compart. pela Internet</string>
-    <string name="policy_dont_allow_irda">Não permitir comunic. via infravermelho</string>
+    <string name="policy_dont_allow_internet_sharing">Não permitir compartilhamento pela Internet</string>
+    <string name="policy_dont_allow_irda">Não permitir comunicação via infravermelho</string>
     <string name="policy_dont_allow_pop_imap">Não permitir contas POP3 ou IMAP</string>
     <string name="policy_dont_allow_storage_cards">Não permitir cartões de armazenamento</string>
     <string name="policy_dont_allow_text_messaging">Não permitir mensagens de texto</string>
     <string name="policy_dont_allow_unsigned_apps">Não permitir aplicativos não assinados</string>
-    <string name="policy_dont_allow_unsigned_installers">Não permitir instal. aplic. não assinado</string>
+    <string name="policy_dont_allow_unsigned_installers">Não permitir instalação de aplicativo não assinado</string>
     <string name="policy_dont_allow_wifi">Não permitir Wi-FI</string>
     <string name="policy_email_age">Limitar o número de e-mails sincronizados</string>
     <string name="policy_html_truncation">Restringir tamanho do e-mail em HTML</string>
     <string name="policy_max_attachment_size">Restringir tamanho do anexo</string>
     <string name="policy_password_expiration">Exigir expiração de senhas</string>
-    <string name="policy_password_history">Restringir a reutilização de senhas antigass</string>
+    <string name="policy_password_history">Restringir a reutilização de senhas antigas</string>
     <string name="policy_require_encryption">Exigir criptografia do dispositivo</string>
-    <string name="policy_require_manual_sync_roaming">Permitir sinc. manual somente em roaming</string>
+    <string name="policy_require_manual_sync_roaming">Permitir sincronização manual somente em roaming</string>
     <string name="policy_require_password">Exigir senha no dispositivo</string>
     <string name="policy_require_sd_encryption">Exigir criptografia do cartão SD</string>
     <string name="policy_require_smime">Exigir mensagens em SMIME</string>
@@ -558,7 +558,7 @@ Cc: %4$s
     <string name="preferences_signature_summary_not_set">Não definida</string>
     <string name="preferences_signature_title">Assinatura</string>
     <string name="preview_attachment">Visualizar</string>
-    <string name="previous_action">Anterior</string>
+    <string name="previous_action">Voltar</string>
     <string name="prompt_title">Prompt</string>
     <string name="protocol">Protocolo</string>
     <string name="provider_note_live">Somente algumas contas \"Plus\" incluem o acesso POP permitindo que este programa seja conectado. Se não for possível fazer login com seu endereço de e-mail e senha corretos, você talvez não tenha uma conta \"Plus\" paga. Inicie o navegador da web para acessar essas contas de e-mail.</string>
@@ -571,7 +571,7 @@ Cc: %4$s
     <string name="quick_responses_empty_view">Nenhuma resposta rápida.</string>
     <string name="quote_begin">&lt;div class=\"quote\"></string>
     <string name="quoted_text">Incluir texto das mensagens anteriores</string>
-    <string name="quoted_text_label">Texto mensag. anteriores</string>
+    <string name="quoted_text_label">Textos anteriores</string>
     <string name="read_string">conversa lida</string>
     <string name="recent_folders_heading">Pastas recentes</string>
     <string name="recipient_error_dialog_title">Erro de destinatário</string>
@@ -594,7 +594,7 @@ Cc: %4$s
     <string name="require_manual_sync_message">A sincronização em segundo plano para essa conta é desativada durante o roaming.</string>
     <string name="respond_inline">Responder em linha</string>
     <string name="resume_draft">Editar</string>
-    <string name="retry">Tentar novamente</string>
+    <string name="retry">Repetir</string>
     <string name="save_action">Salvar</string>
     <string name="save_attachment">Salvar</string>
     <string name="save_draft">Salvar rascunho</string>
@@ -640,8 +640,8 @@ Cc: %4$s
     <string name="sort_attachment">Ordenar por</string>
     <string name="status_network_error">Problema na conexão.</string>
     <string name="storage">Armazenamento</string>
-    <string name="str_select_all">Selecionar tudo</string>
-    <string name="str_select_none">Desfazer seleção</string>
+    <string name="str_select_all">Selec. tudo</string>
+    <string name="str_select_none">Desfaz. sel.</string>
     <string name="subject_and_snippet" formatted="false">%s — %s</string>
     <string name="subject_hint">Assunto</string>
     <string name="swipe_down_to_refresh">Deslize para baixo para atualizar</string>
@@ -684,7 +684,7 @@ Cc: %4$s
     <string name="wait_for_manual_sync_body">"Esta conta não está configurada para sincronizar automaticamente.
 Toque em "<b>Sincronizar agora</b> para sincronizar os e-mails uma vez ou em <b>Alterar configurações de sincronização</b> para configurar a sincronização automática de e-mails desta conta.</string>
     <string name="wait_for_sync_body">Seu e-mail será exibido em breve.</string>
-    <string name="wait_for_sync_body_2">O servidor do Exchange irá notificá-lo dentrod e 30 segundos para confirmar as configurações de segurança e ativar a conta.</string>
+    <string name="wait_for_sync_body_2">O servidor do Exchange irá notificá-lo dentro de 30 segundos para confirmar as configurações de segurança e ativar a conta.</string>
     <string name="wait_for_sync_title">Aguardando sincronização</string>
     <string name="widget_all_mail">Todos os e-mails</string>
     <string name="widget_other_views">Outros</string>

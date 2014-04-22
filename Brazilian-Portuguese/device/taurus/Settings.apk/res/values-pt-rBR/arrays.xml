@@ -279,13 +279,13 @@
         <item>Escala de animação 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Escala de animação off</item>
+        <item>Escala de animação .5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1.5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite padrão</item>
@@ -438,7 +438,7 @@
         <item>"Para Windows XP e versões mais antigas,
 o driver precisa ser instalado manualmente"</item>
         <item>"Para Windows Vista e versões mais recentes,
-o Music Player do MI 3 aparecerá em seu computador"</item>
+o Music Player do Telefone Xiaomi aparecerá em seu computador"</item>
         <item>"Para o MAC OS,
 o software do driver precisa ser instalado manualmente"</item>
         <item></item>
@@ -453,7 +453,7 @@ Abra e selecione o arquivo AndroidFileTransfer.dmg para instalar."</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_step_2_summary">
-        <item>"2.O Cartão SD do MI 3 aparecerá em seu computador.
+        <item>"2.O Cartão SD do Telefone Xiaomi aparecerá em seu computador.
 Você pode transferir arquivos agora."</item>
         <item></item>
         <item>Transfira arquivos da mesma forma que o faz em pen drives.</item>
@@ -461,9 +461,9 @@ Você pode transferir arquivos agora."</item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
         <item>"Se você instalar este driver
-o armazenamento do MI 3 aparecerá em seu computador"</item>
+o armazenamento do Telefone Xiaomi aparecerá em seu computador"</item>
         <item>"Para Windows Vista e versões mais recentes,
-o Music Player do MI 3 aparecerá em seu computador"</item>
+o Music Player do Telefone Xiaomi aparecerá em seu computador"</item>
         <item>"Se você instalar este driver
 O computador abrirá automaticamente o telefone e lerá seus dados"</item>
         <item/>

@@ -16,7 +16,7 @@
     <string name="notification_need_wifi_for_size">O tamanho do download requer Wi-Fi.</string>
     <string name="notification_paused_in_background">Paus. em segundo plano.</string>
     <string name="permdesc_accessAllDownloads">Permite que o aplicativo visualize e modifique todos os downloads iniciados por qualquer aplicativo no sistema.</string>
-    <string name="permdesc_downloadCacheNonPurgeable">Permite que o aplic. faça download de arquivos no cache de downloads, que não podem ser excl. automatic. quando o gerenc. de download precisar de mais espaço.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Permite que o aplicativo faça download de arquivos no cache de downloads, que não podem ser excluídos automaticamente quando o gerenciador de download precisar de mais espaço.</string>
     <string name="permdesc_downloadCompletedIntent">Permite que o aplicativo envie notificações sobre downloads concluídos. Aplicativos maliciosos podem usar esse envio para confundir outros aplicativos que fazem download de arquivos.</string>
     <string name="permdesc_downloadManager">Permite que o aplicativo acesse o gerenciador de download e o use para fazer download de arquivos. Aplicativos maliciosos podem usar essa ação para interromper downloads e acessar informações privadas.</string>
     <string name="permdesc_downloadManagerAdvanced">Permite que o aplicativo acesse funções avançadas do gerenciador de download. Aplicativos maliciosos podem usar essa ação para interromper downloads e acessar informações privadas.</string>

@@ -300,7 +300,7 @@ usando %s"</string>
     <string name="faceunlock_multiple_failures">O número máximo de tentativas de Desbloqueio por reconhecimento facial foi excedido</string>
     <string name="factorytest_failed">Falha no teste de fábrica</string>
     <string name="factorytest_no_action">Nenhum pacote que forneça a ação FACTORY_TEST foi encontrado.</string>
-    <string name="factorytest_not_system">A ação FACTORY_TEST é suportada apenas para pacotes instalados em /system/app.</string>
+    <string name="factorytest_not_system">A ação FACTORY_TEST é suportada apenas para pacotes instalados em /system/aplicativo.</string>
     <string name="factorytest_reboot">Reiniciar</string>
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
@@ -387,7 +387,7 @@ usando %s"</string>
     <string name="ime_action_done">Concluído</string>
     <string name="ime_action_go">Ir</string>
     <string name="ime_action_next">Avançar</string>
-    <string name="ime_action_previous">Anter.</string>
+    <string name="ime_action_previous">Voltar</string>
     <string name="ime_action_search">Pesquisar</string>
     <string name="ime_action_send">Enviar</string>
     <string name="imei">IMEI</string>
@@ -455,7 +455,7 @@ Tem certeza de que deseja sair desta página?"</string>
 
  Tente novamente em %d segundos."</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Você desenhou seu padrão de desbloqueio incorretamente %d vezes. Após %d tentativas sem sucesso, todos os dados deste telefone serão perdidos.</string>
-    <string name="kg_failed_attempts_now_wiping">Você tentou desbloquear este telefone incorretamente %d vezes. O telefone será restaurado para suas configurações de vábrica.</string>
+    <string name="kg_failed_attempts_now_wiping">Você tentou desbloquear este telefone incorretamente %d vezes. O telefone será restaurado para suas configurações de fábrica.</string>
     <string name="kg_forgot_pattern_button_text">Esqueci a senha</string>
     <string name="kg_invalid_confirm_pin_hint">Códigos PIN não conferem</string>
     <string name="kg_invalid_puk">Re-insira o código PUK. Tentativas repetidas irão desativar completamente o cartão SIM.</string>
@@ -550,7 +550,7 @@ Entre em contato com seu provedor de serviços sem fio para obter outro cartão 
     <string name="lockscreen_sim_error_message">Cartão SIM inválido.</string>
     <string name="lockscreen_sim_error_message_short">SIM inválido.</string>
     <string name="lockscreen_sim_locked_message">O cartão SIM está bloqueado.</string>
-    <string name="lockscreen_sim_puk_locked_instructions">"PIN 1 Bloqueado. Insire PUK1.
+    <string name="lockscreen_sim_puk_locked_instructions">"PIN 1 Bloqueado. Insira o PUK1.
 ou
 Consulte o Guia do usuário ou entre em contato com o Serviço de atendimento ao cliente."</string>
     <string name="lockscreen_sim_puk_locked_message">O cartão SIM está bloqueado pelo PUK.</string>
@@ -610,7 +610,7 @@ Tente novamente em %d segundos."</string>
     <string name="msim_carrier_text_format" formatted="false">%s, %s</string>
     <string name="msim_kg_sim_pin_msg_format" formatted="false">SUB:%d : %s.</string>
     <string name="needPuk">Seu cartão SIM está bloqueado pelo código PUK. Insira o código PUK para desbloqueá-lo.</string>
-    <string name="needPuk2">Disite o PUK2 para desbloquear o cartão SIM.</string>
+    <string name="needPuk2">Digite o PUK2 para desbloquear o cartão SIM.</string>
     <string name="network_available_sign_in">Conectar-se à rede</string>
     <string name="network_available_sign_in_detailed">%1$s</string>
     <string name="new_app_action">Iniciar %1$s</string>
@@ -684,7 +684,7 @@ Tente novamente em %d segundos."</string>
     <string name="permdesc_bindDeviceAdmin">Permite que o proprietário envie tentativas ao administrador de um aparelho. Nunca deve ser necessário para aplicativos normais.</string>
     <string name="permdesc_bindGadget">Permite que o aplicativo informe ao sistema quais widgets podem ser usados ​​por qualquer aplicativo. Um aplicativo com essa permissão podem conceder acesso a dados pessoais para outros aplicativos. Não deve ser usado em aplicativos normais.</string>
     <string name="permdesc_bindInputMethod">Permite que o usuário vincule uma interface superior de um método de entrada. Nunca será necessário para aplicativos normais.</string>
-    <string name="permdesc_bindNotificationListenerService">Allows the holder to bind to the top-level interface of a notification listener service. Should never be needed for normal apps.</string>
+    <string name="permdesc_bindNotificationListenerService">Allows the holder to bind to the top-level interface of a notification listener service. Should never be needed for normal aplicativos.</string>
     <string name="permdesc_bindPackageVerifier">Permite que o titular solicite verificadores de pacote. Nunca deve ser necessário para aplicativos normais.</string>
     <string name="permdesc_bindRemoteViews">Permite que o proprietário utilize a interface de nível superior de um serviço de widget. Nunca deve ser necessário para aplicativos normais.</string>
     <string name="permdesc_bindTextService">Permite que o proprietário utilize interface de nível superior de um serviço de texto (por exemplo, SpellCheckerService). Nunca deve ser necessário para aplicativos normais.</string>
@@ -713,11 +713,11 @@ Tente novamente em %d segundos."</string>
     <string name="permdesc_checkinProperties">Concede ao aplicativo acesso de leitura/gravação às propriedades enviadas pelo serviço de check-in. Não deve ser usado em aplicativos normais.</string>
     <string name="permdesc_clearAppCache">Permite que o aplicativo libere o armazenamento do telefone excluindo arquivos nos diretórios de cache de outros aplicativos. Isso pode fazer com que outros aplicativos iniciem mais lentamente, pois precisam recuperar seus dados.</string>
     <string name="permdesc_clearAppUserData">Permite que o aplicativo limpe os dados do usuário.</string>
-    <string name="permdesc_configureWifiDisplay">Allows the app to configure and connect to Wifi displays.</string>
+    <string name="permdesc_configureWifiDisplay">Allows the aplicativo to configure and connect to Wifi displays.</string>
     <string name="permdesc_confirm_full_backup">Permite que o aplicativo lance a interface de usuário de confirmação de backup completo. Não deve ser usado por qualquer aplicativo.</string>
-    <string name="permdesc_controlWifiDisplay">Allows the app to control low-level features of Wifi displays.</string>
-    <string name="permdesc_copyProtectedData">Allows the app to invoke default container service to copy content. Not for use by normal apps.</string>
-    <string name="permdesc_createNetworkSockets">Allows the app to create network sockets and use custom network protocols. The browser and other applications provide means to send data to the internet, so this permission is not required to send data to the internet.</string>
+    <string name="permdesc_controlWifiDisplay">Allows the aplicativo to control low-level features of Wifi displays.</string>
+    <string name="permdesc_copyProtectedData">Allows the aplicativo to invoke default container service to copy content. Not for use by normal aplicativos.</string>
+    <string name="permdesc_createNetworkSockets">Allows the aplicativo to create network sockets and use custom network protocols. The browser and other applications provide means to send data to the internet, so this permission is not required to send data to the internet.</string>
     <string name="permdesc_deleteCacheFiles">Permite que o aplicativo exclua arquivos armazenados em cache.</string>
     <string name="permdesc_deletePackages">Permite que o aplicativo exclua pacotes Android. Aplicativos maliciosos podem usar esse recurso para excluir aplicativos importantes.</string>
     <string name="permdesc_devicePower">Permite que o aplicativo ative ou desative o telefone.</string>
@@ -727,13 +727,13 @@ Tente novamente em %d segundos."</string>
     <string name="permdesc_enableCarMode">Permite que o aplicativo ative o modo Carro.</string>
     <string name="permdesc_expandStatusBar">Permite que o aplicativo expanda ou recolha a barra de status.</string>
     <string name="permdesc_factoryTest">Executa como um teste do fabricante de nível inferior, permitindo o acesso completo ao hardware do telefone. Disponível apenas quando um telefone está em execução no modo de teste do fabricante.</string>
-    <string name="permdesc_filter_events">Allows an application to register an input filter which filters the stream of all user events before they are dispatched. Malicious app may control the system UI whtout user intervention.</string>
+    <string name="permdesc_filter_events">Allows an application to register an input filter which filters the stream of all user events before they are dispatched. Malicious aplicativo may control the system UI whtout user intervention.</string>
     <string name="permdesc_flashlight">Permite que o aplicativo controle a lanterna.</string>
     <string name="permdesc_forceBack">Permite que o aplicativo force o encerramento de qualquer atividade que está em primeiro plano e volte. Nunca deve ser necessário para aplicativos normais.</string>
-    <string name="permdesc_forceStopPackages">Allows the app to forcibly stop other apps.</string>
+    <string name="permdesc_forceStopPackages">Allows the aplicativo to forcibly stop other aplicativos.</string>
     <string name="permdesc_freezeScreen">Allows the application to temporarily freeze the screen for a full-screen transition.</string>
     <string name="permdesc_getAccounts">Permite que um aplicativo obtenha a lista de contas conhecidas pelo telefone.</string>
-    <string name="permdesc_getAppOpsStats">Allows the app to retrieve collected application operation statistics. Not for use by normal apps.</string>
+    <string name="permdesc_getAppOpsStats">Allows the aplicativo to retrieve collected application operation statistics. Not for use by normal aplicativos.</string>
     <string name="permdesc_getDetailedTasks">Permite que o aplicativo recupere informações detalhadas sobre tarefas executadas atual e recentemente. Aplicativos maliciosos podem descobrir informações privadas sobre outros aplicativos.</string>
     <string name="permdesc_getPackageSize">Permite que o aplicativo recupere o código, os dados e os tamanhos de cache</string>
     <string name="permdesc_getTasks">Permite que o aplicativo obtenha informações sobre tarefas em execução atuais e recentes. Pode permitir que o aplicativo descubra informações sobre os aplicativos usados ​​no dispositivo.</string>
@@ -743,17 +743,17 @@ Tente novamente em %d segundos."</string>
     <string name="permdesc_injectEvents">Permite que o aplicativo entregue seus próprios eventos de entrada (teclas pressionadas, etc,) para outros aplicativos. Aplicativos maliciosos podem usar esse recurso para assumir o controle do telefone.</string>
     <string name="permdesc_installLocationProvider">Criar fontes de localização simuladas para testar ou instalar um novo provedor de localização. Isso permite que o aplicativo substitua a localização e/ou o status retornado por outras fontes de localização, como o GPS ou provedores de localização.</string>
     <string name="permdesc_installPackages">Permite que o aplicativo instale pacotes novos ou atualizados do Android. Aplicativos maliciosos podem usar esse recurso para adicionar novos aplicativos com permissões arbitrariamente poderosas.</string>
-    <string name="permdesc_interactAcrossUsers">Allows the app to perform actions across different users on the device. Malicious apps may use this to violate the protection between users.</string>
+    <string name="permdesc_interactAcrossUsers">Allows the aplicativo to perform actions across different users on the device. Malicious aplicativos may use this to violate the protection between users.</string>
     <string name="permdesc_interactAcrossUsersFull">Allows all possible interactions across users.</string>
     <string name="permdesc_internalSystemWindow">Permite que o aplicativo crie janelas destinadas ao uso ​​pela interface interna do sistema. Não deve ser usado em aplicativos normais.</string>
     <string name="permdesc_killBackgroundProcesses">Permite que o aplicativo encerre processos em segundo plano de outros aplicativos. Pode ser que outros aplicativos parem de funcionar.</string>
     <string name="permdesc_locationUpdates">Permite que o aplicativo ative/desative as notificações de atualização de local do rádio. Não deve ser usado em aplicativos normais.</string>
-    <string name="permdesc_magnify_display">Allows an application to magnify the content of a display. Malicious apps may transform the display content in a way that renders the device unusable.</string>
+    <string name="permdesc_magnify_display">Allows an application to magnify the content of a display. Malicious aplicativos may transform the display content in a way that renders the device unusable.</string>
     <string name="permdesc_manageAccounts">Permite que um aplicativo execute operações como adição e remoção de contas e exclusão de senhas.</string>
     <string name="permdesc_manageAppTokens">Permite que o aplicativo crie e gerencie seus próprios tokens, ignorando seus pedidos Z normais. Nunca deve ser necessário para aplicativos normais.</string>
     <string name="permdesc_manageNetworkPolicy">Permite que o aplicativo gerencie políticas de rede e definia regras específicas para o aplicativo.</string>
     <string name="permdesc_manageUsb">Permite que o aplicativo gerencie as preferências e as permissões de aplicativos USB.</string>
-    <string name="permdesc_manageUsers">Allows apps to manage users on the device, including query, creation and deletion.</string>
+    <string name="permdesc_manageUsers">Allows aplicativos to manage users on the device, including query, creation and deletion.</string>
     <string name="permdesc_masterClear">Permite que o aplicativo redefina completamente o sistema para as configurações de fábrica, apagando todos os dados, as configuração e os aplicativos instalados.</string>
     <string name="permdesc_mediaStorageWrite">Permite que o aplicativo modifique o conteúdo da mídia de armazenamento interno.</string>
     <string name="permdesc_modifyAudioSettings">Permite que o aplicativo modifique configurações de áudio globais como volume e alto-falantes de saída.</string>
@@ -770,7 +770,7 @@ Tente novamente em %d segundos."</string>
     <string name="permdesc_processOutgoingCalls">Permite que o aplicativo processe as chamadas de saída e altere o número a ser discado. Esta permissão autoriza o aplicativo a monitorar, redirecionar ou evitar chamadas de saída.</string>
     <string name="permdesc_readCalendar">Permite que o aplicativo leia todos os eventos do calendário armazenados no telefone, incluindo os de amigos ou colegas de trabalho. Pode permitir que o aplicativo compartilhe ou salve os dados do calendário, independentemente de sua confidencialidade.</string>
     <string name="permdesc_readCallLog">Permite que um aplicativo leia seu registro de chamadas, incluindo dados sobre chamadas recebidas e efetuadas.</string>
-    <string name="permdesc_readCellBroadcasts">Permite o aplicativo para ler mensagens de broadcast quando uma mensagem emergencial é recebida..</string>
+    <string name="permdesc_readCellBroadcasts">Permite o aplicativo para ler mensagens de transmissão quando uma mensagem emergencial é recebida..</string>
     <string name="permdesc_readContacts">Permite que um aplicativo leia todos os dados de contato (endereço) armazenados no seu telefone. Aplicativos maliciosos podem usar isso para enviar os seus dados para outras pessoas.</string>
     <string name="permdesc_readDictionary">Permite que o aplicativo leia palavras, nomes e frases armazenados pelo usuário no dicionário do usuário.</string>
     <string name="permdesc_readFrameBuffer">Permite que o aplicativo leia o conteúdo do buffer de frame.</string>
@@ -794,13 +794,13 @@ Tente novamente em %d segundos."</string>
     <string name="permdesc_removeTasks">Permite que um aplicativo remova tarefas e elimine seus aplicativos. Aplicativos maliciosos podem interferir no comportamento de outros aplicativos.</string>
     <string name="permdesc_reorderTasks">Permite que o aplicativo mova tarefas para o primeiro plano e o plano de fundo, sem sua intervenção.</string>
     <string name="permdesc_retrieve_window_content">Permite que o aplicativo recupere o conteúdo da janela ativa. Aplicativos maliciosos podem recuperar o conteúdo da janela inteira e examinar todo o texto, exceto as senhas.</string>
-    <string name="permdesc_retrieve_window_info">Allows an application to retrieve information about the the windows from the window manager. Malicious apps may retrieve information that is intended for internal system usage.</string>
+    <string name="permdesc_retrieve_window_info">Allows an application to retrieve information about the the windows from the window manager. Malicious aplicativos may retrieve information that is intended for internal system usage.</string>
     <string name="permdesc_route_media_output">Permite que um aplicativo faça o roteamento de saída de mídia para outros dispositivos externos.</string>
     <string name="permdesc_runSetActivityWatcher">Permite que o aplicativo monitore e controle a forma como o sistema inicia atividades. Aplicativos maliciosos podem comprometer completamente o sistema. Esta permissão só é necessária para o desenvolvimento, nunca para o uso normal.</string>
-    <string name="permdesc_sdcardAccessAll">Allows the app to access external storage for all users.</string>
+    <string name="permdesc_sdcardAccessAll">Allows the aplicativo to access external storage for all users.</string>
     <string name="permdesc_sdcardRead">Permite que o aplicativo teste uma permissão para o cartão SD que estará disponível em dispositivos futuros.</string>
     <string name="permdesc_sdcardWrite">Permite gravar no cartão SD.</string>
-    <string name="permdesc_sendRespondViaMessageRequest">Allows the app to send requests to other messaging apps to handle respond-via-message events for incoming calls.</string>
+    <string name="permdesc_sendRespondViaMessageRequest">Allows the aplicativo to send requests to other messaging aplicativos to handle respond-via-message events for incoming calls.</string>
     <string name="permdesc_sendSms">Permite que o aplicativo envie mensagens SMS. Isso pode resultar em cobranças inesperadas. Aplicativos maliciosos podem gerar custos através do envio de mensagens sem sua confirmação.</string>
     <string name="permdesc_serialPort">Permite que o detentor tenha acesso a portas seriais usando a API SerialManager.</string>
     <string name="permdesc_setAlarm">Permite que o aplicativo defina um alarme em um aplicativo despertador instalado. Alguns aplicativos despertador podem não implementar este recurso.</string>
@@ -825,11 +825,11 @@ Tente novamente em %d segundos."</string>
     <string name="permdesc_stopAppSwitches">Impede que o usuário alterne para outro aplicativo.</string>
     <string name="permdesc_subscribedFeedsRead">Permite que o aplicativo obtenha detalhes sobre os feeds sincronizados no momento.</string>
     <string name="permdesc_subscribedFeedsWrite">Permite que o aplicativo modifique seus feeds sincronizados no momento. Aplicativos maliciosos podem alterar seus feeds sincronizados.</string>
-    <string name="permdesc_systemAlertWindow">Allows the app to draw on top of other applications or parts of the user interface. They may interfere with your use of the interface in any application, or change what you think you are seeing in other applications.</string>
-    <string name="permdesc_temporary_enable_accessibility">Allows an application to temporarily enable accessibility on the device. Malicious apps may enable accessibility without user consent.</string>
-    <string name="permdesc_transmitIr">"Allows the app to use the phone's infrared transmitter."</string>
-    <string name="permdesc_updateAppOpsStats">Allows the app to modify collected application operation statistics. Not for use by normal apps.</string>
-    <string name="permdesc_updateBatteryStats">Allows the app to modify collected battery statistics. Not for use by normal apps.</string>
+    <string name="permdesc_systemAlertWindow">Allows the aplicativo to draw on top of other applications or parts of the user interface. They may interfere with your use of the interface in any application, or change what you think you are seeing in other applications.</string>
+    <string name="permdesc_temporary_enable_accessibility">Allows an application to temporarily enable accessibility on the device. Malicious aplicativos may enable accessibility without user consent.</string>
+    <string name="permdesc_transmitIr">"Allows the aplicativo to use the phone's infrared transmitter."</string>
+    <string name="permdesc_updateAppOpsStats">Allows the aplicativo to modify collected application operation statistics. Not for use by normal aplicativos.</string>
+    <string name="permdesc_updateBatteryStats">Allows the aplicativo to modify collected battery statistics. Not for use by normal aplicativos.</string>
     <string name="permdesc_updateLock">Allows the holder to offer information to the system about when would be a good time for a noninteractive reboot to upgrade the device.</string>
     <string name="permdesc_useCredentials">Permite que o aplicativo solicite tokens de autenticação.</string>
     <string name="permdesc_use_sip">Permite que o aplicativo use o serviço SIP para fazer/receber chamadas pela Internet.</string>
@@ -991,11 +991,11 @@ para a conta %s."</string>
     <string name="permlab_forceStopPackages">força o interrompimento de outros aplicativos</string>
     <string name="permlab_freezeScreen">freeze screen</string>
     <string name="permlab_getAccounts">encontrar contas no dispositivo</string>
-    <string name="permlab_getAppOpsStats">retrieve app ops statistics</string>
+    <string name="permlab_getAppOpsStats">retrieve aplicativo ops statistics</string>
     <string name="permlab_getDetailedTasks">recuperar detalhes dos aplicativos em execução</string>
     <string name="permlab_getPackageSize">medir o espaço de armazenamento do aplicativo</string>
     <string name="permlab_getTasks">recuperar aplicativos em execução</string>
-    <string name="permlab_getTopActivityInfo">get current app info</string>
+    <string name="permlab_getTopActivityInfo">get current aplicativo info</string>
     <string name="permlab_grantRevokePermissions">conceder ou revogar permissões</string>
     <string name="permlab_hardware_test">testar hardware</string>
     <string name="permlab_injectEvents">pressionar as teclas e os botões de controle</string>
@@ -1086,7 +1086,7 @@ para a conta %s."</string>
     <string name="permlab_systemAlertWindow">sobrepor outros aplicativos</string>
     <string name="permlab_temporary_enable_accessibility">temporary enable accessibility</string>
     <string name="permlab_transmitIr">transmit infrared</string>
-    <string name="permlab_updateAppOpsStats">modify app ops statistics</string>
+    <string name="permlab_updateAppOpsStats">modify aplicativo ops statistics</string>
     <string name="permlab_updateBatteryStats">modify battery statistics</string>
     <string name="permlab_updateLock">impedir atualiz. autom. do dispositivo</string>
     <string name="permlab_useCredentials">usar contas no dispositivo</string>
@@ -1305,7 +1305,7 @@ Ruídos com volume muito alto por longos períodos podem danificar sua audição
     <string name="sms_short_code_confirm_never_allow">Negar sempre</string>
     <string name="sms_short_code_details">Isto <font fgcolor="#ffffb060">poderá gerar cobranças</font> de sua operadora.</string>
     <string name="sms_short_code_remember_choice">Lembrar escolha</string>
-    <string name="sms_short_code_remember_undo_instruction">Você pode alterar isto mais tarde em Configurações > Apps</string>
+    <string name="sms_short_code_remember_undo_instruction">Você pode alterar isto mais tarde em Configurações > Aplicativos</string>
     <string name="smv_application">O aplicativo %1$s, processo %2$s, violou a política StrictMode imposta automaticamente.</string>
     <string name="smv_process">O processo %1$s violou a política StrictMode imposta automaticamente.</string>
     <string name="ssl_certificate">Certificado de segurança</string>
@@ -1419,7 +1419,7 @@ Deseja fechá-la?"</string>
     <string name="wifi_available_sign_in">Fazer login na rede Wi-Fi</string>
     <string name="wifi_display_notification_disconnect">Desconectar</string>
     <string name="wifi_display_notification_message">Esta tela está sendo exibida em outro dispositivo</string>
-    <string name="wifi_display_notification_title">Wireless display conectado</string>
+    <string name="wifi_display_notification_title">Wi-Fi display conectado</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_enabled_notification_message">Tocar para acessar configurações</string>
     <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct ativado</string>
@@ -1435,7 +1435,7 @@ Deseja fechá-la?"</string>
     <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
     <string name="wifi_watchdog_network_disabled">Não foi possível se conectar a redes Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled_detailed">" tem uma conexão de baixa qualidade com a Internet."</string>
-    <string name="wireless_display_route_description">Wireless display</string>
+    <string name="wireless_display_route_description">Wi-Fi display</string>
     <string name="year">ano</string>
     <string name="years">anos</string>
     <string name="yes">OK</string>
