@@ -208,7 +208,6 @@ Disable floating windows?"</string>
     <string name="toast_garbage_cleanup_success">Limpeza concluída com sucesso</string>
     <string name="dialog_title_load_cleanup_engine_error">Erro</string>
     <string name="dialog_msg_load_cleanup_engine_error">O mecanismo de limpeza foi corrompido. É necessário efetuar a reinstalação de um pacote completo da ROM!</string>
-<item type="string" name="APKTOOL_DUMMY_00ce">false</item>
     <string name="opt_clean_garbage">%d MB liberados</string>
     <string name="opt_killed_process">%d processos finalizados</string>
     <string name="opt_freed_ram">%dMBs de memória liberada</string>
@@ -994,8 +993,6 @@ Be careful, granting root permission to third-party aplicativos may destabilize 
     <string name="virus_scan_unknown_virus_name">Desconhecido</string>
     <string name="virus_scan_is_cloud_scanning">Verificando a Mi Cloud…</string>
     <string name="virus_scan_clean_dialog_message">Limpando…</string>
-<string name="additional_system_update" />
-<string name="additional_system_update_menu" />
     <string name="input_method_selector_show_automatically_value">0</string>
     <string name="input_method_selector_always_show_value">1</string>
     <string name="input_method_selector_always_hide_value">2</string>
@@ -1510,14 +1507,12 @@ To resume using your phone, you need to perform a factory reset. When you set up
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-<string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">Nenhuma</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-<string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_connect">Conectar</string>
     <string name="wifi_failed_connect_message">Falha ao conectar à rede</string>
@@ -1598,7 +1593,6 @@ To resume using your phone, you need to perform a factory reset. When you set up
     <string name="display_settings_title">Tela</string>
     <string name="sound_settings">Som</string>
     <string name="ringtone_title">Toque do telefone</string>
-<string name="ringtone_summary" />
     <string name="all_volume_title">Volumes</string>
     <string name="musicfx_title">Efeitos sonoros</string>
     <string name="ring_volume_title">Volume da campainha</string>
@@ -2226,7 +2220,6 @@ Some aplicativos may not work until updated by their developers."</string>
     <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_stats_wake_lock_label">Ativo</string>
     <string name="battery_stats_phone_signal_label">Sinal da rede móvel</string>
-<string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
     <string name="awake">Tempo ativo do aparelho</string>
     <string name="wifi_on_time">Tempo de ativação da rede Wi-Fi</string>
     <string name="bluetooth_on_time">Tempo de ativação da rede Wi-Fi</string>
@@ -2871,7 +2864,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
     <string name="headset_no_contected">Nenhum fone de ouvido conectado</string>
     <string name="headset_calibrate_wrong_key">O botão pressionado está incorreto</string>
     <string name="sim_change_failed_enable_sim_lock">Impossível alterar PIN do SIM. Ative o bloqueio do SIM.</string>
-    <string name="sim_lock_change_not_supported">"Impossível alterar bloqueio do SIM.
+    <string name="sim_lock_change_not_supported">"Impossível alterar bloqueio do SIM.</string>
     <string name="apn_new">Novo ponto de acesso</string>
     <string name="apn_save">Salvar?</string>
     <string name="apn_save_msg">Salvar mudanças ao Ponto de Acesso?</string>
