@@ -51,7 +51,7 @@
     <string name="mi_wallpaper">Mi Wallpaper</string>
     <string name="online_no_network">Impossível conectar-se à rede</string>
     <string name="online_search_hint">Pesquisar recursos online</string>
-    <string name="payment_info">MiCredits</string>
+    <string name="payment_info">Mi Credits</string>
     <string name="purchased_list">Itens adquiridos</string>
     <string name="resource_account_abnormal_state">Erro na conta. Tente novamente mais tarde</string>
     <string name="resource_account_fail_to_add">Falha ao adicionar conta</string>

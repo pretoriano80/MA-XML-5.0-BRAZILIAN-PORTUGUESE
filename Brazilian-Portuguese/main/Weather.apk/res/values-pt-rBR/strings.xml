@@ -65,7 +65,7 @@
     <string name="format_date_week">EEE</string>
     <string name="format_date_wmd">d/M EEE</string>
     <string name="loading_weather">Carregando clima...</string>
-    <string name="local_city">Cidades locais</string>
+    <string name="local_city"/>
     <string name="location_allow_err">Falha ao localizar.</string>
     <string name="location_management">Locais</string>
     <string name="location_notification">Notificações de clima</string>

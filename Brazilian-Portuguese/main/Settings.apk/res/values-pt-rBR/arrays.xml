@@ -60,7 +60,7 @@
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 segundos</item>
-        <item>30 sgundos</item>
+        <item>30 segundos</item>
         <item>1 minuto</item>
         <item>2 minutos</item>
         <item>5 minutos</item>
@@ -98,12 +98,12 @@
         <item>Muito devagar</item>
         <item>Devagar</item>
         <item>Normal</item>
-        <item>Rápido</item>
-        <item>Mais rápido</item>
-        <item>Muito rápido</item>
-        <item>Rapidíssimo</item>
-        <item>Extremamente rápido</item>
-        <item>Máximo</item>
+        <item>Rápida</item>
+        <item>Mais rápida</item>
+        <item>Muito rápida</item>
+        <item>Rápida</item>
+        <item>Muito rápida</item>
+        <item>Máxima</item>
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Muito baixa</item>
@@ -113,42 +113,42 @@
         <item>Muito alta</item>
     </string-array>
     <string-array name="wifi_status">
-        <item/>
-        <item>Buscando…</item>
-        <item>Conectando…</item>
-        <item>Autenticando…</item>
+        <item></item>
+        <item>Procurando…</item>
+        <item>Conectando...</item>
+        <item>Autenticando...</item>
         <item>Obtendo endereço IP…</item>
         <item>Conectado</item>
         <item>Suspenso</item>
         <item>Desconectando…</item>
         <item>Desconectado</item>
-        <item>Falha na conexão</item>
+        <item>Falha</item>
         <item>Bloqueado</item>
-        <item>Conexão de qualidade baixa evitada</item>
+        <item>Temporariamente evitando uma conexão ruim</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
-        <item/>
-        <item>Buscando…</item>
-        <item>Conectando à rede %1$s…</item>
-        <item>Autenticando com %1$s…</item>
-        <item>Obtendo endereço IP de %1$s…</item>
-        <item>Conectado à rede %1$s</item>
+        <item></item>
+        <item>Procurando…</item>
+        <item>Conectando-se a %1$s…</item>
+        <item>Autenticando com a %1$s…</item>
+        <item>Obtendo endereço IP da %1$s…</item>
+        <item>Conectado a %1$s</item>
         <item>Suspenso</item>
-        <item>Desconectando da rede %1$s…</item>
+        <item>Desconectando da %1$s…</item>
         <item>Desconectado</item>
-        <item>Falha na conexão</item>
+        <item>Falha</item>
         <item>Bloqueado</item>
-        <item>Conexão de qualidade baixa evitada</item>
+        <item>Temporariamente evitando uma conexão ruim</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
-        <item>Pressionar botão WPS</item>
-        <item>PIN de outro dispositivo</item>
-        <item>PIN deste dispositivo</item>
+        <item>Pressione o botão</item>
+        <item>PIN do dispositivo pareado</item>
+        <item>PIN deste disposit.</item>
     </string-array>
     <string-array name="wifi_p2p_status">
         <item>Conectado</item>
         <item>Convidado</item>
-        <item>Falha na conexão</item>
+        <item>Malsucedida</item>
         <item>Disponível</item>
         <item>Fora de alcance</item>
     </string-array>
@@ -159,19 +159,19 @@
         <item>Nunca definir tempo limite</item>
     </string-array>
     <string-array name="wifi_signal">
-        <item>Fraco</item>
-        <item>Regular</item>
+        <item>Ruim</item>
+        <item>Bom</item>
         <item>Bom</item>
         <item>Excelente</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
         <item>Sempre</item>
-        <item>Somente quando carregando</item>
-        <item>Nunca (aumenta consumo de dados)</item>
+        <item>Somente quando conectado</item>
+        <item>Nunca (aumenta o uso de dados)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Sempre</item>
-        <item>Somente quando carregando</item>
+        <item>Somente quando conectado</item>
         <item>Nunca</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
@@ -181,8 +181,8 @@
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Tempo de uso</item>
-        <item>Contagem de inícios</item>
-        <item>Nome do app</item>
+        <item>Iniciar contagem</item>
+        <item>Nome do aplicativo</item>
     </string-array>
     <string-array name="wifi_eap_entries">
         <item>PEAP</item>
@@ -211,12 +211,12 @@
         <item>Manual</item>
     </string-array>
     <string-array name="emergency_tone_entries">
-        <item>Off</item>
+        <item>Desativado</item>
         <item>Alerta</item>
         <item>Vibrar</item>
     </string-array>
     <string-array name="apn_auth_entries">
-        <item>Nenhuma</item>
+        <item>Nenhum</item>
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP ou CHAP</item>
@@ -238,7 +238,7 @@
         <item>GID</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Armazenamento interno</item>
+        <item>Armazenamento do dispositivo interno</item>
         <item>Cartão SD removível</item>
         <item>Deixar o sistema decidir</item>
     </string-array>
@@ -263,23 +263,23 @@
         <item>Postar notificação</item>
         <item>Local</item>
         <item>Chamar telefone</item>
+        <item>Ler SMS/MMS</item>
+        <item>Escrever SMS/MMS</item>
+        <item>Receber SMS/MMS</item>
+        <item>Receber SMS/MMS</item>
+        <item>Receber SMS/MMS</item>
         <item>Receber SMS/MMS</item>
         <item>Enviar SMS/MMS</item>
-        <item>Receber SMS/MMS</item>
-        <item>Receber SMS/MMS</item>
-        <item>Receber SMS/MMS</item>
-        <item>Receber SMS/MMS</item>
-        <item>Enviar SMS/MMS</item>
-        <item>Receber SMS/MMS</item>
-        <item>Enviar SMS/MMS</item>
+        <item>Ler SMS/MMS</item>
+        <item>Escrever SMS/MMS</item>
         <item>Modificar configurações</item>
-        <item>Desenhar sobre a tela</item>
-        <item>Accessar notificações</item>
+        <item>Sobrepor</item>
+        <item>Acessar notificações</item>
         <item>Câmera</item>
         <item>Gravar áudio</item>
         <item>Reproduzir áudio</item>
-        <item>Ler área de transferência</item>
-        <item>Modificar área de transferência</item>
+        <item>Ler a área de transferência</item>
+        <item>Modificar a área de transferência</item>
     </string-array>
     <string-array name="app_ops_summaries">
         <item>localização inferior</item>
@@ -321,37 +321,37 @@
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Nunca verificar</item>
-        <item>Apenas para conteúdo DRM</item>
+        <item>Verificar somente conteúdo DRM</item>
         <item>Sempre verificar</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Nunca utilizar verificação de HDCP</item>
-        <item>Apenas para conteúdo DRM</item>
-        <item>Sempre utilizar verificação de HDCP</item>
+        <item>Nunca usar a verificação HDCP</item>
+        <item>Usar a verificação HDCP somente para conteúdo DRM</item>
+        <item>Sempre usar a verificação HDCP</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animação desligada</item>
-        <item>Escala de animação .5x</item>
-        <item>Escala de animação 1x</item>
-        <item>Escala de animação 1.5x</item>
-        <item>Escala de animação 2x</item>
-        <item>Escala de animação 5x</item>
-        <item>Escala de animação 10x</item>
+        <item>Escala da animação 0,5 x</item>
+        <item>Escala da animação 1x</item>
+        <item>Escala de animação 1,5 x</item>
+        <item>Escala da animação 2x</item>
+        <item>Escala de animação 5 x</item>
+        <item>Escala de animação 10 x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animação desligada</item>
-        <item>Escala de animação .5x</item>
-        <item>Escala de animação 1x</item>
-        <item>Escala de animação 1.5x</item>
-        <item>Escala de animação 2x</item>
-        <item>Escala de animação 5x</item>
-        <item>Escala de animação 10x</item>
+        <item>Escala da animação 0,5 x</item>
+        <item>Escala da animação 1x</item>
+        <item>Escala de animação 1,5 x</item>
+        <item>Escala da animação 2x</item>
+        <item>Escala de animação 5 x</item>
+        <item>Escala de animação 10 x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Animação desligada</item>
-        <item>Escala de animação .5x</item>
+        <item>Animação desativada</item>
+        <item>Escala de animação 5x</item>
         <item>Escala de animação 1x</item>
-        <item>Escala de animação 1.5x</item>
+        <item>Escala de animação 1.5 x</item>
         <item>Escala de animação 2x</item>
         <item>Escala de animação 5x</item>
         <item>Escala de animação 10x</item>
@@ -366,26 +366,26 @@
     <string-array name="enable_opengl_traces_entries">
         <item>Nenhum</item>
         <item>Logcat</item>
-        <item>Systrace (Gráficos)</item>
-        <item>Call stack para glGetError</item>
+        <item>Systrace (gráficos)</item>
+        <item>Pilha de chamadas em glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
-        <item>Desenhar regiões não retangulares em azul</item>
-        <item>Destacar comandos de teste de desneho em verde</item>
+        <item>Desativado</item>
+        <item>Desenhar região de corte não retangular em azul</item>
+        <item>Destacar comandos de desenho testados em verde</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Off</item>
-        <item>Na tela como barras</item>
-        <item>Na tela como linhas</item>
-        <item>No adb shell dumpsys gfxinfo</item>
+        <item>Desativado</item>
+        <item>Na tela em barras</item>
+        <item>Na tela em linhas</item>
+        <item>Em adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite padrão</item>
         <item>Sem processos em segundo plano</item>
         <item>No máximo um processo</item>
         <item>No máximo dois processos</item>
-        <item>No máximo três processos</item>
+        <item>No máximo, três processos</item>
         <item>No máximo quatro processos</item>
     </string-array>
     <string-array name="vpn_types">
@@ -427,12 +427,12 @@
     <string-array name="haptic_feedback_level_entries">
         <item>Forte</item>
         <item>Média</item>
-        <item>Fraco</item>
+        <item>Fraca</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Forte</item>
-        <item>Médio</item>
-        <item>Baixo</item>
+        <item>Média</item>
+        <item>Baixa</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Gráfico</item>
@@ -441,8 +441,8 @@
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Perguntar sempre</item>
-        <item>Somente Carregar</item>
-        <item>Montar Cartão SD</item>
+        <item>Somente carregar</item>
+        <item>Montar cartão SD</item>
     </string-array>
     <string-array name="mi1_led_color_entries">
         <item>Azul</item>

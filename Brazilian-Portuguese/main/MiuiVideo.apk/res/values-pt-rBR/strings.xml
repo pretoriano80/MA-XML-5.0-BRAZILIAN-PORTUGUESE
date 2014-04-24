@@ -144,9 +144,9 @@ para a MiBox ou TV"</string>
     <string name="key_back_down_toast">Pressione voltar novamente para sair</string>
     <string name="lekan">Lekan</string>
     <string name="letv">Letv</string>
-    <string name="live_loading_symbol" />
+  <string name="live_loading_symbol">&lt;CDATA&gt;Carregando… &lt;/CDATA&gt;</string>
     <string name="live_loading_to_be_play">Carregando…</string>
-    <string name="live_pending_symbol" />
+  <string name="live_pending_symbol">&lt;CDATA&gt;Armazenando… &lt;/CDATA&gt;</string>
     <string name="live_pending_to_be_play">Carregando…</string>
     <string name="live_tabs_all">Ver todos</string>
     <string name="live_tabs_choice">Populares</string>
@@ -157,11 +157,11 @@ para a MiBox ou TV"</string>
     <string name="load_failed_to_try">Falha ao carregar</string>
     <string name="load_file_fail">Arquivo local excluído</string>
     <string name="load_offline_file_fail">Arquivo offline excluído, carregue-o novamente.</string>
-    <string name="loading">" "</string>
-    <string name="loading_review" />
+  <string name="loading">" "&lt;CDATA&gt;Carregando… &lt;/CDATA&gt;" "</string>
+  <string name="loading_review">&lt;CDATA&gt;Carregando… &lt;/CDATA&gt;</string>
     <string name="loading_review_failed">Falha ao carregar comentário</string>
-    <string name="loading_tv">" "</string>
-    <string name="loading_video">" "</string>
+  <string name="loading_tv">" "&lt;CDATA&gt;Carregando… &lt;/CDATA&gt;" "</string>
+  <string name="loading_video">" "&lt;CDATA&gt;Carregando… &lt;/CDATA&gt;" "</string>
     <string name="loading_video_netplay_label">Carregando…</string>
     <string name="loading_video_netplay_label_v5">Carregando…</string>
     <string name="local_count_ji">PRC %d Ep.</string>
@@ -269,7 +269,7 @@ para a MiBox ou TV"</string>
     <string name="search">Pesquisar</string>
     <string name="search_result_recommend_hint">Nada encontrado.</string>
     <string name="search_result_recommend_title">Todos estão assistindo"</string>
-    <string name="searching">" "</string>
+  <string name="searching">" "&lt;CDATA&gt;Pesquisando… &lt;/CDATA&gt;" "</string>
     <string name="seconds">segs</string>
     <string name="select_all">Selec. tudo</string>
     <string name="select_media_source">Selecionar fonte de vídeos</string>
