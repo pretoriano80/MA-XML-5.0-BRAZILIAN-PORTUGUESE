@@ -17,7 +17,7 @@
     <string name="default_record_name">Sem título</string>
     <string name="delete">Excluir</string>
     <string name="delete_dialog_message">Excluir gravação?</string>
-    <string name="deleting_message">Excluindo...</string>
+    <string name="deleting_message">Excluindo…</string>
     <string name="dialog_content_storage_full">A gravação foi interrompida devido à falta de espaço no armazenamento do seu telefone.</string>
     <string name="dialog_play">Reproduzir</string>
     <string name="dialog_send">Enviar</string>
@@ -47,8 +47,8 @@
     <string name="minute">%d minutos</string>
     <string name="no_file">Nenhuma gravação</string>
     <string name="notification_message_all_paused">Poderá aumentar o uso de dados móveis.</string>
-    <string name="notification_playback">Reproduzindo...</string>
-    <string name="notification_recording">Gravando...</string>
+    <string name="notification_playback">Reproduzindo…</string>
+    <string name="notification_recording">Gravando…</string>
     <string name="notification_stopped">Gravação parada</string>
     <string name="notification_title_all_paused">Download em pausa</string>
     <string name="notification_warning">Espaço de livre acabando (menos de %d minutos restantes)</string>
@@ -74,7 +74,7 @@
     <string name="record_download_msg_reload">Esta gravação não existe</string>
     <string name="record_download_paused">Pausado</string>
     <string name="record_download_progress">%d%%</string>
-    <string name="record_downloading_notification">Efetuando download...</string>
+    <string name="record_downloading_notification">Efetuando download…</string>
     <string name="record_downloading_notification_complete">Download concluído</string>
     <string name="record_downloading_notification_count">Transferindo %d</string>
     <string name="record_list">Gravações</string>
@@ -83,10 +83,10 @@
     <string name="record_list_cloud_call">Gravação de chamadas na nuvem</string>
     <string name="record_list_cloud_fm">Gravação de FM na nuvem</string>
     <string name="record_list_fm">Gravação de FM</string>
-    <string name="record_loading">Carregando...</string>
+    <string name="record_loading">Carregando…</string>
     <string name="record_name_hour">.</string>
     <string name="record_picker_title">Selecionar gravação</string>
-    <string name="record_saving">Salvando...</string>
+    <string name="record_saving">Salvando…</string>
     <string name="recording">Gravando</string>
     <string name="recording_stopped">Gravação terminada</string>
     <string name="rename">Renomear</string>
@@ -103,7 +103,7 @@
     <string name="start_recording">Iniciar gravação</string>
     <string name="status_bar_anti_disturb">Telefone mudo</string>
     <string name="status_bar_back">Para retornar, toque nesta barra</string>
-    <string name="status_bar_recording">Gravando...</string>
+    <string name="status_bar_recording">Gravando…</string>
     <string name="status_bar_recording_pause">"Gravados pausado"</string>
     <string name="stop_recording">Parar gravação</string>
     <string name="storage_is_full">Espaço insuficiente</string>

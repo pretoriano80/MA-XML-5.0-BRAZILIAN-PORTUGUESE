@@ -65,7 +65,7 @@
     <string name="android_upgrading_apk">Otimizando aplicativo %1$d de %2$d.</string>
     <string name="android_upgrading_complete">Concluindo a inicialização.</string>
     <string name="android_upgrading_starting_apps">Iniciando aplicativos.</string>
-    <string name="android_upgrading_title">O Android está sendo atualizado...</string>
+    <string name="android_upgrading_title">O Android está sendo atualizado…</string>
     <string name="anr_activity_application">"%2$s não está respondendo. 
 
 Deseja fechá-la?"</string>
@@ -603,8 +603,8 @@ Tente novamente em %d segundos."</string>
     <string name="permdesc_clearAppCache">Permite que o aplicativo libere o armazenamento do telefone excluindo arquivos nos diretórios de cache de outros aplicativos. Isso pode fazer com que outros aplicativos iniciem mais lentamente, pois precisam recuperar seus dados.</string>
     <string name="permdesc_clearAppUserData">Permite que o aplicativo limpe os dados do usuário.</string>
     <string name="permdesc_confirm_full_backup">Permite que o aplicativo lance a interface de usuário de confirmação de backup completo. Não deve ser usado por qualquer aplicativo.</string>
-    <string name="permdesc_copyProtectedData">Allows the app to invoke default container service to copy content. Not for use by normal apps.</string>
-    <string name="permdesc_createNetworkSockets">Allows the app to create network sockets and use custom network protocols. The browser and other applications provide means to send data to the internet, so this permission is not required to send data to the internet.</string>
+    <string name="permdesc_copyProtectedData">Allows the aplicativo to invoke default container service to copy content. Not for use by normal apps.</string>
+    <string name="permdesc_createNetworkSockets">Allows the aplicativo to create network sockets and use custom network protocols. The browser and other applications provide means to send data to the internet, so this permission is not required to send data to the internet.</string>
     <string name="permdesc_deleteCacheFiles">Permite que o aplicativo exclua arquivos armazenados em cache.</string>
     <string name="permdesc_deletePackages">Permite que o aplicativo exclua pacotes Android. Aplicativos maliciosos podem usar esse recurso para excluir aplicativos importantes.</string>
     <string name="permdesc_devicePower">Permite que o aplicativo ative ou desative o telefone.</string>
@@ -616,7 +616,7 @@ Tente novamente em %d segundos."</string>
     <string name="permdesc_factoryTest">Executa como um teste do fabricante de nível inferior, permitindo o acesso completo ao hardware do telefone. Disponível apenas quando um telefone está em execução no modo de teste do fabricante.</string>
     <string name="permdesc_flashlight">Permite que o aplicativo controle a lanterna.</string>
     <string name="permdesc_forceBack">Permite que o aplicativo force o encerramento de qualquer atividade que está em primeiro plano e volte. Nunca deve ser necessário para aplicativos normais.</string>
-    <string name="permdesc_forceStopPackages">Allows the app to forcibly stop other apps.</string>
+    <string name="permdesc_forceStopPackages">Allows the aplicativo to forcibly stop other apps.</string>
     <string name="permdesc_getAccounts">Permite que um aplicativo obtenha a lista de contas conhecidas pelo telefone.</string>
     <string name="permdesc_getDetailedTasks">Permite que o aplicativo recupere informações detalhadas sobre tarefas executadas atual e recentemente. Aplicativos maliciosos podem descobrir informações privadas sobre outros aplicativos.</string>
     <string name="permdesc_getPackageSize">Permite que o aplicativo recupere o código, os dados e os tamanhos de cache</string>
@@ -678,7 +678,7 @@ Tente novamente em %d segundos."</string>
     <string name="permdesc_sdcardRead">Permite que o aplicativo teste uma permissão para o cartão SD que estará disponível em dispositivos futuros.</string>
     <string name="permdesc_sdcardWrite">Permite gravar no cartão SD.</string>
     <string name="permdesc_sendSms">Permite que o aplicativo envie mensagens SMS. Isso pode resultar em cobranças inesperadas. Aplicativos maliciosos podem gerar custos através do envio de mensagens sem sua confirmação.</string>
-    <string name="permdesc_sendSmsNoConfirmation">Allows the app to send SMS messages. This may result in unexpected charges. Malicious apps may cost you money by sending messages without your confirmation.</string>
+    <string name="permdesc_sendSmsNoConfirmation">Allows the aplicativo to send SMS messages. This may result in unexpected charges. Malicious aplicativos may cost you money by sending messages without your confirmation.</string>
     <string name="permdesc_serialPort">Permite que o detentor tenha acesso a portas seriais usando a API SerialManager.</string>
     <string name="permdesc_setAlarm">Permite que o aplicativo defina um alarme em um aplicativo despertador instalado. Alguns aplicativos despertador podem não implementar este recurso.</string>
     <string name="permdesc_setAlwaysFinish">Permite que o aplicativo controle se as atividades são sempre encerrados ao serem enviados para o plano de fundo. Nunca é necessário para aplicativos normais.</string>
@@ -702,7 +702,7 @@ Tente novamente em %d segundos."</string>
     <string name="permdesc_stopAppSwitches">Impede que o usuário alterne para outro aplicativo.</string>
     <string name="permdesc_subscribedFeedsRead">Permite que o aplicativo obtenha detalhes sobre os feeds sincronizados no momento.</string>
     <string name="permdesc_subscribedFeedsWrite">Permite que o aplicativo modifique seus feeds sincronizados no momento. Aplicativos maliciosos podem alterar seus feeds sincronizados.</string>
-    <string name="permdesc_systemAlertWindow">Allows the app to draw on top of other applications or parts of the user interface. They may interfere with your use of the interface in any application, or change what you think you are seeing in other applications.</string>
+    <string name="permdesc_systemAlertWindow">Allows the aplicativo to draw on top of other applications or parts of the user interface. They may interfere with your use of the interface in any application, or change what you think you are seeing in other applications.</string>
     <string name="permdesc_updateLock">Allows the holder to offer information to the system about when would be a good time for a noninteractive reboot to upgrade the device.</string>
     <string name="permdesc_useCredentials">Permite que o aplicativo solicite tokens de autenticação.</string>
     <string name="permdesc_use_sip">Permite que o aplicativo use o serviço SIP para fazer/receber chamadas pela Internet.</string>
@@ -976,9 +976,9 @@ Tentativas restantes:"</string>
     <string name="preposition_for_date">em %s</string>
     <string name="preposition_for_time">às %s</string>
     <string name="preposition_for_year">em %s</string>
-    <string name="progress_erasing">Apagando cartão SD...</string>
+    <string name="progress_erasing">Apagando cartão SD…</string>
     <string name="progress_erasing_internal">Apagando armazenamento interno…</string>
-    <string name="progress_unmounting">Desconectando cartão SD...</string>
+    <string name="progress_unmounting">Desconectando cartão SD…</string>
     <string name="progress_unmounting_internal">Desconectando armazenamento interno…</string>
     <string name="reboot_safemode_confirm">Deseja reiniciar no modo de segurança? Isso desativará todos os aplicativos de terceiros instalados. Eles serão restaurados quando você reiniciar novamente.</string>
     <string name="reboot_safemode_title">Reiniciar no modo de segurança</string>
@@ -998,7 +998,7 @@ Tentativas restantes:"</string>
     <string name="relationTypeRelative">Parente</string>
     <string name="relationTypeSister">Irmã</string>
     <string name="relationTypeSpouse">Cônjuge</string>
-    <string name="replace">Substituir...</string>
+    <string name="replace">Substituir…</string>
     <string name="report">Informar</string>
     <string name="reset">Redefinir</string>
     <string name="ringtone_default">Toque padrão</string>
@@ -1061,7 +1061,7 @@ Tentativas restantes:"</string>
     <string name="select_keyboard_layout_notification_message">Toque para selecionar um layout de teclado.</string>
     <string name="select_keyboard_layout_notification_title">Selecione o layout de teclado</string>
     <string name="sendText">Escolha uma ação para o texto</string>
-    <string name="sending">Enviando...</string>
+    <string name="sending">Enviando…</string>
     <string name="serial_number">Número de série:</string>
     <string name="serviceClassData">Dados</string>
     <string name="serviceClassDataAsync">Assíncrono</string>

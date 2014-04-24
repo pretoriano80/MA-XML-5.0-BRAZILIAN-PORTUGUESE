@@ -68,8 +68,8 @@
     <string name="account_setup_basics_manual_setup_action">Configuração manual</string>
     <string name="account_setup_basics_password_label">Senha</string>
     <string name="account_setup_basics_title">Configuração da conta</string>
-    <string name="account_setup_check_settings_check_incoming_msg">Verificando as configurações de entrada do servidor...</string>
-    <string name="account_setup_check_settings_check_outgoing_msg">Verificando as configurações de saída do servidor...</string>
+    <string name="account_setup_check_settings_check_incoming_msg">Verificando as configurações de entrada do servidor…</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">Verificando as configurações de saída do servidor…</string>
     <string name="account_setup_check_settings_retr_info_msg">Recuperando informações sobre a conta</string>
     <string name="account_setup_exchange_certificate_title">Certificado do cliente</string>
     <string name="account_setup_exchange_device_id_label">ID do aparelho celular</string>
@@ -421,7 +421,7 @@ Cc: %4$s
     <string name="show_quick_text_list_dialog_action">Inserir resposta rápida</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="status_loading_messages">Carregando mensagens...</string>
+    <string name="status_loading_messages">Carregando mensagens…</string>
     <string name="status_network_error">Problema na conexão.</string>
     <string name="subject_hint">Assunto</string>
     <string name="system_account_create_failed">Não foi possível criar a conta. Tente novamente.</string>

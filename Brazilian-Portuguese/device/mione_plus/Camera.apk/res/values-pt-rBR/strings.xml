@@ -126,8 +126,8 @@ Saia de vista por um momento"</string>
     <string name="launch_market">Iniciar Market</string>
     <string name="launch_qq">Executar QQ no navegador</string>
     <string name="launch_wechat">Iniciar WeChat</string>
-    <string name="loading">Carregando...</string>
-    <string name="loading_video">Carregando vídeo...</string>
+    <string name="loading">Carregando…</string>
+    <string name="loading_video">Carregando vídeo…</string>
     <string name="location">Local</string>
     <string name="locations">Locais</string>
     <string name="maker">Fabricante</string>
@@ -149,7 +149,7 @@ Saia de vista por um momento"</string>
     <string name="pano_how_to_use_prompt">Pressione o disparador para capturar o panorama</string>
     <string name="pano_how_to_use_prompt_go_on_moving">Continue a mover o telefone</string>
     <string name="pano_how_to_use_prompt_to_move">Mova o telefone gentilmente</string>
-    <string name="pano_review_saving_indication_str">Salvando...</string>
+    <string name="pano_review_saving_indication_str">Salvando…</string>
     <string name="pano_too_fast_prompt">Muito rápido</string>
     <string name="path">Caminho</string>
     <string name="people">Pessoas</string>
@@ -456,7 +456,7 @@ Saia de vista por um momento"</string>
     <string name="video_snapshot_hint">Tire uma foto na gravação do vídeo tocando tela de visualização.</string>
     <string name="videocamera_settings_label">Configuração de gravação</string>
     <string name="visit_cloud_album">Acessar álbum na nuvem</string>
-    <string name="wait">Aguarde...</string>
+    <string name="wait">Aguarde…</string>
     <string name="web_url_apk_warning">Download de aplicativos por códigos QR podem apresentar riscos ao seu telefone. É recomendado utilizar seu Market favorito para pesquisar e instalar o aplicativo</string>
     <string name="web_url_warning">Websites armazenados em códigos QR podem conter códigos maliciosos. Acesse-os com cautela.</string>
     <string name="website_details">Detalhes do website:</string>
@@ -467,7 +467,7 @@ Saia de vista por um momento"</string>
     <string name="wifi_connect_fail">Falha na conexão</string>
     <string name="wifi_connect_not_found">Wi-Fi não encontrada</string>
     <string name="wifi_connect_success">Conectado com sucesso</string>
-    <string name="wifi_connecting">Conectando...</string>
+    <string name="wifi_connecting">Conectando…</string>
     <string name="wifi_details">Detalhes da rede:</string>
     <string name="wifi_open_fail">Falha ao conectar ao Wi-Fi</string>
     <string name="wifi_pwd">Senha:</string>

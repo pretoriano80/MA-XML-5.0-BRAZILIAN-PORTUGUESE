@@ -8,13 +8,13 @@
     <string name="calibrate_failed_timeout">Falha na calibração: Tempo limite conectando ao servidor</string>
     <string name="calibrate_success">Calibrada</string>
     <string name="cannot_get_location">--</string>
-    <string name="dialog_calibrat_altitude">Calibrando...</string>
+    <string name="dialog_calibrat_altitude">Calibrando…</string>
     <string name="dialog_title_no_network">Impossível conectar-se à rede</string>
     <string name="direction_east">L</string>
     <string name="direction_north">N</string>
     <string name="direction_south">S</string>
     <string name="direction_west">O</string>
-    <string name="getting_location">Calibrando...</string>
+    <string name="getting_location">Calibrando…</string>
     <string name="guide_toast">Para calibrar a bússola, mova seu telefone de acordo com o movimento exibido acima</string>
     <string name="latitude">LAT</string>
     <string name="location_east">L</string>

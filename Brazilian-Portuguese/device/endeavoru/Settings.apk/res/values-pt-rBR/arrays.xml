@@ -47,7 +47,7 @@
         <item>Ativar Monitor de Permissões</item>
         <item>Limpar arquivos desnecessários</item>
         <item>Atualizar definições de vírus</item>
-        <item>Você está executando muitos apps em segundo plano...</item>
+        <item>Você está executando muitos aplicativos em segundo plano…</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>América</item>
@@ -111,8 +111,8 @@
     <string-array name="wifi_status">
         <item></item>
         <item>Procurando…</item>
-        <item>Conectando...</item>
-        <item>Autenticando...</item>
+        <item>Conectando…</item>
+        <item>Autenticando…</item>
         <item>Obtendo endereço IP…</item>
         <item>Conectado</item>
         <item>Suspenso</item>
@@ -291,8 +291,8 @@
     </string-array>
     <string-array name="vpn_states">
         <item>Desconectado</item>
-        <item>Inicializando...</item>
-        <item>Conectando...</item>
+        <item>Inicializando…</item>
+        <item>Conectando…</item>
         <item>Conectado</item>
         <item>Tempo limite</item>
         <item>Malsucedida</item>
@@ -351,7 +351,7 @@
         <item>Aplicativos Recentes</item>
         <item>Assistente de Voz</item>
         <item>Google Now</item>
-        <item>Fechar app atual</item>
+        <item>Fechar aplicativo atual</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 segundo</item>
@@ -368,11 +368,11 @@
         <item>Sempre</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Telefone conectado, criando sessão...</item>
+        <item>Telefone conectado, criando sessão…</item>
         <item>Sessão criada</item>
-        <item>Desfazendo sessão...</item>
+        <item>Desfazendo sessão…</item>
         <item>Falha na sessão</item>
-        <item>Tempo esgotado de sessão, tentando novamente...</item>
+        <item>Tempo esgotado de sessão, tentando novamente…</item>
         <item>Telefone Conectado</item>
     </string-array>
     <string-array name="msd_pc_system">

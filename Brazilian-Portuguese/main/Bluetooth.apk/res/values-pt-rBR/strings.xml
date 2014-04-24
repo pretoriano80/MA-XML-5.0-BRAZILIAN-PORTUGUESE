@@ -44,8 +44,8 @@
     <string name="download_success">%1$s recebido.</string>
     <string name="download_title">Transferência de arquivo</string>
     <string name="empty_file_notification_sent">Compartilhamento Bluetooth: Telefone remoto rejeitou o arquivo de tamanho nulo %1$s</string>
-    <string name="enabling_progress_content">Ativando Bluetooth...</string>
-    <string name="enabling_progress_title">Aguarde...</string>
+    <string name="enabling_progress_content">Ativando Bluetooth…</string>
+    <string name="enabling_progress_title">Aguarde…</string>
     <string name="format_progress_text">%1$d%%</string>
     <string name="hello">Olá mundo, atividade de teste</string>
     <string name="inbound_history_title">Transferências de entrada</string>

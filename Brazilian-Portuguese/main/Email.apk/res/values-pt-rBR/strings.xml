@@ -76,10 +76,10 @@
     <string name="account_setup_basics_manual_setup_action">Configuração manual</string>
     <string name="account_setup_basics_password_label">Senha</string>
     <string name="account_setup_basics_title">Configuração da conta</string>
-    <string name="account_setup_check_settings_check_incoming_msg">Validando as configurações do servidor...</string>
-    <string name="account_setup_check_settings_check_outgoing_msg">Validando as configurações de SMTP...</string>
+    <string name="account_setup_check_settings_check_incoming_msg">Validando as configurações do servidor…</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">Validando as configurações de SMTP…</string>
     <string name="account_setup_check_settings_retr_info_msg">Recuperando informações sobre a conta</string>
-    <string name="account_setup_creating_account_msg">Criando conta...</string>
+    <string name="account_setup_creating_account_msg">Criando conta…</string>
     <string name="account_setup_exchange_certificate_title">Certificado do cliente</string>
     <string name="account_setup_exchange_device_id_label">ID do aparelho celular</string>
     <string name="account_setup_exchange_no_certificate">Nenhum</string>
@@ -170,7 +170,7 @@
     <string name="account_type_exchange">Exchange</string>
     <string name="account_type_imap">IMAP</string>
     <string name="account_type_pop3">POP3</string>
-    <string name="account_waiting_for_folders_msg">Carregando a lista de pastas...</string>
+    <string name="account_waiting_for_folders_msg">Carregando a lista de pastas…</string>
     <string name="accounts_welcome">É possível configurar uma conta em apenas algumas etapas.</string>
     <string name="actionbar_large_unread_count">%1$d+ não lidas</string>
     <string name="actionbar_title_mail_aggregation">Agregador de e-mail:</string>
@@ -250,7 +250,7 @@
     <string name="compose">Escrever</string>
     <string name="confirm">Confirmar</string>
     <string name="confirm_discard_text">Descartar esta mensagem?</string>
-    <string name="confirm_response">Enviando resposta...</string>
+    <string name="confirm_response">Enviando resposta…</string>
     <string name="confirm_send_message">Enviar esta mensagem?</string>
     <string name="confirm_send_message_with_no_body">Não há texto no corpo da mensagem.</string>
     <string name="confirm_send_message_with_no_subject">Não há texto no assunto da mensagem.</string>
@@ -379,7 +379,7 @@
     <string name="label_notification_ticker" formatted="false">%s: %s</string>
     <string name="load_more">Carregar mais</string>
     <string name="loading_conversation">Carregando…</string>
-    <string name="loading_conversations">Carregando...</string>
+    <string name="loading_conversations">Carregando…</string>
     <string name="local_search">Pesquisa local</string>
     <string name="login">Login</string>
     <string name="login_failed_ticker">Falha no login de %s.</string>
@@ -604,7 +604,7 @@ Cc: %4$s
     <string name="search_hint">Pesquisar e-mail</string>
     <string name="search_result">Resultados: </string>
     <string name="search_results_header">Resultados</string>
-    <string name="search_results_searching_header">Pesquisando...</string>
+    <string name="search_results_searching_header">Pesquisando…</string>
     <string name="search_title">E-mail unificado</string>
     <string name="search_unsupported">Não há suporte para pesquisa nesta conta.</string>
     <string name="security_changed_ticker_fmt">As configurações de segurança da conta \"%s\" foram alteradas. Nenhuma ação do usuário é necessária.</string>
@@ -619,7 +619,7 @@ Cc: %4$s
     <string name="send_failed">A mensagem não foi enviada.</string>
     <string name="sender_whitelist_cleared">As imagens não serão exibidas automaticamente.</string>
     <string name="senders_split_token">, </string>
-    <string name="sending">Enviando...</string>
+    <string name="sending">Enviando…</string>
     <string name="sending_message">Enviando mensagem…</string>
     <string name="sent_folder_selection_title">Pasta Enviados do servidor p/ %s</string>
     <string name="set_network">Definir rede</string>

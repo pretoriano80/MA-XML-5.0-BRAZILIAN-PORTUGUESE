@@ -70,7 +70,7 @@
     <string name="android_upgrading_apk">Otimizando aplicativo %1$d de %2$d.</string>
     <string name="android_upgrading_complete">Concluindo a inicialização.</string>
     <string name="android_upgrading_starting_apps">Iniciando aplicativos.</string>
-    <string name="android_upgrading_title">O Android está sendo atualizado...</string>
+    <string name="android_upgrading_title">O Android está sendo atualizado…</string>
     <string name="anr_activity_application">"%2$s não está respondendo.
     
 Deseja fechá-la?"</string>
@@ -463,7 +463,7 @@ Tem certeza de que deseja sair desta página?"</string>
   <string name="kg_invalid_sim_puk_hint">O código PUK deve ter 8 números ou mais.</string>
   <string name="kg_login_account_recovery_hint">"Esqueceu seu nome de usuário ou senha?
 Acesse "<b>google.com.br/accounts/recovery</b>.</string>
-  <string name="kg_login_checking_password">Verificando a conta...</string>
+  <string name="kg_login_checking_password">Verificando a conta…</string>
   <string name="kg_login_instructions">Para desbloquear, faça login usando sua Conta do Google.</string>
   <string name="kg_login_invalid_input">Nome de usuário ou senha inválidos.</string>
     <string name="kg_login_password_hint">Senha</string>
@@ -583,9 +583,9 @@ Tente novamente em %d segundos."</string>
     <string name="media_route_button_content_description">Saída de mídia</string>
     <string name="media_route_chooser_grouping_done">Concluído</string>
     <string name="media_route_status_available">Disponível</string>
-    <string name="media_route_status_connecting">Conectando...</string>
+    <string name="media_route_status_connecting">Conectando…</string>
   <string name="media_route_status_not_available">Não disponível</string>
-  <string name="media_route_status_scanning">Verificando...</string>
+  <string name="media_route_status_scanning">Verificando…</string>
   <string name="media_shared">O armazenamento USB está em uso por um computador no momento.</string>
     <string name="media_unknown_state">Mídia externa em estado desconhecido.</string>
     <string name="megabyteShort">MB</string>
@@ -798,7 +798,7 @@ Tente novamente em %d segundos."</string>
     <string name="permdesc_route_media_output">Permite que um aplicativo faça o roteamento de saída de mídia para outros dispositivos externos.</string>
     <string name="permdesc_runSetActivityWatcher">Permite que o aplicativo monitore e controle a forma como o sistema inicia atividades. Aplicativos maliciosos podem comprometer completamente o sistema. Esta permissão só é necessária para o desenvolvimento, nunca para o uso normal.</string>
   <string name="permdesc_sdcardAccessAll">Permite que o aplicativo acesse o armazenamento externo para todos os usuários.</string>
-  <string name="permdesc_sdcardRead">Perm. que app leia cartão SD.</string>
+  <string name="permdesc_sdcardRead">Perm. que aplicativo leia cartão SD.</string>
   <string name="permdesc_sdcardWrite">Permite gravar no armaz. USB.</string>
   <string name="permdesc_sendRespondViaMessageRequest">Permite que o aplicativo envie solicitações a outros aplicativos de mensagens para processar eventos de resposta por mensagem para chamadas recebidas.</string>
     <string name="permdesc_sendSms">Permite que o aplicativo envie mensagens SMS. Isso pode resultar em cobranças inesperadas. Aplicativos maliciosos podem gerar custos através do envio de mensagens sem sua confirmação.</string>
@@ -1163,9 +1163,9 @@ Tentativas restantes:"</string>
     <string name="preposition_for_date">em %s</string>
     <string name="preposition_for_time">às %s</string>
     <string name="preposition_for_year">em %s</string>
-  <string name="progress_erasing">Apagando o armazenamento USB...</string>
+  <string name="progress_erasing">Apagando o armazenamento USB…</string>
     <string name="progress_nomediapresent">Nenhuma mídia removível presente…</string>
-  <string name="progress_unmounting">Desconectando armazenamento USB...</string>
+  <string name="progress_unmounting">Desconectando armazenamento USB…</string>
     <string name="reboot_safemode_confirm">Deseja reiniciar no modo de segurança? Isso desativará todos os aplicativos de terceiros instalados. Eles serão restaurados quando você reiniciar novamente.</string>
     <string name="reboot_safemode_title">Reiniciar no modo de segurança</string>
     <string name="recent_tasks_title">Recente</string>
@@ -1185,7 +1185,7 @@ Tentativas restantes:"</string>
     <string name="relationTypeSister">Irmã</string>
     <string name="relationTypeSpouse">Cônjuge</string>
     <string name="relative_time">%1$s, %2$s</string>
-    <string name="replace">Substituir...</string>
+    <string name="replace">Substituir…</string>
     <string name="report">Informar</string>
     <string name="reset">Redefinir</string>
     <string name="revoke">Revogar</string>
@@ -1251,7 +1251,7 @@ A audição em volume elevado por períodos longos pode prejudicar sua audição
     <string name="select_keyboard_layout_notification_message">Toque para selecionar um layout de teclado.</string>
     <string name="select_keyboard_layout_notification_title">Selecione o layout de teclado</string>
     <string name="sendText">Escolha uma ação para o texto</string>
-    <string name="sending">Enviando...</string>
+    <string name="sending">Enviando…</string>
     <string name="serial_number">Número de série:</string>
     <string name="serviceClassData">Dados</string>
     <string name="serviceClassDataAsync">Assíncrono</string>
@@ -1394,7 +1394,7 @@ A audição em volume elevado por períodos longos pode prejudicar sua audição
     <string name="volume_unknown">Volume</string>
     <string name="vpn_lockdown_config">Toque para configurar</string>
   <string name="vpn_lockdown_connected">VPN sempre ativa conectada</string>
-  <string name="vpn_lockdown_connecting">VPN sempre ativa conectando...</string>
+  <string name="vpn_lockdown_connecting">VPN sempre ativa conectando…</string>
   <string name="vpn_lockdown_error">Erro na VPN sempre ativa</string>
     <string name="vpn_text">Toque para gerenciar a rede.</string>
     <string name="vpn_text_long">Conectado a %s. Toque para gerenciar a rede.</string>
@@ -1419,7 +1419,7 @@ Deseja fechá-la?"</string>
     <string name="wifi_available_sign_in">Fazer login na rede Wi-Fi</string>
     <string name="wifi_display_notification_disconnect">Desconectar</string>
     <string name="wifi_display_notification_message">Esta tela está sendo exibida em outro dispositivo</string>
-    <string name="wifi_display_notification_title">Wi-Fi display conectado</string>
+    <string name="wifi_display_notification_title">Display sem fio conectado</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_enabled_notification_message">Tocar para acessar configurações</string>
     <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct ativado</string>
@@ -1435,7 +1435,7 @@ Deseja fechá-la?"</string>
     <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
     <string name="wifi_watchdog_network_disabled">Não foi possível se conectar a redes Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled_detailed">" tem uma conexão de baixa qualidade com a Internet."</string>
-    <string name="wireless_display_route_description">Wi-Fi display</string>
+    <string name="wireless_display_route_description">Display sem fio</string>
     <string name="year">ano</string>
     <string name="years">anos</string>
     <string name="yes">OK</string>

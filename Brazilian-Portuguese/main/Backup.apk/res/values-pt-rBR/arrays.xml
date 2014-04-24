@@ -23,7 +23,7 @@
         <item>Configurações do Launcher</item>
         <item>Configurações do Alarme</item>
         <item>Anotações</item>
-        <item>Lista de Bloqueio</item>
+        <item>Lista de bloqueio</item>
         <item>Contas do Sistema</item>
     </string-array>
     <string-array name="app_type_desc">

@@ -10,7 +10,7 @@
     <string name="credential_name">Nome do certificado:</string>
     <string name="credential_password">Digite a senha para extrair os certificados.</string>
     <string name="error_title"/>
-    <string name="extracting_pkcs12">Extraindo...</string>
+    <string name="extracting_pkcs12">Extraindo…</string>
     <string name="invalid_cert">O certificado é inválido.</string>
     <string name="n_cacrts">%d certificados CA</string>
     <string name="name_char_error">Digite um nome que contenha apenas letras e números.</string>

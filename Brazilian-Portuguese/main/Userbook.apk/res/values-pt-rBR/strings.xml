@@ -2,5 +2,5 @@
 <resources>
     <string name="app_name">Leia-me</string>
     <string name="bakc_key_toast_txt">Pressione Voltar novamente para sair</string>
-    <string name="loading_userbook">Carregando...</string>
+    <string name="loading_userbook">Carregando…</string>
 </resources>

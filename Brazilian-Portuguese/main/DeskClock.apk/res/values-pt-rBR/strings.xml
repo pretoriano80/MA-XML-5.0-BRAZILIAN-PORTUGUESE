@@ -60,7 +60,7 @@
     <string name="legal_workday_invalidate">Dados expirados (O Alarme toca de Seg a Sex)</string>
     <string name="legal_workday_invalidate_message">(Dados expirados. Atualize nas configurações)</string>
     <string name="legal_workday_message">" (Alarme desligado durante feriados)"</string>
-    <string name="loading_ringtone">Carregando toque...</string>
+    <string name="loading_ringtone">Carregando toque…</string>
     <string name="menu_add_worldclock">Novo relógio</string>
     <string name="menu_desk_clock">Relógio de mesa</string>
     <string name="menu_edit_systemtime">Hora do sistema</string>

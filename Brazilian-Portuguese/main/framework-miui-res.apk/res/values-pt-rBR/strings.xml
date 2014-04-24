@@ -2,7 +2,7 @@
 <resources>
     <string name="activate">Ativar</string>
     <string name="activate_fail_notification_title">Reativar serviço de sincronização Xiaomi</string>
-    <string name="activating">Ativando...</string>
+    <string name="activating">Ativando…</string>
     <string name="alwaysUsePrompt">Definir Padrão (nenhum aviso será exibido na próxima vez)</string>
     <string name="android_lockscreen_glogin_instructions">Para desbloquear, efetue o login em sua conta</string>
     <string name="anniversary_of_lifting_martial_law"/>
@@ -44,18 +44,18 @@
     <string name="experimental_validate">Validar</string>
     <string name="experimental_validate_fail">Falha na validação, tente novamente</string>
     <string name="experimental_validate_password">Senha</string>
-    <string name="experimental_validate_progress">Validando...</string>
+    <string name="experimental_validate_progress">Validando…</string>
     <string name="experimental_validate_thanks">Obrigado!</string>
     <string name="experimental_validate_username">ID Xiaomi</string>
     <string name="experimental_validate_warning">A sua curiosidade e empenho ajudam a MIUI tornar-se melhor todos os dias!</string>
-    <string name="find_device_check_sim">Verificando cartão SIM...</string>
+    <string name="find_device_check_sim">Verificando cartão SIM…</string>
     <string name="find_device_sim_change_instructions">"Seu telefone foi bloqueado Por favor insira o cartão SIM ou entre com a senha de sua conta Xiaomi"</string>
     <string name="find_device_sim_change_instructions_no_network">"Seu telefone foi bloqueado.
 Para desbloqueá-lo, insira o cartão SIM"</string>
     <string name="find_device_turn_off_flight_mode">Desabilitar modo avião</string>
     <string name="find_device_turn_off_flight_mode_instructions">"Seu telefone foi bloqueado.
 Para desbloqueá-lo, desative o modo para Avião"</string>
-    <string name="firewall_setting">Lista de Bloqueio</string>
+    <string name="firewall_setting">Lista de bloqueio</string>
     <string name="first_back_long_press_message">"Você deseja ativar a opção de finalizar aplicativos em execução ao pressionar longamente a tecla voltar?  
     
 Ative em Configurações > Sistema > Botões"</string>
@@ -190,7 +190,7 @@ Memória livre: %2$s"</string>
     <string name="puk_operation_failed">Falha na operação com o PUK.</string>
     <string name="reboot_confirm">O telefone será reiniciado.</string>
     <string name="reboot_confirm_title">Seu telefone será reiniciado.</string>
-    <string name="reboot_progress">Reiniciando...</string>
+    <string name="reboot_progress">Reiniciando…</string>
     <string name="retrocession_day"/>
     <string name="return_to_me_message">Se encontrado, por favor entregue a</string>
     <string name="reverse_all">Excluir tudo</string>
@@ -285,7 +285,7 @@ Memória livre: %2$s"</string>
     <string name="yellow_page_module_sms_sent">SMS enviado.</string>
     <string name="yellow_page_sms_disabled_in_privacy_mode">Impossível enviar SMS no modo de privacidade</string>
     <string name="yellow_page_sms_send_failed">Falha ao enviar SMS!</string>
-    <string name="yellow_page_sms_sending">Enviando...</string>
+    <string name="yellow_page_sms_sending">Enviando…</string>
     <string name="yellow_page_unable_send_sms">Impossível enviar SMS!</string>
     <string name="yesterday">Ontem</string>
 </resources>

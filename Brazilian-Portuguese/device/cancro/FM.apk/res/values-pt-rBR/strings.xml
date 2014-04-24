@@ -141,9 +141,9 @@
     <string name="toast_fm_recorder_access_error">"Impossível gravar enquanto o Modo Convidado estiver ativo"</string>
     <string name="toast_fm_recorder_internal_error">Erro gravando rádio</string>
     <string name="toast_fm_recorder_storage_full">"Impossível continuar com a gravação: não há espaço disponível"</string>
-    <string name="toast_fm_seeking">Escaneando estações, aguarde...</string>
-    <string name="toast_fm_starting">FM iniciando, aguarde...</string>
-    <string name="toast_fm_stoping">FM finalizando, aguarde...</string>
+    <string name="toast_fm_seeking">Escaneando estações, aguarde…</string>
+    <string name="toast_fm_starting">FM iniciando, aguarde…</string>
+    <string name="toast_fm_stoping">FM finalizando, aguarde…</string>
     <string name="toast_removed_from_presets">Removido das predef.</string>
     <string name="toast_save_station">%sMHz foi salva com sucesso</string>
     <string name="toast_sleep_mode">Parar FM em %s</string>

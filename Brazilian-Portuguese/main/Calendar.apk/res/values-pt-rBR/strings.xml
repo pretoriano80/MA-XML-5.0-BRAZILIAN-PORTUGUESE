@@ -127,7 +127,7 @@
     <string name="jump_date">Pular</string>
     <string name="jump_date_full">Pular para data</string>
     <string name="label_recent_events">Eventos recentes</string>
-    <string name="loading">Carregando...</string>
+    <string name="loading">Carregando…</string>
     <string name="local_calendar_display_name">Agenda local</string>
     <string name="local_owner_account_name">Conta Local</string>
     <string name="lunar_date">Calendário Lunar</string>
@@ -203,7 +203,7 @@
     <string name="preferences_week_start_day_title">A semana começa em</string>
     <string name="presence_label">Estado</string>
     <string name="privacy_label">Privacidade</string>
-    <string name="quick_response_custom_msg">Mensagem personalizada...</string>
+    <string name="quick_response_custom_msg">Mensagem personalizada…</string>
     <string name="quick_response_dialog_title">Selecionar resposta rápida</string>
     <string name="quick_response_email_failed">Falha ao localizar um aplicativo de e-mail</string>
     <string name="quick_response_settings">Respostas rápidas</string>

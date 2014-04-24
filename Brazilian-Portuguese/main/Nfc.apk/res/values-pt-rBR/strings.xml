@@ -6,8 +6,8 @@
     <string name="beam_complete">Envio concluído</string>
     <string name="beam_failed">O envio não foi concluído</string>
     <string name="beam_handover_not_supported">O dispositivo receptor não suporta a transferência de arquivos grandes por meio do Android Beam.</string>
-    <string name="beam_outgoing">Enviando Beam...</string>
-    <string name="beam_progress">Beam chegando...</string>
+    <string name="beam_outgoing">Enviando Beam…</string>
+    <string name="beam_progress">Beam chegando…</string>
     <string name="beam_touch_to_view">Toque para visualizar</string>
     <string name="beam_try_again">Una novamente os dispositivos</string>
     <string name="cancel">Cancelar</string>

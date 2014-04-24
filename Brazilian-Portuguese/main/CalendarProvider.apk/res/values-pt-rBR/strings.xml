@@ -16,7 +16,7 @@
     <string name="holiday_data_no_network">Sem conexão, tente novamente mais tarde</string>
     <string name="holiday_data_update_failed">Falha ao verificar atualização. Tente novamente mais tarde.</string>
     <string name="holiday_data_update_succeed">Atualização concluída</string>
-    <string name="holiday_data_updating">Atualizando...</string>
+    <string name="holiday_data_updating">Atualizando…</string>
     <string name="holiday_update_summary">Toque para atualizar</string>
     <string name="holiday_update_title">Os dados de dias úteis precisam ser atualizados na internet</string>
     <string name="provider_label">Agenda</string>

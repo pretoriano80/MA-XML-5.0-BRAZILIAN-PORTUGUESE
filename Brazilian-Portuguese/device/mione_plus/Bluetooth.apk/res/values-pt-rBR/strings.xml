@@ -50,8 +50,8 @@
     <string name="download_success">%1$s Recebimento concluído.</string>
     <string name="download_title">Transferência de arquivo</string>
     <string name="empty_file_notification_sent">Compart. Bluetooth: Telefone remoto rejeitou o arquivo de tamanho nulo %1$s</string>
-    <string name="enabling_progress_content">Ativando Bluetooth...</string>
-    <string name="enabling_progress_title">Aguarde...</string>
+    <string name="enabling_progress_content">Ativando Bluetooth…</string>
+    <string name="enabling_progress_title">Aguarde…</string>
     <string name="ftp_acceptance_dialog_header">Acesso a pastas</string>
     <string name="ftp_acceptance_dialog_title">%1$s gostaria de acessar as pastas de seu telefone. Permitir acesso a %2$s?</string>
     <string name="ftp_acceptance_timeout_message">Tempo limite esgotado para aceitar a conexão com %1$s</string>

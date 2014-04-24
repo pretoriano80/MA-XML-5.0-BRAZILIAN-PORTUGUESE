@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="permlab_bluetoothShareManager">Access download manager.</string>
-    <string name="permdesc_bluetoothShareManager">Allows the app to access the BluetoothShare manager and use it to transfer files.</string>
+    <string name="permdesc_bluetoothShareManager">Allows the aplicativo to access the BluetoothShare manager and use it to transfer files.</string>
     <string name="permlab_bluetoothWhitelist">Whitelist bluetooth device access.</string>
-    <string name="permdesc_bluetoothWhitelist">Allows the app to temporarily whitelist a Bluetooth device, allowing that device to send files to this device without user confirmation.</string>
+    <string name="permdesc_bluetoothWhitelist">Allows the aplicativo to temporarily whitelist a Bluetooth device, allowing that device to send files to this device without user confirmation.</string>
     <string name="permlab_handoverStatus">Receive BT handover transfer broadcasts.</string>
     <string name="permdesc_handoverStatus">Allows receiving handover transfer status information from Bluetooth.</string>
     <string name="bt_share_picker_label">Bluetooth</string>
@@ -62,7 +62,7 @@
     <string name="upload_fail_cancel">Close</string>
     <string name="bt_error_btn_ok">OK</string>
     <string name="unknown_file">Unknown file</string>
-    <string name="unknown_file_desc">"There's no app to handle this type of file. 
+    <string name="unknown_file_desc">"There's no aplicativo to handle this type of file. 
 "</string>
     <string name="not_exist_file">No file</string>
     <string name="not_exist_file_desc">"The file doesn't exist. 
@@ -129,7 +129,7 @@
     <string name="import_contact_file_to_sim_card">Import to SIM card</string>
     <string name="import_contact_file_to_phone">Import to phone</string>
     <string name="upload_fail">Bluetooth share: Not all files were sent successfully!</string>
-    <string name="clearing_history">Clearing history...</string>
+    <string name="clearing_history">Clearing history…</string>
     <string name="clear_history">Clear history</string>
     <string name="sharedUserId" />
     <string name="process" />
@@ -138,7 +138,7 @@
     <string name="file_encrypted">The folder has been encrypted.</string>
     <string name="bluetooth_preparing_share">Preparing Bluetooth sharing</string>
     <string name="bluetooth_preparing_share_title">Bluetooth Share</string>
-    <string name="bluetooth_preparing_share_content">Preparing...</string>
+    <string name="bluetooth_preparing_share_content">Preparing…</string>
     <string name="bpp_main">Bluetooth Printing</string>
     <string name="app_name_bpp">Bluetooth BPP</string>
     <string name="bpp_printing_button_text">Printing</string>

@@ -119,7 +119,7 @@ Por favor verifique seu número de rastreamento."</string>
     <string name="navigation_search_automatically_positioned_city">Cidade atual</string>
     <string name="navigation_search_hot_cities">Popular</string>
     <string name="navigation_search_no_city_list">Nenhum dado encontrado!</string>
-    <string name="navigation_search_positioning">Localizando...</string>
+    <string name="navigation_search_positioning">Localizando…</string>
     <string name="navigation_search_positioning_failed">Falha ao localizar cidade</string>
     <string name="nearby_no_yellow_page">Sem resultados próximos</string>
     <string name="nearby_yellow_page_title">Próximos</string>
@@ -168,7 +168,7 @@ Por favor verifique seu número de rastreamento."</string>
     <string name="recharge_payment_result_failed_title">Falha no Top-up</string>
     <string name="recharge_payment_result_ok_summary">Confirme que este valor foi incluído em seu balanço total.</string>
     <string name="recharge_payment_result_ok_title">Adicionado RMB%s.</string>
-    <string name="recharge_payment_result_progress_summary">Checando resultado do pagamento...</string>
+    <string name="recharge_payment_result_progress_summary">Checando resultado do pagamento…</string>
     <string name="recharge_phone_number_empty">Digite um número de telefone válido</string>
     <string name="recharge_phone_number_error">Número de telefone inválido.</string>
     <string name="recharge_select_money_title">Selecione um valor</string>

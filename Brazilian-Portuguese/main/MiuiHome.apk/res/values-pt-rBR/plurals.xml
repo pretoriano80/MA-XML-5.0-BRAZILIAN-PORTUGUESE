@@ -6,8 +6,8 @@
         <item quantity="two">Desinstalar \"%s\" e 1 outro app?</item>
     </plurals>
     <plurals name="uninstall_result_succeeded">
-        <item quantity="other">%1$ apps desinstalados</item>
-        <item quantity="one">App desinstalado</item>
+        <item quantity="other">%1$ aplicativos desinstalados</item>
+        <item quantity="one">Aplicativo desinstalado</item>
     </plurals>
     <plurals name="uninstall_result_failed">
         <item quantity="other">"Falha ao desinstalar \"%1$s\" e %2$d outros apps"</item>

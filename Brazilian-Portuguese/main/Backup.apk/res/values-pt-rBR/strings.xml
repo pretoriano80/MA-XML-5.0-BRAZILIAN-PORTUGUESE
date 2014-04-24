@@ -13,7 +13,7 @@
     <string name="auto_backup_date">Frequência de backup (dias)</string>
     <string name="auto_backup_only_wifi">Usar somente em Wi-Fi</string>
     <string name="auto_backup_open">Ativar backup automático</string>
-    <string name="auto_backup_progress">Backup automático executando...</string>
+    <string name="auto_backup_progress">Backup automático executando…</string>
     <string name="auto_backup_select_user_apps">Selecionar aplicativos</string>
     <string name="auto_backup_selected_user_apps">Aplicativos selecionados</string>
     <string name="auto_backup_setting">Configurações de backup automático</string>
@@ -33,7 +33,7 @@
     <string name="backup_items_app_tailer">" Dados de Aplicativos "</string>
     <string name="backup_items_sysdata_tailer">" Dados de Sistema "</string>
     <string name="backup_new">Novo:</string>
-    <string name="backup_progress">Efetuando backup...</string>
+    <string name="backup_progress">Efetuando backup…</string>
     <string name="backup_recently">"(Recente)"</string>
     <string name="backup_report">Relatório do Backup</string>
     <string name="backup_update">Atualizado</string>
@@ -56,11 +56,11 @@
     <string name="cloud_app_backup_cancel_prompt_message">"Backup incompleto, pressione Ok para cancelar o backup"</string>
     <string name="cloud_app_backup_cancel_prompt_title">Cancelar backup</string>
     <string name="cloud_app_backup_date">"Salvo em "</string>
-    <string name="cloud_app_backup_pending">Pendente...</string>
-    <string name="cloud_app_backup_progress">Efetuando backup...</string>
+    <string name="cloud_app_backup_pending">Pendente…</string>
+    <string name="cloud_app_backup_progress">Efetuando backup…</string>
     <string name="cloud_app_backup_summary">Efetuar backup automático de aplicativos e dados do usuário quando o telefone estiver carregando e conectado a uma rede Wi-Fi</string>
     <string name="cloud_app_backup_title">Backup na MiCloud</string>
-    <string name="cloud_app_check_data">Consultando dados da MiCloud...</string>
+    <string name="cloud_app_check_data">Consultando dados da MiCloud…</string>
     <string name="cloud_app_check_data_fail">Falha na consulta de dados da MiCloud</string>
     <string name="cloud_app_check_data_timeout">Tempo esgotado consultando dados da MiCloud</string>
     <string name="cloud_app_current_device">Dispositivo atual</string>
@@ -74,7 +74,7 @@
     <string name="cloud_app_invalid_op">Impossível visualizar dados da nuvem durante uma operação de backup ou restauração.</string>
     <string name="cloud_app_invalid_op_when_removing">Impossível visualizar dados da nuvem durante a a exclusão de dados</string>
     <string name="cloud_app_just_show_in_current_device">Exibir somente aplicativos deste dispositivo</string>
-    <string name="cloud_app_load_data">Consultando lista de backups...</string>
+    <string name="cloud_app_load_data">Consultando lista de backups…</string>
     <string name="cloud_app_load_data_timeout">Tempo esgotado consultando dados da MiCloud</string>
     <string name="cloud_app_loading_with_mobile_network_prompt">A rede de dados móveis será utilizada. Deseja continuar com a operação?</string>
     <string name="cloud_app_mine">Aplicativos transferidos</string>
@@ -88,8 +88,8 @@
     <string name="cloud_app_remove_cancel_prompt_message">"Excluindo backup incompleto, pressione OK para cancelar"</string>
     <string name="cloud_app_remove_cancel_prompt_title">Cancelar exclusão</string>
     <string name="cloud_app_remove_error">Falha ao excluir!</string>
-    <string name="cloud_app_remove_pending">Aguardando a exclusão...</string>
-    <string name="cloud_app_remove_progress">Excluindo...</string>
+    <string name="cloud_app_remove_pending">Aguardando a exclusão…</string>
+    <string name="cloud_app_remove_progress">Excluindo…</string>
     <string name="cloud_app_remove_prompt">%1$s e seus dados serão excluídos. Você deseja continuar?</string>
     <string name="cloud_app_restore_action_bar_title">Backup de %1$s</string>
     <string name="cloud_app_restore_app_and_data">Restaurar aplicativos e dados do usuário</string>
@@ -99,8 +99,8 @@
     <string name="cloud_app_restore_data">Restaurar aplicativos instalados anteriormente</string>
     <string name="cloud_app_restore_data_title">Restaurar dados do usuário</string>
     <string name="cloud_app_restore_error">Falha na restauração!</string>
-    <string name="cloud_app_restore_pending">Aguardando a restauração...</string>
-    <string name="cloud_app_restore_progress">Restaurando...</string>
+    <string name="cloud_app_restore_pending">Aguardando a restauração…</string>
+    <string name="cloud_app_restore_progress">Restaurando…</string>
     <string name="cloud_app_restore_prompt">A restauração irá substituir os dados existentes no telefone pelos dados salvos na nuvem.</string>
     <string name="cloud_app_restore_query_error_prompt">Falha ao obter dados da MiCloud. Aplicativos e dados de usuário serão restaurados automaticamente quando uma conexão de rede for detectada.</string>
     <string name="cloud_app_restore_success">Aplicativos restaurados!</string>
@@ -119,7 +119,7 @@
     <string name="cloud_restore_guide">"Clique em Restaurar para iniciar a restauração do seu backup +  Você pode também restaurar %s no backup"</string>
     <string name="cloud_restore_title">Restaurar dados do backup</string>
     <string name="cloud_restore_window_title">Restauração da Nuvem</string>
-    <string name="cloud_search">Pesquisar...</string>
+    <string name="cloud_search">Pesquisar…</string>
     <string name="compute_backup_info">Recuperando informações</string>
     <string name="compute_delete_contact_info">Excluindo informações</string>
     <string name="contact_title">Contatos</string>
@@ -174,11 +174,11 @@ http://www.miliao.com
     <string name="no_network">Nenhuma conexão. Verifique sua conexão de rede e tente novamente.</string>
     <string name="note_title">Anotações Salvas</string>
     <string name="nothing_searched">Nada encontrado</string>
-    <string name="progress_backup_hint">Criando backup...</string>
-    <string name="progress_restore_hint">Restaurando...</string>
-    <string name="prompt_reading">Lendo...</string>
-    <string name="prompt_sending">Enviando...</string>
-    <string name="prompt_writing">Gravando...</string>
+    <string name="progress_backup_hint">Criando backup…</string>
+    <string name="progress_restore_hint">Restaurando…</string>
+    <string name="prompt_reading">Lendo…</string>
+    <string name="prompt_sending">Enviando…</string>
+    <string name="prompt_writing">Gravando…</string>
     <string name="read_encrypt_fail">Falha ao ler criptografia</string>
     <string name="refresh">Atualizar</string>
     <string name="restore">Restaurar</string>
@@ -190,7 +190,7 @@ http://www.miliao.com
     <string name="restore_failed">Falha na restauração</string>
     <string name="restore_finished">Restauração concluída</string>
     <string name="restore_launcher_layout_hit">(Atenção: Restaura o layout do desktop)</string>
-    <string name="restore_progress">Restaurando...</string>
+    <string name="restore_progress">Restaurando…</string>
     <string name="restore_report">Relatório de Restauração</string>
     <string name="restore_telephony_hit">(Atenção: O processo de restauração irá reiniciar os aplicativos de telefonia)</string>
     <string name="retry">Reiniciar</string>
@@ -218,7 +218,7 @@ http://www.miliao.com
     <string name="succeed">Concluído</string>
     <string name="system_backup">Backup</string>
     <string name="system_backup_info">Configurações de sistema e ajustes do desktop, etc.</string>
-    <string name="task_backup_cancel_progress">Cancelando backup...</string>
+    <string name="task_backup_cancel_progress">Cancelando backup…</string>
     <string name="task_backup_finished_local">Backup concluído</string>
     <string name="task_canceled">Cancelado</string>
     <string name="task_canceled_all_local">Tarefa Cancelada</string>
@@ -234,7 +234,7 @@ http://www.miliao.com
     <string name="task_pre_running">Preparando</string>
     <string name="task_progress">Progresso</string>
     <string name="task_restore_cancel_dialog">A restauração não foi concluída, podendo resultar em dados corrompidos!</string>
-    <string name="task_restore_cancel_progress">Cancelando...</string>
+    <string name="task_restore_cancel_progress">Cancelando…</string>
     <string name="task_restore_finished_local">Restauração concluída</string>
     <string name="task_restore_none">Nada a restaurar</string>
     <string name="task_running_backup_dialog">Backup em segundo plano em progresso, pressione OK para visualizar.</string>

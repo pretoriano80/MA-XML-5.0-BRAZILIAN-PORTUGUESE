@@ -90,10 +90,10 @@
     </string-array>
     <string-array name="score_suggests">
         <item>Enable blocklist</item>
-        <item>Enable app permission controls</item>
+        <item>Enable aplicativo permission controls</item>
         <item>Clean garbage</item>
         <item>Update virus library</item>
-        <item>"You're running a lot of apps in the background…"</item>
+        <item>"You're running a lot of aplicativos in the background…"</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>America</item>
@@ -328,7 +328,7 @@
     <string-array name="usage_stats_display_order_types">
         <item>Usage time</item>
         <item>Launch count</item>
-        <item>App name</item>
+        <item>Aplicativo name</item>
     </string-array>
     <string-array name="wifi_eap_entries">
         <item>PEAP</item>
@@ -668,7 +668,7 @@
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>None</item>
-        <item>Show recent apps tray</item>
+        <item>Show recent aplicativos tray</item>
         <item>Launch Assistant</item>
         <item>Launch Google now</item>
         <item>Close current app</item>

@@ -48,7 +48,7 @@
     <string name="btn_recharge_other">Recarregar</string>
     <string name="btn_recharge_success">Recarga concluída</string>
     <string name="btn_recharge_success_quick">Recarga concluída</string>
-    <string name="btn_wait_call">Aguardando...</string>
+    <string name="btn_wait_call">Aguardando…</string>
     <string name="btn_wait_call_count">Aguardando (%1$s)</string>
     <string name="btn_wait_confirm">Aguardando</string>
     <string name="btn_wait_confirm_count">Aguardando （%1$s）</string>
@@ -124,7 +124,7 @@ Aguarde 5 minutos e tente novamente."</string>
     <string name="giftcard_denom_frozen">MiCredit congelado</string>
     <string name="giftcard_empty">Nenhum vale-presente.</string>
     <string name="giftcard_expire">%1$s expirado</string>
-    <string name="giftcard_expire_notification_prime_title">Seu vale-presente está prestes a expirar...</string>
+    <string name="giftcard_expire_notification_prime_title">Seu vale-presente está prestes a expirar…</string>
     <string name="giftcard_expire_notification_sub_title">Seu vale-presente MiCredit expira em %1$s</string>
     <string name="giftcard_hint">MiCredits adicionados com vale-presente serão gastos antes do crédito em conta.</string>
     <string name="giftcard_push_notification_prime_title">Você recebeu um vale presente</string>
@@ -200,7 +200,7 @@ por favor entre em contato com o SAC do serviço de pagamentos China Mobile: 400
     <string name="msg_telecom_order_denom_label">Valor a pagar:</string>
     <string name="msg_telecom_order_goods">%1s MiCredits</string>
     <string name="msg_telecom_order_goods_label">Descrição do produto:</string>
-    <string name="msg_telecom_sending">Contactando operadora...</string>
+    <string name="msg_telecom_sending">Contactando operadora…</string>
     <string name="order_price">%1$s MiCredits</string>
     <string name="password_error">Senha incorreta.</string>
     <string name="password_forget">Esqueceu a sua senha?</string>
@@ -227,20 +227,20 @@ por favor entre em contato com o SAC do serviço de pagamentos China Mobile: 400
     <string name="prepaid_picker_hint_2_1">2.</string>
     <string name="prepaid_picker_hint_2_2_a">O valor nominal selecionado precisa ser consistente com o valor do cartão pré-pago. Escolher outro valor irá invalidar o cartão. Esta ação não pode ser desfeita.</string>
     <string name="prepaid_picker_hint_2_2_b">Se o valor nominal do cartão pré-pago não for &lt;font color=red&gt;￥%1$s&lt;/font>, o cartão será invalidado. A Xiaomi não é responsável por quaisquer erros ou perdas monetárias que possam ocorrer em resultado de erro de usuário.</string>
-    <string name="progress_bankcall_card_creating">Gerando compra...</string>
-    <string name="progress_bankcall_card_querying">Verificando tipo de conta...</string>
+    <string name="progress_bankcall_card_creating">Gerando compra…</string>
+    <string name="progress_bankcall_card_querying">Verificando tipo de conta…</string>
     <string name="progress_creating">Recebendo informações de compra…</string>
-    <string name="progress_downloading">Carregando...</string>
+    <string name="progress_downloading">Carregando…</string>
     <string name="progress_error_pay_summary">%1$s MiCredits adicionados, mas o pagamento falhou! Por favor tente novamente mais tarde.</string>
     <string name="progress_error_pay_title">Falha no pagamento</string>
     <string name="progress_error_recharge_summary">Falha na recarga! Por favor tente novamente mais tarde.</string>
     <string name="progress_error_recharge_title">Falha na recarga</string>
-    <string name="progress_loading">Processando...</string>
-    <string name="progress_msg_creating">Gerando recarga...</string>
-    <string name="progress_paytool_creating">Gerando compra de %1$s...</string>
-    <string name="progress_paytool_installing">Instalando plugin de segurança móvel %1$s...</string>
-    <string name="progress_prepaid_creating">Gerando compra...</string>
-    <string name="progress_querying">Processando...</string>
+    <string name="progress_loading">Processando…</string>
+    <string name="progress_msg_creating">Gerando recarga…</string>
+    <string name="progress_paytool_creating">Gerando compra de %1$s…</string>
+    <string name="progress_paytool_installing">Instalando plugin de segurança móvel %1$s…</string>
+    <string name="progress_prepaid_creating">Gerando compra…</string>
+    <string name="progress_querying">Processando…</string>
     <string name="progress_submit_hint">A recarga será creditada em sua conta em até 3 minutos.</string>
     <string name="progress_submit_recharge_summary">Adicionando recarga de %1$s MiCredits.</string>
     <string name="progress_submit_title">Requisição enviada</string>
@@ -248,7 +248,7 @@ por favor entre em contato com o SAC do serviço de pagamentos China Mobile: 400
     <string name="progress_success_pay_title">Pagamento de %1$s MiCredits concluído</string>
     <string name="progress_success_recharge_summary">Balanço da conta: %1$s MiCredits.</string>
     <string name="progress_success_recharge_title">Recarga de %1$s MiCredits concluída</string>
-    <string name="progress_voucher_creating">Adicionando MiCredits em sua conta, por favor aguarde...</string>
+    <string name="progress_voucher_creating">Adicionando MiCredits em sua conta, por favor aguarde…</string>
     <string name="progress_warning_check">"O pagamento ainda não foi processado. 
 Nós verificaremos novamente em dois dias úteis."</string>
     <string name="progress_warning_contact_server">"O pagamento ainda não foi processado. 

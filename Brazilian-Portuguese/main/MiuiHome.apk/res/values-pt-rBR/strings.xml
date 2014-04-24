@@ -10,7 +10,7 @@
     <string name="aqi_quality_index_light_pollution">Poluição leve</string>
     <string name="aqi_quality_index_moderate">Moderada</string>
     <string name="aqi_quality_index_unhealthy">Ruim</string>
-    <string name="buffering">Armazenando...</string>
+    <string name="buffering">Armazenando…</string>
     <string name="cancel_action">Cancelar</string>
     <string name="cancel_btn_label">Cancelar</string>
     <string name="cant_remove_folder">Impossível remover pasta</string>
@@ -54,7 +54,7 @@
     <string name="free_style_edit_tab_widget">Widgets</string>
     <string name="free_style_enter_tip">Deslize dois dedos para baixo para acessar o MiSpace</string>
     <string name="free_style_exit_tip">Deslize dois dedos para cima para retornar à tela inicial padrão</string>
-    <string name="free_style_londing_text">Carregando...</string>
+    <string name="free_style_londing_text">Carregando…</string>
     <string name="gadget_clear_button_label">Limpar memória</string>
     <string name="gadget_clock_12_label">Relógio 2x1</string>
     <string name="gadget_clock_22_label">Relógio 2x2</string>
@@ -62,7 +62,7 @@
     <string name="gadget_clock_label">Relógio</string>
     <string name="gadget_error_text">Problema ao carregar o widget</string>
     <string name="gadget_google_search_label">Pesquisa Google</string>
-    <string name="gadget_load_error">Carregando widget...</string>
+    <string name="gadget_load_error">Carregando widget…</string>
     <string name="gadget_photo_22_label">Imagem 2x2</string>
     <string name="gadget_photo_24_label">Imagem 4x2</string>
     <string name="gadget_photo_44_label">Imagem 4x4</string>
@@ -91,7 +91,7 @@
     <string name="home_indicator">bottom_point</string>
     <string name="install">Instalar</string>
     <string name="invalid_contact_shortcut">Contato inválido</string>
-    <string name="loading_desktop">Carregando launcher...</string>
+    <string name="loading_desktop">Carregando launcher…</string>
     <string name="lock_screen_failed_message">Falha ao aplicar</string>
     <string name="lock_screen_success_message">Aplicado</string>
     <string name="maml_component_customization_title">Configurações</string>
@@ -155,7 +155,7 @@
     <string name="sort_by_frequency">Organizar por uso</string>
     <string name="sort_by_not_defined">Auto-organizar</string>
     <string name="start_activity_failed">Falha ao iniciar launcher</string>
-    <string name="starting_preset_app">Iniciando...</string>
+    <string name="starting_preset_app">Iniciando…</string>
     <string name="status_bar_toggle_ac">Controle de acesso</string>
     <string name="status_bar_toggle_auto_brightness">Brilho Automático</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
@@ -176,7 +176,7 @@
     <string name="status_bar_toggle_quiet_mode">Não Perturbe</string>
     <string name="status_bar_toggle_reboot">Reiniciar</string>
     <string name="status_bar_toggle_ring">Toque</string>
-    <string name="status_bar_toggle_ringtone">Tom de toque</string>
+    <string name="status_bar_toggle_ringtone">Toque do telefone</string>
     <string name="status_bar_toggle_rotate">Rotação</string>
     <string name="status_bar_toggle_screen_button">Botões virtuais</string>
     <string name="status_bar_toggle_screenshot">Screenshot</string>

@@ -2,7 +2,7 @@
 <resources>
     <string name="account_bind_prompt">Migrando dados do usuário, isto poderá levar alguns minutos.</string>
     <string name="add_task">Adicionar tarefas</string>
-    <string name="adding_upload_tasks">Adicionando tarefas...</string>
+    <string name="adding_upload_tasks">Adicionando tarefas…</string>
     <string name="already_signin_description">Você já está conectado.</string>
     <string name="app_cache_cleanup_indication" formatted="false">%s cache de aplicativos</string>
     <string name="app_cache_title">Cache de aplicativos</string>
@@ -43,22 +43,22 @@
     <string name="clean_title">Excluir arquivos com mais de 30 dias</string>
     <string name="clean_trash_box">Esvaziar Lixeira</string>
     <string name="cleaned">Concluído</string>
-    <string name="cleaning">Limpando...</string>
+    <string name="cleaning">Limpando…</string>
     <string name="cleanup_complete">Concluído</string>
     <string name="cleanup_stopped">Limpeza interrompida</string>
     <string name="close">Fechar</string>
     <string name="colon">": "</string>
     <string name="compress_fail">Não foi possível comprimir: já existe um arquivo com o mesmo nome.</string>
-    <string name="compress_message">Comprimir para...</string>
+    <string name="compress_message">Comprimir para…</string>
     <string name="compress_title">Comprimir</string>
     <string name="confirm">Confirmar</string>
     <string name="confirm_know">OK</string>
     <string name="copy_failed">Não foi possível copiar</string>
     <string name="count_down_time">Iniciando em %d segundos</string>
     <string name="create_kuaipan_shortcut_pref">Mostrar na Tela inicial</string>
-    <string name="create_new_folder_desctiption">Criando pasta...</string>
+    <string name="create_new_folder_desctiption">Criando pasta…</string>
     <string name="create_new_folder_failed">Não foi possível criar a pasta</string>
-    <string name="create_share_link_description">Criando link...</string>
+    <string name="create_share_link_description">Criando link…</string>
     <string name="cution">Dicas</string>
     <string name="data_capacity">Dados %1$s</string>
     <string name="data_size_label">Dados</string>
@@ -66,7 +66,7 @@
     <string name="decompress_confirm">Extrair</string>
     <string name="decompress_fail">Não foi possível extrair: já existe um arquivo com o mesmo nome, ou o arquivo está corrompido.</string>
     <string name="decompress_success">Arquivo extraído</string>
-    <string name="decompress_to">Extrair para...</string>
+    <string name="decompress_to">Extrair para…</string>
     <string name="decompress_to_here">Extrair aqui</string>
     <string name="delete_failed">Não foi possível excluir</string>
     <string name="delete_file">Excluir este arquivo?</string>
@@ -85,7 +85,7 @@
     <string name="download_current_progress">%1$d/100</string>
     <string name="download_failed">Falha no download</string>
     <string name="download_link_completed">%1$s foi compartilhado via KuaiPan. Toque no link abaixo para acessar o conteúdo:</string>
-    <string name="downloading">Efetuando download...</string>
+    <string name="downloading">Efetuando download…</string>
     <string name="empty_dir_cleanup_indication" formatted="false">%s outros arquivos</string>
     <string name="empty_dir_title">Pastas vazias</string>
     <string name="enable_sd_card">Insira o cartão SD ou desative o armazenamento USB.</string>
@@ -105,7 +105,7 @@
     <string name="file_info_location">Local:</string>
     <string name="file_info_modified">Hora:</string>
     <string name="file_info_size">Tamanho:</string>
-    <string name="file_loading">Carregando...</string>
+    <string name="file_loading">Carregando…</string>
     <string name="file_too_large">Não foi possível efetuar upload: o arquivo é muito grande.</string>
     <string name="finished">Concluído</string>
     <string name="folder_exist">A pasta informada já existe</string>
@@ -127,9 +127,9 @@
     <string name="gbk_title">GBK</string>
     <string name="give_up_cleaning">Cancelar</string>
     <string name="header_text_cleaned">Concluído</string>
-    <string name="header_text_cleaning">Limpando...</string>
+    <string name="header_text_cleaning">Limpando…</string>
     <string name="header_text_scanned">Escaneamento concluído</string>
-    <string name="header_text_scanning">Escaneando...</string>
+    <string name="header_text_scanning">Escaneando…</string>
     <string name="instruction">Insira o seguinte endereço em seu cliente FTP:</string>
     <string name="instruction_pre">Toque em Iniciar para ativar o Servidor FTP</string>
     <string name="item_name">Pasta sem nome</string>
@@ -137,11 +137,11 @@
     <string name="kuaipan_over_space">Espaço insuficiente</string>
     <string name="kuaipan_prompt">Atenção</string>
     <string name="kuaipan_prompt_message">"
-No momento nosso servidor está em manutenção. Por favor tente novamente mais tarde...
+No momento nosso servidor está em manutenção. Por favor tente novamente mais tarde…
  "</string>
     <string name="kuaipan_tech_support">Conecte-se em kuaipan.cn</string>
     <string name="load_err">Não foi possível carregar</string>
-    <string name="loading">Carregando...</string>
+    <string name="loading">Carregando…</string>
     <string name="local_cache_size">Tamanho do cache local: %s</string>
     <string name="login_reg_content">"Armazene arquivos e sincronize-os entre múltiplos dispositivos.
 Este recurso requer uma conexão com a internet."</string>
@@ -176,37 +176,37 @@ Este recurso requer uma conexão com a internet."</string>
     <string name="no_thumbnail_indication">Nenhuma miniatura de imagem</string>
     <string name="no_wifi">Conexão Wi-Fi indisponível.</string>
     <string name="no_wifi_hint">Verifique suas configurações de conexão.</string>
-    <string name="notif_server_starting">Iniciando servidor FTP...</string>
+    <string name="notif_server_starting">Iniciando servidor FTP…</string>
     <string name="notif_title">Servidor FTP em execução.</string>
     <string name="open_changed_file_message">"O arquivo que você está tentando abrir foi alterado. Para corrigir este problema:
 1. Faça o download do arquivo novamente para garantir que você possua a versão mais recente.
 2. Efetue o upload do arquivo em sua conta KuaiPan."</string>
     <string name="open_changed_file_title">Alterações aplicadas</string>
-    <string name="operating">Processando...</string>
+    <string name="operating">Processando…</string>
     <string name="operation_cancel">Cancelar</string>
     <string name="operation_compress">Comprimir</string>
-    <string name="operation_compressing">Comprimindo...</string>
+    <string name="operation_compressing">Comprimindo…</string>
     <string name="operation_copy">Copiar</string>
-    <string name="operation_copying">Copiando...</string>
+    <string name="operation_copying">Copiando…</string>
     <string name="operation_copying_detail">Copiando (%1$d/%2$d)</string>
     <string name="operation_create_folder">Nova pasta</string>
     <string name="operation_create_folder_message">Nome da pasta</string>
-    <string name="operation_decompressing">Extraindo...</string>
+    <string name="operation_decompressing">Extraindo…</string>
     <string name="operation_delete">Excluir</string>
     <string name="operation_delete_confirm_message">Excluir</string>
     <string name="operation_delete_confirm_message_folder">"Excluindo a pasta você também excluirá todo o seu conteúdo.
 "</string>
-    <string name="operation_deleting">Excluindo...</string>
+    <string name="operation_deleting">Excluindo…</string>
     <string name="operation_deleting_detail">Excluindo (%1$d/%2$d)</string>
     <string name="operation_download_link">Gerar link de download</string>
     <string name="operation_favorite">Marcar como favorito</string>
     <string name="operation_hide_sys">Não mostrar arquivos ocultos</string>
     <string name="operation_info">Detalhes</string>
     <string name="operation_move">Recortar</string>
-    <string name="operation_moving">Movendo...</string>
+    <string name="operation_moving">Movendo…</string>
     <string name="operation_moving_detail">Movendo (%1$d/%2$d)</string>
     <string name="operation_paste">Colar</string>
-    <string name="operation_pasting">Copiando...</string>
+    <string name="operation_pasting">Copiando…</string>
     <string name="operation_pause">Pausar</string>
     <string name="operation_pause_all">Pausar todos</string>
     <string name="operation_refresh">Atualizar</string>
@@ -220,14 +220,14 @@ Este recurso requer uma conexão com a internet."</string>
     <string name="pan_settting">Configurações do KuaiPan</string>
     <string name="paused">Em pausa</string>
     <string name="pull_to_signin">Deslize para baixo para efetuar o login.</string>
-    <string name="query_bind_state">Conectando-se ao KuaiPan...</string>
+    <string name="query_bind_state">Conectando-se ao KuaiPan…</string>
     <string name="release_to_signin">Solte para efetuar o login.</string>
-    <string name="rename_description">Renomeando...</string>
+    <string name="rename_description">Renomeando…</string>
     <string name="rename_failed">Não foi possível renomear %1$s</string>
     <string name="restart_cleaning">Reiniciar</string>
     <string name="scanned">Escaneamento concluído</string>
-    <string name="scanning" formatted="false">Verificando %d app(s) ... (total de %d app(s))</string>
-    <string name="scanning_on_going">Escaneando...</string>
+    <string name="scanning" formatted="false">Verificando %d app(s) … (total de %d app(s))</string>
+    <string name="scanning_on_going">Escaneando…</string>
     <string name="sd_card_available">Disponível: %1$s</string>
     <string name="sd_card_size">Cartão SD: %1$s</string>
     <string name="sd_full">O armazenamento do seu dispositivo está cheio</string>
@@ -241,7 +241,7 @@ Este recurso requer uma conexão com a internet."</string>
     <string name="server_control_settings">Configurações</string>
     <string name="share_link_failed">Não foi possível gerar o link</string>
     <string name="show_message">Você precisa efetuar o download deste arquivo antes de abrí-lo.</string>
-    <string name="sign_description">Efetuando login...</string>
+    <string name="sign_description">Efetuando login…</string>
     <string name="signin_error">Não foi possível conectar-se ao servidor. Verifique sua conexão com a internet.</string>
     <string name="signin_success">"Bem-vindo!
 Armazenamento gratuito adicionado: %1$s"</string>
@@ -269,7 +269,7 @@ Armazenamento gratuito adicionado: %1$s"</string>
     <string name="toast_file_not_can_read">Nenhum aplicativo encontrado para executar esta ação</string>
     <string name="trans_task">Transferências</string>
     <string name="trans_task_delete_confirm_message">Excluir %1$d tarefas selecionadas?</string>
-    <string name="transing">Enviando...</string>
+    <string name="transing">Enviando…</string>
     <string name="trash_box_capacity">Lixeira %1$s</string>
     <string name="trash_box_link">Para esvaziar a sua lixeira, acesse <b>pan.xiaomi.com.</b></string>
     <string name="trash_box_message1">Exclua arquivos desnecessários para liberar espaço.</string>
@@ -278,14 +278,14 @@ Armazenamento gratuito adicionado: %1$s"</string>
     <string name="ui_filechange_btn_upload">Upload de arquivos</string>
     <string name="ui_main_menu_option_sign_in">Login</string>
     <string name="ui_main_menu_option_task_manage">Gerenciar downloads</string>
-    <string name="ui_main_progress_txt_open_file">Efetuando download...</string>
+    <string name="ui_main_progress_txt_open_file">Efetuando download…</string>
     <string name="ui_main_toast_favorite_removed">Item removido dos favoritos</string>
     <string name="ui_main_toast_operation_failed">Falha ao remover %1$s dos favoritos</string>
     <string name="uninstall_app_data">Excluir o aplicativo e seus dados</string>
     <string name="unmount_inform_text">Desmontar armazenamento USB?</string>
     <string name="upload_failed">Falha no upload</string>
     <string name="upload_file_toolarge_message">Falha no upload de %1$d: não é possível enviar arquivos maiores do que 300MB.</string>
-    <string name="uploading">Efetuando upload...</string>
+    <string name="uploading">Efetuando upload…</string>
     <string name="used">Utilizado</string>
     <string name="user_guide">Guia do usuário KuaiPan</string>
     <string name="user_guide_download_other_version">Faça o download do KuaiPan para Windows e OSX</string>
@@ -296,12 +296,12 @@ Armazenamento gratuito adicionado: %1$s"</string>
     <string name="utf8_summary">Codificação padrão do sistema</string>
     <string name="utf8_title">UTF-8</string>
     <string name="version_text">Versão %1$s</string>
-    <string name="wait_net">Aguardando rede...</string>
-    <string name="wait_sdcard">Aguardando o cartão SD...</string>
-    <string name="wait_wifi">Aguardando Wi-Fi...</string>
-    <string name="waiting">Aguardando...</string>
-    <string name="waiting_for_cleaning">Aguardando...</string>
-    <string name="waiting_for_scanning">Aguardando...</string>
+    <string name="wait_net">Aguardando rede…</string>
+    <string name="wait_sdcard">Aguardando o cartão SD…</string>
+    <string name="wait_wifi">Aguardando Wi-Fi…</string>
+    <string name="waiting">Aguardando…</string>
+    <string name="waiting_for_cleaning">Aguardando…</string>
+    <string name="waiting_for_scanning">Aguardando…</string>
     <string name="wangpan_root_path">Kuaipan</string>
     <string name="wifi_state">Estado do Wi-Fi</string>
     <string name="xiaomi_account">Conta Xiaomi</string>

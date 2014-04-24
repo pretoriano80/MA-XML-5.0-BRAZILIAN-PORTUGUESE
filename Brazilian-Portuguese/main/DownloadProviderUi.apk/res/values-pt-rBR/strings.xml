@@ -40,7 +40,7 @@
     <string name="download_title_sorted_by_date">Downloads - Classificado por data</string>
     <string name="download_title_sorted_by_size">Downloads - Classificado por tamanho</string>
     <string name="download_when_network_connected">Transferir quando conectado a alguma rede</string>
-    <string name="downloads_operating">Transferindo...</string>
+    <string name="downloads_operating">Transferindo…</string>
     <string name="editmode_menu_delete">Excluir</string>
     <string name="editmode_menu_share">Compartilhar</string>
     <string name="keep_queued_download">Manter</string>

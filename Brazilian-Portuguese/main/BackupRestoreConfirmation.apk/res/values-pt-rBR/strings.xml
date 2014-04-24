@@ -18,9 +18,9 @@ Caso você não tenha solicitado o backup, não permita que a operação prossig
 Caso você não tenha solicitado a restauração, não permita que a operação prossiga. Isso substituirá todos os dados existentes no telefone!"</string>
     <string name="restore_confirm_title">Restauração completa</string>
     <string name="restore_enc_password_text">Se os dados restaurados forem criptografados, digite a senha abaixo:</string>
-    <string name="toast_backup_started">Iniciando backup...</string>
+    <string name="toast_backup_started">Iniciando backup…</string>
     <string name="toast_backup_ended">O backup foi concluído</string>
-    <string name="toast_restore_started">Iniciando restauração...</string>
+    <string name="toast_restore_started">Iniciando restauração…</string>
     <string name="toast_restore_ended">A restauração foi concluída</string>
     <string name="toast_timeout">A operação atingiu o tempo limite</string>
 </resources>

@@ -161,7 +161,7 @@ Usado"</string>
     <string name="tips_dialog_title">Não conhece seu limite?</string>
     <string name="tips_message">Caso você não tenha certeza dos detalhes de seu plano de dados móveis, você precisará entrar em contato com sua operadora.</string>
     <string name="traffic_correction_failed">"Impossível obter limite de dados"</string>
-    <string name="traffic_correction_start_correction">Consultando operadora...</string>
+    <string name="traffic_correction_start_correction">Consultando operadora…</string>
     <string name="traffic_correction_start_correction_failed">Falha durante a requisição, por favor verifique suas configurações</string>
     <string name="traffic_correction_success">Limite de dados atualizado</string>
     <string name="traffic_none">Nenhum</string>
@@ -176,7 +176,7 @@ Usado"</string>
     <string name="traffic_setting_fragment_brand">Marca</string>
     <string name="traffic_setting_fragment_button2_text">Salvar</string>
     <string name="traffic_setting_fragment_get_template_falure">Falha na atualização. Verifique sua conexão com a internet e tente novamente.</string>
-    <string name="traffic_setting_fragment_loading_text">Obtendo informações da rede...</string>
+    <string name="traffic_setting_fragment_loading_text">Obtendo informações da rede…</string>
     <string name="traffic_setting_fragment_no_network">Falha ao conectar-se à rede</string>
     <string name="traffic_setting_fragment_null">Vazio</string>
     <string name="traffic_setting_fragment_operator">Operadora</string>
@@ -188,5 +188,5 @@ Usado"</string>
     <string name="traffic_setting_fragment_title">Informação de pacotes</string>
     <string name="usage_sorted_activity_lable">Uso de dados</string>
     <string name="usage_sorted_empty_text">Vazio</string>
-    <string name="usage_sorted_loading_text">Carregando...</string>
+    <string name="usage_sorted_loading_text">Carregando…</string>
 </resources>

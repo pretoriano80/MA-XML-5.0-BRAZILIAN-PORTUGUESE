@@ -56,7 +56,7 @@
     <string name="notealert_enter">Dê uma olhada</string>
     <string name="notealert_ok">Entendi</string>
     <string name="notelist_menu_new">Adicionar Anotação</string>
-    <string name="notelist_string_info">...</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Lembrete</string>
     <string name="pref_desc_alarm_when_silent">Os alarmes do dispositivo tocarão no modo silencioso</string>
     <string name="pref_desc_mode_grid">Grade</string>

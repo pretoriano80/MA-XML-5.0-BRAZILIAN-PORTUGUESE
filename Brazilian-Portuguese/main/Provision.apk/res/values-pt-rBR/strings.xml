@@ -19,7 +19,7 @@
     <string name="setup_complete_start">Iniciar o uso</string>
     <string name="setup_complete_summary">Configuração concluída! Aproveite :)</string>
     <string name="shutdown">Desligar</string>
-    <string name="sim_card_detection_dialog_message">Detectando cartão SIM...</string>
+    <string name="sim_card_detection_dialog_message">Detectando cartão SIM…</string>
     <string name="sim_card_detection_info"/>
     <string name="sim_card_detection_label">Cartão SIM</string>
     <string name="sim_card_detection_status_absent">Nenhum cartão SIM detectado</string>

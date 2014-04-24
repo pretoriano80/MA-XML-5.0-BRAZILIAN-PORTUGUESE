@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="about_to_receive">Recebendo...</string>
+    <string name="about_to_receive">Recebendo…</string>
     <string name="about_to_send">Enviar</string>
     <string name="add_download_task_failed">Falha ao enfileirar download</string>
     <string name="add_to_download">Este arquivo já está em sua fila de download</string>
@@ -18,12 +18,12 @@
     <string name="cancel">Cancelar</string>
     <string name="cancel_receive">Parar recebimento</string>
     <string name="cancel_send">Cancelar envio</string>
-    <string name="canceling">Cancelando...</string>
+    <string name="canceling">Cancelando…</string>
     <string name="choose_title">Selecionar arquivo</string>
     <string name="complete">Concluído</string>
     <string name="confirm">Confirmar</string>
     <string name="connect_confirm">%1$s está solicitando uma conexão</string>
-    <string name="connecting">Conectando...</string>
+    <string name="connecting">Conectando…</string>
     <string name="continue_to_send">Continuar enviando</string>
     <string name="defalut_nameofnewfile">Pasta sem nome</string>
     <string name="delete">Excluir</string>
@@ -55,20 +55,20 @@
     <string name="fail">Falha</string>
     <string name="failed">Falhou</string>
     <string name="file_download">Downloads</string>
-    <string name="file_downloading">Efetuando download...</string>
+    <string name="file_downloading">Efetuando download…</string>
     <string name="file_not_exist">O arquivo não existe</string>
     <string name="file_restore">Restaurar arquivo</string>
     <string name="file_share_download_complete">Download concluído</string>
     <string name="file_share_upload_complete">Upload concluído</string>
     <string name="file_upload">Uploads</string>
-    <string name="file_uploading">Efetuando upload...</string>
+    <string name="file_uploading">Efetuando upload…</string>
     <string name="fill_download_paused">Download em pausa</string>
     <string name="fill_upload_paused">Upload em pausa</string>
     <string name="finish">Concluído</string>
     <string name="first_in_tip">Usando O Transfer</string>
     <string name="from_kuaipan">Do KuaiPan</string>
     <string name="generate_share_link_failed">Falha ao gerar link</string>
-    <string name="generating_share_link">Criando link...</string>
+    <string name="generating_share_link">Criando link…</string>
     <string name="get_share_failed">Falha ao compartilhar</string>
     <string name="goback">Voltar</string>
     <string name="guide_label">Guia do Transfer</string>
@@ -78,11 +78,11 @@
     <string name="history_receive">Histórico de recebimento</string>
     <string name="history_received_fileinfo">%1$s | de %2$s</string>
     <string name="history_send">Histórico de envio</string>
-    <string name="init_xiaomi_account">Conectando-se à conta Xiaomi...</string>
+    <string name="init_xiaomi_account">Conectando-se à conta Xiaomi…</string>
     <string name="input_device_name">Digite o nome do dispositivo</string>
     <string name="input_device_name_tip">Este nome será visível para outros dispositivos Bluetooth por perto.</string>
     <string name="load_file_error">Falha ao obter informações do arquivo</string>
-    <string name="loading_file">Carregando...</string>
+    <string name="loading_file">Carregando…</string>
     <string name="login_failed">Falha no login</string>
     <string name="mishare_app_name">Mi Share</string>
     <string name="miui_device_default_name">Android</string>
@@ -94,7 +94,7 @@
     <string name="noti_completed">Concluído: %1$d de %2$d arquivos(s) transferido(s)</string>
     <string name="noti_receiving">%1$s: Recebendo %2$d de %3$d arquivos(s)</string>
     <string name="noti_sending">%1$s: Enviando %2$d de %3$d arquivos(s)</string>
-    <string name="noti_wait_receive">Aguardando recebimento...</string>
+    <string name="noti_wait_receive">Aguardando recebimento…</string>
     <string name="noti_wait_send">"Aguardando recebimento: Certifique-se de que o remetente habilitou a conexão e pode enviar arquivo(s) "</string>
     <string name="notify_after_download">Você será notificado da conclusão do download</string>
     <string name="notify_after_restore">Você será notificado da conclusão do upload</string>
@@ -145,7 +145,7 @@
     <string name="scan_tip">"Certifique-se de que o destinatário habilitou a conexão 
 e pode receber arquivo(s)"</string>
     <string name="scan_title">Por favor focalize o código 2D</string>
-    <string name="scanning">Procurando...</string>
+    <string name="scanning">Procurando…</string>
     <string name="sdcard_invalid">Erro no cartão SD</string>
     <string name="sdcard_unavailable">Cartão SD indisponível</string>
     <string name="select_all">Selecionar tudo</string>
@@ -204,18 +204,18 @@ e pode receber arquivo(s)"</string>
     <string name="use_start">Iniciar agora</string>
     <string name="video">Vídeo</string>
     <string name="voice_assist_match">Correspondência rápida</string>
-    <string name="voice_match">Correspondência rápida...</string>
-    <string name="wait_for_upload">Aguardando o upload...</string>
+    <string name="voice_match">Correspondência rápida…</string>
+    <string name="wait_for_upload">Aguardando o upload…</string>
     <string name="wait_for_upload_to_download">Você será notificado quando o download de terceiros for concluído</string>
     <string name="wait_for_upload_to_restore">Você será notificado quando o upload de terceiros for concluído</string>
-    <string name="wait_login">Efetuando login...</string>
-    <string name="wait_net">Aguardando rede...</string>
+    <string name="wait_login">Efetuando login…</string>
+    <string name="wait_net">Aguardando rede…</string>
     <string name="wait_sdcard">Aguardando cartão SD</string>
     <string name="wait_wifi">Aguardando conexão Wi-Fi</string>
     <string name="wait_wifi_to_download">Aguardando conexão Wi-Fi</string>
     <string name="wait_wifi_to_upload">Aguardando conexão Wi-Fi</string>
-    <string name="waiting_receive">Aguardando...</string>
-    <string name="waitting">Aguardando...</string>
+    <string name="waiting_receive">Aguardando…</string>
+    <string name="waitting">Aguardando…</string>
     <string name="wanna_receive">Receber</string>
     <string name="welcome_tip1">Transfira arquivos rapidamente com baixo consumo de tráfego de rede</string>
     <string name="welcome_tip2">Transfira rapidamente fotos, músicas, contatos e muito mais!</string>

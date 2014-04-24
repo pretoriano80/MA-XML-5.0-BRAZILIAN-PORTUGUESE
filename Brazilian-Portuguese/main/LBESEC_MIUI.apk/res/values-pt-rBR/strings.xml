@@ -33,7 +33,7 @@ Por favor troque sua ROM para uma versão de desenvolvimento para ativar as perm
     <string name="Dashboard_Su_Enable_Content">"Ao ativar esta opção você permitirá que aplicativos solicitem permissões root. 
 Nota: Aplicativos com este tipo de permissão podem causar instabilidade do sistema, perda de dados pessoais, dados de sistema ou até mesmo falhas de hardware. Proceda com cautela. Deseja continuar?"</string>
     <string name="Dashboard_Su_Enable_Title">Permissões root</string>
-    <string name="Generic_Canceling">Cancelando...</string>
+    <string name="Generic_Canceling">Cancelando…</string>
     <string name="Generic_Check">Verificar</string>
     <string name="Generic_Clean">Limpar</string>
     <string name="Generic_Configuration">Configurações</string>
@@ -43,9 +43,9 @@ Nota: Aplicativos com este tipo de permissão podem causar instabilidade do sist
     <string name="Generic_Good">Bom</string>
     <string name="Generic_HideSystemApp">Ocultar aplicativos do Sistema</string>
     <string name="Generic_InvalidInput">Entrada inválida</string>
-    <string name="Generic_Loading">Carregando...</string>
+    <string name="Generic_Loading">Carregando…</string>
     <string name="Generic_MonitoredApp">Aplicativos Monitorados (%1$d)</string>
-    <string name="Generic_Operating">Executando...</string>
+    <string name="Generic_Operating">Executando…</string>
     <string name="Generic_Optimize">Otimizar</string>
     <string name="Generic_Service_Disabled">O Serviço foi desativado</string>
     <string name="Generic_Service_Enabled">O Serviço foi ativado</string>
@@ -219,7 +219,7 @@ Nota: Aplicativos com este tipo de permissão podem causar instabilidade do sist
     <string name="Privacy_App_Trust_Summary_On">A MIUI irá confiar neste aplicativo</string>
     <string name="Privacy_App_Uninstall">Desinstalar</string>
     <string name="Privacy_Perm_Count">Permitido: %1$d Negado: %2$d</string>
-    <string name="Su_Enable_Dialog">%1$s está tentando obter permissões root, o que é desativado por padrão no sistema. Se você desejar ativá-lo, acesse as configurações do Gerenciador de Permissões.</string>
+    <string name="Su_Enable_Dialog">%1$s está tentando obter permissões root, o que é desativado por padrão no sistema. Se você desejar ativá-lo, acesse as configurações do Gerenciador de permissões.</string>
     <string name="Su_Unavailable">As permissões ROOT estão desativadas em versões estáveis da MIUI. Por favor instale uma versão de desenvolvimento da ROM MIUI para ter acesso às permissões de ROOT.</string>
     <string name="SysOpt_Boost_AutoStart">Permissão de início automático</string>
     <string name="SysOpt_Boost_AutoStart_Group">Início Automático</string>

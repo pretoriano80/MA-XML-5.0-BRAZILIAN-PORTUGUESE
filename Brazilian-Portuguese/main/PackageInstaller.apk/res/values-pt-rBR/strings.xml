@@ -37,7 +37,7 @@ Todos os dados de usuário anteriores serão preservados."</string>
     <string name="install_failed_system_incompatible">Este aplicativo não é compatível com a MIUI ROM!</string>
     <string name="install_failed_verify_failed">O pacote não passou na verificação e não pode ser instalado.</string>
     <string name="install_failed_verify_timeout">Tempo esgotado ao verificar o pacote de instalação. Tente instalá-lo novamente mais tarde.</string>
-    <string name="installing">Instalando...</string>
+    <string name="installing">Instalando…</string>
     <string name="launch">Abrir</string>
     <string name="lift_ban">Permitir</string>
     <string name="low_risk_perms">Permissões de baixo risco</string>
@@ -75,7 +75,7 @@ Todos os dados de usuário anteriores serão preservados."</string>
     <string name="uninstall_failed_retained_app_msg">Este aplicativo foi modificado e não pode ser desinstalado em seu formato atual.</string>
     <string name="uninstall_update_text">A atualização do aplicativo será substituída por sua versão de fábrica.</string>
     <string name="uninstall_update_title">Desinstalar atualização</string>
-    <string name="uninstalling">Desinstalando...</string>
+    <string name="uninstalling">Desinstalando…</string>
     <string name="unknown">Desconhecido</string>
     <string name="unknown_apps_dlg_text">"Por segurança, o seu dispositivo está configurado para bloquear a instalação de aplicativos que não foram obtidos de fontes confiáveis.
     

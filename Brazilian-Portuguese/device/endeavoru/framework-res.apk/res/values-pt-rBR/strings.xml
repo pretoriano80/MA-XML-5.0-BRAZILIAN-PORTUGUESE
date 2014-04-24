@@ -22,7 +22,7 @@
     <string name="yes">OK</string>
     <string name="dialog_alert_title">Atenção</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Este vídeo não é válido para transmissão com este telefone.</string>
-    <string name="selectTextMode">Selecionar texto...</string>
+    <string name="selectTextMode">Selecionar texto…</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="month_long_standalone_january">Janeiro</string>
     <string name="month_long_standalone_february">Fevereiro</string>
@@ -797,7 +797,7 @@ Tente novamente em %d segundos."</string>
     <string name="lockscreen_glogin_invalid_input">Nome de usuário ou senha inválidos.</string>
     <string name="lockscreen_glogin_account_recovery_hint">"Esqueceu seu nome de usuário ou senha?
 Acesse "<b>google.com/accounts/recovery</b>.</string>
-    <string name="lockscreen_glogin_checking_password">Verificando...</string>
+    <string name="lockscreen_glogin_checking_password">Verificando…</string>
     <string name="lockscreen_unlock_label">Desbloquear</string>
     <string name="lockscreen_sound_on_label">Som ativado</string>
     <string name="lockscreen_sound_off_label">Som desativado</string>
@@ -952,7 +952,7 @@ Selecione OK para continuar ou Cancelar para permanecer na página atual."</stri
     <string name="Midnight">Meia-noite</string>
     <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
     <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
-    <string name="replace">Substituir...</string>
+    <string name="replace">Substituir…</string>
     <string name="delete">Excluir</string>
     <string name="textSelectionCABTitle">Seleção de texto</string>
     <string name="addToDictionary">adicionar ao dicionário</string>
@@ -961,7 +961,7 @@ Selecione OK para continuar ou Cancelar para permanecer na página atual."</stri
     <string name="editTextMenuTitle">Ações de texto</string>
     <string name="low_internal_storage_view_title">Pouco espaço</string>
     <string name="low_internal_storage_view_text">O espaço de armazenamento do telefone está ficando baixo.</string>
-    <string name="loading">Carregando...</string>
+    <string name="loading">Carregando…</string>
     <string name="capital_on">LIG</string>
     <string name="capital_off">DESL</string>
     <string name="whichApplication">Complete a ação usando</string>
@@ -998,7 +998,7 @@ Você deseja fechá-la?"</string>
     <string name="screen_compat_mode_hint">Reativar em Configurações > Aplicativos > Gerenciar aplicativos.</string>
     <string name="smv_application">O aplicativo %1$s (processo %2$s) violou a política StrictMode imposta automaticamente.</string>
     <string name="smv_process">O processo %1$s violou a política StrictMode imposta automaticamente.</string>
-    <string name="android_upgrading_title">O Android está sendo atualizado...</string>
+    <string name="android_upgrading_title">O Android está sendo atualizado…</string>
     <string name="android_upgrading_apk">Otimizando aplicativo %1$d de %2$d.</string>
     <string name="android_upgrading_starting_apps">Iniciando os aplicativos.</string>
     <string name="android_upgrading_complete">Concluindo a inicialização.</string>
@@ -1123,7 +1123,7 @@ Você deseja fechá-la?"</string>
     <string name="permlab_pkgUsageStats">atualizar estatísticas de uso do componente</string>
     <string name="permdesc_pkgUsageStats">Permite a modificação das estatísticas de uso do componente coletadas. Não deve ser usado por aplicativos normais.</string>
     <string name="permlab_copyProtectedData">copy content</string>
-    <string name="permdesc_copyProtectedData">Allows the app to invoke default container service to copy content. Not for use by normal apps.</string>
+    <string name="permdesc_copyProtectedData">Allows the aplicativo to invoke default container service to copy content. Not for use by normal apps.</string>
     <string name="permlab_route_media_output">Rotear saída de mídia</string>
     <string name="permdesc_route_media_output">Permite que um aplicativo roteie a saída de áudio do telefone para telefones externos.</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Toque duas vezes para ter controle do zoom</string>
@@ -1175,8 +1175,8 @@ para a conta %s"</string>
     <string name="no_matches">Não encontrado</string>
     <string name="find_on_page">Localizar na página</string>
     <string name="action_mode_done">Concluído</string>
-    <string name="progress_unmounting">Desconectando cartão SD...</string>
-    <string name="progress_erasing">Apagando cartão SD...</string>
+    <string name="progress_unmounting">Desconectando cartão SD…</string>
+    <string name="progress_erasing">Apagando cartão SD…</string>
     <string name="format_error">Impossível apagar Armazenamento USB</string>
     <string name="media_bad_removal">Cartão SD removido antes da desconexão.</string>
     <string name="media_checking">O cartão SD está sendo verificado no momento.</string>
@@ -1244,7 +1244,7 @@ para a conta %s"</string>
     <string name="storage_internal">Armazenamento interno</string>
     <string name="storage_sd_card">Cartão SD</string>
     <string name="storage_usb">Armaz. USB</string>
-    <string name="extract_edit_menu_button">Editar...</string>
+    <string name="extract_edit_menu_button">Editar…</string>
     <string name="data_usage_warning_title">Aviso sobre uso de dados</string>
     <string name="data_usage_warning_body">Toque p/ ver uso e configurações</string>
     <string name="data_usage_3g_limit_title">Dados 2G e 3G desativados</string>
@@ -1273,12 +1273,12 @@ para a conta %s"</string>
     <string name="fingerprints">Impressões digitais</string>
     <string name="sha256_fingerprint">Impressão digital SHA-256</string>
     <string name="sha1_fingerprint">Impressão digital SHA-1</string>
-    <string name="activity_chooser_view_see_all">Ver todos...</string>
+    <string name="activity_chooser_view_see_all">Ver todos…</string>
     <string name="activity_chooser_view_dialog_title_default">Selecionar atividade</string>
-    <string name="share_action_provider_share_with">Compartilhar com...</string>
+    <string name="share_action_provider_share_with">Compartilhar com…</string>
     <string name="status_bar_device_locked">Telefone bloqueado.</string>
     <string name="list_delimeter">", "</string>
-    <string name="sending">Enviando...</string>
+    <string name="sending">Enviando…</string>
     <string name="launchBrowserDefault">Abrir Navegador?</string>
     <string name="SetupCallDefault">Aceitar chamada?</string>
     <string name="activity_resolver_use_always">Sempre</string>

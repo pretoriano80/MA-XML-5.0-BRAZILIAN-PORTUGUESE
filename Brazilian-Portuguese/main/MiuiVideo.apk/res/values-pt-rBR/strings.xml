@@ -299,7 +299,7 @@ para a MiBox ou TV"</string>
     <string name="toast_message_continue_play_hour"> h</string>
     <string name="toast_message_continue_play_minute"> m</string>
     <string name="toast_message_continue_play_second_and_play">s</string>
-    <string name="toast_message_set_misound">Por favor configure o MI Audio...</string>
+    <string name="toast_message_set_misound">Por favor configure o MI Audio…</string>
     <string name="today">Hoje</string>
     <string name="top_status_local_media">Local</string>
     <string name="top_status_online_media">Online</string>

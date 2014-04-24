@@ -77,7 +77,7 @@
     <string name="act_mute_ms_summary">Notificações desativadas, mas as mensagens permanecerão acessíveis</string>
     <string name="action_settings">Configurações</string>
     <string name="activate_miui_screensaver">Ativar proteção de tela</string>
-    <string name="activating">Ativando...</string>
+    <string name="activating">Ativando…</string>
     <string name="active_device_admin_msg">Administrador do dispositivo</string>
     <string name="active_input_method_subtypes">Métodos ativos de entrada</string>
     <string name="activity_picker_label">Selecione a atividade</string>
@@ -164,7 +164,7 @@ Deseja ativar o recurso agora?"</string>
     <string name="app_notifications_switch_label">Notificação personalizada</string>
     <string name="app_process_limit_title">Limite de processos em 2º plano</string>
     <string name="app_uninstall_residual">Limpar resíduos de aplicativos desinstalados?</string>
-    <string name="application_forbid_auto_startup">Desativar início automático de %s</string>
+    <string name="application_forbid_auto_startup">Desativar início automático de %s?</string>
     <string name="application_info_label">Informações do aplicativo</string>
     <string name="application_item_already_permission">Permitido</string>
     <string name="application_item_disable">Negar</string>
@@ -193,7 +193,7 @@ Deseja ativar o recurso agora?"</string>
     <string name="auto_replace_summary">Corrigir palavras digitadas incorretamente</string>
     <string name="auto_restore_summary">Ao reinstalar um aplicativo, restaura as configurações de backup e dados</string>
     <string name="auto_restore_title">Restauração automática</string>
-    <string name="auto_start_summary">%1$d com início automático</string>
+    <string name="auto_start_summary">%1$d aplicativos com início automático</string>
     <string name="auto_start_title">Início automático de aplicativos</string>
     <string name="auto_startup_application_manage">Início automático de aplicativos</string>
     <string name="auto_startup_count">%d aplicativos iniciam automaticamente</string>
@@ -307,12 +307,12 @@ Deseja ativar o recurso agora?"</string>
     <string name="bluetooth_ask_lasting_discovery">Um aplicativo quer tornar seu telefone visível para outros dispositivos Bluetooth. Você pode alterar esta opção a qualquer momento nas configurações do Bluetooth.</string>
     <string name="bluetooth_auto_connect">Conexão automática</string>
     <string name="bluetooth_confirm_passkey_msg">Para parear com:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Verifique se ele está mostrando a seguinte senha:&lt;br>&lt;b>%2$s&lt;/b></string>
-    <string name="bluetooth_connect_specific_profiles_title">Conectar-se a...</string>
+    <string name="bluetooth_connect_specific_profiles_title">Conectar-se a…</string>
     <string name="bluetooth_connected">Conectado</string>
     <string name="bluetooth_connected_no_a2dp">Conectado (sem mídia)</string>
     <string name="bluetooth_connected_no_headset">Conectado (sem telefone)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">Conectado (sem telefone ou mídia)</string>
-    <string name="bluetooth_connecting">Conectando...</string>
+    <string name="bluetooth_connecting">Conectando…</string>
     <string name="bluetooth_connecting_error_message">Não foi possível conectar ao %1$s.</string>
     <string name="bluetooth_connection_dialog_text">Deseja conectar-se ao \"%1$s\"?</string>
     <string name="bluetooth_connection_notif_message">Toque para conectar-se a \"%1$s\".</string>
@@ -440,7 +440,7 @@ Insira o PIN para parear com \"%1$s\". [Segurança reforçada ativada: Necessár
     <string name="bluetooth_sap_request">Requisição SAP</string>
     <string name="bluetooth_scan_for_devices">Procurar dispositivos</string>
     <string name="bluetooth_search_for_devices">Procurar dispositivos</string>
-    <string name="bluetooth_searching_for_devices">Pesquisando...</string>
+    <string name="bluetooth_searching_for_devices">Pesquisando…</string>
     <string name="bluetooth_settings">Bluetooth</string>
     <string name="bluetooth_settings_summary">Gerenciar conexões, definir o nome e detecção do dispositivo</string>
     <string name="bluetooth_settings_title">Bluetooth</string>
@@ -453,7 +453,7 @@ Insira o PIN para parear com \"%1$s\". [Segurança reforçada ativada: Necessár
     <string name="bluetooth_tethering_off_subtext">Conexão de Internet não compartilhada</string>
     <string name="bluetooth_tethering_overflow_error">Não é possível vincular a mais de %1$d dispositivos.</string>
     <string name="bluetooth_turning_off">Desligar o Bluetooth…</string>
-    <string name="bluetooth_turning_on">Ativando Bluetooth...</string>
+    <string name="bluetooth_turning_on">Ativando Bluetooth…</string>
     <string name="bluetooth_untether_blank">%1$s será vinculado.</string>
     <string name="bluetooth_visibility">Detectável</string>
     <string name="bluetooth_visibility_timeout">Tempo limite de visibilidade</string>
@@ -493,7 +493,7 @@ Insira o PIN para parear com \"%1$s\". [Segurança reforçada ativada: Necessár
     <string name="cache_garbage">Arquivos de cache</string>
     <string name="cache_header_label">Cache</string>
     <string name="cache_list_empty_hints">Nenhum arquivo em cache</string>
-    <string name="cache_manage_title">Limpar %1$d arquivos em cache para liberar %2$s de espaço</string>
+    <string name="cache_manage_title">%1$d arquivos em cache ocupando %2$s de espaço</string>
     <string name="cache_manager_actionbar_title">Cache</string>
     <string name="cache_size_label">Cache</string>
     <string name="cached">Processo em segundo plano em cache</string>
@@ -531,7 +531,7 @@ Insira o PIN para parear com \"%1$s\". [Segurança reforçada ativada: Necessár
     <string name="check_all">Selecionar tudo</string>
     <string name="check_nothing">Cancelar seleção</string>
     <string name="checkbox_notification_same_as_incoming_call">Usar volume de chamada recebida para notificações</string>
-    <string name="checking">Verificando...</string>
+    <string name="checking">Verificando…</string>
     <string name="choose_timezone">Selecione o fuso horário</string>
     <string name="clean_confirm_title">Excluir estes arquivos?</string>
     <string name="cleaner">Limpeza</string>
@@ -637,7 +637,7 @@ Algumas contas, como Contas do Google, também poderão copiar automaticamente a
  
 Para determinar as informações a sincronizar em cada conta, acesse Configurações > Contas."</string>
     <string name="data_usage_auto_sync_on_dialog_title">Ativar sincronização automática?</string>
-    <string name="data_usage_change_cycle">Alterar ciclo...</string>
+    <string name="data_usage_change_cycle">Alterar ciclo…</string>
     <string name="data_usage_cycle">Ciclo do uso de dados</string>
     <string name="data_usage_cycle_editor_positive">Definidas</string>
     <string name="data_usage_cycle_editor_subtitle">Data de cada mês:</string>
@@ -883,7 +883,7 @@ Como o uso de dados é calculado por seu telefone, e sua operadora pode entender
     <string name="drive_mode_sms_report">Mensagens</string>
     <string name="drive_mode_title">Configurar modo de direção</string>
     <string name="drive_mode_voice_report">Saída de voz</string>
-    <string name="dtmf_tone_enable_title">Tons de toque do teclado</string>
+    <string name="dtmf_tone_enable_title">Sons de toque do teclado</string>
     <string name="edit_blacklist">Editar nota</string>
     <string name="edit_whitelist">Editar nota</string>
     <string name="emergency_tone_summary">Definir comportamento durante uma chamada de emergência</string>
@@ -954,17 +954,17 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="filter_dlg_title">Selecione as opções de filtro</string>
     <string name="finish_application">Finalizar</string>
     <string name="finish_button_label">Concluir</string>
-    <string name="finish_checking_memory">Verificando a memória...</string>
-    <string name="finish_checking_protection">Verificando proteção em tempo real...</string>
-    <string name="finish_checking_trash">Verificando cache de aplicativos...</string>
-    <string name="finish_checking_virus">Finalizando...</string>
-    <string name="finish_optimize_memory">Otimizando a memória...</string>
-    <string name="finish_optimize_protection">Otimizando proteção em tempo real...</string>
-    <string name="finish_optimize_trash">Otimizando cache de aplicativos...</string>
-    <string name="finish_optimizing_virus">Finalizando...</string>
+    <string name="finish_checking_memory">Verificando a memória…</string>
+    <string name="finish_checking_protection">Verificando proteção em tempo real…</string>
+    <string name="finish_checking_trash">Verificando cache de aplicativos…</string>
+    <string name="finish_checking_virus">Finalizando…</string>
+    <string name="finish_optimize_memory">Otimizando a memória…</string>
+    <string name="finish_optimize_protection">Otimizando proteção em tempo real…</string>
+    <string name="finish_optimize_trash">Otimizando cache de aplicativos…</string>
+    <string name="finish_optimizing_virus">Finalizando…</string>
     <string name="firewall_action">Bloquear ações</string>
     <string name="firewall_log">Registro de Bloqueios</string>
-    <string name="firewall_settings">Configurações da Lista de Bloqueio</string>
+    <string name="firewall_settings">Configurações da Lista de bloqueio</string>
     <string name="firewall_settings_tab_title">Regras</string>
     <string name="firmware_version">Versão do Android</string>
     <string name="floating_window_switch_label">Mostrar janela pop-up</string>
@@ -994,7 +994,7 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="free_wifi_connected">Conectado a uma rede Wi-Fi Gratuita</string>
     <string name="free_wifi_connected_count">%1$s usuários conectados</string>
     <string name="free_wifi_connected_time">Tempo online: %1$s</string>
-    <string name="free_wifi_connecting">Conectando...</string>
+    <string name="free_wifi_connecting">Conectando…</string>
     <string name="free_wifi_login_again">Conectar novamente</string>
     <string name="free_wifi_speed_title">Conexão lenta?</string>
     <string name="free_wifi_summary">Wi-Fi Gratuita fornecida por %1$s</string>
@@ -1045,7 +1045,7 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="fw_no_effect">O modo de privacidade não está ativo. Você gostaria de ativá-lo agora?</string>
     <string name="fw_notes_hint">Nota (opcional)</string>
     <string name="fw_notification_settings">Configuração de Notificações</string>
-    <string name="fw_on">Lista de Bloqueio ativada</string>
+    <string name="fw_on">Lista de bloqueio ativada</string>
     <string name="fw_period">Definir período</string>
     <string name="fw_restore_ms">Restaurar mensagens</string>
     <string name="fw_set_keyword">Filtro de palavras-chave</string>
@@ -1123,7 +1123,7 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="intent_sender_sendbroadcast_text">Enviar transmissão</string>
     <string name="intent_sender_startactivity_text">Iniciar atividade</string>
     <string name="internal_available_memory">Disponível: %s</string>
-    <string name="internal_available_memory_hint">Disponível: Calculando...</string>
+    <string name="internal_available_memory_hint">Disponível: Calculando…</string>
     <string name="internal_format">Apagar armaz. interno</string>
     <string name="internal_format_summary">Apaga todos os dados do armazenamento interno, tais como músicas e fotos</string>
     <string name="internal_media_format_button_text">Apagar armaz. interno</string>
@@ -1132,17 +1132,17 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="internal_media_format_title">Apagar armaz. interno</string>
     <string name="internal_memory">Armazenamento interno</string>
     <string name="internal_memory_item_app">Aplicativos: %s</string>
-    <string name="internal_memory_item_app_hint">Aplicativos: Calculando...</string>
+    <string name="internal_memory_item_app_hint">Aplicativos: Calculando…</string>
     <string name="internal_memory_item_cache">Dados em cache: %s</string>
-    <string name="internal_memory_item_cache_hint">Dados em cache: Calculando...</string>
+    <string name="internal_memory_item_cache_hint">Dados em cache: Calculando…</string>
     <string name="internal_memory_item_image_video">Imagens, Vídeos, Áudios: %s</string>
-    <string name="internal_memory_item_image_video_hint">Imagens, Vídeos, Áudios: Calculando...</string>
+    <string name="internal_memory_item_image_video_hint">Imagens, Vídeos, Áudios: Calculando…</string>
     <string name="internal_memory_item_other">Outros: %s</string>
-    <string name="internal_memory_item_other_hint">Outros: Calculando...</string>
+    <string name="internal_memory_item_other_hint">Outros: Calculando…</string>
     <string name="internal_memory_low_waring_hint">Desculpe, não há espaço suficiente para instalar este aplicativo</string>
     <string name="internal_storage">Armazenamento interno</string>
     <string name="internal_used_memory">Usado: %s</string>
-    <string name="internal_used_memory_hint">Usado: Calculando...</string>
+    <string name="internal_used_memory_hint">Usado: Calculando…</string>
     <string name="invalid_location">O local de instalação não é válido.</string>
     <string name="invalid_size_value">Não foi possível calcular o tamanho do pacote.</string>
     <string name="ipaddr_label">IP:</string>
@@ -1157,7 +1157,7 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="item_garbage_time_never">Nunca</string>
     <string name="item_install_monitor">Monitor de instalações</string>
     <string name="item_mms">Filtrar mensagens indesejadas</string>
-    <string name="item_title_garbage_size">Alerta de tamanho</string>
+    <string name="item_title_garbage_size">Tamanho para alerta</string>
     <string name="item_title_garbage_time">Alerta de limpeza</string>
     <string name="item_title_system_cache">Dados em cache</string>
     <string name="item_usb_debug">Depuração USB</string>
@@ -1327,7 +1327,7 @@ No momento você está conectado às seguintes contas:
     <string name="master_clear_desc_erase_external_storage">"
 
 Para excluir músicas, fotos e outros dados de usuário, o "<b>cartão SD</b> precisa ser apagado.</string>
-    <string name="master_clear_erase_application_progress">Apagando aplicativos...</string>
+    <string name="master_clear_erase_application_progress">Apagando aplicativos…</string>
     <string name="master_clear_failed">Nenhuma redefinição foi realizada porque o serviço de Limpeza do sistema não está disponível.</string>
     <string name="master_clear_final_button_text">Apagar tudo</string>
     <string name="master_clear_final_desc">Apagar todas as suas informações pessoais e os aplicativos transferidos? Não é possível reverter esta ação!</string>
@@ -1357,7 +1357,7 @@ Para excluir músicas, fotos e outros dados de usuário, o "<b>cartão SD</b> pr
     <string name="memory_apps_usage">Aplicativos e seus dados</string>
     <string name="memory_available">Disponível</string>
     <string name="memory_available_suffix">Disponível</string>
-    <string name="memory_calculating_size">Calculando...</string>
+    <string name="memory_calculating_size">Calculando…</string>
     <string name="memory_dcim_usage">Imagens, vídeos</string>
     <string name="memory_downloads_usage">Downloads</string>
     <string name="memory_media_misc_usage">Diversos</string>
@@ -1450,7 +1450,7 @@ Tente o seguinte:
     <string name="msd_install_status_undo">Instalar driver</string>
     <string name="msd_install_succeed">Driver instalado</string>
     <string name="msd_install_windows_xp_step_2_1">Siga os passos no Assistente de Instalação para concluir o procedimento.</string>
-    <string name="msg_cleanup_db_update_checking">Verificando...</string>
+    <string name="msg_cleanup_db_update_checking">Verificando…</string>
     <string name="msg_cleanup_db_update_time_unknown">Atualizado em: desconhecido</string>
     <string name="msg_system_cache_hints">Limpar os dados em cache não afetará os dados do aplicativo, como arquivos, configurações, contas, bancos de dados, etc.</string>
     <string name="msg_update_error_code_already_running">Atualizando</string>
@@ -1521,7 +1521,7 @@ Tente o seguinte:
     <string name="opt_item_procs_clean">Gerenciar processos</string>
     <string name="opt_killed_process">%d processos finalizados</string>
     <string name="opt_progress_done">Concluído</string>
-    <string name="opt_progress_started">Otimizando...</string>
+    <string name="opt_progress_started">Otimizando…</string>
     <string name="opt_quickscan_ok">Sistema limpo</string>
     <string name="opt_reject_all">Rejeitar todas as chamadas</string>
     <string name="opt_reject_blacklist">Rejeitar chamadas de números na lista de bloqueio</string>
@@ -1529,12 +1529,12 @@ Tente o seguinte:
     <string name="opt_reject_blacklist_stranger_summary">Chamadas de números privados serão rejeitadas automaticamente</string>
     <string name="opt_restore_perm">Permissões de privacidade restauradas para %d aplicativos</string>
     <string name="opt_resume_desc">Continuar</string>
-    <string name="opt_scanning">Escaneando...:</string>
+    <string name="opt_scanning">Escaneando…:</string>
     <string name="opt_score">83</string>
     <string name="opt_score_desc">pts</string>
     <string name="opt_state_done">Concluído</string>
     <string name="opt_state_pause">Pausar</string>
-    <string name="opt_state_running">Otimizando...</string>
+    <string name="opt_state_running">Otimizando…</string>
     <string name="opt_virus_scan">Escanear agora</string>
     <string name="opt_virus_suggest">%d arquivos suspeitos detectados. É recomendado escanear por vírus.</string>
     <string name="opt_waiting">Aguardando</string>
@@ -1565,8 +1565,8 @@ Tente o seguinte:
     <string name="optimize_title_apk">Instaladores</string>
     <string name="optimize_title_cache">Cache</string>
     <string name="optimize_title_residual">Resíduos</string>
-    <string name="optimizing">Otimizando... </string>
-    <string name="optimizing_virus">Removendo vírus...</string>
+    <string name="optimizing">Otimizando… </string>
+    <string name="optimizing_virus">Removendo vírus…</string>
     <string name="other_relative">Outras</string>
     <string name="owner_info_settings_edit_text_hint">Digite o texto a ser exibido na tela de bloqueio</string>
     <string name="owner_info_settings_title">Informações do proprietário</string>
@@ -1575,13 +1575,13 @@ Tente o seguinte:
     <string name="perm">Permissões</string>
     <string name="perm_app">Aplicativos</string>
     <string name="perm_app_enable">Monitorar solicitações de permissão</string>
-    <string name="perm_app_header">Gerenciador de Permissões</string>
+    <string name="perm_app_header">Gerenciador de permissões</string>
     <string name="perm_app_manage_empty">Nenhum aplicativo monitorado</string>
     <string name="perm_app_name">Permissões</string>
     <string name="perm_app_title">Gerenciar permissões do aplicativo</string>
     <string name="perm_auto_start">Início Automático de aplicativos</string>
     <string name="perm_auto_start_desc">Gerenciar o início automático de aplicativos</string>
-    <string name="perm_canceling">Cancelando...</string>
+    <string name="perm_canceling">Cancelando…</string>
     <string name="perm_check">Verificar</string>
     <string name="perm_clean">Limpar</string>
     <string name="perm_configuration">Configurações</string>
@@ -1678,7 +1678,7 @@ Tente o seguinte:
     <string name="perm_hips_wifi_network_desc">Acessar a Internet através de redes Wi-Fi</string>
     <string name="perm_hips_wifi_network_hint">%1$s aplicativos tem permissão para acessar a internet via redes Wi-Fi</string>
     <string name="perm_invalid_input">Entrada inválida</string>
-    <string name="perm_loading">Carregando...</string>
+    <string name="perm_loading">Carregando…</string>
     <string name="perm_log">Registros</string>
     <string name="perm_log_clear_content">Excluir registros de permissões?</string>
     <string name="perm_log_clear_title">Excluir registros</string>
@@ -1687,7 +1687,7 @@ Tente o seguinte:
     <string name="perm_mian_name">Permissões</string>
     <string name="perm_monitored_app">Aplicativos Monitorados (%1$d)</string>
     <string name="perm_notice">Aviso</string>
-    <string name="perm_operating">Executando...</string>
+    <string name="perm_operating">Executando…</string>
     <string name="perm_optimize">Otimizar</string>
     <string name="perm_privacy_app_count">%1$d permissões</string>
     <string name="perm_privacy_app_finish">Finalizar</string>
@@ -1721,7 +1721,7 @@ Por favor troque sua ROM para uma versão de desenvolvimento para ativar as perm
     <string name="perm_su_disabled_in_stable_download">Download MIUI</string>
     <string name="perm_su_enable_content">"Ao ativar esta opção você permitirá que aplicativos solicitem permissões root.
 
-Nota: Apps com este tipo de permissão podem causar instabilidade do sistema, perda de dados pessoais, dados de sistema ou até mesmo falhas de hardware. Proceda com cautela. Deseja continuar?"</string>
+Nota: Aplicativos com este tipo de permissão podem causar instabilidade do sistema, perda de dados pessoais, dados de sistema ou até mesmo falhas de hardware. Proceda com cautela. Deseja continuar?"</string>
     <string name="perm_su_enable_dialog">%1$s está tentando obter permissões root, que são desativadas por padrão para proteger o seu sistema.</string>
     <string name="perm_su_enable_summary">Permitir que aplicativos solicitem permissões root</string>
     <string name="perm_su_enable_title">Permissões root</string>
@@ -1778,7 +1778,7 @@ Nota: Apps com este tipo de permissão podem causar instabilidade do sistema, pe
     <string name="power_button_delete">excluir</string>
     <string name="power_cell">Célula em espera</string>
     <string name="power_center_battery_full">Bateria completamente carregada</string>
-    <string name="power_center_charge_time">A bateria estará carregada em %1$s</string>
+    <string name="power_center_charge_time">Carga total em %1$s</string>
     <string name="power_center_consume_rank">Uso de energia</string>
     <string name="power_center_consume_time">%1$s restante</string>
     <string name="power_center_custom_summary_default">Configurações de otimização para conservar a bateria</string>
@@ -1810,7 +1810,7 @@ Nota: Apps com este tipo de permissão podem causar instabilidade do sistema, pe
     <string name="power_consume_rank_software">Aplicativos</string>
     <string name="power_consume_rank_title">Uso da bateria</string>
     <string name="power_consume_total_hardware">Hardware: %1$d%%</string>
-    <string name="power_consume_total_software">Apps: %1$d%%</string>
+    <string name="power_consume_total_software">Aplicativos: %1$d%%</string>
     <string name="power_customize_giveup_change">Descartar alterações?</string>
     <string name="power_customizer_cancel">Cancelar</string>
     <string name="power_customizer_delete">Excluir</string>
@@ -1901,9 +1901,9 @@ Você precisa alterar sua configuração de energia antes de excluir esta config
     <string name="power_save_choose_mode">Selecione uma configuração</string>
     <string name="power_save_choose_recovery_mode">Selecione uma configuração</string>
     <string name="power_save_low_battery_auto_save_title">Perfis automáticos</string>
-    <string name="power_save_low_battery_option_recovery_title">Quando a bateria recarregar, alternar para</string>
+    <string name="power_save_low_battery_option_recovery_title">Carregando a bateria...</string>
     <string name="power_save_low_battery_option_summary">Quando a bateria estiver acima do limite selecionado, o dispositivo retornará para a configuração mais recente utilizada</string>
-    <string name="power_save_low_battery_option_title">Se a bateria estiver fraca alternar para</string>
+    <string name="power_save_low_battery_option_title">Com a bateria fraca...</string>
     <string name="power_save_low_battery_percentage_fifty">50%</string>
     <string name="power_save_low_battery_percentage_forty">40%</string>
     <string name="power_save_low_battery_percentage_ten">10%</string>
@@ -1915,7 +1915,7 @@ Você precisa alterar sua configuração de energia antes de excluir esta config
     <string name="power_save_on_time_default_time">00:00</string>
     <string name="power_save_on_time_end_time_summary">Término</string>
     <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
-    <string name="power_save_on_time_goout_title">Restaurar para</string>
+    <string name="power_save_on_time_goout_title">Após este período</string>
     <string name="power_save_on_time_option_recovery_title">Ao término deste período, alternar para</string>
     <string name="power_save_on_time_option_summary">Ao final deste período de tempo o dispositivo retornará para a configuração mais recente utilizada</string>
     <string name="power_save_on_time_option_title">Durante este período</string>
@@ -1948,7 +1948,7 @@ Você precisa alterar sua configuração de energia antes de excluir esta config
     <string name="pref_category_title_auto_update_cleanup_db">Configurações de atualização do banco de dados</string>
     <string name="pref_category_title_cleanup_white_list">Lista de exceções de limpeza</string>
     <string name="pref_category_title_garbage_cleanup_check">Configurações de limpeza</string>
-    <string name="pref_category_title_module_settings">Configuração de módulos funcionais</string>
+    <string name="pref_category_title_module_settings">Módulos do centro de segurança</string>
     <string name="pref_category_title_securitycenter_settings">Configurações do Centro de Segurança</string>
     <string name="pref_operational_key">Botões de navegação</string>
     <string name="pref_summary_auto_update_cleanup_db">Atualização: %s</string>
@@ -1986,7 +1986,7 @@ Você precisa alterar sua configuração de energia antes de excluir esta config
     <string name="private_sms_reset_by_account">Faça o login em sua conta Xiaomi para redefinir sua senha de SMS privada</string>
     <string name="process_kernel_label">Sistema operacional do Android</string>
     <string name="process_list_empty_hints">Nenhum processo em cache</string>
-    <string name="process_manage_title">Limpar %1$d processos e liberar %2$s de memória</string>
+    <string name="process_manage_title">%1$d processos ocupando %2$s de memória</string>
     <string name="process_manager_actionbar_title">Memória</string>
     <string name="process_mediaserver_label">Servidor de mídia</string>
     <string name="process_provider_in_use_description">O provedor %1$s está em uso.</string>
@@ -2030,10 +2030,10 @@ Você precisa alterar sua configuração de energia antes de excluir esta config
     <string name="quick_launch_title">Início rápido</string>
     <string name="quick_optimize">Otimizar</string>
     <string name="quick_scan_apk_list_item_version_hit">Versão: %s</string>
-    <string name="quick_scan_cleaning_title">Limpando...</string>
-    <string name="quick_scan_doing_title">Escaneando...</string>
+    <string name="quick_scan_cleaning_title">Limpando…</string>
+    <string name="quick_scan_doing_title">Escaneando…</string>
     <string name="quick_scan_done_title">Escaneamento concluído</string>
-    <string name="quick_scan_list_loading_hits">Escaneando...</string>
+    <string name="quick_scan_list_loading_hits">Escaneando…</string>
     <string name="quick_scan_result_summary">Iniciando em %d seg.</string>
     <string name="quick_scan_result_title">%s itens encontrados</string>
     <string name="radioInfo_cid">CID</string>
@@ -2056,7 +2056,7 @@ Você precisa alterar sua configuração de energia antes de excluir esta config
     <string name="radioInfo_service_out">Fora de serviço</string>
     <string name="radioInfo_unknown">desconhecido</string>
     <string name="radio_controls_summary">Gerenciar Wi-Fi, Bluetooth, modo avião, redes móveis e VPNs</string>
-    <string name="radio_controls_title">Mais...</string>
+    <string name="radio_controls_title">Mais…</string>
     <string name="radio_info_band_mode_label">Selecionar frequência de rádio</string>
     <string name="radio_info_call_redirect_label">Redirecionamento da chamada:</string>
     <string name="radio_info_call_status_label">Status da chamada:</string>
@@ -2120,14 +2120,14 @@ Você não perderá nenhum dado nestes aplicativos."</string>
     <string name="reset_app_preferences_title">Redefinir preferências?</string>
     <string name="residual_cancel">Cancelar</string>
     <string name="residual_clean">Limpar</string>
-    <string name="residual_tips_hints">%s resíduos de arquivos encontrados no cartão SD</string>
+    <string name="residual_tips_hints">%s de resíduos no telefone</string>
     <string name="restore_default_apn">Restaurando as configurações APN padrão.</string>
     <string name="restore_default_apn_completed">Redefinição das configurações padrão do APN concluída.</string>
     <string name="restore_default_settings">Restaurar padrões</string>
     <string name="retry">Repetir</string>
     <string name="ring_volume_title">Volume da campainha</string>
     <string name="ringtone_summary"/>
-    <string name="ringtone_title">Som de toque</string>
+    <string name="ringtone_title">Toque do telefone</string>
     <string name="roaming">Roaming de dados</string>
     <string name="roaming_disable">Conectar aos serviços de dados quando estiver em roaming</string>
     <string name="roaming_enable">Conectar aos serviços de dados quando estiver em roaming</string>
@@ -2152,8 +2152,8 @@ Você não perderá nenhum dado nestes aplicativos."</string>
     <string name="scan_done">Escaneamento concluído</string>
     <string name="scan_list_label">Resultados:</string>
     <string name="scanning_prefix">Escaneando: %s</string>
-    <string name="scanning_start_hints">Preparando...</string>
-    <string name="scanning_virus">Escaneando...</string>
+    <string name="scanning_start_hints">Preparando…</string>
+    <string name="scanning_virus">Escaneando…</string>
     <string name="score">Pontuação</string>
     <string name="score_good_state">O telefone já está otimizado</string>
     <string name="score_need_optimize">Otimização recomendada</string>
@@ -2191,9 +2191,9 @@ Você não perderá nenhum dado nestes aplicativos."</string>
     <string name="sd_ejecting_title">Desconectando</string>
     <string name="sd_format">Apagar cartão SD</string>
     <string name="sd_format_summary">Apaga todos os dados do cartão SD interno, como músicas e fotos</string>
-    <string name="sd_insert_summary">Insira armazen. USB</string>
+    <string name="sd_insert_summary">Insira o armazenamento USB</string>
     <string name="sd_memory">Cartão SD</string>
-    <string name="sd_mount">Conectar armazenam. USB</string>
+    <string name="sd_mount">Conectar armazenamento USB</string>
     <string name="sd_mount_summary"/>
     <string name="sdcard_changes_instructions">As alterações são aplicadas quando o cabo USB é reconectado.</string>
     <string name="sdcard_format">Apagar cartão SD</string>
@@ -2203,7 +2203,7 @@ Você não perderá nenhum dado nestes aplicativos."</string>
     <string name="sdcard_settings_mass_storage_status">Cartão SD usado como armaz. em massa.</string>
     <string name="sdcard_settings_not_present_status">Armazenam. USB não conectado.</string>
     <string name="sdcard_settings_read_only_status">Cartão SD somente leitura.</string>
-    <string name="sdcard_settings_scanning_status">Procurando mídia cartão SD...</string>
+    <string name="sdcard_settings_scanning_status">Procurando mídia cartão SD…</string>
     <string name="sdcard_settings_screen_mass_storage_text">Ativar o cartão SD em massa</string>
     <string name="sdcard_settings_total_bytes_label">Total de bytes:</string>
     <string name="sdcard_settings_unmounted_status">Armazen. USB pode ser removido</string>
@@ -2276,10 +2276,10 @@ Você não perderá nenhum dado nestes aplicativos."</string>
     <string name="settings_button">Configurações</string>
     <string name="settings_label">Configurações</string>
     <string name="settings_label_launcher">Configurações</string>
-    <string name="settings_license_activity_loading">Carregando...</string>
+    <string name="settings_license_activity_loading">Carregando…</string>
     <string name="settings_license_activity_title">Licenças código aberto</string>
     <string name="settings_license_activity_unavailable">Há um problema ao carregar as licenças.</string>
-    <string name="settings_safetylegal_activity_loading">Carregando...</string>
+    <string name="settings_safetylegal_activity_loading">Carregando…</string>
     <string name="settings_safetylegal_activity_title">Informações de segurança</string>
     <string name="settings_safetylegal_activity_unreachable">Você não tem uma conexão de dados. Para visualizar estas informações agora, acesse %s em qualquer computador conectado à Internet.</string>
     <string name="settings_safetylegal_title">Informações de segurança</string>
@@ -2367,12 +2367,12 @@ Tentativas restantes :"</string>
     <string name="spellchecker_security_warning">Este corretor ortográfico pode coletar todo o texto que você digita, incluindo dados pessoais, como senhas e números de cartão de crédito. É um corretor do aplicativo %1$s. Utilizar este corretor ortográfico?</string>
     <string name="spellcheckers_settings_title">Corretor ortográfico</string>
     <string name="ssid_label">SSID:</string>
-    <string name="start_checking_memory">Verificando condição da memória...</string>
-    <string name="start_checking_protection">Verificando proteção em tempo real...</string>
-    <string name="start_checking_trash">Verificando cache de aplicativo...</string>
-    <string name="start_optimize_memory">Otimizando condição da memória...</string>
-    <string name="start_optimize_protection">Otimizando proteção em tempo real...</string>
-    <string name="start_optimize_trash">Otimizando cache de aplicativo...</string>
+    <string name="start_checking_memory">Verificando condição da memória…</string>
+    <string name="start_checking_protection">Verificando proteção em tempo real…</string>
+    <string name="start_checking_trash">Verificando cache de aplicativo…</string>
+    <string name="start_optimize_memory">Otimizando condição da memória…</string>
+    <string name="start_optimize_protection">Otimizando proteção em tempo real…</string>
+    <string name="start_optimize_trash">Otimizando cache de aplicativo…</string>
     <string name="status_awake_time">Tempo ativo</string>
     <string name="status_bar_settings">Barra de status</string>
     <string name="status_bt_address">Endereço Bluetooth</string>
@@ -2434,7 +2434,7 @@ Tentativas restantes :"</string>
     <string name="sync_error">Erro na sinc.</string>
     <string name="sync_failed">Falha na sincronização</string>
     <string name="sync_gmail">Gmail</string>
-    <string name="sync_in_progress">Sincronizando agora...</string>
+    <string name="sync_in_progress">Sincronizando agora…</string>
     <string name="sync_is_failing">A sincronização está enfrentando problemas no momento. Ela retornará em breve.</string>
     <string name="sync_item_title">Sincronizar %s</string>
     <string name="sync_menu_sync_cancel">Cancelar sincronização</string>
@@ -2443,7 +2443,7 @@ Tentativas restantes :"</string>
 %1$s"</string>
     <string name="sync_plug"><font fgcolor="#ffffffff">Bem-vindo ao Google sync!</font>"
 Um jeito Google de sincronizar dados e permitir que você acesse seus contatos, agenda, e muito mais de qualquer lugar."</string>
-    <string name="sync_settings">Contas &amp; sincronização</string>
+    <string name="sync_settings">Sincronização</string>
     <string name="sync_wifi_label">Wi-Fi</string>
     <string name="sync_wifi_only">Somente por Wi-Fi</string>
     <string name="system">Sistema</string>
@@ -2659,7 +2659,7 @@ Um jeito Google de sincronizar dados e permitir que você acesse seus contatos, 
     <string name="user_dict_settings_edit_dialog_title">Editar palavra</string>
     <string name="user_dict_settings_empty_text">"Você não possui palavras no dicionário do usuário.
  Adicione uma palavra tocando no botão Adicionar (+)."</string>
-    <string name="user_dict_settings_more_languages">Mais Idiomas...</string>
+    <string name="user_dict_settings_more_languages">Mais Idiomas…</string>
     <string name="user_dict_settings_titlebar">Dicionário do usuário</string>
     <string name="user_dict_single_settings_title">Dicionário pessoal</string>
     <string name="user_discard_user_menu">Descartar</string>
@@ -2694,16 +2694,16 @@ Um jeito Google de sincronizar dados e permitir que você acesse seus contatos, 
     <string name="virus_scan_app_no_risk">Nenhum risco encontrado</string>
     <string name="virus_scan_app_passed">Concluído</string>
     <string name="virus_scan_app_risk">Ameaças encontradas</string>
-    <string name="virus_scan_app_safe_scanning">Escaneando ...</string>
+    <string name="virus_scan_app_safe_scanning">Escaneando …</string>
     <string name="virus_scan_app_scan_finish">Varredura concluída</string>
-    <string name="virus_scan_app_scanning">Escaneando ...</string>
+    <string name="virus_scan_app_scanning">Escaneando …</string>
     <string name="virus_scan_app_solve">Processar todos</string>
     <string name="virus_scan_app_stop">Parar escaneamento</string>
     <string name="virus_scan_app_stop_scan">Parar</string>
     <string name="virus_scan_app_uninstall">Desinstalar %d apps</string>
-    <string name="virus_scan_app_waiting">Aguardando...</string>
+    <string name="virus_scan_app_waiting">Aguardando…</string>
     <string name="virus_scan_can_use_wifi">Escanear utilizando definições online</string>
-    <string name="virus_scan_clean_dialog_message">Limpando...</string>
+    <string name="virus_scan_clean_dialog_message">Limpando…</string>
     <string name="virus_scan_clear">Limpar</string>
     <string name="virus_scan_dangerous">Em risco</string>
     <string name="virus_scan_description">"Este aplicativo é perigoso para a segurança do seu sistema."</string>
@@ -2716,8 +2716,8 @@ Um jeito Google de sincronizar dados e permitir que você acesse seus contatos, 
     <string name="virus_scan_finish_text">Ameaças removidas!</string>
     <string name="virus_scan_guard_provider_missed">O antivírus foi comprometido. Será necessário redefinir seu telefone para as configurações de fábrica.</string>
     <string name="virus_scan_installed_package">%s (instalado)</string>
-    <string name="virus_scan_is_cloud_scanning">Verificando a Mi Cloud...</string>
-    <string name="virus_scan_is_scanning">Escaneando...</string>
+    <string name="virus_scan_is_cloud_scanning">Verificando a Mi Cloud…</string>
+    <string name="virus_scan_is_scanning">Escaneando…</string>
     <string name="virus_scan_judge_is_virus">Verificar aplicativos por vírus antes de sua instalação</string>
     <string name="virus_scan_last_risk">Aplicativos suspeitos encontrados na última varredura não foram removidos.</string>
     <string name="virus_scan_last_scan_date">Última verificação há %d dias</string>
@@ -2732,14 +2732,14 @@ Um jeito Google de sincronizar dados e permitir que você acesse seus contatos, 
     <string name="virus_scan_list_empty_content">Nenhuma ameaça detectada.</string>
     <string name="virus_scan_list_item_risk">Em risco</string>
     <string name="virus_scan_list_item_virus">Vírus</string>
-    <string name="virus_scan_list_loading_hits">Verificando...</string>
+    <string name="virus_scan_list_loading_hits">Verificando…</string>
     <string name="virus_scan_monitoring">Monitor de instalações</string>
     <string name="virus_scan_never_scaned">É recomendado escanear</string>
     <string name="virus_scan_not_found_risk">Nenhum risco encontrado</string>
     <string name="virus_scan_not_found_virus">Nenhum vírus encontrado</string>
     <string name="virus_scan_others_title">Outras configurações</string>
     <string name="virus_scan_package_label_unknown">desconhecido</string>
-    <string name="virus_scan_parpare">Iniciando definições...</string>
+    <string name="virus_scan_parpare">Iniciando definições…</string>
     <string name="virus_scan_risk_button_name">Em risco</string>
     <string name="virus_scan_risk_list_empty">Nenhum risco encontrado.</string>
     <string name="virus_scan_risk_title">%d aplicativos suspeitos detectados.</string>
@@ -2762,12 +2762,12 @@ Um jeito Google de sincronizar dados e permitir que você acesse seus contatos, 
     <string name="virus_scanner_lib_already_latest">Definições de vírus atualizadas.</string>
     <string name="virus_scanner_lib_update_failed">Falha na atualização do banco de dados de vírus</string>
     <string name="virus_scanner_lib_update_success">As definições de vírus foram atualizadas automaticamente ^_^</string>
-    <string name="virus_scanner_lib_updating">Atualizando definições...</string>
+    <string name="virus_scanner_lib_updating">Atualizando definições…</string>
     <string name="virus_scanner_manual_update">Atualizar %s</string>
     <string name="virus_scanner_module">Tencent</string>
     <string name="virus_scanner_provider">Definições de antivírus fornecidas por Tencent</string>
     <string name="virus_scanner_scan">Escanear</string>
-    <string name="virus_scanner_scanning">Escaneando...</string>
+    <string name="virus_scanner_scanning">Escaneando…</string>
     <string name="virus_scanner_select_Cancel">Cancelar</string>
     <string name="virus_scanner_select_OK">OK</string>
     <string name="virus_scanner_select_lib">Selecionar banco de dados de vírus</string>
@@ -2846,16 +2846,16 @@ Um jeito Google de sincronizar dados e permitir que você acesse seus contatos, 
     <string name="wallpaper_settings_fragment_title">Selecionar plano de fundo de</string>
     <string name="wallpaper_settings_title">Plano de fundo</string>
     <string name="wfd_available_devices">Telefones disponíveis</string>
-    <string name="wfd_disconnect_diag_msg">Se você interromper o serviço do Wi-Fi Display, sua conexão com %1$s será terminada.</string>
+    <string name="wfd_disconnect_diag_msg">Se você interromper o serviço do Display sem fio, sua conexão com %1$s será terminada.</string>
     <string name="wfd_disconnect_diag_title">Desfazer sessão?</string>
     <string name="wfd_disconnect_multiple_diag_message">Se você interromper o serviço do Wireless Display, sua conexão com %1$s e %2$s outros telefones serão desconectados.</string>
-    <string name="wfd_enable_wifi_diag_title">Você só pode utilizar o Wi-Fi Display quando o Wi-Fi está ativado. Ativar agora?</string>
-    <string name="wfd_enabler_title">Ativar Wi-Fi Display</string>
+    <string name="wfd_enable_wifi_diag_title">Você só pode utilizar o Display sem fio quando o Wi-Fi está ativado. Ativar agora?</string>
+    <string name="wfd_enabler_title">Ativar Display sem fio</string>
     <string name="wfd_menu_search">Pesquisar dispositivos</string>
-    <string name="wfd_menu_searching">Pesquisando...</string>
+    <string name="wfd_menu_searching">Pesquisando…</string>
     <string name="wfd_menu_teardown">Parar</string>
-    <string name="wfd_settings_description">Conectar-se a um Wi-Fi Display</string>
-    <string name="wfd_settings_title">Configurações do Wi-Fi Display</string>
+    <string name="wfd_settings_description">Conectar-se a um Display sem fio</string>
+    <string name="wfd_settings_title">Configurações do Display sem fio</string>
     <string name="wfd_wps_keypad">Preferir Botão de Config.</string>
     <string name="wfd_wps_pbc">Preferir PIN</string>
     <string name="white_list_ad_header">Propagandas: %d</string>
@@ -2893,7 +2893,7 @@ Um jeito Google de sincronizar dados e permitir que você acesse seus contatos, 
     <string name="wifi_eap_method">Método EAP</string>
     <string name="wifi_eap_user_cert">Certificado do usuário</string>
     <string name="wifi_empty_list_wifi_off">Para ver as redes disponíveis, ative o Wi-Fi.</string>
-    <string name="wifi_empty_list_wifi_on">Procurando redes Wi-Fi...</string>
+    <string name="wifi_empty_list_wifi_on">Procurando redes Wi-Fi…</string>
     <string name="wifi_enable">Wi-Fi</string>
     <string name="wifi_enable_watchdog_service_summary">Utilizar conexão Wi-Fi somente quando conexão for forte</string>
     <string name="wifi_error">Erro</string>
@@ -2920,7 +2920,7 @@ Um jeito Google de sincronizar dados e permitir que você acesse seus contatos, 
     <string name="wifi_menu_modify">Modificar rede</string>
     <string name="wifi_menu_p2p">Wi-Fi Direct</string>
     <string name="wifi_menu_scan">Verificar</string>
-    <string name="wifi_menu_wfd">Wi-Fi Display</string>
+    <string name="wifi_menu_wfd">Display sem fio</string>
     <string name="wifi_menu_wps_pbc">Botão de pressão WPS</string>
     <string name="wifi_menu_wps_pin">Entrada de PIN WPS</string>
     <string name="wifi_more">Mais</string>
@@ -2930,7 +2930,7 @@ Um jeito Google de sincronizar dados e permitir que você acesse seus contatos, 
     <string name="wifi_notify_open_networks">Notificação de rede</string>
     <string name="wifi_notify_open_networks_summary">Receber notificação quando uma rede aberta estiver disponível</string>
     <string name="wifi_on_time">Tempo de ativação da rede Wi-Fi</string>
-    <string name="wifi_other_network">Outra rede...</string>
+    <string name="wifi_other_network">Outra rede…</string>
     <string name="wifi_p2p_cancel_connect_message">Deseja cancelar o convite para se conectar com %1$s?</string>
     <string name="wifi_p2p_cancel_connect_title">Cancelar convite?</string>
     <string name="wifi_p2p_device_info">Informações do dispositivo</string>
@@ -2976,7 +2976,7 @@ Um jeito Google de sincronizar dados e permitir que você acesse seus contatos, 
     <string name="wifi_setup_description_connected">Toque em <b>Avançar</b>" para continuar a configuração.
 
 Toque em "<b>Voltar</b> para conectar-se a outra rede Wi-Fi.</string>
-    <string name="wifi_setup_description_connecting">A conexão pode levar alguns minutos...</string>
+    <string name="wifi_setup_description_connecting">A conexão pode levar alguns minutos…</string>
     <string name="wifi_setup_detail">Detalhes da rede</string>
     <string name="wifi_setup_eap_not_supported">Não é possível configurar uma conexão Wi-Fi EAP durante a configuração. É possível fazer isso em seguida, na opção \"Configurações\" > \"Sem fio e redes\".</string>
     <string name="wifi_setup_forget">Esquecer</string>
@@ -2985,19 +2985,19 @@ Toque em "<b>Voltar</b> para conectar-se a outra rede Wi-Fi.</string>
     <string name="wifi_setup_refresh_list">Atualizar lista</string>
     <string name="wifi_setup_save">Salvar</string>
     <string name="wifi_setup_skip">Ignorar</string>
-    <string name="wifi_setup_status_connecting">Conectando...</string>
+    <string name="wifi_setup_status_connecting">Conectando…</string>
     <string name="wifi_setup_status_eap_not_supported">EAP não é suportado.</string>
     <string name="wifi_setup_status_edit_network">Digite a configuração de rede</string>
     <string name="wifi_setup_status_existing_network">Conectar-se à rede existente</string>
     <string name="wifi_setup_status_new_network">Conectar-se à nova rede</string>
     <string name="wifi_setup_status_proceed_to_next">Ir para a próxima etapa</string>
-    <string name="wifi_setup_status_scanning">Procurando redes...</string>
+    <string name="wifi_setup_status_scanning">Procurando redes…</string>
     <string name="wifi_setup_status_select_network">Toque em uma rede para se conectar a ela</string>
     <string name="wifi_setup_status_unsecured_network">Conectar-se à rede não segura</string>
     <string name="wifi_setup_title">Configuração de Wi-Fi</string>
     <string name="wifi_setup_title_add_network">Adicionar uma rede</string>
     <string name="wifi_setup_title_connected_network">Conectado à rede Wi-Fi %s</string>
-    <string name="wifi_setup_title_connecting_network">Conectando-se à rede Wi-Fi %s...</string>
+    <string name="wifi_setup_title_connecting_network">Conectando-se à rede Wi-Fi %s…</string>
     <string name="wifi_setup_title_editing_network">Conectar-se à rede Wi-Fi %s</string>
     <string name="wifi_setup_wizard_title">Selecionar Wi-Fi</string>
     <string name="wifi_setup_wps">Configuração automática (WPS)</string>
@@ -3036,7 +3036,7 @@ Toque em "<b>Voltar</b> para conectar-se a outra rede Wi-Fi.</string>
     <string name="wifi_signal">Potência do sinal</string>
     <string name="wifi_speed">Velocidade do link</string>
     <string name="wifi_ssid">SSID da rede</string>
-    <string name="wifi_starting">Ativando Wi-Fi...</string>
+    <string name="wifi_starting">Ativando Wi-Fi…</string>
     <string name="wifi_state_disabled">Desativado</string>
     <string name="wifi_state_disabling">Desativando</string>
     <string name="wifi_state_enabled">Ativo</string>
@@ -3045,7 +3045,7 @@ Toque em "<b>Voltar</b> para conectar-se a outra rede Wi-Fi.</string>
     <string name="wifi_state_unknown">Desconhecido</string>
     <string name="wifi_status">Status</string>
     <string name="wifi_status_test">Status de Wi-Fi</string>
-    <string name="wifi_stopping">Desativando Wi-Fi...</string>
+    <string name="wifi_stopping">Desativando Wi-Fi…</string>
     <string name="wifi_tether_checkbox_text">Ponto de acesso Wi-Fi portátil</string>
     <string name="wifi_tether_configure_ap_text">Configurar ponto de acesso Wi-Fi</string>
     <string name="wifi_tether_configure_ssid_default">Ponto de acesso Android</string>

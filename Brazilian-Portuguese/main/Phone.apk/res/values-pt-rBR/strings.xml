@@ -76,7 +76,7 @@
     <string name="auto_ip_add_exception_numbers_miui">Adicionar</string>
     <string name="auto_ip_exception_miui">"Lista de exceções"</string>
     <string name="auto_ip_exception_summary_miui">%d total</string>
-    <string name="auto_ip_exception_summary_more_miui">,... %d total</string>
+    <string name="auto_ip_exception_summary_more_miui">,… %d total</string>
     <string name="auto_ip_no_exceptions_miui">"Por favor adicione números que não precisem do código DDD da operadora"</string>
     <string name="auto_ip_remove_exception_numbers_confirm_miui">Tem certeza que deseja excluir estes %d números?</string>
     <string name="auto_ip_setting_miui">Configurações de DDD e DDI</string>
@@ -381,7 +381,7 @@
     <string name="display_name_title">Nome de exibição</string>
     <string name="domain_address_title">Servidor</string>
     <string name="doneButton">Concluído</string>
-    <string name="dtmf_tone_enable_title">Tons de toque do teclado numérico</string>
+    <string name="dtmf_tone_enable_title">Sons de toque do teclado numérico</string>
     <string name="dtmf_tone_entries_long_miui">Longo</string>
     <string name="dtmf_tone_entries_normal_miui">Normal</string>
     <string name="dtmf_tones_summary">Definir duração dos tons DTMF</string>
@@ -399,7 +399,7 @@
     <string name="emergency_call_area_code_edit_dialog_button_miui">Chamar</string>
     <string name="emergency_call_area_code_edit_dialog_hint_miui">ex: 190</string>
     <string name="emergency_enable_radio_dialog_message">Ativando o rádio…</string>
-    <string name="emergency_enable_radio_dialog_retry">Área fora de serviço, tentando novamente...</string>
+    <string name="emergency_enable_radio_dialog_retry">Área fora de serviço, tentando novamente…</string>
     <string name="emergency_enable_radio_dialog_title">Chamada de emergência</string>
     <string name="empty_alert">%s é campo obrigatório e não pode ser deixado em branco.</string>
     <string name="empty_networks_list">Nenhuma rede encontrada.</string>
@@ -428,7 +428,7 @@
     <string name="enable_disable_technology_news">Notícias de tecnologia</string>
     <string name="enable_fdn">Ativar FDN</string>
     <string name="enable_fdn_ok">Desativar FDN</string>
-    <string name="enable_in_progress">Aguarde...</string>
+    <string name="enable_in_progress">Aguarde…</string>
     <string name="enable_miui">Ativar</string>
     <string name="enable_pin">Ativar/desativar PIN do SIM</string>
     <string name="enable_pin_ok">PIN do SIM ativado.</string>
@@ -452,7 +452,7 @@
     <string name="exception_error">Erro de rede ou do cartão SIM.</string>
     <string name="exportAllcontatsFailed">Falha ao exportar contatos para o cartão SIM!</string>
     <string name="exportAllcontatsSuccess">Contatos exportados para o cartão SIM</string>
-    <string name="exportContacts">Exportando contatos para o cartão SIM...</string>
+    <string name="exportContacts">Exportando contatos para o cartão SIM…</string>
     <string name="fake_phone_activity_infoText_text">Número de Telefone de Chamada</string>
     <string name="fake_phone_activity_phoneNumber_text">(032) 3218-3218</string>
     <string name="fake_phone_activity_placeCall_text">Chamada de Entrada Falsa</string>
@@ -489,7 +489,7 @@ Mudar para o novo provedor?"</string>
     <string name="hac_mode_summary_miui">Ativar compatibilidade com aparelhos auditivos</string>
     <string name="hac_mode_title">Aparelhos auditivos</string>
     <string name="hac_mode_title_miui">Aparelhos auditivos</string>
-    <string name="handon_ringer_summary_miui">Silencia tons de toque quando pega-se o telefone. Sem efeito quando a vibração para chamadas recebidas estiver ativa</string>
+    <string name="handon_ringer_summary_miui">Silencia toques to telefone quando pega-se o telefone. Sem efeito quando a vibração para chamadas recebidas estiver ativa</string>
     <string name="handon_ringer_title_miui">Silenciar ao pegar telefone</string>
     <string name="hangup_sms_miui">Rejeitar com SMS</string>
     <string name="ignore_miui">Ignorar</string>
@@ -502,7 +502,7 @@ Mudar para o novo provedor?"</string>
     <string name="import_sim_entries_finish">Importação de contatos do SIM concluída</string>
     <string name="import_sim_entry_miui">Importar</string>
     <string name="importingSimContacts">Importando contatos do SIM</string>
-    <string name="importing_sim_contacts_miui">Importando contatos do SIM...</string>
+    <string name="importing_sim_contacts_miui">Importando contatos do SIM…</string>
     <string name="ims_accounts_title">Conta IMS</string>
     <string name="ims_domain_address_title">Servidor IMS</string>
     <string name="ims_edit_title">Detalhes da conta IMS</string>
@@ -574,7 +574,7 @@ Mudar para o novo provedor?"</string>
     <string name="list_language_dtitle">Idiomas</string>
     <string name="list_language_summary">Selecione o idioma das notícias</string>
     <string name="list_language_title">Idioma</string>
-    <string name="load_networks_progress">Pesquisando...</string>
+    <string name="load_networks_progress">Pesquisando…</string>
     <string name="local_disable">Notícias locais desativadas</string>
     <string name="local_enable">Notícias locais ativadas</string>
     <string name="local_weather_disable">Clima local desativado</string>
@@ -860,14 +860,14 @@ Seu cartão SIM será inutilizado caso a senha seja inserida incorretamente nova
     <string name="radio_off_error">Ligue o rádio antes de ver essas configurações.</string>
     <string name="rc_unlock_failed">Falha na requisição de desbloqueio corporativo do UIM.</string>
     <string name="rc_unlock_success">Desbloqueio corporativo do UIM efetuado com sucesso.</string>
-    <string name="readingSimContacts">Lendo informações do cartão SIM, aguarde...</string>
+    <string name="readingSimContacts">Lendo informações do cartão SIM, aguarde…</string>
     <string name="reading_settings">Lendo as configurações…</string>
     <string name="regional_disable">Notícias regionais desativadas</string>
     <string name="regional_enable">Notícias regionais ativadas</string>
-    <string name="register_automatically">Registro automático...</string>
+    <string name="register_automatically">Registro automático…</string>
     <string name="register_on_network">Registrando na %s…</string>
     <string name="registration_done">Registrado na rede.</string>
-    <string name="registration_status_checking_status">Verificando status...</string>
+    <string name="registration_status_checking_status">Verificando status…</string>
     <string name="registration_status_done">Chamadas recebidas.</string>
     <string name="registration_status_failed_try_later">Falha no registro da conta: (%s). Nova tentativa mais tarde</string>
     <string name="registration_status_invalid_credentials">Falha no registro da conta: nome de usuário ou senha incorretos.</string>
@@ -875,9 +875,9 @@ Seu cartão SIM será inutilizado caso a senha seja inserida incorretamente nova
     <string name="registration_status_no_wifi_data">Registro da conta interrompido porque não há conexão Wi-Fi.</string>
     <string name="registration_status_not_receiving">Sem chamadas recebidas.</string>
     <string name="registration_status_not_running">Falha no registro da conta.</string>
-    <string name="registration_status_registering">Registrando...</string>
+    <string name="registration_status_registering">Registrando…</string>
     <string name="registration_status_server_unreachable">Falha no registro da conta: verifique o nome do servidor.</string>
-    <string name="registration_status_still_trying">Ainda tentando...</string>
+    <string name="registration_status_still_trying">Ainda tentando…</string>
     <string name="reject_via_sms_miui">Rejeitar com SMS</string>
     <string name="reject_via_sms_summary_miui">Definir SMS a ser enviada durante uma rejeição de chamada</string>
     <string name="reject_via_sms_title_miui">Rejeitar com SMS</string>
@@ -885,11 +885,11 @@ Seu cartão SIM será inutilizado caso a senha seja inserida incorretamente nova
     <string name="remove_ims_account">Excluir conta</string>
     <string name="remove_miui">Excluir</string>
     <string name="remove_sip_account">Excluir conta</string>
-    <string name="removing_account">Removendo a conta...</string>
+    <string name="removing_account">Removendo a conta…</string>
     <string name="requesting_corporate_unlock">Requisitando desbloqueio corporativo do SIM</string>
-    <string name="requesting_nw_subset_unlock">Requisitando desbloqueio de sub-rede SIM...</string>
-    <string name="requesting_nw_unlock">Requisitando desbloqueio de rede SIM...</string>
-    <string name="requesting_puk_unlock">Requisitando desbloqueio de PUK...</string>
+    <string name="requesting_nw_subset_unlock">Requisitando desbloqueio de sub-rede SIM…</string>
+    <string name="requesting_nw_unlock">Requisitando desbloqueio de rede SIM…</string>
+    <string name="requesting_puk_unlock">Requisitando desbloqueio de PUK…</string>
     <string name="requesting_rc_unlock">Requisitando desbloqueio corporativo de UIM…</string>
     <string name="requesting_rhrpd_unlock">Requisitando desbloqueio UIM hrpd…</string>
     <string name="requesting_rnw1_unlock">Requisitando desbloqueio de rede1 UIM…</string>
@@ -898,7 +898,7 @@ Seu cartão SIM será inutilizado caso a senha seja inserida incorretamente nova
     <string name="requesting_ruim_unlock">Requisitando desbloqueio de UIM…</string>
     <string name="requesting_sim_unlock">Requisitando desbloqueio do SIM</string>
     <string name="requesting_sp_unlock">Solicitando o desbloqueio de rede…</string>
-    <string name="requesting_unlock">Requisitando desbloqueio de rede...</string>
+    <string name="requesting_unlock">Requisitando desbloqueio de rede…</string>
     <string name="reset_my_choice_hint">Você pode alterar qual conta de chamada pela Internet será usada por padrão na tela Telefone > Configurações > Configurações de chamada pela Internet > Contas.</string>
     <string name="respond_via_sms_canned_response_1">Não posso falar agora. Me manda um SMS, por favor?</string>
     <string name="respond_via_sms_canned_response_1_miui">"Desculpe, não posso atender o telefone agora. Irei retornar a chamada assim que possível."</string>
@@ -909,7 +909,7 @@ Seu cartão SIM será inutilizado caso a senha seja inserida incorretamente nova
     <string name="respond_via_sms_canned_response_4">Não posso falar agora. Me liga depois, por favor?</string>
     <string name="respond_via_sms_canned_response_4_miui">"Desculpe, não posso falar ao telefone agora. O que posso fazer por você?"</string>
     <string name="respond_via_sms_confirmation_format">Mensagem enviada para %s.</string>
-    <string name="respond_via_sms_custom_message">Escreva sua resposta...</string>
+    <string name="respond_via_sms_custom_message">Escreva sua resposta…</string>
     <string name="respond_via_sms_edittext_dialog_title">Resposta rápida</string>
     <string name="respond_via_sms_menu_reset_default_activity">Restaurar aplicativos padrão</string>
     <string name="respond_via_sms_setting_summary"/>
@@ -924,7 +924,7 @@ Seu cartão SIM será inutilizado caso a senha seja inserida incorretamente nova
     <string name="reverting_settings">Revertendo configurações…</string>
     <string name="rhrpd_unlock_failed">Falha na requisição de desbloqueio hrpd do UIM.</string>
     <string name="rhrpd_unlock_success">UIM hrpd desbloqueado com sucesso.</string>
-    <string name="ringtone_title">Som de toque</string>
+    <string name="ringtone_title">Toque do telefone</string>
     <string name="rnw1_unlock_failed">Falha na requisição de desbloqueio de rede1 UIM.</string>
     <string name="rnw1_unlock_success">Rede 1 UIM desbloqueada com sucesso.</string>
     <string name="rnw2_unlock_failed">Falha na requisição de desbloqueio de rede2 UIM.</string>
@@ -939,7 +939,7 @@ Seu cartão SIM será inutilizado caso a senha seja inserida incorretamente nova
     <string name="ruim_unlock_failed">Falha na requisição de desbloqueio do UIM.</string>
     <string name="ruim_unlock_success">UIM desbloqueado com sucesso.</string>
     <string name="save">Salvar</string>
-    <string name="saving_account">Salvando a conta...</string>
+    <string name="saving_account">Salvando a conta…</string>
     <string name="search_networks">Pesquisar redes</string>
     <string name="selectContact">selecionar contato</string>
     <string name="select_automatically">Escolher automaticamente</string>
@@ -972,7 +972,7 @@ selecione a rede preferencial automaticamente"</string>
     <string name="set_sub_success">Operadora definida com sucesso</string>
     <string name="set_subscription">Selecionar operadoras</string>
     <string name="set_subscription_error_atleast_one">Selecione ao menos uma operadora</string>
-    <string name="set_uicc_subscription_progress">Definindo operadora...</string>
+    <string name="set_uicc_subscription_progress">Definindo operadora…</string>
     <string name="settings_label">Configurações de rede</string>
     <string name="simContacts_airplaneMode">Para importar os contatos do cartão SIM, primeiro desligue o modo avião.</string>
     <string name="simContacts_empty">Não há contatos no seu cartão SIM.</string>
@@ -1070,7 +1070,7 @@ selecione a rede preferencial automaticamente"</string>
     <string name="t9_indexing_method_pinyin">PinYin</string>
     <string name="t9_indexing_method_title_miui">Configuração de T9</string>
     <string name="t9_indexing_method_zhuyin">ZhuYin</string>
-    <string name="t9_indexing_rebuilding_message">Criando índices de T9...</string>
+    <string name="t9_indexing_rebuilding_message">Criando índices de T9…</string>
     <string name="technology_news_disable">Notícias de tecnologia desativadas</string>
     <string name="technology_news_enable">Notícias de tecnologia ativadas</string>
     <string name="telocation_setting_miui">Configuração de local</string>

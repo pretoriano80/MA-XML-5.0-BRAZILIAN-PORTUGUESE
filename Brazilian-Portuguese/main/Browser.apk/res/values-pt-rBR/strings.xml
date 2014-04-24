@@ -154,7 +154,7 @@
     <string name="download_dialog_file_length_hint_txt">Tamanho：</string>
     <string name="download_dialog_file_length_lessthan1kb">Menos de 1K</string>
     <string name="download_dialog_file_length_nolength_error_txt">Falha ao obter</string>
-    <string name="download_dialog_file_length_nolength_txt">Obtendo...</string>
+    <string name="download_dialog_file_length_nolength_txt">Obtendo…</string>
     <string name="download_failed">Falha no download</string>
     <string name="download_no_sdcard_dlg_msg">Para fazer o download de %s, é preciso conectar o cartão SD.</string>
     <string name="download_no_sdcard_dlg_title">Cartão SD não disponível</string>
@@ -416,7 +416,7 @@
     <string name="pref_security_show_security_warning">Avisos de segurança</string>
     <string name="pref_security_show_security_warning_summary">Exibir aviso se houver problema com a segurança de um site</string>
     <string name="pref_set_homepage_to">Definir para</string>
-    <string name="pref_setting_title">Config. de página</string>
+    <string name="pref_setting_title">Configurações de página</string>
     <string name="pref_text_zoom">Ajuste da escala do texto</string>
     <string name="pref_ua_mione_entry">MiOne</string>
     <string name="pref_ua_title">Gerenciar User Agent</string>
@@ -433,7 +433,7 @@
     <string name="profiler_no_storage_toast">"Falha ao iniciar o profiler. O armazenamento do telefone não está pronto."</string>
     <string name="profiler_started_toast">Profiler iniciado</string>
     <string name="profiler_stopped_toast">Profiler finalizado. Os resultados estão em %1$s.</string>
-    <string name="progress_dialog_setting_wallpaper">Definindo plano de fundo...</string>
+    <string name="progress_dialog_setting_wallpaper">Definindo plano de fundo…</string>
     <string name="quicklink_saved_before">Site adicionado à página inicial</string>
     <string name="quicklink_user_define_webpage_title">Nome</string>
     <string name="quicklink_user_define_webpage_url">URL</string>
@@ -447,7 +447,7 @@
     <string name="readmode_login">Login</string>
     <string name="readmode_login_message">capítulos subseqüentes precisam fazer login antes de estarem disponíveis para visualização no celular</string>
     <string name="readmode_page_load_error">Não foi possível carregar a página, toque em Atualizar para tentar novamente</string>
-    <string name="readmode_page_loading">Carregando por favor aguarde...</string>
+    <string name="readmode_page_loading">Carregando por favor aguarde…</string>
     <string name="readmode_pay">Assinar capítulo</string>
     <string name="readmode_pay_message">capítulos subseqüentes requerem uma assinatura</string>
     <string name="readmode_reach_last_page">Última página atingida</string>
@@ -539,7 +539,7 @@
     <string name="time_picker_dialog_pm">PM</string>
     <string name="time_picker_dialog_second_subsecond_separator">.</string>
     <string name="time_picker_dialog_title">Definir hora</string>
-    <string name="title_bar_loading">Carregando...</string>
+    <string name="title_bar_loading">Carregando…</string>
     <string name="too_many_windows_dialog_message">Não é possível abrir uma nova guia até que outra seja fechada.</string>
     <string name="too_many_windows_dialog_title">Limite da guia atingido</string>
     <string name="ua_switcher_desktop">Ver versão para web</string>

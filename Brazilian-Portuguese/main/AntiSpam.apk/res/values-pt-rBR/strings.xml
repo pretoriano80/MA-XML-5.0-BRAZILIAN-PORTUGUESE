@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Lista de Bloqueio</string>
+    <string name="app_name">Lista de bloqueio</string>
     <string name="bl_block_info" formatted="false">Bloqueado: %d chamadas | %d mensagens</string>
     <string name="bl_no_blacklist">Nenhum número bloqueado</string>
     <string name="bl_no_block_call">Nenhuma chamada bloqueada</string>
@@ -20,8 +20,8 @@
     <string name="dlg_clear_current_sms">Excluir todas as mensagens bloqueadas deste número?</string>
     <string name="dlg_delete_keyword">Remover palavras-chave selecionadas?</string>
     <string name="dlg_edit_keyword">Editar palavra-chave</string>
-    <string name="dlg_import_blacklist">Adicionando à lista de bloqueio...</string>
-    <string name="dlg_import_whitelist">Adicionando à lista de exceções...</string>
+    <string name="dlg_import_blacklist">Adicionando à lista de bloqueio…</string>
+    <string name="dlg_import_whitelist">Adicionando à lista de exceções…</string>
     <string name="dlg_keyword_ok">Salvar</string>
     <string name="dlg_no_block">Desbloquear este número?</string>
     <string name="dlg_no_block_ok">Desbloquear</string>
@@ -77,12 +77,12 @@
     <string name="st_settings_name">Configurações da lista de bloqueio</string>
     <string name="st_show_block_notification">Exibir notificação de bloqueio</string>
     <string name="st_sms_group">Mensagens</string>
-    <string name="tab_blacklist">Lista de Bloqueio</string>
+    <string name="tab_blacklist">Lista de bloqueio</string>
     <string name="tab_block_log">Registro de bloqueios</string>
     <string name="tab_block_log_unKnowNumber">Número desconhecido</string>
     <string name="tab_call">Registro de chamadas</string>
     <string name="tab_sms">Registro de mensagens</string>
-    <string name="tab_title">Lista de Bloqueio</string>
+    <string name="tab_title">Lista de bloqueio</string>
     <string name="toast_keyword_blank">Você precisa inserir uma palavra-chave :)</string>
     <string name="toast_keyword_exist">Palavra-chave salva</string>
     <string name="toast_keyword_invalid">A palavra-chave inserida é inválida</string>

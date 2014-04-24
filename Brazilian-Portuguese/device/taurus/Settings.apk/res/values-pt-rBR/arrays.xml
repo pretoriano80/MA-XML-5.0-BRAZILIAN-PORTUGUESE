@@ -47,7 +47,7 @@
         <item>Ativar Monitor de Permissões</item>
         <item>Limpar arquivos desnecessários</item>
         <item>Atualizar definições de vírus</item>
-        <item>Você está executando muitos apps em segundo plano...</item>
+        <item>Você está executando muitos aplicativos em segundo plano…</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>Américas</item>
@@ -313,8 +313,8 @@
     </string-array>
     <string-array name="vpn_states">
         <item>Desconectado</item>
-        <item>Inicializando...</item>
-        <item>Conectando...</item>
+        <item>Inicializando…</item>
+        <item>Conectando…</item>
         <item>Conectado</item>
         <item>Tempo limite</item>
         <item>Malsucedida</item>

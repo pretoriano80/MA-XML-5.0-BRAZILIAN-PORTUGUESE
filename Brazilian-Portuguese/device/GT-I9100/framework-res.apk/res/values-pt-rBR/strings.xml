@@ -104,7 +104,7 @@
     <string name="action_menu_overflow_description">Mais opções</string>
     <string name="action_mode_done">Concluído</string>
     <string name="activity_chooser_view_dialog_title_default">Selecionar atividade</string>
-    <string name="activity_chooser_view_see_all">Ver todos...</string>
+    <string name="activity_chooser_view_see_all">Ver todos…</string>
     <string name="activity_list_empty">Nenhuma atividade encontrada</string>
     <string name="activity_resolver_use_always">Sempre</string>
     <string name="activity_resolver_use_once">Única vez</string>
@@ -127,7 +127,7 @@
     <string name="android_upgrading_apk">Otimizando aplicativo %1$d de %2$d.</string>
     <string name="android_upgrading_complete">Concluindo a inicialização.</string>
     <string name="android_upgrading_starting_apps">Iniciando os aplicativos.</string>
-    <string name="android_upgrading_title">O Android está sendo atualizado...</string>
+    <string name="android_upgrading_title">O Android está sendo atualizado…</string>
     <string name="anr_activity_application">"O %2$s não está respondendo. 
 
  Gostaria de fechá-lo?"</string>
@@ -318,7 +318,7 @@ usando %s"</string>
     <string name="cu_operator_name">China Unicom</string>
     <string name="cut">Recortar</string>
     <string name="data_call_restriction">Política de segurança restringe o uso de pacotes de dados.</string>
-    <string name="data_encrypt_convert_diag">Decifrando...</string>
+    <string name="data_encrypt_convert_diag">Decifrando…</string>
     <string name="data_encrypt_notify_title">Criptografia de dados interna ativada</string>
     <string name="data_usage_3g_limit_snoozed_title">Limite de dados 2G-3G excedido</string>
     <string name="data_usage_3g_limit_title">Dados 2G e 3G desativados</string>
@@ -482,7 +482,7 @@ usando %s"</string>
     <string name="extmedia_format_message_sd">Todos os dados no cartão serão perdidos.</string>
     <string name="extmedia_format_title">Formatar o armazenamento USB?</string>
     <string name="extmedia_format_title_sd">Formatar o cartão SD?</string>
-    <string name="extract_edit_menu_button">Editar...</string>
+    <string name="extract_edit_menu_button">Editar…</string>
     <string name="faceunlock_multiple_failures">Tentativas de desbloqueio facial excedidas</string>
     <string name="factorytest_failed">Falha no teste de fábrica</string>
     <string name="factorytest_no_action">Nenhum pacote que forneça a ação FACTORY_TEST foi encontrado.</string>
@@ -671,7 +671,7 @@ Desenhe assinatura no ecrã para desbloquear"</string>
     <string name="launch_warning_replace">%1$s não está em execução.</string>
     <string name="launch_warning_title">Aplicativo redirecionado</string>
     <string name="list_delimeter">", "</string>
-    <string name="loading">Carregando...</string>
+    <string name="loading">Carregando…</string>
     <string name="locale_replacement"/>
     <string name="lock_pattern_view_aspect">square</string>
     <string name="lockscreen_2ndLock_instructions">Se se esquecer seu login do Google, pode digitar o seu PIN de backup para desbloquear</string>
@@ -712,7 +712,7 @@ Desenhe assinatura no ecrã para desbloquear"</string>
     <string name="lockscreen_forgot_pattern_button_text">Esqueceu o padrão?</string>
     <string name="lockscreen_glogin_account_recovery_hint">"Esqueceu seu nome de usuário ou senha?
 Acesse "<b>google.com/accounts/recovery</b>.</string>
-    <string name="lockscreen_glogin_checking_password">Verificando...</string>
+    <string name="lockscreen_glogin_checking_password">Verificando…</string>
     <string name="lockscreen_glogin_forgot_pattern">Desbloqueio de conta</string>
     <string name="lockscreen_glogin_instructions">Para desbloquear, faça login com a sua Conta do Google.</string>
     <string name="lockscreen_glogin_invalid_input">Nome de usuário ou senha inválidos.</string>
@@ -759,7 +759,7 @@ Acesse "<b>google.com/accounts/recovery</b>.</string>
  ou entre em contato com o Serviço de atendimento ao cliente
  para maiores informações."</string>
     <string name="lockscreen_sim_puk_locked_message">O cartão SIM está bloqueado pelo PUK.</string>
-    <string name="lockscreen_sim_unlock_progress_dialog_message">Desbloqueando o cartão SIM...</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">Desbloqueando o cartão SIM…</string>
     <string name="lockscreen_sound_off_label">Som desativado</string>
     <string name="lockscreen_sound_on_label">Som ativado</string>
     <string name="lockscreen_swipe_voice_unlock_guide_text">Deslize sobre a tela ou diga o comando de voz para desbloquear</string>
@@ -796,7 +796,7 @@ Tente novamente em %d segundos."</string>
     <string name="lockscreen_transport_play_description">Botão \"Reproduzir\"</string>
     <string name="lockscreen_transport_prev_description">Botão \"Faixa anterior\"</string>
     <string name="lockscreen_transport_stop_description">Botão \"Parar\"</string>
-    <string name="lockscreen_uim_unlock_progress_dialog_message">Desbloqueando cartão SIM...</string>
+    <string name="lockscreen_uim_unlock_progress_dialog_message">Desbloqueando cartão SIM…</string>
     <string name="lockscreen_unlock_guide_text">Deslize para desbloquear</string>
     <string name="lockscreen_unlock_guide_text_touch_exploration">Dê um duplo toque e depois deslize no ecrã para desbloquear</string>
     <string name="lockscreen_unlock_label">Desbloquear</string>
@@ -804,7 +804,7 @@ Tente novamente em %d segundos."</string>
     <string name="lockscreen_voiceunlock_failed_to_recognise_voice_text">Falha ao reconhecer a voz</string>
     <string name="lockscreen_voiceunlock_guide_text">"Diga o comando para acordar
 o telefone"</string>
-    <string name="lockscreen_voiceunlock_recognising_text">A Reconhecer...</string>
+    <string name="lockscreen_voiceunlock_recognising_text">A Reconhecer…</string>
     <string name="lockscreen_voiceunlock_verification_completed_text">reconhecimento de voz completo</string>
     <string name="lockscreen_voiceunlock_verification_failed_text">"Falha ao reconhecer a voz.
 Use um método de desbloqueio alternativo."</string>
@@ -1491,10 +1491,10 @@ para a conta %s"</string>
     <string name="preposition_for_date">em %s</string>
     <string name="preposition_for_time">às %s</string>
     <string name="preposition_for_year">em %s</string>
-    <string name="progress_erasing">Apagando armazenamento interno...</string>
-    <string name="progress_erasing_sd">Apagando cartão SD...</string>
+    <string name="progress_erasing">Apagando armazenamento interno…</string>
+    <string name="progress_erasing_sd">Apagando cartão SD…</string>
     <string name="progress_unmounting">Desconectando armazenamento interno…</string>
-    <string name="progress_unmounting_sd">Desconectando cartão SD...</string>
+    <string name="progress_unmounting_sd">Desconectando cartão SD…</string>
     <string name="pwd_change_enforced">A política de segurança impõe uma alteração de senha</string>
     <string name="radiobutton_not_selected">não selecionado</string>
     <string name="radiobutton_selected">selecionado</string>
@@ -1519,7 +1519,7 @@ para a conta %s"</string>
     <string name="relationTypeSister">Irmã</string>
     <string name="relationTypeSpouse">Cônjuge</string>
     <string name="relative_time">%1$s, %2$s</string>
-    <string name="replace">Substituir...</string>
+    <string name="replace">Substituir…</string>
     <string name="report">Informar</string>
     <string name="rescan_network">A procurar rede disponível?</string>
     <string name="reset">Redefinir</string>
@@ -1584,11 +1584,11 @@ para a conta %s"</string>
     <string name="sdcard_decrypt_err_notification">Ocorreu um erro ao descodificar o cartão SD</string>
     <string name="sdcard_decrypt_notification">Cartão SD descodificado</string>
     <string name="sdcard_decrypt_title_notification">Cartão Sd descodificado</string>
-    <string name="sdcard_decrypt_title_ongoing_second_storage">A descodificar o cartão SD...</string>
+    <string name="sdcard_decrypt_title_ongoing_second_storage">A descodificar o cartão SD…</string>
     <string name="sdcard_encrypt_err_notification">Ocorreu erro de encriptação no cartão SD</string>
     <string name="sdcard_encrypt_notification">Cartão SD encriptado</string>
     <string name="sdcard_encrypt_title_notification">Criptografia do cartão SD</string>
-    <string name="sdcard_encrypt_title_ongoing_second_storage">A Encriptar o cartão Sd...</string>
+    <string name="sdcard_encrypt_title_ongoing_second_storage">A Encriptar o cartão Sd…</string>
     <string name="search_go">Pesquisar</string>
     <string name="searchview_description_clear">Limpar consulta</string>
     <string name="searchview_description_query">Consulta de pesquisa</string>
@@ -1600,13 +1600,13 @@ para a conta %s"</string>
     <string name="security_policy_summary">Recebeu do administrador remoto políticas de criptografia </string>
     <string name="security_policy_title">Políticas de Segurança</string>
     <string name="selectAll">Selecionar tudo</string>
-    <string name="selectTextMode">Selecionar texto...</string>
+    <string name="selectTextMode">Selecionar texto…</string>
     <string name="select_character">Inserir caractere</string>
     <string name="select_input_method">Selecionar método de entrada</string>
     <string name="select_keyboard_layout_notification_message">Toque para selecionar um layout par ao teclado.</string>
     <string name="select_keyboard_layout_notification_title">Selecione layout do teclado</string>
     <string name="sendText">Selecione uma ação para o texto</string>
-    <string name="sending">Enviando...</string>
+    <string name="sending">Enviando…</string>
     <string name="serial_number">Número de série:</string>
     <string name="serviceClassData">Dados</string>
     <string name="serviceClassDataAsync">Assíncrono</string>
@@ -1635,7 +1635,7 @@ para a conta %s"</string>
     <string name="sha1_fingerprint">Impressão digital SHA-1</string>
     <string name="sha256_fingerprint">Impressão digital SHA-256</string>
     <string name="share">Compartilhar</string>
-    <string name="share_action_provider_share_with">Compartilhar com...</string>
+    <string name="share_action_provider_share_with">Compartilhar com…</string>
     <string name="shareactionprovider_share_with">Compartilhar com</string>
     <string name="shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="short_format_month">%b</string>
@@ -1668,7 +1668,7 @@ para a conta %s"</string>
     <string name="sms_control_yes">OK</string>
     <string name="smv_application">O aplicativo %1$s (processo %2$s) violou a política StrictMode imposta automaticamente.</string>
     <string name="smv_process">O processo %1$s violou a política StrictMode imposta automaticamente.</string>
-    <string name="spengesture_media_scanning">Media scanner em execução...</string>
+    <string name="spengesture_media_scanning">Media scanner em execução…</string>
     <string name="ssl_certificate">Certificado de segurança</string>
     <string name="ssl_certificate_is_valid">Este certificado é válido.</string>
     <string name="status_bar_device_locked">Telefone bloqueado.</string>
