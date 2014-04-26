@@ -254,7 +254,7 @@
     <string name="tomorrow">Amanhã</string>
     <string name="tomorrow_at_time_fmt">Amanhã, às %s</string>
     <string name="topic_event_list_header_label">Eventos futuros</string>
-    <string name="user_notice_online_agreement">Você está prestes a acessar o serviço de agenda da MIUI, um serviço online que exige uma conexão com a internet. Ao utilizá-la, você concorda com o previsto nos termos: %a$s e %2$s.</string>
+    <string name="user_notice_online_agreement">Você está prestes a acessar o serviço de agenda da MIUI, um serviço online que exige uma conexão com a internet. Ao utilizá-la, você concorda com o previsto nos termos: %1$s e %2$s.</string>
     <string name="view_event_calendar_label">Agenda:</string>
     <string name="view_event_organizer_label">Organizador:</string>
     <string name="view_event_response_label">Você vai?</string>
