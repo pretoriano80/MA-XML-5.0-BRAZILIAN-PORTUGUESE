@@ -178,6 +178,7 @@
     <string name="calling_via_template">Chamando via %s</string>
     <string name="calling_via_template_miui">"Chamando via ^1 
 "<b>^2</b></string>
+    <string name="callwait_open_hint">\"Chamada em espera\" é um serviço prestado por sua operadora. Se você receber um  erro de \"Código MMI inválido\", entre em contato com sua operadora local para ativar o serviço de chamada em espera.</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_call">Cancelar</string>
     <string name="card_01">SIM 1</string>
@@ -732,6 +733,7 @@ Mudar para o novo provedor?"</string>
     <string name="onscreen_swap_calls_text_miui">Alternar</string>
     <string name="onscreen_tools_off_miui">Ferramentas</string>
     <string name="onscreen_tools_on_miui">Ferramentas</string>
+    <string name="open_miui">Abrir</string>
     <string name="optional_summary">&lt;Opcional></string>
     <string name="ota_activate">Ativar</string>
     <string name="ota_call_end">Voltar</string>

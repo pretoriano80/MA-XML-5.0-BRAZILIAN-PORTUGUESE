@@ -43,7 +43,11 @@
     <string name="channel_postfix">MHZ</string>
     <string name="choose_download_quality">"Selecionar qualidade de download"</string>
     <string name="choose_stream_quality">"Selecionar qualidade de streaming"</string>
+    <string name="click_to_play_all">Toque para reproduzir tudo</string>
     <string name="click_to_shuffle">Toque para reproduzir aleatoriamente</string>
+    <string name="collect_bill_success">Billboard adicionada aos favoritos</string>
+    <string name="collect_fm_success">Adicionada aos favoritos</string>
+    <string name="collect_topic_success">Álbum adicionado aos favoritos</string>
     <string name="complete">Completo</string>
     <string name="confirm">Confirmar</string>
     <string name="correct_id3_by_internet">Autocorreção de ID3 pela internet</string>
@@ -163,18 +167,14 @@
     <string name="ktv_unbind_message">"Falha na conexão com o console KTV. Tenha certeza de que você está escaneando o código QR correto."</string>
     <string name="listen_to_music_online_settings">Ouvir música online</string>
     <string name="listen_to_online_summary">Ouça música através de uma rede de dados móveis ou Wi-Fi</string>
-    <string name="load_album_artist_failed">Falha ao carregar lista de álbum e artista, tente novamente.</string>
-    <string name="load_album_artist_in_process">Carregando lista de álbum e artista…</string>
-    <string name="load_album_failed">Falha ao carregar lista de álbuns, tente novamente</string>
-    <string name="load_album_in_process">Carregando lista de álbuns</string>
-    <string name="load_artist_failed">Falha ao carregar lista de artistas, tente novamente</string>
-    <string name="load_artist_in_process">Carregando lista de artistas</string>
     <string name="load_audio_failed">Falha ao carregar lista de músicas, tente novamente</string>
     <string name="load_audio_in_process">Carregando lista de músicas</string>
     <string name="load_bill_failed">Falha ao carregar lista Billboard, tente novamente</string>
     <string name="load_bill_in_process">Carregando lista Billboard</string>
     <string name="load_channel_failed">Falha ao carregar lista de canais, tente novamente</string>
     <string name="load_channel_in_process">Carregando lista de canais</string>
+    <string name="load_recommend_failed">Falha ao carregar lista</string>
+    <string name="load_recommend_in_process">Carregando…</string>
     <string name="loading">Carregando</string>
     <string name="login">"Login"</string>
     <string name="login_first">"Primeiro, efetue login em sua conta Xiaomi"</string>
@@ -313,10 +313,8 @@
     <string name="start_to_download_album">Baixando capas dos álbuns…</string>
     <string name="start_to_download_avatar">Baixando imagem dos artistas…</string>
     <string name="streamloadingtext">Conectando-se a %s</string>
-    <string name="synchronize_guide_toast">Para ativar a sincronização, vá para Configurações &gt; Sincronizar playlists</string>
     <string name="synchronize_playlist_setting">Sincronizar Playlists</string>
     <string name="synchronize_playlist_summary">Sincronizar playlists na MiCloud.</string>
-    <string name="synchronize_to_baidu_cloud">Faça o backup de suas músicas e playlists utilizando o Baidu Cloud</string>
     <string name="track_album_format" formatted="false">%s - %s</string>
     <string name="track_bit_rate_hd">Alto</string>
     <string name="track_bit_rate_standard">Normal</string>
@@ -325,6 +323,7 @@
     <string name="track_num_format">(%s)</string>
     <string name="tracks_title">Músicas</string>
     <string name="ultra_high_quality">"Máxima Qualidade"</string>
+    <string name="uncollect_success">Favorito removido</string>
     <string name="unknown_album_name">Álbum desconhecido</string>
     <string name="unknown_artist_name">Artista desconhecido</string>
     <string name="use_local_album">Utilizar capas salvas</string>

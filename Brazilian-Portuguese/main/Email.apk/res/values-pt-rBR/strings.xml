@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ApplicationIconMore99">99+</string>
     <string name="Folders">Pastas</string>
     <string name="abc_action_bar_home_description">Início</string>
     <string name="abc_action_bar_up_description">Navegar acima</string>
@@ -164,6 +165,7 @@
     <string name="account_setup_outgoing_username_label">Nome de usuário</string>
     <string name="account_setup_security_policies_required_fmt">O servidor %s requer a permissão de controle remoto de alguns recursos de segurança do seu dispositivo Android. Deseja concluir a configuração desta conta?</string>
     <string name="account_setup_security_required_title">Administração de segurança remota</string>
+    <string name="account_setup_service_not_set">Suas configurações de e-mail ainda não foram definidas</string>
     <string name="account_setup_username_password_toast">Digite um endereço de e-mail e senha válidos.</string>
     <string name="account_setup_username_uneditable_error">Não é possível alterar o nome de usuário de uma conta. Para adicionar uma conta com um nome de usuário diferente, toque em Adicionar conta.</string>
     <string name="account_sync_off">A sincronização da conta está desativada.</string>
@@ -223,6 +225,7 @@
     <string name="auto_sync_off">A sincronização automática está desativada.</string>
     <string name="bcc">Cco</string>
     <string name="bcc_heading">"Cco: "</string>
+    <string name="blank_feedback_toast">Os comentários estão em branco, por favor digite seu comentário e tente novamente!</string>
     <string name="body_hint">Escrever e-mail</string>
     <string name="bytes">%s B</string>
     <string name="cancel">Cancelar</string>
@@ -261,6 +264,7 @@
     <string name="contact_list_add_btn">Adicionar</string>
     <string name="contact_list_search_hint">Pesquisar contatos</string>
     <string name="contact_list_title">Lista de contatos</string>
+    <string name="contact_select">Selecionar contatos</string>
     <string name="content_description">%1$s sobre %2$s, %3$s em %4$s, %5$s</string>
     <string name="content_description_today">%1$s sobre %2$s, %3$s às %4$s, %5$s</string>
     <string name="contextmenu_add_contact">Adicionar contato</string>
@@ -274,6 +278,8 @@
     <string name="contextmenu_send_mail">Enviar e-mail</string>
     <string name="contextmenu_sharelink">Compartilhar link</string>
     <string name="contextmenu_sms_dot">SMS…</string>
+    <string name="conversation_item_mark_read">Lida</string>
+    <string name="conversation_item_mark_unread">Não lida</string>
     <string name="conversation_folder_moved">Movida para %1$s</string>
     <string name="conversation_photo_welcome_text">Toque na imagem do remetente para selecionar a conversa.</string>
     <string name="copy_email">Copiar endereço de e-mail</string>
@@ -293,6 +299,9 @@
     <string name="debug_enable_verbose_logging_label">Ativar registro extremamente detalhado?</string>
     <string name="debug_force_one_minute_refresh_label">Forçar atualizações de 1 minuto para POP/IMAP</string>
     <string name="debug_title">Depurar</string>
+    <string name="default_">PADRÃO</string>
+    <string name="default_setup">CONFIGURAÇÃO PADRÃO</string>
+    <string name="default_signature">Enviado via Xiaomi</string>
     <string name="delete">Excluir</string>
     <string name="deleted">Excluída</string>
     <string name="device_admin_description">Ativa as políticas de segurança especificadas pelo servidor</string>
@@ -480,7 +489,7 @@ Cc: %4$s
     <string name="no_mails">Nenhum e-mail</string>
     <string name="no_matched_attachment">Nenhum anexo correspondente</string>
     <string name="non_synced_folder_description">Para ver as conversações, sincronize esta pasta.</string>
-    <string name="not_subject">Sem assunto</string>
+    <string name="not_subject">(Sem assunto)</string>
     <string name="not_synced_title">Conta não sincronizada</string>
     <string name="not_updated_yet">Conta não atualizada</string>
     <string name="notification_action_archive">Arquivar</string>
@@ -495,6 +504,10 @@ Cc: %4$s
     <string name="ok">OK</string>
     <string name="okay_action">OK</string>
     <string name="other_mail">Outro e-mail</string>
+    <string name="outbox_alert_button_confirm">Editar</string>
+    <string name="outbox_alert_description_sent_failed">"Motivo: O arquivo anexado
+excede o limite de tamanho"</string>
+    <string name="outbox_alert_title_sent_failed">Falha ao enviar e-mail</string>
     <string name="password_changed_prompt">Falha no login</string>
     <string name="password_expire_warning_content_title">Senha da tela de bloqueio expirando</string>
     <string name="password_expire_warning_dialog_content_fmt">É necessário alterar o PIN ou a senha de sua tela de bloqueio logo, ou os dados da %s serão apagados. Deseja mudar isso agora?</string>
@@ -591,6 +604,7 @@ Cc: %4$s
     <string name="report">Informar</string>
     <string name="report_phishing">Denunciar phishing</string>
     <string name="report_spam">Denunciar spam</string>
+    <string name="request_entity_large">O arquivo solicitado é muito grande!</string>
     <string name="require_manual_sync_message">A sincronização em segundo plano para essa conta é desativada durante o roaming.</string>
     <string name="respond_inline">Responder em linha</string>
     <string name="resume_draft">Editar</string>
@@ -630,6 +644,8 @@ Cc: %4$s
     <string name="show_images">Mostrar imagens</string>
     <string name="show_n_more_folders">Mostrar mais %1$s pastas</string>
     <string name="signature">"
+
+
 
 %s"</string>
     <string name="signin">Fazer login</string>

@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Texto minúsculo</item>
+        <item>Texto pequeno</item>
+        <item>Texto normal</item>
+        <item>Texto grande</item>
+        <item>Texto enorme</item>
+    </string-array>
     <string-array name="compose_modes">
         <item>Responder</item>
         <item>Responder a todos</item>
@@ -38,11 +45,11 @@
         <item>Mostrar somente excluir</item>
         <item>Mostrar arquivar e excluir</item>
     </string-array>
-    <string-array name="general_preference_text_zoom_summary_array">
-        <item>Texto minúsculo</item>
-        <item>Texto pequeno</item>
-        <item>Texto normal</item>
-        <item>Texto grande</item>
-        <item>Texto enorme</item>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Padrão</item>
+        <item>Formato</item>
+        <item>Nome</item>
+        <item>Remetente</item>
+        <item>Data</item>
     </string-array>
 </resources>

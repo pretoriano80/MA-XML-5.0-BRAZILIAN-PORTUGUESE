@@ -13,6 +13,7 @@
     <string name="accessibility_more_ptions_closed">Opções adicionais fechadas</string>
     <string name="accessibility_more_ptions_opened">Opções adicionais exibidas</string>
     <string name="accessibility_open_more_ptions">Abrir mais opções</string>
+    <string name="accessibility_opti_zoom_button">Opti_Zoom</string>
     <string name="accessibility_review_thumbnail">Foto mais recente</string>
     <string name="accessibility_scroll_button_slider">Alternar entre câmera e filmadora</string>
     <string name="accessibility_show_setting_panel_button">Botão de Configurações</string>
@@ -35,12 +36,14 @@ Saia de vista por um momento"</string>
     <string name="cancel">Cancelar</string>
     <string name="cannot_connect_camera_once">Não é possível conectar à câmera. Reinicie o aplicativo e tente novamente.</string>
     <string name="cannot_connect_camera_twice">Não é possível conectar à câmera. Reinicie o telefone e tente novamente.</string>
+    <string name="chroma_flash_exit_button_text">Sair do modo Chroma Flash</string>
     <string name="clear_effects">Clarear efeitos</string>
     <string name="close">Fechar</string>
     <string name="cloud_album_details">Detalhes do álbum na nuvem:</string>
     <string name="confirm_change_mode_title">Modo da Câmera</string>
     <string name="confirm_change_to_expert_mode_message">Alternar câmera para o modo avançado?</string>
     <string name="confirm_change_to_simple_mode_message">Alternar câmera para o modo simples?</string>
+    <string name="confirm_enable_opti_zoom_message">Você deseja ativar a função de opti-zoom em suas fotos?</string>
     <string name="confirm_location_message">Deseja salvar as informações de localização geográfica em suas fotos?</string>
     <string name="confirm_restore_message">Restaurar as configurações padrão da câmera?</string>
     <string name="confirm_restore_title">Restaurar padrões</string>
@@ -49,7 +52,7 @@ Saia de vista por um momento"</string>
     <string name="contact_birthday">Aniversário</string>
     <string name="contact_company">Empresa</string>
     <string name="contact_details">Detalhes do contato:</string>
-    <string name="contact_email">Email</string>
+    <string name="contact_email">E-mail</string>
     <string name="contact_name">Nome</string>
     <string name="contact_nickname">Apelido</string>
     <string name="contact_note">Anotação</string>
@@ -84,6 +87,7 @@ Saia de vista por um momento"</string>
     <string name="effect_goofy_face_squeeze">Comprimir</string>
     <string name="effect_none">Nenhum</string>
     <string name="effect_silly_faces">CARETAS</string>
+    <string name="enable_feature">Sim</string>
     <string name="error_app_unsupported">Resolução de vídeo não suportada para o codificador selecionado</string>
     <string name="error_app_unsupported_hfr_720p">720P suporta até 90 fps</string>
     <string name="error_app_unsupported_hfr_codec">Apenas a codificação de vídeo H264 é suportada ao gravar com uma taxa de quadros alta</string>
@@ -158,9 +162,11 @@ Saia de vista por um momento"</string>
     <string name="no_save">Não salvar</string>
     <string name="no_storage">Insira um cartão SD antes de usar a câmera.</string>
     <string name="no_thumbnail">Sem miniatura</string>
+    <string name="not_enable_feature">Agora não</string>
     <string name="not_enough_space">O seu cartão SD está cheio.</string>
     <string name="not_selectable_in_scene_mode">Não pode ser selecionado no modo de cena.</string>
     <string name="ok">OK</string>
+    <string name="opti_zoom_exit_button_text">Sair do modo opti-zoom</string>
     <string name="orientation">Orientação</string>
     <string name="pano_dialog_panorama_failed">Não foi possível salvar panorama.</string>
     <string name="pano_dialog_prepare_preview">Preparando panorama</string>
@@ -187,10 +193,12 @@ para capturar o panorama"</string>
     <string name="pref_camera_audio_capture_title">Microfone</string>
     <string name="pref_camera_auto_focus_title_entry_off">Off</string>
     <string name="pref_camera_auto_focus_title_entry_on">On</string>
+    <string name="pref_camera_auto_opti_zoom_title">Opti-zoom automático quando a proporção for maior que 2</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Centralizado</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Média de quadros</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Ponto</string>
     <string name="pref_camera_autoexposure_title">Modo de auto-exposição</string>
+    <string name="pref_camera_chroma_flash_title">Chroma Flash</string>
     <string name="pref_camera_coloreffect_entry_aqua">Aqua</string>
     <string name="pref_camera_coloreffect_entry_brannan">Madrugada</string>
     <string name="pref_camera_coloreffect_entry_earlybird">Outono</string>
@@ -288,6 +296,7 @@ para capturar o panorama"</string>
     <string name="pref_camera_multiple_face_beauty_entry_off">1 pessoa</string>
     <string name="pref_camera_multiple_face_beauty_entry_on">2 pessoas</string>
     <string name="pref_camera_multiple_face_beauty_title">Melhorar tons de pele</string>
+    <string name="pref_camera_opti_zoom_title">Opti Zoom</string>
     <string name="pref_camera_panoramamode_title">Panorama</string>
     <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
     <string name="pref_camera_picture_format_entry_raw">Raw</string>
@@ -364,6 +373,7 @@ para capturar o panorama"</string>
     <string name="pref_camera_touchafaec_entry_off">Off</string>
     <string name="pref_camera_touchafaec_entry_on">On</string>
     <string name="pref_camera_touchafaec_title">Touch AF/AEC</string>
+    <string name="pref_camera_ubi_focus_title">Ubi Focal</string>
     <string name="pref_camera_video_duration_entry_10">10 minutos</string>
     <string name="pref_camera_video_duration_entry_120">Ilimitado</string>
     <string name="pref_camera_video_duration_entry_30">30 minutos</string>
@@ -467,12 +477,15 @@ para capturar o panorama"</string>
     <string name="show_on_map">Mostrar no mapa</string>
     <string name="show_videos_only">Somente vídeos</string>
     <string name="simple_mode_button_text_audio_capture">Fechar captura por microfone</string>
+    <string name="simple_mode_button_text_chroma_flash">Fechar modo Chroma Flash</string>
     <string name="simple_mode_button_text_color_effect">Fechar filtro</string>
     <string name="simple_mode_button_text_face_beauty">Fechar tons de pele</string>
     <string name="simple_mode_button_text_hand_night">Fechar modo HHT</string>
     <string name="simple_mode_button_text_hdr">Fechar modo HDR</string>
+    <string name="simple_mode_button_text_opti_zoom">Fechar modo OptiZoom</string>
     <string name="simple_mode_button_text_panorama">Fechar panorama</string>
     <string name="simple_mode_button_text_slow_video">Fechar câmera slow-motion</string>
+    <string name="simple_mode_button_text_ubi_focus">Fechar modo Ubi Focal</string>
     <string name="simple_mode_title">Modo básico</string>
     <string name="slideshow">Exibição de slides</string>
     <string name="snapshot_lower_than_video">Snapshot de vídeo maior que a própria gravação.</string>
@@ -494,6 +507,7 @@ para capturar o panorama"</string>
     <string name="toast_burst_snap_forbidden_when_hdr_open">Fotos sequenciais não são suportadas com o HDR ativo.</string>
     <string name="toast_burst_snap_forbidden_when_iso_not_auto">Fotos sequenciais não são suportadas fora do modo ISO automático</string>
     <string name="toast_start_audio_capture">Faça barulho para ativar o Disparador por Som</string>
+    <string name="ubi_focus_exit_button_text">Sair do modo Ubi Focal</string>
     <string name="undo">Desfazer</string>
     <string name="unit_mm">mm</string>
     <string name="video_camera_label">Filmadora</string>

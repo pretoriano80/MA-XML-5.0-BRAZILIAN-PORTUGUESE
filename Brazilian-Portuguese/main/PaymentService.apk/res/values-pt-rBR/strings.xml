@@ -85,34 +85,16 @@
 Por favor efetue o login novamente."</string>
     <string name="error_account_changed_title">Conta alterada</string>
     <string name="error_auth_summary">Erro de login na conta, por favor conecte-se novamente.</string>
-    <string name="error_auth_title">Erro de login</string>
-    <string name="error_bankcard_verify_summary">Falha ao verificar número do cartão.</string>
-    <string name="error_cert_date_summary">"Data do certificado incorreta. 
-Por favor verifique as configurações de data e hora do telefone e tente novamente."</string>
-    <string name="error_cert_date_title">Data do certificado incorreta</string>
     <string name="error_common_summary">Erro de sistema, por favor tente novamente mais tarde.</string>
-    <string name="error_common_title">Erro de sistema</string>
     <string name="error_expired_summary">Sua compra expirou</string>
     <string name="error_frozen_summary">"Sua conta está congelada. 
 Por favor contacte o SAC Xiaomi."</string>
-    <string name="error_frozen_title">Conta Congelada</string>
-    <string name="error_giftcard_summary">Falha ao obter informações do vale-presente.</string>
     <string name="error_has_bought_summary">Você já comprou este produto.</string>
-    <string name="error_has_bought_title">Repetir compra</string>
     <string name="error_illegal_order_summary">Erro na compra. Por favor tente novamente mais tarde</string>
-    <string name="error_illegal_order_title">Erro na compra</string>
     <string name="error_mili_summary">Saldo insuficiente.</string>
     <string name="error_network_summary">Falha ao conectar-se à rede.</string>
-    <string name="error_network_title">Erro de rede</string>
     <string name="error_server_summary">Erro do servidor. Tente novamente mais tarde.</string>
-    <string name="error_server_title">Erro do servidor</string>
-    <string name="error_too_frequent_visits_summary">"Número de ações na conta excedido.
-Aguarde 5 minutos e tente novamente."</string>
-    <string name="error_too_frequent_visits_title">Acesso frequente</string>
     <string name="error_user_id_mismatch_summary">Por favor verifique e conecte-se novamente em sua conta</string>
-    <string name="error_user_id_mismatch_title">Erro na conta</string>
-    <string name="error_verify_summary">Seu aplicativo não possui permissão para solicitar este serviço</string>
-    <string name="error_verify_title">Sem permissão</string>
     <string name="fee">%1$s MiCredit</string>
     <string name="forget_password">&lt;u&gt;Redefinir senha&lt;/u&gt;</string>
     <string name="format_date">dd-MM-yyyy</string>
@@ -294,7 +276,6 @@ Nós verificaremos novamente em dois dias úteis."</string>
     <string name="title_password">Senha</string>
     <string name="title_password_threshold">Limite diário = ￥%1$s</string>
     <string name="title_pay_record">Registros de pagamento</string>
-    <string name="title_recharge">Recarregar MiCredit</string>
     <string name="title_recharge_record">Registros de recarga</string>
     <string name="title_transaction">Transações</string>
     <string name="title_visible_pattern">Tornar padrão visível</string>
