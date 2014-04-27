@@ -751,8 +751,8 @@ Seu telefone será bloqueado caso insira uma senha incorreta novamente"</string>
     <string name="place_a_call1">SIM 1</string>
     <string name="place_a_call2">SIM 2</string>
     <string name="port_title">Número da porta</string>
-    <string name="pref_custom_location_summary_miui">Customizar atribuições regionais e de número</string>
-    <string name="pref_custom_location_title_miui">Customizar atribuições</string>
+    <string name="pref_custom_location_summary_miui">Personalizar configurações regionais e de número</string>
+    <string name="pref_custom_location_title_miui">Personalizar configurações</string>
     <string name="prefer_2g">Usar apenas redes 2G</string>
     <string name="prefer_2g_summary">Economiza bateria</string>
     <string name="preference_category_ringtone">Toque e vibração</string>

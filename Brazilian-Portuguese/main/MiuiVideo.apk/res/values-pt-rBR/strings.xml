@@ -173,9 +173,9 @@ para a MiBox ou TV"</string>
     <string name="mediasetupdated">Série atualizada</string>
     <string name="menu_item_about_label">Sobre</string>
     <string name="menu_item_disable_3d_mode">Desativar 3D</string>
-    <string name="menu_item_disable_audio_enhance">Desativar melhorias de áudio</string>
+    <string name="menu_item_disable_audio_enhance">Desativar Mi Sound</string>
     <string name="menu_item_enable_3d_mode">Ativar 3D</string>
-    <string name="menu_item_enable_audio_enhance">Ativar melhorias de áudio</string>
+    <string name="menu_item_enable_audio_enhance">Ativar Mi Sound</string>
     <string name="menu_item_hide_media_info_label">Ocultar informações do vídeo</string>
     <string name="menu_item_media_info_label">Ver informações do vídeo</string>
     <string name="menu_item_orientation_auto_sensor_action">Ativar rotação automática</string>

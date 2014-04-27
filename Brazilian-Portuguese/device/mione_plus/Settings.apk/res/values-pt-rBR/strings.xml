@@ -559,7 +559,7 @@ Deseja realmente permitir esta ação?"</string>
     <string name="configure_input_method">Configurar métodos de entrada</string>
     <string name="confirm">OK</string>
     <string name="confirm_clear_blacklist">Excluir Lista Negra?</string>
-    <string name="confirm_clear_whitelist">Excluir Lista Branca?</string>
+    <string name="confirm_clear_whitelist">Excluir Lista de exceções?</string>
     <string name="confirm_erase">Confirmar exclusão</string>
     <string name="confirm_new_backup_pw_prompt">Digite mais uma vez a nova senha de backup completo aqui</string>
     <string name="connected_wifi">Wi-Fi Conectada</string>
@@ -827,7 +827,7 @@ Como o uso de dados é calculado por seu telefone, e sua operadora pode explicar
     <string name="dndm_menu_add_vip_custom">Adic. exceção</string>
     <string name="dndm_mute_all">Silenciar chamadas e mensagens</string>
     <string name="dndm_notification">Modo não perturbe ativado.</string>
-    <string name="dndm_open">Não Perturbe</string>
+    <string name="dndm_open">Não perturbe</string>
     <string name="dndm_repeated_call_setting_title">Chamadas repetidas</string>
     <string name="dndm_repeated_call_summary_3min">Se o mesmo número ligar em menos de três minutos, o telefone tocará normalmente</string>
     <string name="dndm_repeated_call_summary_none">Silenciar chamadas repetidas de um mesmo número</string>
@@ -844,7 +844,7 @@ Como o uso de dados é calculado por seu telefone, e sua operadora pode explicar
     <string name="dndm_vip_list_custom">Exceções</string>
     <string name="dndm_vip_list_custom_group">Exceções</string>
     <string name="dndm_vip_list_group">Lista de exceções</string>
-    <string name="do_not_disturb_mode">Não Perturbe</string>
+    <string name="do_not_disturb_mode">Não perturbe</string>
     <string name="dock_audio_settings_title">Áudio</string>
     <string name="dock_audio_summary_car">Configurações para o dock do carro anexo</string>
     <string name="dock_audio_summary_desk">Configurações para o dock do computador anexo</string>
@@ -957,7 +957,7 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="filter_apps_cached">Em cache</string>
     <string name="filter_apps_onsdcard">Cartão SD</string>
     <string name="filter_apps_running">Executando</string>
-    <string name="filter_apps_third_party">Descarregados</string>
+    <string name="filter_apps_third_party">Transferidos</string>
     <string name="filter_dlg_title">Selecione as opções de filtro</string>
     <string name="finish_application">Finalizar</string>
     <string name="finish_button_label">Concluir</string>
@@ -1060,7 +1060,7 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="fw_set_keyword">Filtro de palavras-chave</string>
     <string name="fw_start_time">De</string>
     <string name="fw_time_settings">Programado</string>
-    <string name="fw_whitelist">Lista Branca</string>
+    <string name="fw_whitelist">Lista de exceções</string>
     <string name="fw_whitelist_hint">Chamadas e mensagens não serão bloqueadas por padrão</string>
     <string name="gadget_picker_title">Escolher o gadget</string>
     <string name="gadget_title">Controle de energia</string>
@@ -1567,9 +1567,9 @@ Tente o seguinte:
     <string name="opt_virus_scan">Escanear</string>
     <string name="opt_virus_suggest">%d arquivos suspeitos encontrados! Por favor efetue uma varredura com o antivírus imediatamente</string>
     <string name="opt_waiting">Aguardando</string>
-    <string name="optimize_ad_header_left">Adware: %d</string>
-    <string name="optimize_ad_list_empty_content">Nenhum Adware encontrado.</string>
-    <string name="optimize_apk_header_left">Pacotes de instalação: %d</string>
+    <string name="optimize_ad_header_left">Adicionais: %d</string>
+    <string name="optimize_ad_list_empty_content">Nenhum adicional encontrado.</string>
+    <string name="optimize_apk_header_left">Instaladores: %d</string>
     <string name="optimize_apk_list_empty_content">Nenhum pacote de instalação encontrado.</string>
     <string name="optimize_cache_header_left">Arquivos de cache: %d</string>
     <string name="optimize_cache_list_empty_content">Nenhum arquivo de cache encontrado</string>
@@ -1581,8 +1581,8 @@ Tente o seguinte:
     <string name="optimize_now">Iniciar</string>
     <string name="optimize_residual_header_left">Residuais: %d</string>
     <string name="optimize_residual_list_empty_content">Nenhum arquivo residual encontrado.</string>
-    <string name="optimize_tips_ad_content">Imagens, textos e outros conteúdos relacionados ao Adware armazenados em seu telefone.</string>
-    <string name="optimize_tips_ad_title">Adware</string>
+    <string name="optimize_tips_ad_content">Imagens, textos e outros conteúdos relacionados ao adicional armazenados em seu telefone.</string>
+    <string name="optimize_tips_ad_title">Adicionais</string>
     <string name="optimize_tips_apk_content">"Utilizados para instalar aplicativos em seu dispositivo, porém eles não fazem nada além de ocupar espaço uma vez que já estejam instalados."</string>
     <string name="optimize_tips_apk_title">Apps</string>
     <string name="optimize_tips_cache_content">Arquivos temporários criados por aplicativos e seus processos.</string>
@@ -1590,7 +1590,7 @@ Tente o seguinte:
     <string name="optimize_tips_residual_content">Conteúdo residual criado por aplicativos que já foram desinstalados. Alguns destes arquivos podem ainda ser utilizados por você ou o sistema, e é recomendado utilizar a limpeza avançada para excluir estes arquivos.</string>
     <string name="optimize_tips_residual_title">Arquivos residuais</string>
     <string name="optimize_tips_title">Ajuda</string>
-    <string name="optimize_title_ad">Adware</string>
+    <string name="optimize_title_ad">Adicionais</string>
     <string name="optimize_title_apk">Instalador</string>
     <string name="optimize_title_cache">Cache</string>
     <string name="optimize_title_residual">Residual</string>
@@ -1979,7 +1979,7 @@ Você precisará alterar esta configuração antes de excluir o perfil."</string
     <string name="pref_button_light">Luzes dos botões</string>
     <string name="pref_button_light_summary">Indicador das teclas de Menu, Início e Voltar</string>
     <string name="pref_category_title_auto_update_cleanup_db">Atualização do banco de dados</string>
-    <string name="pref_category_title_cleanup_white_list">Lista Branca de limpeza</string>
+    <string name="pref_category_title_cleanup_white_list">Lista de exceções de limpeza</string>
     <string name="pref_category_title_garbage_cleanup_check">Configurações de limpeza</string>
     <string name="pref_category_title_module_settings">Módulos do centro de segurança</string>
     <string name="pref_category_title_securitycenter_settings">Configurações do Centro de Segurança</string>
@@ -2764,7 +2764,7 @@ Um método do Google para sincronizar dados de modo a permitir o acesso aos seus
     <string name="virus_scan_finish_text">Ameaças removidas!</string>
     <string name="virus_scan_guard_provider_missed">O antivírus foi comprometido. Será necessário redefinir seu telefone para as configurações de fábrica.</string>
     <string name="virus_scan_installed_package">%s (instalado)</string>
-    <string name="virus_scan_is_cloud_scanning">Escaneando MiCloud…</string>
+    <string name="virus_scan_is_cloud_scanning">Escaneando Mi Cloud…</string>
     <string name="virus_scan_is_scanning">Escaneando…</string>
     <string name="virus_scan_judge_is_virus">Verificar aplicativos por vírus antes de sua instalação</string>
     <string name="virus_scan_last_risk">Aplicativos suspeitos encontrados na última varredura não foram removidos.</string>
@@ -2904,13 +2904,13 @@ Um método do Google para sincronizar dados de modo a permitir o acesso aos seus
     <string name="wfd_settings_title">Configurações de Tela Wi-Fi</string>
     <string name="wfd_wps_keypad">Preferir Botão de Config.</string>
     <string name="wfd_wps_pbc">Preferir PIN</string>
-    <string name="white_list_ad_header">Adware: %d</string>
-    <string name="white_list_apk_header">Pacotes de instalação: %d</string>
+    <string name="white_list_ad_header">Adicionais: %d</string>
+    <string name="white_list_apk_header">Instaladores: %d</string>
     <string name="white_list_cache_header">Arquivos de cache: %d</string>
     <string name="white_list_large_file_header">Arquivos grandes: %d</string>
     <string name="white_list_residual_header">Residuais: %d</string>
-    <string name="white_list_title">Lista Branca</string>
-    <string name="whitelist_tab_title">Lista Branca</string>
+    <string name="white_list_title">Lista de exceções</string>
+    <string name="whitelist_tab_title">Lista de exceções</string>
     <string name="widget_picker_title">Escolher widget</string>
     <string name="wifi_access_points">Redes Wi-Fi</string>
     <string name="wifi_add_network">Outros</string>
@@ -3159,8 +3159,8 @@ Toque em "<b>Voltar</b> para conectar-se a outra rede Wi-Fi.</string>
     <string name="wps_connect_summary">Configura uma conexão a roteadores com suporte a WPS</string>
     <string name="wps_connect_title">Conexão WPS</string>
     <string name="xiaomi_account">Conta Xiaomi</string>
-    <string name="xiaomi_cloud_service">MiCloud</string>
-    <string name="xiaomi_money_service">MiCredits</string>
+    <string name="xiaomi_cloud_service">Mi Cloud</string>
+    <string name="xiaomi_money_service">Mi Credits</string>
     <string name="yes">Sim</string>
     <string name="zone_auto">Fuso horário automático</string>
     <string name="zone_auto_summaryOff">Usar fuso horário fornecido pela rede</string>

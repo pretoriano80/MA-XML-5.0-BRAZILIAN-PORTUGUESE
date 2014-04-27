@@ -809,8 +809,8 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
     <string name="pin_progress_set_fdn_lock_miui">Definindo estado de FDN…</string>
     <string name="pin_progress_set_icc_lock_miui">Definindo estado de ICC…</string>
     <string name="pin_progress_unlock_icc_miui">Desbloqueando cartão SIM…</string>
-    <string name="pref_custom_location_summary_miui">Customizar atribuições regionais e de número</string>
-    <string name="pref_custom_location_title_miui">Customizar atribuições</string>
+    <string name="pref_custom_location_summary_miui">Personalizar configurações regionais e de número</string>
+    <string name="pref_custom_location_title_miui">Personalizar configurações</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G preferencial</string>
     <string name="preferred_network_type_pref_entries_auto_miui">Automático</string>
     <string name="preferred_network_type_pref_entries_only_2g_miui">2G (Economia de energia)</string>

@@ -9,7 +9,7 @@
     <string name="AD_BLOCK_ALL">Bloquear tudo</string>
     <string name="AD_COUNT">%d bloqueado(s)</string>
     <string name="AD_Info">Ad plug-in</string>
-    <string name="AD_Info_Hint">Adware utilizado por aplicativos de terceiros para enviar anúncios para seu dispositivo.</string>
+    <string name="AD_Info_Hint">Adicionais utilizados por aplicativos de terceiros para enviar anúncios para seu dispositivo.</string>
     <string name="AD_NOT_BLOCK">Não bloquear</string>
     <string name="AD_SCANNING">Verificando…</string>
     <string name="AD_SCAN_BUTTON">Verificar</string>
@@ -89,7 +89,7 @@
     <string name="dlg_white_antispam_message">Adicionar esta mensagem à lista de exceções?</string>
     <string name="fw_blocked">Bloqueado:</string>
     <string name="fw_blocked_count">Bloqueado:</string>
-    <string name="fw_blocked_count_call">%d chamadas e</string>
+    <string name="fw_blocked_count_call">%d chamadas</string>
     <string name="fw_blocked_count_sms">%d mensagens</string>
     <string name="hint_antispam_mode_edit">Modo personalizado</string>
     <string name="info_antispam_phone">Bloquear chamadas</string>
@@ -142,7 +142,7 @@
     <string name="st_antispam_des_anti">Bloquear</string>
     <string name="st_antispam_des_permit">Permitir</string>
     <string name="st_antispam_des_permit_nokeyword">Permitir (exceto palavras-chave)</string>
-    <string name="st_antispam_des_smart_anti">Lista de bloqueio inteligente</string>
+    <string name="st_antispam_des_smart_anti">Bloqueio inteligente</string>
     <string name="st_antispam_des_uesless">Inefetivo</string>
     <string name="st_antispam_mode_add_new">Adicionar modo</string>
     <string name="st_antispam_mode_blacklist">Utilizar somente a lista de bloqueio</string>
@@ -159,7 +159,7 @@
     <string name="st_antispam_mode_only_whitelist">Permitir somente a lista de exceções</string>
     <string name="st_antispam_mode_only_whitelist_state">1100000</string>
     <string name="st_antispam_mode_only_whitelist_sum">Permitir chamadas e mensagens somente de números na lista de exceções</string>
-    <string name="st_antispam_mode_smart">Lista de bloqueio inteligente</string>
+    <string name="st_antispam_mode_smart">Bloqueio inteligente</string>
     <string name="st_antispam_mode_smart_state">1111110</string>
     <string name="st_antispam_mode_smart_sum">Aplicar lista de bloqueio e bloquear números desconhecidos</string>
     <string name="st_antispam_notification_sum">Exibir notificação quando uma mensagem ou chamada for bloqueada</string>
@@ -209,7 +209,7 @@
     <string name="st_title_addwhitelist">Adicionar à lista de exceções</string>
     <string name="st_title_adress">Selecionar local</string>
     <string name="st_title_adress_num">%d selecionado(s)</string>
-    <string name="st_title_anticomintcall_backsound_setting">Configurações de resposta em áudio</string>
+    <string name="st_title_anticomintcall_backsound_setting">Mostrar como</string>
     <string name="st_title_antispam_mode">Modo de bloqueio</string>
     <string name="st_title_back_sound_busy">Ocupado</string>
     <string name="st_title_back_sound_choose">Personalizado</string>

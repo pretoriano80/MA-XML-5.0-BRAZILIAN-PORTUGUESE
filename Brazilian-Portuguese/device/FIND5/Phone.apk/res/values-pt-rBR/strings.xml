@@ -694,8 +694,8 @@ Seu telefone será bloqueado caso insira uma senha incorreta novamente"</string>
     <string name="pin_progress_set_icc_lock_miui">Definindo estado de ICC…</string>
     <string name="pin_progress_unlock_icc_miui">Desbloqueando cartão SIM…</string>
     <string name="port_title">Número da porta</string>
-    <string name="pref_custom_location_summary_miui">Customizar atribuições regionais e de número</string>
-    <string name="pref_custom_location_title_miui">Customizar atribuições</string>
+    <string name="pref_custom_location_summary_miui">Personalizar configurações regionais e de número</string>
+    <string name="pref_custom_location_title_miui">Personalizar configurações</string>
     <string name="prefer_2g">Utiliz. somente redes 2G</string>
     <string name="prefer_2g_summary">Economia de bateria</string>
     <string name="preference_category_ringtone">Toque</string>
