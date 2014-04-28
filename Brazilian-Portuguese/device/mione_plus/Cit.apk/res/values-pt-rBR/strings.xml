@@ -40,7 +40,7 @@ Atenda a chamada normalmente. A voz será ouvida pelo alto-falante e o barulho a
     <string name="cit_bluetooth_scan_retry">Procurar novamente</string>
     <string name="cit_bluetooth_scanning">A procura de telefones Bluetooth demora cerca de 4 segundos…</string>
     <string name="cit_bluetooth_scanning_bluetooth_done">A procura está concluída, não encontrou nenhum telefone Bluetooth</string>
-    <string name="cit_bluetooth_scanning_bluetooth_error">Erro no Bluetooth impossível concluir a varredura</string>
+    <string name="cit_bluetooth_scanning_bluetooth_error">Erro no Bluetooth impossível concluir a verificação</string>
     <string name="cit_bluetooth_scanning_opening_bluetooth">Abrindo telefones Bluetooth…</string>
     <string name="cit_button_light_off">desligar iluminação de teclas</string>
     <string name="cit_button_light_on">ligar iluminação de teclas</string>

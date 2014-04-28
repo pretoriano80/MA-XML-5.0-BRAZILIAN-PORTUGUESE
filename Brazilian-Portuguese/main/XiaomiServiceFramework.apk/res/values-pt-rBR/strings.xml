@@ -8,7 +8,7 @@
     <string name="account_hint_text">E-mail ou número de telefone</string>
     <string name="account_name">Conta: %1$s</string>
     <string name="activate_phone_failed_notif_title">Falha ao iniciar o Mi Cloud</string>
-    <string name="activate_phone_failed_notif_title_msim">Falha ao ativar o serviço MiCloud para o cartão SIM %s</string>
+    <string name="activate_phone_failed_notif_title_msim">Falha ao ativar o serviço Mi Cloud para o cartão SIM %s</string>
     <string name="activate_phone_send_sms_fail">Falha ao enviar SMS de ativação</string>
     <string name="activate_phone_send_sms_failed_notif">Falha ao enviar SMS de ativação</string>
     <string name="activate_phone_server_error">Erro de servidor</string>
@@ -62,7 +62,7 @@
     <string name="captcha">Captcha</string>
     <string name="check_phone_error_title">Falha ao ativar sincronização</string>
     <string name="check_phone_io_error">Erro de rede</string>
-    <string name="checking_account">Verificando…</string>
+    <string name="checking_account">"Verificando… "</string>
     <string name="checking_input">Verificando entrada…</string>
     <string name="cloud_messaging">Cloud Messaging</string>
     <string name="cmcc_data_sync_notice">Utilize sua Conta Xiaomi para sincronizar mensagens e contatos com a nuvem.</string>
@@ -161,11 +161,11 @@ acesse o link de ativação enviado para seu e-mail."</string>
     <string name="micloud_error_empty_username">Usuário em branco</string>
     <string name="micloud_error_empty_vcode">Insira o código de verificação</string>
     <string name="micloud_error_illegal_pwd">Senha inválida</string>
-    <string name="micloud_full_influence_dspt">"Todas as fotos, vídeos, anotações e aplicativos serão salvos na MiCloud.
+    <string name="micloud_full_influence_dspt">"Todas as fotos, vídeos, anotações e aplicativos serão salvos na Mi Cloud.
 
 Se você perder ou danificar seu telefone, seus dados ainda estarão salvos.
 
-Quando sua conta MiCloud estiver cheia, seus dados antigos não serão excluídos. Entretanto, qualquer novo conteúdo adicionado (fotos, vídeos, anotações ou aplicativos) não serão salvos.
+Quando sua conta Mi Cloud estiver cheia, seus dados antigos não serão excluídos. Entretanto, qualquer novo conteúdo adicionado (fotos, vídeos, anotações ou aplicativos) não serão salvos.
 
 Para corrigir este problema, você pode excluir arquivos antigos, ou adquirir espaço para armazenamento adicional."</string>
     <string name="micloud_full_influence_title">Quando sua Mi Cloud está cheia…</string>
@@ -178,7 +178,7 @@ Para corrigir este problema, você pode excluir arquivos antigos, ou adquirir es
     <string name="micloud_intro_02_part_02">Sincronize contatos, mensagens, fotos e muito mais entre dispositivos</string>
     <string name="micloud_intro_03_part_01">Seus dados mais seguros</string>
     <string name="micloud_intro_03_part_02">Gerencie seus backups, localize seu telefone, bloqueie-o ou apague-o remotamente em i.xiaomi.com</string>
-    <string name="micloud_is_what">O que é MiCloud?</string>
+    <string name="micloud_is_what">O que é Mi Cloud?</string>
     <string name="micloud_more">Saiba mais</string>
     <string name="micloud_none">Nenhum</string>
     <string name="micloud_password_confirm_hint">Confirmar senha</string>
@@ -188,7 +188,7 @@ Para corrigir este problema, você pode excluir arquivos antigos, ou adquirir es
     <string name="micloud_reg_new">Criar conta</string>
     <string name="micloud_resend_active_email">Reenviar e-mail de ativação</string>
     <string name="micloud_space_full_influence"><u>O que acontece se meu espaço livre terminar?</u></string>
-    <string name="micloud_storage_space">Armazenamento MiCloud</string>
+    <string name="micloud_storage_space">Armazenamento Mi Cloud</string>
     <string name="micloud_summary">Conecte-se com sua Conta Xiaomi para sincronizar contatos, álbuns de fotos, entre outros.</string>
     <string name="micloud_title_dspt" formatted="false">"Espaço total %s
  usado %s | livre %s"</string>
@@ -211,7 +211,7 @@ Para corrigir este problema, você pode excluir arquivos antigos, ou adquirir es
     <string name="micloud_web_discription_01">Conecte-se em http://i.xiaomi.com</string>
     <string name="micloud_web_discription_02">Para armazenar e acessar seus arquivos de qualquer lugar</string>
     <string name="micloud_welcome_skip_login">Pular registro</string>
-    <string name="mili_center">MiCredit</string>
+    <string name="mili_center">Mi Credit</string>
     <string name="my_xiaomi_account">Conta Xiaomi</string>
     <string name="next">Avançar</string>
     <string name="noRemind">Não lembrar novamente</string>
@@ -277,6 +277,6 @@ Para corrigir este problema, você pode excluir arquivos antigos, ou adquirir es
     <string name="wipe_data_dialog_title">Alguns itens não foram sincronizados.</string>
     <string name="wrong_captcha">O captcha inserido está incorreto</string>
     <string name="wrong_vcode">O código de verificação incorreto</string>
-    <string name="xiaomi_cloud_service">MiCloud</string>
+    <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xmpp_server_addr"/>
 </resources>

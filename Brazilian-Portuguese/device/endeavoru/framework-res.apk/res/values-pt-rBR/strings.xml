@@ -797,7 +797,7 @@ Tente novamente em %d segundos."</string>
     <string name="lockscreen_glogin_invalid_input">Nome de usuário ou senha inválidos.</string>
     <string name="lockscreen_glogin_account_recovery_hint">"Esqueceu seu nome de usuário ou senha?
 Acesse "<b>google.com/accounts/recovery</b>.</string>
-    <string name="lockscreen_glogin_checking_password">Verificando…</string>
+    <string name="lockscreen_glogin_checking_password">"Verificando… "</string>
     <string name="lockscreen_unlock_label">Desbloquear</string>
     <string name="lockscreen_sound_on_label">Som ativado</string>
     <string name="lockscreen_sound_off_label">Som desativado</string>

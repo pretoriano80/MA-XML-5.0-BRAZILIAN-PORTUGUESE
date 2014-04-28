@@ -129,7 +129,7 @@
     <string name="header_text_cleaned">Concluído</string>
     <string name="header_text_cleaning">Limpando…</string>
     <string name="header_text_scanned">Escaneamento concluído</string>
-    <string name="header_text_scanning">Escaneando…</string>
+    <string name="header_text_scanning">"Verificando… "</string>
     <string name="instruction">Insira o seguinte endereço em seu cliente FTP:</string>
     <string name="instruction_pre">Toque em Iniciar para ativar o Servidor FTP</string>
     <string name="item_name">Pasta sem nome</string>
@@ -227,7 +227,7 @@ Este recurso requer uma conexão com a internet."</string>
     <string name="restart_cleaning">Reiniciar</string>
     <string name="scanned">Escaneamento concluído</string>
     <string name="scanning" formatted="false">Verificando %d app(s) … (total de %d app(s))</string>
-    <string name="scanning_on_going">Escaneando…</string>
+    <string name="scanning_on_going">"Verificando… "</string>
     <string name="sd_card_available">Disponível: %1$s</string>
     <string name="sd_card_size">Cartão SD: %1$s</string>
     <string name="sd_full">O armazenamento do seu dispositivo está cheio</string>

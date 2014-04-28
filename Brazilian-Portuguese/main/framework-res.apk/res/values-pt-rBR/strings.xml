@@ -520,7 +520,7 @@ Tente novamente em %d segundos."</string>
     <string name="lockscreen_forgot_pattern_button_text">Esqueceu o padrão?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Esqueceu seu nome de usuário ou senha?
 Acesse "<b>google.com.br/accounts/recovery</b>.</string>
-    <string name="lockscreen_glogin_checking_password">Verificando…</string>
+    <string name="lockscreen_glogin_checking_password">"Verificando… "</string>
     <string name="lockscreen_glogin_forgot_pattern">Desbloqueio de conta</string>
     <string name="lockscreen_glogin_instructions">Para desbloquear, faça login com sua Conta do Google.</string>
     <string name="lockscreen_glogin_invalid_input">Nome de usuário ou senha inválidos.</string>
@@ -585,7 +585,7 @@ Tente novamente em %d segundos."</string>
     <string name="media_route_status_available">Disponível</string>
     <string name="media_route_status_connecting">Conectando…</string>
   <string name="media_route_status_not_available">Não disponível</string>
-  <string name="media_route_status_scanning">Verificando…</string>
+  <string name="media_route_status_scanning">"Verificando… "</string>
   <string name="media_shared">O armazenamento USB está em uso por um computador no momento.</string>
     <string name="media_unknown_state">Mídia externa em estado desconhecido.</string>
     <string name="megabyteShort">MB</string>

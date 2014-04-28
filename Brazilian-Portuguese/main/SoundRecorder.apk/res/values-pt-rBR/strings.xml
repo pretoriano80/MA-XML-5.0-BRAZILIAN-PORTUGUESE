@@ -65,7 +65,7 @@
     <string name="preference_record_type_title">Tipo de gravação</string>
     <string name="preference_scenes">Tipo preferencial de gravação</string>
     <string name="preference_silent_mode">Silenciar toque durante gravação</string>
-    <string name="record_download">Download da MiCloud</string>
+    <string name="record_download">Download da Mi Cloud</string>
     <string name="record_download_activity">Downloads</string>
     <string name="record_download_complete">Concluído</string>
     <string name="record_download_failed">Falha</string>

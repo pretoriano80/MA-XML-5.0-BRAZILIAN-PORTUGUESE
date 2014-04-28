@@ -42,7 +42,7 @@ Saia de vista por um momento"</string>
     <string name="cloud_album_details">Detalhes do álbum na nuvem:</string>
     <string name="confirm_change_mode_title">Modo da Câmera</string>
     <string name="confirm_change_to_expert_mode_message">Alternar câmera para o modo avançado?</string>
-    <string name="confirm_change_to_simple_mode_message">Alternar câmera para o modo simples?</string>
+    <string name="confirm_change_to_simple_mode_message">Alternar câmera para a exibição simplificada?</string>
     <string name="confirm_enable_opti_zoom_message">Você deseja ativar a função de opti-zoom em suas fotos?</string>
     <string name="confirm_location_message">Deseja salvar as informações de localização geográfica em suas fotos?</string>
     <string name="confirm_restore_message">Restaurar as configurações padrão da câmera?</string>

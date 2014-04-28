@@ -304,7 +304,7 @@
     <string name="dialer_returnToInCallScreen">Retornar para chamada em curso</string>
     <string name="dialer_useDtmfDialpad">Usar teclado numérico</string>
     <string name="dialog_import">Importar contatos</string>
-    <string name="dialog_import_export">Importar/Exportar contatos</string>
+    <string name="dialog_import_export">Importar e exportar contatos</string>
     <string name="dialog_new_contact_account">Criar contato na conta</string>
     <string name="dialog_new_group_account">Criar grupo na conta</string>
     <string name="dialog_phone_call_prohibited_message">Chamada não concluída</string>
@@ -589,7 +589,7 @@ Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>"
 "</b></font></li>" 
 "<li><font fgcolor="#ffffffff"><b>"Novo contato para criar um contato do zero
 "</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contatos do seu cartão SIM ou cartão SD
+"<li><font fgcolor="#ffffffff"><b>"Importar e exportar para importar contatos do seu cartão SIM ou cartão SD
 "</b></font></li>"
 "</string>
     <string name="noContactsHelpTextForCreateShortcut">Você não tem contatos para exibir.</string>
@@ -603,7 +603,7 @@ Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>"
 "</b></font></li>" 
 "<li><font fgcolor="#ffffffff"><b>"Novo contato para criar um contato do zero
 "</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contatos do seu cartão SIM ou cartão SD
+"<li><font fgcolor="#ffffffff"><b>"Importar e exportar para importar contatos do seu cartão SIM ou cartão SD
 "</b></font></li>"
 "</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Você não tem contatos para exibir. Se você acabou de adicionar uma conta, pode levar alguns minutos para sincronizar os contatos.</string>
@@ -615,7 +615,7 @@ Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>"
 "</b></font></li>" 
 "<li><font fgcolor="#ffffffff"><b>"Novo contato para criar um contato do zero
 "</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contatos do seu cartão SIM ou cartão SD
+"<li><font fgcolor="#ffffffff"><b>"Importar e exportar para importar contatos do seu cartão SIM ou cartão SD
 "</b></font></li>"
 "</string>
     <string name="noContactsNoSimHelpTextWithSync">"Você não possui contatos para exibir. (Caso você tenha adicionado uma conta recentemente, aguarde a sincronização concluir.)
@@ -628,7 +628,7 @@ Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>"
 "</b></font></li>" 
 "<li><font fgcolor="#ffffffff"><b>"Novo contato para criar um contato do zero
 "</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contatos do seu cartão SIM ou cartão SD
+"<li><font fgcolor="#ffffffff"><b>"Importar e exportar para importar contatos do seu cartão SIM ou cartão SD
 "</b></font></li>"
 "</string>
     <string name="noContactsWithPhoneNumbers">Nenhum contato com números de telefone.</string>
@@ -727,7 +727,7 @@ Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>"
     <string name="pref_title_import_from_account">Importar para conta Xiaomi</string>
     <string name="preference_auto_ip_summary_disable">Desativado</string>
     <string name="preference_auto_ip_summary_on">"Prefixo da Operadora: %s"</string>
-    <string name="preference_auto_ip_title">Operadora de Longa Distância</string>
+    <string name="preference_auto_ip_title">Operadora de longa distância</string>
     <string name="preference_contacts">Contato</string>
     <string name="preference_contacts_display">Exibição de contatos</string>
     <string name="preference_contacts_filter">Contatos a exibir</string>
@@ -741,14 +741,14 @@ Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>"
     <string name="preference_displayOptions">Opções de exibição</string>
     <string name="preference_export">Exportar</string>
     <string name="preference_import">Importar</string>
-    <string name="preference_import_export">Importar/Exportar</string>
-    <string name="preference_import_export_title">Importar/Exportar contatos</string>
+    <string name="preference_import_export">Importar e exportar</string>
+    <string name="preference_import_export_title">Importar e exportar contatos</string>
     <string name="preference_others">Outros</string>
     <string name="preference_phone">Telefone</string>
     <string name="preference_phone_more_title">Mais configurações</string>
     <string name="preference_remove_duplicate">Unir contatos duplicados</string>
     <string name="preference_simple_mode_description">Contatos exibidos em lista, sem imagem, informação de status ou de empresa</string>
-    <string name="preference_simple_mode_title">Modo simples</string>
+    <string name="preference_simple_mode_title">Exibição simplificada</string>
     <string name="preference_smart_group_company_summary">Agrupar contatos por empresa</string>
     <string name="preference_smart_group_company_title">Por empresa</string>
     <string name="preference_smart_group_frequency_summary">Agrupa contatos que você mais utiliza</string>

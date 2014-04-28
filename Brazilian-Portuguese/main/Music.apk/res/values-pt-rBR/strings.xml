@@ -28,7 +28,7 @@
     <string name="artist_edit">Artista</string>
     <string name="artist_hot_audios">Lançamentos</string>
     <string name="artists_title">Artistas</string>
-    <string name="auto_correct_id3_settings">Corrigir tags ID3</string>
+    <string name="auto_correct_id3_settings">Corrigir ID3 tags</string>
     <string name="auto_correct_id3_summary">Efetua a correção de tags ID3 automaticamente enquanto estiver conectado à internet, utilizando o algoritmo de impressão digital de música da Baidu.</string>
     <string name="batch_correct_id3_completed">Correção de ID3 em lote finalizada.</string>
     <string name="billboard">Billboard</string>
@@ -55,7 +55,7 @@
     <string name="correct_id3_in_processing">Corrigindo ID3.</string>
     <string name="correct_id3_not_support">Correção de ID3 não suportada neste tipo de arquivo.</string>
     <string name="correct_id3_open_other_connect">Ativar configuração de correção da ID3 pela internet móvel.</string>
-    <string name="correct_id3_settings">Corrigir ID3</string>
+    <string name="correct_id3_settings">Corrigir ID3 tags</string>
     <string name="correct_id3_start">Corrigindo ID3 tag…</string>
     <string name="correct_id3_success">Correção da ID3 terminada.</string>
     <string name="correct_id3_summary">Poderá implicar em cobrança de dados. Recomenda-se desativar.</string>
@@ -193,7 +193,7 @@
     <string name="mediaplaybacklabel">Música</string>
     <string name="menu_higher_quality_music">Músicas em alta qualidade (acesso mensal)</string>
     <string name="mi_effect">Mi Sound</string>
-    <string name="mi_effect_summary">"Utilizar sempre melhorias de áudio ao utilizar alto-falantes"</string>
+    <string name="mi_effect_summary">Sempre utilizar o Mi Sound ao utilizar os alto-falantes</string>
     <string name="mi_effect_title">"Melhorias de áudio"</string>
     <string name="min_interval">1</string>
     <string name="mobile_connect_settings">Serviços online</string>
@@ -313,8 +313,8 @@
     <string name="start_to_download_album">Baixando capas dos álbuns…</string>
     <string name="start_to_download_avatar">Baixando imagem dos artistas…</string>
     <string name="streamloadingtext">Conectando-se a %s</string>
-    <string name="synchronize_playlist_setting">Sincronizar Playlists</string>
-    <string name="synchronize_playlist_summary">Sincronizar playlists na MiCloud.</string>
+    <string name="synchronize_playlist_setting">Sincronizar playlists</string>
+    <string name="synchronize_playlist_summary">Sincronizar playlists na Mi Cloud.</string>
     <string name="track_album_format" formatted="false">%s - %s</string>
     <string name="track_bit_rate_hd">Alto</string>
     <string name="track_bit_rate_standard">Normal</string>
@@ -335,7 +335,7 @@
     <string name="vip_recommend_buy">Comprar (5 RMB mensais)</string>
     <string name="vip_recommend_exchange">Utilizar vale-presente</string>
     <string name="vip_recommend_main_title">Qualidade de CD. Acesso ilimitado.</string>
-    <string name="vip_recommend_rebuy">A renovação do acesso por 30 dias custa 5 MiCredits</string>
+    <string name="vip_recommend_rebuy">A renovação do acesso por 30 dias custa 5 Mi Credits</string>
     <string name="vip_recommend_sub_title">Somente 5 RMB por mês</string>
     <string name="vip_recommend_summary">Faça streaming ou baixe suas músicas favoritas do Baidu Music a 320 kbps.</string>
     <string name="vip_recommend_title">Músicas em alta qualidade</string>

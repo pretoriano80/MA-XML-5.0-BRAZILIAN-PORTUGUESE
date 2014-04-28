@@ -165,7 +165,7 @@
     <string name="resource_preview">Pré-visualização</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Grátis</string>
-    <string name="resource_price_unit"> MiCredits</string>
+    <string name="resource_price_unit"> Mi Credits</string>
     <string name="resource_purchase_getting_order">Recebendo informações de compra…</string>
     <string name="resource_purchase_verifying_payment">Verificando informação de pagamento…</string>
     <string name="resource_purchase_waiting_payment">Aguardando informação de pagamento…</string>
