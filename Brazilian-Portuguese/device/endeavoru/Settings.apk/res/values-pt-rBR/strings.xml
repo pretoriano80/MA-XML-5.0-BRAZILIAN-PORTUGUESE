@@ -2766,6 +2766,7 @@ Um método do Google para sincronizar dados de modo a permitir o acesso aos seus
     <string name="virus_scan_installed_package">%s (instalado)</string>
     <string name="virus_scan_is_cloud_scanning">Escaneando Mi Cloud…</string>
     <string name="virus_scan_is_scanning">"Verificando… "</string>
+    <string name="virus_scan_is_scanning">Escaneando…</string>
     <string name="virus_scan_judge_is_virus">Verificar aplicativos por vírus antes de sua instalação</string>
     <string name="virus_scan_last_risk">Aplicativos suspeitos encontrados na última verificação não foram removidos.</string>
     <string name="virus_scan_last_scan_date">Última verificação há %d dias</string>
