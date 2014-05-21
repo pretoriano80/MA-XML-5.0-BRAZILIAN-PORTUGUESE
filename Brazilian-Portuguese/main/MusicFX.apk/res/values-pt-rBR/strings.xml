@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Reforço de graves</string>
+    <string name="ci_extreme">Reforço de efeitos</string>
+    <string name="eq_dialog_title">Equalizador</string>
+    <string name="headset_plug">Por favor conecte os fones de ouvido</string>
+    <string name="main_toggle_effects_title">Efeitos de áudio</string>
+    <string name="no_effects">Efeitos não disponíveis</string>
+    <string name="picker_title">Painel de controle de efeitos de áudio</string>
+    <string name="pr_dialog_title">Ajustes de ressonância</string>
+    <string name="pr_summary">Efeitos de ressonância adicionais</string>
+    <string name="pr_title">Ressonância:</string>
+    <string name="setup">Configurar</string>
+    <string name="user">Usuário</string>
+    <string name="virtualizer_strength">Efeito 3D</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">Serviços de Rede</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="button_ok">Ok</string>
+    <string name="confirm_disable_lbutton">Desativar</string>
+    <string name="confirm_fdn_msg">O serviço de discagem fixa está ativado</string>
+    <string name="confirm_fdn_title">FDN habilitado</string>
+    <string name="confirm_permit_roaming_fail">Você cancelou o uso do Roaming no cartão SIM</string>
+    <string name="confirm_pin_msg">O cartão SIM selecionado está bloqueado. É necessário desbloqueá-lo.</string>
+    <string name="confirm_pin_title">Bloqueio do SIM</string>
+    <string name="confirm_radio_flight_mode_on_sim_on_msg">Modo avião ativado. Deseja desativar o modo avião?</string>
+    <string name="confirm_radio_lbutton">Ligar</string>
+    <string name="confirm_radio_msg">%s está habilitado. Deseja reativar o cartão SIM?</string>
+    <string name="confirm_radio_msg_single">O modo avião está ativado. Deseja desativá-lo?</string>
+    <string name="confirm_radio_title">SIM desligado</string>
+    <string name="confirm_roamingWithPrefer_lbutton">SIM Local</string>
+    <string name="confirm_roamingWithPrefer_rbutton">SIM em Roaming</string>
+    <string name="confirm_roaming_lbutton">Continuar</string>
+    <string name="confirm_roaming_msg">O cartão SIM atual está em Roaming. Não existem cartões SIM locais neste telefone. Deseja continuar?</string>
+    <string name="confirm_roaming_rbutton">Cancelar</string>
+    <string name="confirm_roaming_title">Avisar quando em Roaming</string>
+    <string name="confirm_roaming_withPrefer_msg">O cartão SIM atual está em Roaming. Deseja continuar?</string>
+    <string name="confirm_sim_locked_message">O cartão SIM está bloqueado</string>
+    <string name="confirm_simmelock_msg">O cartão SIM selecionado está bloqueado. É necessário desbloqueá-lo.</string>
+    <string name="confirm_slot_locked_message">O cartão SIM está bloqueado</string>
+    <string name="confirm_turnon_radio_fail">Operação cancelada</string>
+    <string name="confirm_unlock_fail">Falha ao desbloquear</string>
+    <string name="confirm_unlock_lbutton">Desbloquear</string>
+    <string name="confrim_simmelock_title">Cartão SIM bloqueado</string>
+</resources>
