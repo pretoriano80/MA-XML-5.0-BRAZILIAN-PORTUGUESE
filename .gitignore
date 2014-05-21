@@ -5,7 +5,10 @@ ehthumbs.db
 Icon?
 Thumbs.db
 <<<<<<< HEAD
+<<<<<<< HEAD
 Desktop.ini
+=======
+>>>>>>> b3351bafc4b8d428f9c08dadc2bedb768e60fba6
 =======
 >>>>>>> b3351bafc4b8d428f9c08dadc2bedb768e60fba6
 # Compiled source #
@@ -36,7 +39,11 @@ Desktop.ini
 *.log
 *.sql
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.sqlite
+=======
+*.sqlite
+>>>>>>> b3351bafc4b8d428f9c08dadc2bedb768e60fba6
 =======
 *.sqlite
 >>>>>>> b3351bafc4b8d428f9c08dadc2bedb768e60fba6
