@@ -297,8 +297,6 @@ Deseja ativar o recurso agora?"</string>
     <string name="battery_stats_charging_label">Carregando</string>
     <string name="battery_stats_duration">%1$s desde que foi desconectado</string>
     <string name="battery_stats_gps_on_label">GPS ligado</string>
-    <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
-    <string name="battery_stats_on_battery">%1$s na bateria</string>
     <string name="battery_stats_phone_signal_label">Sinal da rede móvel</string>
     <string name="battery_stats_screen_on_label">Tela ativada</string>
     <string name="battery_stats_wake_lock_label">Ativo</string>
@@ -490,7 +488,6 @@ Digite o PIN para parear com \"%1$s\". [Alta Segurança ativada: é necessária 
     <string name="brightness_auto_adjust_off">O brilho da tela irá permanecer inalterado em qualquer ambiente</string>
     <string name="brightness_auto_adjust_on">O brilho da tela irá variar de acordo com a iluminação ambiente</string>
     <string name="brightness_summary">Ajustar o brilho da tela</string>
-    <string name="bssid_label">BSSID:</string>
     <string name="build_number">Número da versão</string>
     <string name="builtin_keyboard_settings_summary">Configurações de teclado físico</string>
     <string name="builtin_keyboard_settings_title">Teclado físico</string>
@@ -580,10 +577,6 @@ Digite o PIN para parear com \"%1$s\". [Alta Segurança ativada: é necessária 
     <string name="common_settings">Atalhos</string>
     <string name="complete_settings">Todos os itens</string>
     <string name="computing_size">Calculando…</string>
-    <string name="config_list_label">Redes configuradas</string>
-    <string name="config_mass_storage_function_name">mass_storage</string>
-    <string name="config_mtp_function_name">mtp</string>
-    <string name="config_ptp_function_name">ptp</string>
     <string name="configure_input_method">Configurar métodos de entrada</string>
     <string name="confirm">OK</string>
     <string name="confirm_clear_blacklist">Limpar lista de bloqueio?</string>
@@ -744,7 +737,6 @@ Como o uso de dados é calculado por seu telefone, e sua operadora pode entender
     <string name="debug_debugging_category">Depuração</string>
     <string name="debug_drawing_category">Desenho</string>
     <string name="debug_input_category">Entrada</string>
-    <string name="debug_intent_sender_label">Envio de depuração</string>
     <string name="debug_layout">Mostrar limites de layout</string>
     <string name="debug_layout_summary">Mostrar limites de corte, margens, etc.</string>
     <string name="debug_log">Programa de experiência do usuário</string>
@@ -831,7 +823,6 @@ Como o uso de dados é calculado por seu telefone, e sua operadora pode entender
     <string name="dirac_mode_piston_100">Mi in-ear</string>
     <string name="dirac_mode_piston_2">Xiaomi piston-2</string>
     <string name="dirac_mode_piston_youth">Xiaomi piston-youth</string>
-    <string name="disableNetwork">disableNetwork</string>
     <string name="disable_adb_debug_summary">Desativar depuração USB</string>
     <string name="disable_anti_spam_summary">Filtro de mensagens desativado</string>
     <string name="disable_app_permission_summary">Monitor de permissões desativado</string>
@@ -840,7 +831,6 @@ Como o uso de dados é calculado por seu telefone, e sua operadora pode entender
     <string name="disable_power_key_long_press_under_keyguard">Ignorar pressionamento longo</string>
     <string name="disable_text">Desativar</string>
     <string name="disabled">Desativado</string>
-    <string name="disconnect">disconnect</string>
     <string name="display_font_size_label">Tamanho da fonte:</string>
     <string name="display_label">Tela</string>
     <string name="display_order_text">Classificar por:</string>
@@ -936,7 +926,6 @@ Como o uso de dados é calculado por seu telefone, e sua operadora pode entender
     <string name="empty_list_msg">Você não tem aplicativos de terceiros instalados.</string>
     <string name="emptylist_fwlog_call">Lista de chamadas bloqueadas vazia</string>
     <string name="emptylist_fwlog_ms">Lista de mensagens bloqueada vazia</string>
-    <string name="enableNetwork">enableNetwork</string>
     <string name="enable_adb">Depuração USB</string>
     <string name="enable_adb_debug_summary">Quando conectado via USB, utilizar o comando ADB</string>
     <string name="enable_adb_debug_title">Ativar depuração USB</string>
@@ -1108,8 +1097,6 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="gadget_toggle_wifi">Atualizando configuração de Wi-Fi</string>
     <string name="game_controller_settings_category">Controlador de jogos</string>
     <string name="garbage_white_list_empty_content">Lista de exceções vazia</string>
-    <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-    <string name="getConnectionInfo">getConnectionInfo</string>
     <string name="haptic_feedback_enable_title">Resposta tátil</string>
     <string name="haptic_feedback_level">Nível de vibração</string>
     <string name="hardkeyboard_category">Configurações de teclado físico</string>
@@ -1142,18 +1129,6 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="heavy_weight_stop_description">Não é possível interromper este aplicativo com segurança. Se ele for interrompido, alguns de seus trabalhos atuais podem ser perdidos.</string>
     <string name="hello_world">Olá mundo!</string>
     <string name="help_label">Ajuda</string>
-    <string name="help_url_accounts"/>
-    <string name="help_url_backup_reset"/>
-    <string name="help_url_battery"/>
-    <string name="help_url_bluetooth"/>
-    <string name="help_url_choose_lockscreen"/>
-    <string name="help_url_data_usage"/>
-    <string name="help_url_more_networks"/>
-    <string name="help_url_sound"/>
-    <string name="help_url_tether"/>
-    <string name="help_url_vpn"/>
-    <string name="help_url_wifi"/>
-    <string name="hidden_ssid_label">SSID oculto:</string>
     <string name="history_details_title">Detalhes do histórico</string>
     <string name="home_key">Botão Home</string>
     <string name="ime_security_warning">Este método de entrada pode coletar todo o texto que você digita, incluindo dados pessoais, como senhas e números de cartão de crédito. É um método do aplicativo %1$s. Usar este método de entrada?</string>
@@ -1212,7 +1187,6 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="internal_used_memory_hint">Usado: Calculando…</string>
     <string name="invalid_location">O local de instalação não é válido.</string>
     <string name="invalid_size_value">Não foi possível calcular o tamanho do pacote.</string>
-    <string name="ipaddr_label">IP:</string>
     <string name="item_app_permission">Permissões de aplicativos</string>
     <string name="item_garbage_size_1000m">1G</string>
     <string name="item_garbage_size_100m">100M</string>
@@ -1271,7 +1245,6 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="led_settings">LED</string>
     <string name="legal_information">Informações legais</string>
     <string name="license_title">Licença</string>
-    <string name="link_speed_label">Velocidade:</string>
     <string name="list_sub_view_item_backup_cleanup">Efetuar backup</string>
     <string name="list_sub_view_item_backup_uninstall">Fazer backup e desinstalar</string>
     <string name="list_sub_view_item_clean">Limpo</string>
@@ -1370,7 +1343,6 @@ Pronto para começar? Toque em Próximo."</string>
     <string name="log_count">(%d)</string>
     <string name="lte_ram_dump_off">Desativar descarga de RAM do LTE</string>
     <string name="lte_ram_dump_on">Ativar descarga de RAM do LTE</string>
-    <string name="macaddr_label">MAC:</string>
     <string name="main_running_process_description">Processo principal em uso.</string>
     <string name="man_add_application">Adicionar aplicativo manualmente</string>
     <string name="manage_device_admin">Administradores do dispositivo</string>
@@ -1549,8 +1521,6 @@ quando conectado ao seu computador."</string>
     <string name="network_assistant">Uso de dados</string>
     <string name="network_detail">Detalhes da rede %s</string>
     <string name="network_settings_title">Redes móveis</string>
-    <string name="network_state_label">Estado da rede:</string>
-    <string name="networkid_label">ID de rede:</string>
     <string name="networks">Seleção de operador</string>
     <string name="new_backup_pw_prompt">Digite uma nova senha para backups completos aqui</string>
     <string name="new_bw_list_button">Adicionar contato</string>
@@ -2251,7 +2221,6 @@ Você precisa alterar sua configuração de energia antes de excluir esta config
     <string name="roaming_reenable_title">Permitir roaming de dados?</string>
     <string name="roaming_turn_it_on_button">Ativar</string>
     <string name="roaming_warning">Quando você permite o roaming de dados, poderão ser cobradas taxas significativas de roaming!</string>
-    <string name="rssi_label">RSSI:</string>
     <string name="rubbish_cleaning">Limpador</string>
     <string name="running_processes_item_description_p_p">%1$d processos e %2$d serviços</string>
     <string name="running_processes_item_description_p_s">%1$d processos e %2$d serviço</string>
@@ -2266,7 +2235,6 @@ Você precisa alterar sua configuração de energia antes de excluir esta config
     <string name="runningservices_settings_title">Serviços em execução</string>
     <string name="save_button">Salvar</string>
     <string name="scan_done">Verificação concluída</string>
-    <string name="scan_list_label">Resultados:</string>
     <string name="scanning_prefix">Verificando: %s</string>
     <string name="scanning_start_hints">Preparando…</string>
     <string name="scanning_virus">"Verificando… "</string>
@@ -2482,7 +2450,6 @@ Tentativas restantes :"</string>
     <string name="spellchecker_quick_settings">Configurações</string>
     <string name="spellchecker_security_warning">Este corretor ortográfico pode coletar todo o texto que você digita, incluindo dados pessoais, como senhas e números de cartão de crédito. É um corretor do aplicativo %1$s. Utilizar este corretor ortográfico?</string>
     <string name="spellcheckers_settings_title">Corretor ortográfico</string>
-    <string name="ssid_label">SSID:</string>
     <string name="start_checking_memory">Verificando condição da memória…</string>
     <string name="start_checking_protection">Verificando proteção em tempo real…</string>
     <string name="start_checking_trash">Verificando cache de aplicativo…</string>
@@ -2532,14 +2499,12 @@ Tentativas restantes :"</string>
     <string name="subscription_02_summary">Define opções de Rede para o SIM2</string>
     <string name="subscription_02_title">SUB 2</string>
     <string name="sum_carrier_select">Selecione um operador de rede</string>
-    <string name="summary_font_size">%1$s</string>
     <string name="summary_install_virus">Verifica aplicativos por vírus antes de instalá-los</string>
     <string name="summary_mms">Filtra mensagens indesejadas (vendas, propagandas, etc.)</string>
     <string name="summary_permission">Protege minha privacidade em aplicativos de terceiros</string>
     <string name="summary_usb">Evita que vírus se dissemine através da conexão USB</string>
     <string name="summary_virus">%2$d vírus encontrados</string>
     <string name="summary_virus_update">Atualiza as definições do antivírus automaticamente quando conectado ao Wi-Fi</string>
-    <string name="supplicant_state_label">Status do AP:</string>
     <string name="sync_active">Sincronização ativa</string>
     <string name="sync_automatically">Sincron. autom. dos dados do aplic.</string>
     <string name="sync_calendar">Agenda</string>
@@ -2576,7 +2541,6 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="testing_phone_info">Informações do telefone</string>
     <string name="testing_sim_toolkit">Toolkit do SIM</string>
     <string name="testing_usage_stats">Estatísticas de uso</string>
-    <string name="testing_wifi_info">Informações de Wi-Fi</string>
     <string name="tether_settings_title_all">Tethering e acesso portátil</string>
     <string name="tether_settings_title_bluetooth">Tethering Bluetooth</string>
     <string name="tether_settings_title_usb">Tethering USB</string>
@@ -2584,7 +2548,6 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tether_settings_title_wifi">Ponto de acesso portátil</string>
     <string name="tethering_help_button_text">Ajuda</string>
     <string name="time_picker_title">Hora</string>
-    <string name="time_zone_auto_stub">Selecionar Fuso Horário</string>
     <string name="timezone_settings">Fuso horário</string>
     <string name="title_app_update_no">%d aplicativos possuem atualizações</string>
     <string name="title_app_update_yes">Todos os aplicativos atualizados</string>
@@ -2995,7 +2958,6 @@ Adicione uma palavra tocando no botão \'Adicionar\' ou no símbolo (+)."</strin
     <string name="wifi_advanced_mac_address_title">Endereço MAC</string>
     <string name="wifi_advanced_settings_label">Configurações de IP</string>
     <string name="wifi_advanced_titlebar">Wi-Fi avançado</string>
-    <string name="wifi_api_test">Wi-Fi API</string>
     <string name="wifi_auto_connect">Conectar-se automaticamente</string>
     <string name="wifi_cancel">Cancelar</string>
     <string name="wifi_certificate">Certificado</string>
@@ -3010,9 +2972,7 @@ Adicione uma palavra tocando no botão \'Adicionar\' ou no símbolo (+)."</strin
     <string name="wifi_disabled_network_failure">Conexão com a Internet de baixa qualidade evitada</string>
     <string name="wifi_disabled_password_failure">Problema de autenticação</string>
     <string name="wifi_dns1">DNS 1</string>
-    <string name="wifi_dns1_hint">8.8.8.8</string>
     <string name="wifi_dns2">DNS 2</string>
-    <string name="wifi_dns2_hint">8.8.4.4</string>
     <string name="wifi_eap_anonymous">Identidade anônima</string>
     <string name="wifi_eap_ca_cert">Certificado CA</string>
     <string name="wifi_eap_identity">Identidade</string>
@@ -3029,10 +2989,8 @@ Adicione uma palavra tocando no botão \'Adicionar\' ou no símbolo (+)."</strin
     <string name="wifi_failed_save_message">Falha ao salvar a rede</string>
     <string name="wifi_forget">Esquecer</string>
     <string name="wifi_gateway">Gateway</string>
-    <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_in_airplane_mode">No modo avião</string>
     <string name="wifi_ip_address">Endereço IP</string>
-    <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_ip_settings">Configurações de IP</string>
     <string name="wifi_ip_settings_invalid_dns">Digite um endereço de DNS válido.</string>
     <string name="wifi_ip_settings_invalid_gateway">Digite um endereço de gateway válido.</string>
@@ -3051,7 +3009,6 @@ Adicione uma palavra tocando no botão \'Adicionar\' ou no símbolo (+)."</strin
     <string name="wifi_menu_wps_pin">Entrada de PIN WPS</string>
     <string name="wifi_more">Mais</string>
     <string name="wifi_network_prefix_length">Tamanho do pref. de rede</string>
-    <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_not_in_range">Fora do alcance</string>
     <string name="wifi_notify_open_networks">Notificação de rede</string>
     <string name="wifi_notify_open_networks_summary">Receber notificação quando uma rede aberta estiver disponível</string>
@@ -3087,21 +3044,9 @@ Adicione uma palavra tocando no botão \'Adicionar\' ou no símbolo (+)."</strin
     <string name="wifi_security">Segurança</string>
     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Nenhuma</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_short_eap">802.1x</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
-    <string name="wifi_security_short_wep">WEP</string>
-    <string name="wifi_security_short_wpa">WPA</string>
-    <string name="wifi_security_short_wpa2">WPA2</string>
-    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_wep">WEP</string>
-    <string name="wifi_security_wpa">WPA PSK</string>
-    <string name="wifi_security_wpa2">WPA2 PSK</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
     <string name="wifi_setting_frequency_band_error">Houve um erro ao configurar a banda de frequência.</string>
     <string name="wifi_setting_frequency_band_summary">Especifique a faixa de frequência da operação</string>
     <string name="wifi_setting_frequency_band_title">Banda de frequência Wi-Fi</string>
@@ -3179,14 +3124,7 @@ Toque em "<b>Voltar</b> para conectar-se a outra rede Wi-Fi.</string>
     <string name="wifi_speed">Velocidade do link</string>
     <string name="wifi_ssid">SSID da rede</string>
     <string name="wifi_starting">Ativando Wi-Fi…</string>
-    <string name="wifi_state_disabled">Desativado</string>
-    <string name="wifi_state_disabling">Desativando</string>
-    <string name="wifi_state_enabled">Ativo</string>
-    <string name="wifi_state_enabling">Ativando</string>
-    <string name="wifi_state_label">Estado de Wi-Fi:</string>
-    <string name="wifi_state_unknown">Desconhecido</string>
     <string name="wifi_status">Status</string>
-    <string name="wifi_status_test">Status de Wi-Fi</string>
     <string name="wifi_stopping">Desativando Wi-Fi…</string>
     <string name="wifi_tether_checkbox_text">Ponto de acesso Wi-Fi portátil</string>
     <string name="wifi_tether_configure_ap_text">Configurar ponto de acesso Wi-Fi</string>
@@ -3196,7 +3134,6 @@ Toque em "<b>Voltar</b> para conectar-se a outra rede Wi-Fi.</string>
     <string name="wifi_tether_failed_subtext">Erro de ponto de acesso Wi-Fi portátil</string>
     <string name="wifi_unchanged">(não alterado)</string>
     <string name="wifi_unspecified">(não especificado)</string>
-    <string name="wifi_update">Atualizar estatísticas</string>
     <string name="wifi_wapi_as_cert">Certificado AS</string>
     <string name="wifi_wapi_cert_cancel_button">Cancelar</string>
     <string name="wifi_wapi_cert_create_subdir">Criar um diretório</string>
