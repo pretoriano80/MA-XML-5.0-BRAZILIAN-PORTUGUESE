@@ -1460,7 +1460,6 @@ A audição em volume elevado por períodos longos pode prejudicar sua audição
     <string name="sync_too_many_deletes">Limite de exclusão excedido</string>
     <string name="sync_too_many_deletes_desc">Há %1$d itens excluídos para %2$s, conta %3$s. O que você deseja fazer?</string>
     <string name="sync_undo_deletes">Desfazer as exclusões</string>
-    <string name="system_ui_date_pattern">@string/icu_abbrev_wday_month_day_no_year</string>
     <string name="terabyteShort">TB</string>
     <string name="tethered_notification_message">Toque para configurar.</string>
     <string name="tethered_notification_title">Vínculo ou ponto de acesso ativo</string>

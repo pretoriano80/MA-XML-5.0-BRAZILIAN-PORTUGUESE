@@ -637,10 +637,6 @@ O computador abrirá automaticamente o telefone e lerá seus dados"</item>
         <item>Permitir</item>
         <item>Negar</item>
     </string-array>
-    <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Nativo</item>
-    </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Supressão de ruído com um microfone</item>
         <item>Supressão de ruido com dois microfones</item>
