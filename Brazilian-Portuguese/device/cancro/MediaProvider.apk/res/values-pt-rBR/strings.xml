@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="alarm_sound_default">Toque de alarme padrão</string>
+    <string name="app_label">Armazenamento Multimídia</string>
+    <string name="artist_label">Artista</string>
+    <string name="notification_sound_default">Toque de notificação padrão</string>
+    <string name="ringtone_default">Toque do telefone padrão</string>
+    <string name="root_audio">Áudio</string>
+    <string name="root_images">Imagens</string>
+    <string name="root_videos">Vídeos</string>
+    <string name="uid_label">Multimídia</string>
+    <string name="upgrade_msg">Atualizando banco de dados multimídia.</string>
+</resources>

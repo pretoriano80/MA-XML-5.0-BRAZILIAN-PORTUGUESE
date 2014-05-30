@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="desc">Esta permissão é específica de hardware é deve ser permitida somente para aplicativos OEM.</string>
-  <string name="label">Permitido para acessar serviços e recursos IZAT.</string>
-</resources>

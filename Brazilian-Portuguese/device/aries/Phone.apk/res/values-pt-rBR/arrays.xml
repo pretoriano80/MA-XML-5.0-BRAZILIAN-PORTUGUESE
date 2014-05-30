@@ -14,7 +14,7 @@
         <item>CDMA / EvDo automático</item>
         <item>WCDMA</item>
         <item>GSM</item>
-        <item>GSM / WCDMA preferencial</item>
+        <item>Preferencialmente GSM/WCDMA</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_lte">
         <item>LTE/CDMA</item>

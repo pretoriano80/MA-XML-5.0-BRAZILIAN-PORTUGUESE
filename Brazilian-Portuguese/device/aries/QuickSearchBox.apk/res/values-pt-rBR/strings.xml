@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">Pesquisar</string>
+    <string name="clear_shortcuts">Excluir atalhos</string>
+    <string name="clear_shortcuts_agree">Excluir atalhos</string>
+    <string name="clear_shortcuts_disagree">"Não excluir atalhos"</string>
+    <string name="clear_shortcuts_prompt">"Você deseja limpar todos os atalhos para sugestões de pesquisa recentes?
+
+Para limpar seu histórico de navegação, acesse as configurações do Navegador."</string>
+    <string name="clear_shortcuts_summary">Excluir atalhos para sugestões de pesquisa recentes</string>
+    <string name="corpus_description_apps">Nome dos aplicativos instalados</string>
+    <string name="corpus_description_web">Pesquisa web, favoritos e históricos de navegação</string>
+    <string name="corpus_hint_apps">Pesquisar Aplicativos</string>
+    <string name="corpus_label_apps">Aplicativos</string>
+    <string name="corpus_label_global">Tudo</string>
+    <string name="corpus_label_web">Web</string>
+    <string name="corpus_selection_heading">Pesquisar</string>
+    <string name="device_settings_category_title">Limpar atalhos</string>
+    <string name="google_app_label">Pesquisa Google</string>
+    <string name="google_search_description">Sugestão de pesquisa</string>
+    <string name="google_search_hint">Pesquisar</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_settings_category_title">Pesquisa Google</string>
+    <string name="menu_help">Ajuda</string>
+    <string name="menu_settings">Configurações de pesquisa</string>
+    <string name="remove_from_history">Excluir do histórico de pesquisa</string>
+    <string name="remove_from_history_failed">"Falha ao excluir item do histórico"</string>
+    <string name="search_in_app_store">Pesquisar no market</string>
+    <string name="search_in_web">Pesquisar na web</string>
+    <string name="search_settings">Configurações de pesquisa</string>
+    <string name="search_sources">Itens pesquisáveis</string>
+    <string name="search_sources_summary">Escolha o que pesquisar no telefone</string>
+    <string name="search_widget">Pesquisar</string>
+    <string name="system_search_category_title">Telefone</string>
+    <string name="voice_search_hint_quotation_end">”</string>
+    <string name="voice_search_hint_quotation_start">“</string>
+    <string name="voice_search_hint_title">Tente dizer:</string>
+</resources>

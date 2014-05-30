@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_confirm">"Relatório de erros contendo dados de vários registros do sistema, incluindo informações pessoais e privadas. Somente compartilhe relatórios de erro com aplicativos ou pessoas de confiança."</string>
+    <string name="bugreport_confirm_repeat">Exibir esta mensagem da próxima vez</string>
+    <string name="bugreport_finished_text">Toque para compartilhar o relatório de erros</string>
+    <string name="bugreport_finished_title">Relatório de erros capturado</string>
+</resources>
