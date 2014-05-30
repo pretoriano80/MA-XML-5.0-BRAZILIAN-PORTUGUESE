@@ -424,7 +424,6 @@
     <string name="invalid_recipient">O endereço %s é inválido.</string>
     <string name="kilobytes">%s KB</string>
     <string name="label_notification_ticker" formatted="false">%s: %s</string>
-    <string name="load_attachment">@string/load_more</string>
     <string name="load_more">Carregar mais</string>
     <string name="loading_conversation">Carregando…</string>
     <string name="loading_conversations">Carregando…</string>
@@ -642,8 +641,6 @@ excede o limite de tamanho"</string>
     <string name="quick_responses_empty_view">Nenhuma resposta rápida.</string>
     <string name="quote_begin">&lt;div class=\"quote\"></string>
     <string name="quoted_text">Incluir texto das mensagens anteriores</string>
-    <string name="quoted_text_background_color_string">@android:color/white</string>
-    <string name="quoted_text_font_color_string">@color/gray_text_color</string>
     <string name="quoted_text_label">Textos anteriores</string>
     <string name="read_string">conversa lida</string>
     <string name="recent_folders_heading">Pastas recentes</string>
