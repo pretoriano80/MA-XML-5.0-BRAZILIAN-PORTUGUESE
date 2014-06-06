@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Residencial</item>
+        <item>Trabalho</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Trabalho</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Residencial</item>
+        <item>Celular</item>
+        <item>Trabalho</item>
+        <item>Fax do trabalho</item>
+        <item>Fax doméstico</item>
+        <item>Pager</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Residencial</item>
+        <item>Trabalho</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Tentando acessar sua localização</item>
+        <item>Tentando acessar sua localização</item>
+        <item>Tentando acessar sua localização</item>
+        <item>Tentando utilizar o motor de vibração</item>
+        <item>Tentanto ler seus contatos</item>
+        <item>Tentando modificar seus contatos</item>
+        <item>Tentando ler o registro de chamadas</item>
+        <item>Tentando modificar o registro de chamadas</item>
+        <item>Tentando ler a agenda</item>
+        <item>Tentando modificar a agenda</item>
+        <item>Tentando acessar sua localização</item>
+        <item>Tentando exibir uma notificação</item>
+        <item>Tentando acessar sua localização</item>
+        <item>Tentando efetuar uma chamava</item>
+        <item>Tentando ler mensagens SMS</item>
+        <item>Tentando escrever/modificar mensagens SMS</item>
+        <item>Tentando receber mensagens SMS</item>
+        <item>Tentando receber mensagens SMS</item>
+        <item>Tentando receber mensagens SMS</item>
+        <item>Tentando receber mensagens SMS</item>
+        <item>Tentando enviar mensagens SMS</item>
+        <item>Tentando ler mensagens SMS</item>
+        <item>Tentando escrever/modificar mensagens SMS</item>
+        <item>Tentando modificar configurações</item>
+        <item>Tentando desenhar sobre a tela</item>
+        <item>Tentando acessar suas notificações</item>
+        <item>Tentando acessar a câmera</item>
+        <item>Tentando gravar áudio</item>
+        <item>Tentando reproduzir áudio</item>
+        <item>Tentando ler área de transferência</item>
+        <item>Tentando modificar área de transferência</item>
+        <item>Tentando utilizar botões de mídia</item>
+        <item>Tentando utilizar o foco de áudio</item>
+        <item>Tentando alterar o volume principal</item>
+        <item>Tentando alterar o volume de chamadas</item>
+        <item>Tentando alterar o volume do toque de chamada</item>
+        <item>Tentando alterar o volume de multimídia</item>
+        <item>Tentando alterar o volume do alarme</item>
+        <item>Tentando alterar o volume de notificações</item>
+        <item>Tentando alterar o volume do bluetooth</item>
+        <item>Tentando manter o dispositivo acordado</item>
+        <item>Tentando acessar sua localização</item>
+        <item>Tentando acessar sua localização</item>
+        <item>Tentando ligar ou desligar Wi-Fi</item>
+        <item>Tentando ligar ou desligar Bluetooth</item>
+        <item>Tentando ligar ou desligar Dados Móveis</item>
+        <item>Tentando enviar mensagens MMS</item>
+        <item>Tentando ler mensagens MMS</item>
+        <item>Tentando escrever mensagens MMS</item>
+        <item>Tentando iniciar durante o boot</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Residencial</item>
+        <item>Trabalho</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
+    </string-array>
+</resources>

@@ -290,12 +290,12 @@ Após você inserir o arquivo \"music.mp3\" na raiz do cartão SD, toque na tela
     <string name="cit_tool_wifi_rxn_test_channel">canal:</string>
     <string name="cit_tool_wifi_rxn_test_mcs">MCS:</string>
     <string name="cit_tool_wifi_tx_bg">Tx:B/G</string>
-    <string name="cit_tool_wifi_tx_bg_chan">channel:</string>
+    <string name="cit_tool_wifi_tx_bg_chan">canal:</string>
     <string name="cit_tool_wifi_tx_bg_txpr">txpower:</string>
     <string name="cit_tool_wifi_tx_bg_txrt">datarate:</string>
     <string name="cit_tool_wifi_tx_n">Tx: N</string>
     <string name="cit_tool_wifi_tx_n_bandwidth">banda:</string>
-    <string name="cit_tool_wifi_tx_n_chan">channel:</string>
+    <string name="cit_tool_wifi_tx_n_chan">canal:</string>
     <string name="cit_tool_wifi_tx_n_txpr">txpower:</string>
     <string name="cit_tool_wifi_tx_n_txrt">datarate: MCS</string>
     <string name="cit_tool_wifi_tx_st">Tx: ST</string>
@@ -309,7 +309,7 @@ Após você inserir o arquivo \"music.mp3\" na raiz do cartão SD, toque na tela
     <string name="cit_touch_calib_title">Calibração de toque</string>
     <string name="cit_usb_OTG_in">Dispositivo USB OTG detectado</string>
     <string name="cit_usb_OTG_out">Dispositivo USB OTG removido</string>
-     <string name="cit_usb_charger_in">Carregando via USB</string>
+    <string name="cit_usb_charger_in">Carregando via USB</string>
     <string name="cit_usb_charger_out">Carregador USB desconectado</string>
     <string name="cit_version_check_summary">Abaixo estão as informações de versão do OS. Confirme se a informação destacada em verde está correta.</string>
     <string name="cit_version_check_title">Checar info de versão</string>

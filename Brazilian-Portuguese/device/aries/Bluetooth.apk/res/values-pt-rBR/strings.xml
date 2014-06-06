@@ -9,6 +9,7 @@
     <string name="auth_notif_message">Digite a chave de sessão para %1$s</string>
     <string name="auth_notif_ticker">Solicitação de autenticação Obex</string>
     <string name="auth_notif_title">Chave de sessão</string>
+    <string name="bluetooth_share_file_name">bluetooth_content_share</string>
     <string name="bpp_authentication_timeout_message">Tempo limite esgotado para inserir a chave de sessão com %1$s</string>
     <string name="bpp_cancel">Cancelar</string>
     <string name="bpp_main">Impressão Bluetooth</string>
@@ -20,7 +21,10 @@
     <string name="bt_enable_line1">Para usar os serviços de Bluetooth, é necessário ativar o Bluetooth.</string>
     <string name="bt_enable_line2">Ativar Bluetooth agora?</string>
     <string name="bt_enable_ok">Ativar</string>
-    <string name="bt_sm_2_1">Não há espaço suficiente no cartão SD para salvar o arquivo de \"%1$s\"</string>
+    <string name="bt_enable_title"/>
+    <string name="bt_error_btn_ok">OK</string>
+    <string name="bt_share_picker_label">Bluetooth</string>
+    <string name="bt_sm_2_1">Não há espaço suficiente no armazenamento USB para salvar o arquivo de \"%1$s\"</string>
     <string name="bt_sm_2_2">Espaço necessário: %1$s</string>
     <string name="bt_toast_1">O arquivo será recebido. Verifique o andamento no painel de Notificações.</string>
     <string name="bt_toast_2">Não é possível receber o arquivo.</string>
@@ -30,6 +34,7 @@
     <string name="bt_toast_6">Envio de arquivo para \"%1$s\" interrompido</string>
     <string name="btopp_live_folder">Bluetooth recebido</string>
     <string name="defaultname">Kit para carro</string>
+    <string name="defaultnumber">000000</string>
     <string name="deleteAll_record">Excluir todos os registros</string>
     <string name="delete_record">Excluir registro</string>
     <string name="download_cancel">Parar</string>
@@ -59,7 +64,7 @@
     <string name="ftp_notif_title">Requisição de FTP</string>
     <string name="ftp_session_key_dialog_header">É necessário fornecer a chave de sessão Bluetooth</string>
     <string name="ftp_session_key_dialog_title">Digite a chave de sessão para %1$s</string>
-    <string name="hello">Olá mundo, atividade de teste</string>
+    <string name="hello">Hello World, atividade de teste</string>
     <string name="inbound_history_title">Transferências de entrada</string>
     <string name="inbound_noti_title">Compartilhamento Bluetooth: Arquivos recebidos</string>
     <string name="incoming_file_confirm_Notification_caption">Deseja receber este arquivo?</string>
@@ -114,7 +119,9 @@
     <string name="permlab_bluetoothShareManager">Acessar o gerenciador de download.</string>
     <string name="permlab_bluetoothWhitelist">Colocar o acesso do dispositivo Bluetooth na lista de permissões.</string>
     <string name="permlab_handoverStatus">Receber transmissões de transferência/entrega BT.</string>
+    <string name="process"/>
     <string name="share_prepare">Preparando Compart. Bluetooth</string>
+    <string name="sharedUserId"/>
     <string name="start_server">Iniciar servidor TCP</string>
     <string name="status_bpp_aborted_by_printer">Falha na impressão: abortado pela impressora</string>
     <string name="status_bpp_canceled_by_user">Impressão cancelada pelo usuário</string>
@@ -138,7 +145,7 @@
     <string name="status_connection_error">Falha na conexão.</string>
     <string name="status_file_error">Problema de armazenamento.</string>
     <string name="status_forbidden">Transferência proibida pelo aparelho de destino.</string>
-    <string name="status_no_sd_card">Nenhum cartão SD.</string>
+    <string name="status_no_sd_card">Nenhum armazenamento USB.</string>
     <string name="status_not_accept">O conteúdo não é suportado.</string>
     <string name="status_pending">A transferência de arquivo ainda não foi iniciada.</string>
     <string name="status_protocol_error">Não é possível tratar a solicitação corretamente.</string>
@@ -146,15 +153,15 @@
     <string name="status_success">A transferência de arquivo foi concluída.</string>
     <string name="status_unknown_error">Erro desconhecido.</string>
     <string name="transfer_clear_dlg_msg">Todos os itens serão excluídos da lista.</string>
-    <string name="transfer_clear_dlg_title">Excluir</string>
-    <string name="transfer_menu_clear">Excluir da lista</string>
-    <string name="transfer_menu_clear_all">Excluir lista</string>
+    <string name="transfer_clear_dlg_title">Limpar</string>
+    <string name="transfer_menu_clear">Limpar da lista</string>
+    <string name="transfer_menu_clear_all">Limpar lista</string>
     <string name="transfer_menu_open">Abrir</string>
     <string name="unknownName">Nome desconhecido</string>
     <string name="unknownNumber">Desconhecido</string>
     <string name="unknown_device">Dispositivo desconhecido</string>
     <string name="unknown_file">Arquivo desconhecido</string>
-    <string name="unknown_file_desc">"Não há um aplicativo para lidar com este tipo de arquivo.
+    <string name="unknown_file_desc">"Não há um aplicativo para lidar com este tipo de arquivo. 
 "</string>
     <string name="update_record">Confirmar registro</string>
     <string name="upload_fail_cancel">Fechar</string>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="contact_carrier_message">Entre em contato com sua operadora caso possua mais alguma dúvida.</string>
+    <string name="emergency_call_string">Emergência</string>
+    <string name="empty_password_error_msg">A senha não pode estar vazia</string>
+    <string name="experimental_try_string">Repetir</string>
+    <string name="experimental_validate">Validar</string>
+    <string name="experimental_validate_fail">Falha no login</string>
+    <string name="experimental_validate_password">Senha</string>
+    <string name="experimental_validate_progress">Efetuando login…</string>
+    <string name="experimental_validate_thanks">Obrigado!</string>
+    <string name="experimental_validate_username">Usuário</string>
+    <string name="experimental_validate_warning">Obrigado por ajudar a fazer a MIUI melhor!</string>
+    <string name="find_device_check_sim">Verificando cartão SIM…</string>
+    <string name="find_device_turn_off_flight_mode">Desative o modo avião</string>
+    <string name="find_device_turn_off_flight_mode_instructions">"Seu dispositivo foi bloqueado.
+Por favor desative o modo avião."</string>
+    <string name="forget_password_string">Esqueci a senha</string>
+    <string name="incorrect_pincode">Código PIN incorreto</string>
+    <string name="incorrect_pincode_remaining_attempts">Código PIN incorreto, tentativas restantes: %d</string>
+    <string name="incorrect_pukcode">Código PUK incorreto</string>
+    <string name="incorrect_pukcode_remaining_attempts">Código PUK incorreto, tentativas restantes: %d</string>
+    <string name="input_password_hint_text">Digitar senha</string>
+    <string name="input_pin_code">Digitar PIN</string>
+    <string name="input_pin_code_to_unlock">Digite o código PIN para desbloquear o dispositivo</string>
+    <string name="input_puk_code">Digitar PUK</string>
+    <string name="input_puk_code_to_unlock">Digite o código PUK para desbloquear o dispositivo</string>
+    <string name="lock_screen_date">"EEEE\ndd/MM/yyyy"</string>
+    <string name="lockscreen_access_pattern_cell_added">Célula adicionado</string>
+    <string name="lockscreen_access_pattern_cleared">Padrão limpo</string>
+    <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
+    <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
+    <string name="lockscreen_emergency_call">Chamada de emergência</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Você tentou desbloquear o telefone com uma senha incorreta %d vezes. Após mais %d tentativas incorretas, o telefone será redefinido para os padrões de fábrica, excluindo todos os dados do usuário no processo.</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Você tentou desbloquear o telefone com uma senha incorreta %d vezes. Após mais %d tentativas incorretas, você precisará desbloquear seu telefone utilizando a conta de e-mail registrada neste dispositivo.
+
+ Tente novamente em %d segundos."</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Você tentou desbloquear o telefone com uma senha incorreta %d vezes. O telefone será redefinido para os padrões de fábrica.</string>
+    <string name="lockscreen_forgot_pattern_button_text">Esqueci a senha</string>
+    <string name="lockscreen_glogin_checking_password">Verificando…</string>
+    <string name="lockscreen_glogin_forgot_pattern">Desbloqueio de conta</string>
+    <string name="lockscreen_glogin_instructions">Para desbloquear, conecte-se com sua Conta Xiaomi</string>
+    <string name="lockscreen_glogin_invalid_input">Usuário ou senha incorretos.</string>
+    <string name="lockscreen_glogin_password_hint">Senha</string>
+    <string name="lockscreen_glogin_submit_button">Login</string>
+    <string name="lockscreen_glogin_too_many_attempts">Muitas tentativas incorretas</string>
+    <string name="lockscreen_pattern_instructions">Desenhe o padrão para desbloquear</string>
+    <string name="lockscreen_pattern_wrong">Tente novamente:</string>
+    <string name="lockscreen_too_many_failed_attempts_countdown">Tente novamente em %d segundos.</string>
+    <string name="lockscreen_transport_next_description">Botão \"Avançar música\"</string>
+    <string name="lockscreen_transport_play_description">Botão \"Reproduzir\"</string>
+    <string name="lockscreen_transport_prev_description">Botão \"Voltar música\"</string>
+    <string name="login_website_in_case_forget_password">Para redefinir sua senha, acesse i.xiaomi.com.</string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por um dispositivo bluetooth</string>
+    <string name="miui_unlockscreen_password_wrong">Tente novamente:</string>
+    <string name="open_wifi_settings">Open network connection</string>
+    <string name="phone_locked_string">O telefone está bloqueado</string>
+    <string name="phone_locked_timeout_minutes_string">Tente novamente em %s minutos</string>
+    <string name="phone_locked_timeout_seconds_string">Tente novamente em %s segundos</string>
+    <string name="pin_operation_failed">Falha na operação com o PIN.</string>
+    <string name="pincode_set_to_default_msg">O código PIN está definido para 1234, você pode alterá-lo aqui:</string>
+    <string name="puk_operation_failed">Falha na operação com o PUK.</string>
+    <string name="return_to_me_message">Caso encontrado, devolver para</string>
+    <string name="screen_on_proximity_sensor_hint">Para desativar este recurso, pressione os botões \"Voltar\" e \"Aumentar Volume\" simultaneamente.</string>
+    <string name="screen_on_proximity_sensor_summary">Não cubra a parte superior da tela</string>
+    <string name="screen_on_proximity_sensor_title">Prevenir chamadas acidentais</string>
+    <string name="short_pincode_error_msg">Por favor insira de 4 a 8 dígitos</string>
+    <string name="short_pukcode_error_msg">O código deve possuir no mínimo 8 dígitos.</string>
+    <string name="starting_camera_string">Iniciando câmera</string>
+    <string name="unlock_sim_string">Desbloquear cartão SIM</string>
+    <string name="unlock_string">OK</string>
+    <string name="unlocking_sim_card">Desbloqueando cartão SIM</string>
+    <string name="unlockscreen_low_battery">Conecte seu carregador</string>
+    <string name="unlockscreen_recharge_completed">Carregado</string>
+    <string name="unlockscreen_recharging_message">Carregando %d%%</string>
+</resources>

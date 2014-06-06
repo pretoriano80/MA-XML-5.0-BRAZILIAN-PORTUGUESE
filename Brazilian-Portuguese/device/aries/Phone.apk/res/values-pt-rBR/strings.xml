@@ -2,6 +2,7 @@
 <resources>
     <string name="ContactScreen">Adic./Editar contatos do SIM</string>
     <string name="ExportContactScreen">Exportar contatos para cartão SIM</string>
+    <string name="absent_num">ABSENT NUMBER</string>
     <string name="accessibility_call_muted">Chamada sem áudio.</string>
     <string name="accessibility_speakerphone_enabled">Viva-voz ativado.</string>
     <string name="addSimEntries">Adic. contato no SIM</string>
@@ -40,16 +41,17 @@
     <string name="answer_widget_sliding_vertical_miui">Deslizar na vertical</string>
     <string name="answer_widget_title_miui">Gesto de atendimento</string>
     <string name="antispam_marked_count">Marcado por %1$d pessoa(s)</string>
+    <string name="antispam_marked_title">%1$s</string>
     <string name="antispam_notification_title">Identificar número desconhecido de forma inteligente</string>
     <string name="antispam_provider">Identificado por %s</string>
-    <string name="apn_settings">Configurações de APN</string>
+    <string name="apn_settings">Nomes dos pontos de acesso</string>
     <string name="areacode_required_accept_miui">OK</string>
     <string name="areacode_required_for_emergency_number_miui">Código de área requerido para chamadas de emergência</string>
     <string name="areacode_required_miui">Código de área requerido</string>
     <string name="atr_disable">Relatórios de trânsito da área desativados</string>
     <string name="atr_enable">Relatórios de trânsito da área ativados</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
-    <string name="audio_mode_earpiece">Fone do aparelho</string>
+    <string name="audio_mode_earpiece">Minifone do aparelho</string>
     <string name="audio_mode_speaker">Alto-falante</string>
     <string name="audio_mode_wired_headset">Fone de ouvido com fio</string>
     <string name="auth_username_summary">Nome de usuário utilizado para autenticação</string>
@@ -72,15 +74,15 @@
     <string name="auto_country_code_miui">Código do país</string>
     <string name="auto_country_code_sum_miui">Adiciona automaticamente o código do país antes do número de telefone de contatos conhecidos.</string>
     <string name="auto_ip_add_exception_numbers_miui">Adicionar</string>
-    <string name="auto_ip_exception_miui">"Lista de exceções"</string>
+    <string name="auto_ip_exception_miui">Lista de exceções</string>
     <string name="auto_ip_exception_summary_miui">%d total</string>
     <string name="auto_ip_exception_summary_more_miui">,… %d total</string>
-    <string name="auto_ip_no_exceptions_miui">"Por favor adicione números que não precisem do código DDD da operadora"</string>
+    <string name="auto_ip_no_exceptions_miui">Por favor adicione números que não precisem do código DDD da operadora</string>
     <string name="auto_ip_remove_exception_numbers_confirm_miui">Tem certeza que deseja excluir estes %d números?</string>
     <string name="auto_ip_setting_miui">Configurações de DDD e DDI</string>
     <string name="auto_ip_summary_not_enabled">Desativado</string>
     <string name="auto_ip_support_local_numbers">Usar DDD para números locais</string>
-    <string name="auto_record_call_summary_miui">A gravação será iniciada quando a chamada for conectada. O arquivo será salvo na pasta MIUI &gt; sound recorder &gt; call rec em seu cartão SD</string>
+    <string name="auto_record_call_summary_miui">A gravação será iniciada quando a chamada for conectada. O arquivo será salvo na pasta MIUI > sound recorder > call rec em seu cartão SD</string>
     <string name="auto_record_call_title_miui">Gravação automática</string>
     <string name="auto_record_scenario_enteries_always_miui">Gravar todas as chamadas</string>
     <string name="auto_record_scenario_enteries_whitelist_miui">Gravar números específicos</string>
@@ -133,10 +135,10 @@
     <string name="callUnanswered_forwarded">Chamada perdida e encaminhada</string>
     <string name="call_assistant_miui">Assistente de discagem</string>
     <string name="call_forwarding_number_hint_miui">Insira o número para encaminhar a chamada</string>
-    <string name="call_forwarding_settings">Encaminhamento de chamadas</string>
+    <string name="call_forwarding_settings">Configurações de encaminhamento de chamada</string>
     <string name="call_forwarding_settings_miui">Configurar encaminhamento</string>
     <string name="call_ind_services">Serviços Independentes</string>
-    <string name="call_lost_title">Chamada perdida</string>
+    <string name="call_lost">Chamada perdida</string>
     <string name="call_number">Para:</string>
     <string name="call_record_button_label">Gravando %s</string>
     <string name="call_record_error_access">Impossível gravar no modo Convidado</string>
@@ -159,6 +161,7 @@
     <string name="call_title_redialing_with_times_miui">Rediscando %d vezes</string>
     <string name="call_waiting_sum_miui">Durante uma chamada, notificar-me de chamadas em espera</string>
     <string name="call_waiting_tone_continuously_miui">Reproduzir tom continuamente</string>
+    <string name="call_waiting_tone_stop_summary"/>
     <string name="call_waiting_tone_title_miui">Tom de chamada em espera</string>
     <string name="call_waiting_tone_twice_and_vibrate_miui">Reproduzir tom e vibrar duas vezes</string>
     <string name="call_waiting_tone_twice_only_miui">Reproduzir tom por duas vezes</string>
@@ -169,8 +172,9 @@
     <string name="callind">Config. de recursos de chamada</string>
     <string name="callind_multi_sim">Selecionar Operadora</string>
     <string name="calling_via_template">Chamando via %s</string>
-    <string name="calling_via_template_miui">"Chamando via ^1 
+    <string name="calling_via_template_miui">"Chamando via ^1
 "<b>^2</b></string>
+    <string name="callwait_open_hint">\"Chamada em espera\" é um serviço prestado por sua operadora. Se você receber um  erro de \"Código MMI inválido\", entre em contato com sua operadora local para ativar o serviço de chamada em espera.</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_call">Cancelar</string>
     <string name="card_01">SIM 1</string>
@@ -369,6 +373,7 @@
     <string name="dtmf_tones_title">Tons DTMF</string>
     <string name="dtmf_tones_title_miui">Tons DTMF</string>
     <string name="duringcall">Operação não permitida durante uma chamada</string>
+    <string name="ecm_exit_dialog">EcmExitDialog</string>
     <string name="editContact">Editar</string>
     <string name="edit_custom_location_title_miui">Customizar configurações regionais como número e operadoras</string>
     <string name="edit_fdn_contact">Editar o número de chamadas fixas</string>
@@ -388,8 +393,8 @@
     <string name="enable_disable_administrative">Administrativo</string>
     <string name="enable_disable_advertisements">Anúncios</string>
     <string name="enable_disable_atr">Relatórios de trânsito da área</string>
-    <string name="enable_disable_cell_bc_sms">SMS de transmissão celular</string>
-    <string name="enable_disable_emergency_broadcast">Transmissão de emergência</string>
+    <string name="enable_disable_cell_bc_sms">SMS de difusão celular</string>
+    <string name="enable_disable_emergency_broadcast">Difusão de emergência</string>
     <string name="enable_disable_eo">Oportunidades de emprego</string>
     <string name="enable_disable_international">Internacional</string>
     <string name="enable_disable_lafs">Programação de voos do aeroporto local</string>
@@ -497,7 +502,7 @@ Mudar para o novo provedor?"</string>
     <string name="incall_error_supp_service_switch">Não é possível alternar chamadas.</string>
     <string name="incall_error_supp_service_transfer">Não é possível transferir a chamada.</string>
     <string name="incall_error_supp_service_unknown">Serviço não suportado.</string>
-    <string name="incall_screen_background_summary_miui">"Utilizar plano de fundo quando não houver foto no contato"</string>
+    <string name="incall_screen_background_summary_miui">Utilizar plano de fundo quando não houver foto no contato</string>
     <string name="incall_screen_background_title_miui">Fundo da tela de chamadas</string>
     <string name="incall_status_dialed_mmi">Iniciando sequência MMI…</string>
     <string name="information">Informação</string>
@@ -515,13 +520,13 @@ Mudar para o novo provedor?"</string>
     <string name="invalid_puk_miui">PUN inválido, insira um PUK que tenha 8 números.</string>
     <string name="ip_prefix_miui">Código da operadora</string>
     <string name="ip_prefix_required_miui">Código da operadora requerido</string>
-    <string name="ip_prefix_sum_miui">"Código da operadora: %s"</string>
+    <string name="ip_prefix_sum_miui">Código da operadora: %s</string>
     <string name="jituan_number_format_error_message_miui">%s somente suporta números e wildcards</string>
     <string name="labelCDMAMore">Configurações de chamada CDMA</string>
     <string name="labelCF">Encaminhamento</string>
-    <string name="labelCFB">Quando ocupado</string>
-    <string name="labelCFNRc">Se não acessível</string>
-    <string name="labelCFNRy">Se não atendido</string>
+    <string name="labelCFB">Enc. quando ocupado</string>
+    <string name="labelCFNRc">Enc. se não acessível</string>
+    <string name="labelCFNRy">Enc. se não atendido</string>
     <string name="labelCFU">Sempre encaminhar</string>
     <string name="labelCW">Chamada em espera</string>
     <string name="labelCallerId">ID da chamada</string>
@@ -685,6 +690,7 @@ Mudar para o novo provedor?"</string>
     <string name="onscreen_swap_calls_text_miui">Alternar</string>
     <string name="onscreen_tools_off_miui">Ferramentas</string>
     <string name="onscreen_tools_on_miui">Ferramentas</string>
+    <string name="open_miui">Abrir</string>
     <string name="optional_summary">&lt;Opcional></string>
     <string name="ota_activate">Ativar</string>
     <string name="ota_call_end">Voltar</string>
@@ -766,11 +772,11 @@ Seu telefone será bloqueado caso insira uma senha incorreta novamente"</string>
     <string name="preferred_network_mode_gsm_only_summary">Modo de rede preferencial: somente GSM</string>
     <string name="preferred_network_mode_gsm_wcdma_summary">Modo de rede preferencial: GSM/WCDMA</string>
     <string name="preferred_network_mode_lte_cdma_evdo_summary">Modo de rede preferencial: CDMA+LTE/EVDO</string>
-    <string name="preferred_network_mode_lte_cdma_summary">Modo de rede preferencial: LTE / CDMA</string>
+    <string name="preferred_network_mode_lte_cdma_summary">Modo de rede preferencial: LTE/WCDMA</string>
     <string name="preferred_network_mode_lte_gsm_wcdma_summary">Modo de rede preferencial: GSM/WCDMA/LTE</string>
     <string name="preferred_network_mode_lte_summary">Modo de rede preferencial: LTE</string>
-    <string name="preferred_network_mode_lte_wcdma_summary">Modo preferencial: LTE / CDMA</string>
-    <string name="preferred_network_mode_summary">Alterar o modo preferencial de rede</string>
+    <string name="preferred_network_mode_lte_wcdma_summary">Modo de rede preferencial: LTE / WCDMA</string>
+    <string name="preferred_network_mode_summary">Alterar modo de rede preferencial</string>
     <string name="preferred_network_mode_title">Modo de rede</string>
     <string name="preferred_network_mode_wcdma_only_summary">Modo de rede preferencial: somente WCDMA</string>
     <string name="preferred_network_mode_wcdma_perf_summary">Modo de rede preferencial: WCDMA</string>
@@ -808,8 +814,8 @@ Seu cartão SIM será inutilizado caso a senha seja inserida incorretamente nova
     <string name="regional_disable">Notícias regionais desativadas</string>
     <string name="regional_enable">Notícias regionais ativadas</string>
     <string name="register_automatically">Registro automático…</string>
-    <string name="register_network_failed_message_miui">"Falha ao conectar-se à rede selecionada.
-A rede preferencial será utilizada."</string>
+    <string name="register_network_failed_message_miui">"Falha ao registrar-se na rede selecionada.
+Utilizando rede preferencial."</string>
     <string name="register_network_failed_title_miui">"Falha ao conectar-se à rede"</string>
     <string name="register_on_network">Registrando na %s…</string>
     <string name="registration_done">Registrado na rede.</string>
@@ -829,7 +835,7 @@ A rede preferencial será utilizada."</string>
     <string name="reject_via_sms_title_miui">Rejeitar com SMS</string>
     <string name="remember_my_choice">Sempre usar para realizar chamadas pela internet</string>
     <string name="remove_miui">Excluir</string>
-    <string name="remove_sip_account">Excluir conta</string>
+    <string name="remove_sip_account">Remover conta</string>
     <string name="removing_account">Removendo a conta…</string>
     <string name="requesting_corporate_unlock">Requisitando desbloqueio corporativo do SIM</string>
     <string name="requesting_nw_subset_unlock">Requisitando desbloqueio de sub-rede SIM…</string>
@@ -856,6 +862,7 @@ A rede preferencial será utilizada."</string>
     <string name="respond_via_sms_confirmation_format">Mensagem enviada para %s.</string>
     <string name="respond_via_sms_custom_message">Escreva sua resposta…</string>
     <string name="respond_via_sms_edittext_dialog_title">Resposta rápida</string>
+    <string name="respond_via_sms_setting_summary"/>
     <string name="respond_via_sms_setting_title">Respostas rápidas</string>
     <string name="respond_via_sms_setting_title_2">Editar respostas rápidas</string>
     <string name="response_error">Resposta inesperada da rede.</string>
@@ -946,13 +953,13 @@ A rede preferencial será utilizada."</string>
     <string name="sip_menu_save">Salvar</string>
     <string name="sip_receive_calls">Receber chamadas</string>
     <string name="sip_receive_calls_summary">Reduz a vida útil da bateria</string>
-    <string name="sip_settings">Chamadas SIP</string>
+    <string name="sip_settings">Configurações de chamada pela internet</string>
     <string name="sip_settings_miui">Configurações de chamada pela internet</string>
     <string name="sip_system_decide">Automático</string>
     <string name="sliding_down_hint_miui">Deslizar para baixo para atender</string>
     <string name="sliding_target_hint_miui">Alvo de deslizamento</string>
     <string name="sliding_up_hint_miui">Deslizar para cima para rejeitar</string>
-    <string name="sms_content">O conteúdo é</string>
+    <string name="sms_content">Conteúdo:</string>
     <string name="sms_sender">De</string>
     <string name="sp_unlock_failed">Falha na requisição de desbloqueio do Provedor de Serviços SIM.</string>
     <string name="sp_unlock_success">Provedor de Serviços SIM desbloqueado com sucesso.</string>
@@ -999,7 +1006,7 @@ A rede preferencial será utilizada."</string>
     <string name="sum_xdivert_disabled">X-Divert Desativado</string>
     <string name="sum_xdivert_enabled">X-Divert Ativado</string>
     <string name="summary_manage_subscriptions">Gerencia as configurações de cada operadora de rede</string>
-    <string name="suspect_info">"Ignore a chamada, possível número fraudulento!"</string>
+    <string name="suspect_info">Sempre verifique a identidade da pessoa com quem você está conversando antes de responder quaisquer perguntas sobre finanças pessoais.</string>
     <string name="t9_indexing_method_pinyin">PinYin</string>
     <string name="t9_indexing_method_title_miui">Configuração de T9</string>
     <string name="t9_indexing_method_zhuyin">ZhuYin</string>
@@ -1014,7 +1021,7 @@ A rede preferencial será utilizada."</string>
     <string name="telocation_show_settings_miui">Configuração de exibição</string>
     <string name="third_party_account_summary">No momento, esta conta é usada pelo aplicativo %s.</string>
     <string name="throttle_current_usage">Uso de dados no período atual</string>
-    <string name="throttle_data_rate_reduced_subtext">"Máximo de %1$s excedido. 
+    <string name="throttle_data_rate_reduced_subtext">"Máximo de %1$s excedido
 Taxa de dados reduzida para %2$d Kb/s"</string>
     <string name="throttle_data_usage">Uso de dados</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) de %3$s do período máximo</string>
@@ -1022,10 +1029,10 @@ Taxa de dados reduzida para %2$d Kb/s"</string>
     <string name="throttle_help_subtext">Mais informações sobre a política de uso de dados da rede móvel da sua operadora</string>
     <string name="throttle_rate">Política de taxa de dados</string>
     <string name="throttle_rate_subtext">Taxa de dados reduzida para %1$d Kb/s se o limite de uso de dados for excedido</string>
-    <string name="throttle_status_subtext">"%1$s (%2$d٪) de %3$s do período máximo. 
+    <string name="throttle_status_subtext">"%1$s (%2$d٪) de %3$s do período máximo
 Próximo perído começa em %4$d dias (%5$s)"</string>
     <string name="throttle_time_frame">Período de uso de dados</string>
-    <string name="throttle_time_frame_subtext">"%1$d٪ do ciclo expirou.
+    <string name="throttle_time_frame_subtext">"%1$d٪ do ciclo expirou
 O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="title_data_settings">Configuração de Dados Móveis</string>
     <string name="transport_title">Tipo de transporte</string>
@@ -1033,7 +1040,7 @@ O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="tty_mode_entries_hco_miui">TTY HCO</string>
     <string name="tty_mode_entries_off_miui">TTY Desligado</string>
     <string name="tty_mode_entries_vco_miui">TTY VCO</string>
-    <string name="tty_mode_option_summary">Ativar modo TTY</string>
+    <string name="tty_mode_option_summary">Definir modo TTY</string>
     <string name="tty_mode_option_summary_miui">Definir modo TTY</string>
     <string name="tty_mode_option_title">Modo TTY</string>
     <string name="tty_mode_option_title_miui">Modo TTY</string>
@@ -1097,4 +1104,5 @@ Entre em contato com sua operadora se o problema persistir."</string>
     <string name="xdivert_status">Status do X-Divert</string>
     <string name="xdivert_sub_absent">Ambas subscrições precisam estar ativadas para o uso do X-Divert</string>
     <string name="xdivert_summary">Configuração de CFNRc</string>
+    <string name="xdivert_title">X-Divert</string>
 </resources>

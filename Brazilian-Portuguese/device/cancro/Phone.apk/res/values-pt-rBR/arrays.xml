@@ -7,7 +7,7 @@
     <string-array name="clir_display_values">
         <item>Padrão da rede</item>
         <item>Ocultar número</item>
-        <item>Exibir número</item>
+        <item>Mostrar número</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
@@ -32,7 +32,7 @@
         <item>GSM/WCDMA automático</item>
         <item>Somente WCDMA</item>
         <item>Somente GSM</item>
-        <item>GSM/WCDMA preferencial</item>
+        <item>Preferencialmente GSM/WCDMA</item>
     </string-array>
     <string-array name="list_language_entries">
         <item>Inglês</item>
@@ -48,7 +48,7 @@
         <item>Automático</item>
     </string-array>
     <string-array name="cdma_subscription_choices">
-        <item>UIM</item>
+        <item>RUIM/SIM</item>
         <item>NV</item>
     </string-array>
     <string-array name="tty_mode_entries">

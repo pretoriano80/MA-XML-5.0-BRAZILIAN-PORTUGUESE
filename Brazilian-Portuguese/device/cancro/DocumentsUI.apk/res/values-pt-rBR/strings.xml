@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_label">Documentos</string>
+    <string name="create_error">Falha ao criar pasta</string>
+    <string name="drawer_close">Ocultar raízes</string>
+    <string name="drawer_open">Mostrar raízes</string>
+    <string name="empty">Nenhum item</string>
+    <string name="menu_create_dir">Nova pasta</string>
+    <string name="menu_delete">Excluir</string>
+    <string name="menu_grid">Visualizar em grade</string>
+    <string name="menu_list">Visualizar em lista</string>
+    <string name="menu_open">Abrir</string>
+    <string name="menu_save">Salvar</string>
+    <string name="menu_search">Pesquisar</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="menu_share">Compartilhar</string>
+    <string name="menu_sort">Organizar por</string>
+    <string name="mode_selected_count">%1$d selecionado(s)</string>
+    <string name="pref_advanced_devices">Exibir dispositivos avançados</string>
+    <string name="pref_device_size">Exibir tamanho do dispositivo</string>
+    <string name="pref_file_size">Exibir tamanho do arquivo</string>
+    <string name="query_error">Falha ao consultar documentos</string>
+    <string name="root_available_bytes">%1$s disponível</string>
+    <string name="root_recent">Recentes</string>
+    <string name="root_type_apps">Mais apps</string>
+    <string name="root_type_device">Dispositivos</string>
+    <string name="root_type_service">Serviços de armazenamento</string>
+    <string name="root_type_shortcut">Atalhos</string>
+    <string name="save_error">Falha ao salvar documento</string>
+    <string name="share_via">Compartilhar via</string>
+    <string name="sort_date">Data de modificação</string>
+    <string name="sort_name">Nome</string>
+    <string name="sort_size">Tamanho</string>
+    <string name="title_open">Abrir de</string>
+    <string name="title_save">Salvar para</string>
+    <string name="toast_failed_delete">Impossível excluir alguns documentos</string>
+    <string name="toast_no_application">Impossível abrir arquivo</string>
+</resources>

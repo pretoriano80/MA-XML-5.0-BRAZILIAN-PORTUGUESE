@@ -39,46 +39,7 @@
     </string-array>
     <string-array name="special_locale_names">
         <item>Chinês (simplificado)</item>
-        <item>Chinês (Tradicional)</item>
-    </string-array>
-    <string-array name="app_ops_labels">
-        <item>Tentando acessar sua localização</item>
-        <item>Tentando acessar sua localização</item>
-        <item>Tentando acessar sua localização</item>
-        <item>Tentando utilizar o motor de vibração</item>
-        <item>Tentanto ler seus contatos</item>
-        <item>Tentando modificar seus contatos</item>
-        <item>Tentando ler o registro de chamadas</item>
-        <item>Tentando modificar o registro de chamadas</item>
-        <item>Tentando ler a agenda</item>
-        <item>Tentando modificar a agenda</item>
-        <item>Tentando acessar sua localização</item>
-        <item>Tentando exibir uma notificação</item>
-        <item>Tentando acessar sua localização</item>
-        <item>Tentando efetuar uma chamava</item>
-        <item>Tentando ler mensagens SMS</item>
-        <item>Tentando escrever/modificar mensagens SMS</item>
-        <item>Tentando receber mensagens SMS</item>
-        <item>Tentando receber mensagens SMS</item>
-        <item>Tentando receber mensagens SMS</item>
-        <item>Tentando receber mensagens SMS</item>
-        <item>Tentando enviar mensagens SMS</item>
-        <item>Tentando ler mensagens SMS</item>
-        <item>Tentando escrever/modificar mensagens SMS</item>
-        <item>Tentando modificar configurações</item>
-        <item>Tentando desenhar sobre a tela</item>
-        <item>Tentando acessar suas notificações</item>
-        <item>Tentando acessar a câmera</item>
-        <item>Tentando gravar áudio</item>
-        <item>Tentando reproduzir áudio</item>
-        <item>Tentando ler área de transferência</item>
-        <item>Tentando modificar área de transferência</item>
-        <item>Tentando ligar ou desligar Wi-Fi</item>
-        <item>Tentando ligar ou desligar Bluetooth</item>
-        <item>Tentando ligar ou desligar Dados Móveis</item>
-        <item>Tentando enviar mensagens MMS</item>
-        <item>Tentando ler mensagens MMS</item>
-        <item>Tentando escrever mensagens MMS</item>
+        <item>Chinês (tradicional)</item>
     </string-array>
     <string-array name="imAddressTypes">
         <item>Residencial</item>
