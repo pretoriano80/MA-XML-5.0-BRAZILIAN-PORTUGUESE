@@ -42,8 +42,8 @@
         <item>Página personalizada</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
-        <item>Voltar/Avançar páginas</item>
-        <item>Alternar abas</item>
+        <item>Página anterior/Próxima página</item>
+        <item>Aba anterior/Próxima aba</item>
     </string-array>
     <string-array name="pref_fling_on_border_choices">
         <item>Voltar/Avançar página</item>

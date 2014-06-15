@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-    <string name="app_name">Leia-me</string>
-    <string name="bakc_key_toast_txt">Pressione Voltar novamente para sair</string>
-    <string name="loading_userbook">Carregando…</string>
-    <string name="non_wifi_not_download_data">"Impossível efetuar o download do guia do usuário utilizando a rede de dados móveis. Tente novamente quando conectar-se à uma rede Wi-Fi"</string>
-</resources>

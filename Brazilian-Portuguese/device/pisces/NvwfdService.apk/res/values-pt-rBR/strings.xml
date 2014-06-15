@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">Serviços de Display Sem Fio</string>
+    <string name="miracast_access_settings_title">Accessar configurações do Display Sem Fio</string>
+    <string name="miracast_connection_status_connected">"Transmitindo em "</string>
+    <string name="miracast_connection_status_discovery">"Buscando por "</string>
+    <string name="miracast_connection_status_progress">"Conectando a "</string>
+    <string name="miracast_connection_status_warning_auth_failed">"Falha na autenticação com "</string>
+    <string name="miracast_connection_status_warning_conn_failed">"Impossível encontrar "</string>
+    <string name="miracast_connection_status_warning_conn_lost">"Conexão perdida com "</string>
+    <string name="miracast_hdcp_failure_text">Conteúdo premium não pode ser exibido</string>
+    <string name="miracast_hdcp_title">Falha na autenticação HDCP com %1$s</string>
+    <string name="miracast_hdmi_title">HDMI</string>
+    <string name="miracast_hdmi_unavailable">Indisponível com o Display sem fio ativo</string>
+</resources>

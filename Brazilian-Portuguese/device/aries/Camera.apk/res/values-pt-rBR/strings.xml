@@ -62,8 +62,6 @@
     <string name="deleted">Excluído</string>
     <string name="description">Descrição</string>
     <string name="details">Detalhes</string>
-    <string name="details_hms">%1$d:%2$02d:%3$02d</string>
-    <string name="details_ms">%1$02d:%2$02d</string>
     <string name="details_title">%1$d de %2$d itens:</string>
     <string name="dialog_ok">OK</string>
     <string name="disable_video_snapshot_hint">O instantâneo de vídeo é desativado quando os efeitos especiais estão ativados</string>
@@ -85,7 +83,6 @@
     <string name="effect_goofy_face_squeeze">Comprimir</string>
     <string name="effect_none">Nenhum</string>
     <string name="effect_silly_faces">CARETAS</string>
-    <string name="empty">" "</string>
     <string name="error_app_unsupported">Resolução de vídeo não suportada para o codificador selecionado</string>
     <string name="error_app_unsupported_hfr_720p">O modo 720P suporta até 90 fps</string>
     <string name="error_app_unsupported_hfr_codec">A codificação de vídeos em H264 não é suportada com a gravação em taxa de quadros alta</string>
@@ -160,9 +157,6 @@
     <string name="pref_camera_ae_bracket_hdr_entry_hdr">HDR</string>
     <string name="pref_camera_ae_bracket_hdr_entry_off">Off</string>
     <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
-    <string name="pref_camera_ae_bracket_hdr_value_ae_bracket">AE-Bracket</string>
-    <string name="pref_camera_ae_bracket_hdr_value_hdr">HDR</string>
-    <string name="pref_camera_ae_bracket_hdr_value_off">Off</string>
     <string name="pref_camera_antibanding_entry_0">Desativado</string>
     <string name="pref_camera_antibanding_entry_1">50 Hz</string>
     <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -203,7 +197,6 @@
     <string name="pref_camera_flashmode_entry_auto">Automático</string>
     <string name="pref_camera_flashmode_entry_off">Desativado</string>
     <string name="pref_camera_flashmode_entry_on">Ativado</string>
-    <string name="pref_camera_flashmode_no_flash">no_flash</string>
     <string name="pref_camera_flashmode_title">Modo de flash</string>
     <string name="pref_camera_focusmode_entry_auto">Automático</string>
     <string name="pref_camera_focusmode_entry_continuous">Contínuo</string>
@@ -266,10 +259,6 @@
     <string name="pref_camera_preview_entry_2000">2 segundos</string>
     <string name="pref_camera_preview_entry_5000">5 segundos</string>
     <string name="pref_camera_preview_entry_off">off</string>
-    <string name="pref_camera_preview_value_1000">1000</string>
-    <string name="pref_camera_preview_value_2000">2000</string>
-    <string name="pref_camera_preview_value_5000">5000</string>
-    <string name="pref_camera_preview_value_off">off</string>
     <string name="pref_camera_recordlocation_entry_off">Desativado</string>
     <string name="pref_camera_recordlocation_entry_on">Ativado</string>
     <string name="pref_camera_recordlocation_title">Armazenamento de localização</string>
@@ -382,7 +371,7 @@
     <string name="pref_video_time_lapse_frame_interval_entry_1800">Intervalo de 60 segundos (1800 vezes)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_2">Intervalo de 0.06 segundos (2 vezes)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_240">Intervalo de 8 segundos (240 vezes)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_30">Intervalo de 1 second (30 vezes)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_30">Intervalo de 1 segundo (30 vezes)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_300">Intervalo de 10 segundos (300 vezes)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_4">Intervalo de 0.12 segundos (4 vezes)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_450">Intervalo de 15 segundos (450 vezes)</string>
@@ -448,7 +437,6 @@
     <string name="toast_burst_snap_forbidden_when_iso_not_auto">É necessário definir o ISO como automático</string>
     <string name="toast_start_audio_capture">Faça barulho para ativar o disparador</string>
     <string name="undo">Desfazer</string>
-    <string name="unit_mm">mm</string>
     <string name="video_camera_label">Filmadora</string>
     <string name="video_err">Impossível executar vídeo</string>
     <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>

@@ -149,7 +149,7 @@
     <string name="delete_folder">Excluir pasta</string>
     <string name="delete_multi_bookmarks_alert_title">Excluir %1$s itens?</string>
     <string name="disable_autofill">Desativar o preenchimento automático</string>
-    <string name="dont_remind_again">Lembrar minha escolha</string>
+    <string name="dont_remind_again">Lembrar escolha</string>
     <string name="download">Download</string>
     <string name="download_complete">Download concluído</string>
     <string name="download_default_path_txt">Definir como caminho padrão para salvamento</string>
@@ -167,10 +167,10 @@
     <string name="downloaded">Download concluído</string>
     <string name="downloading">Download em andamento</string>
     <string name="dump_counters">Depurar contadores V8</string>
-    <string name="dump_display_tree">Depurar árvore para arquivo</string>
+    <string name="dump_display_tree">Depurar exibição para arquivo</string>
     <string name="dump_dom_tree">Depurar árvore DOM para arquivo</string>
     <string name="dump_nav">Depuração de cache</string>
-    <string name="dump_render_tree">Depurar renderizador para arquivo</string>
+    <string name="dump_render_tree">Depurar renderização para arquivo</string>
     <string name="edit">Editar</string>
     <string name="edit_bookmark">Editar favorito</string>
     <string name="edit_folder">Editar pasta</string>
@@ -264,9 +264,9 @@
     <string name="miuichromium_default_text_encoding">Latin-1</string>
     <string name="miuichromium_error_page_mobile">Rede móvel</string>
     <string name="miuichromium_error_page_reason_network">Ver URL do link</string>
-    <string name="miuichromium_error_page_reason_server">O navegador não pode acessar esta página</string>
+    <string name="miuichromium_error_page_reason_server">O navegador não pôde carregar esta página</string>
     <string name="miuichromium_error_page_reload">Atualizar</string>
-    <string name="miuichromium_error_page_title">Impossível encontrar página</string>
+    <string name="miuichromium_error_page_title">Página não encontrada</string>
     <string name="miuichromium_error_page_url">Ver URL da página</string>
     <string name="miuichromium_error_page_wlan">Configurações de Wi-Fi</string>
     <string name="miuichromium_save_password_message">Você deseja que o navegador lembre desta senha?</string>
@@ -388,9 +388,7 @@
     <string name="pref_link_prefetch_dialogtitle">Pré-carregamento de página da web</string>
     <string name="pref_link_prefetch_summary">Permitir que o navegador pré-carregue páginas relacionadas em segundo plano</string>
     <string name="pref_link_prefetch_title">Pré-carregamento de página da web</string>
-    <string name="pref_link_prefetch_value_always">ALWAYS</string>
     <string name="pref_link_prefetch_value_never_summary">Nunca permitir que o navegador pré-carregue páginas web secundárias em segundo plano</string>
-    <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
     <string name="pref_min_font_size">Tamanho mínimo da fonte</string>
     <string name="pref_min_font_size_value">%dpt</string>
     <string name="pref_privacy_clear_cache">Excluir cache</string>
@@ -435,7 +433,7 @@
     <string name="pref_setting_title">Configurações de página</string>
     <string name="pref_text_zoom">Ajuste da escala do texto</string>
     <string name="pref_ua_mione_entry">MiOne</string>
-    <string name="pref_ua_string">User agent string</string>
+    <string name="pref_ua_string">String de User Agent</string>
     <string name="pref_ua_title">Gerenciar User Agent</string>
     <string name="pref_version_summary">Versão: %s</string>
     <string name="pref_video_preload_dialogtitle">Pré-carregamento de vídeo</string>
@@ -461,11 +459,11 @@
     <string name="readmode_already_add_to_bookshelf">Entrou na estante</string>
     <string name="readmode_battery">Bateria</string>
     <string name="readmode_login">Login</string>
-    <string name="readmode_login_message">capítulos subseqüentes precisam fazer login antes de estarem disponíveis para visualização no celular</string>
+    <string name="readmode_login_message">capítulos subsequentes precisam fazer login antes de estarem disponíveis para visualização no celular</string>
     <string name="readmode_page_load_error">Não foi possível carregar a página, toque em Atualizar para tentar novamente</string>
     <string name="readmode_page_loading">Carregando por favor aguarde…</string>
     <string name="readmode_pay">Assinar capítulo</string>
-    <string name="readmode_pay_message">capítulos subseqüentes requerem uma assinatura</string>
+    <string name="readmode_pay_message">capítulos subsequentes requerem uma assinatura</string>
     <string name="readmode_reach_last_page">Última página atingida</string>
     <string name="readmode_recommend">ver recomendados</string>
     <string name="readmode_recommend_message">"Você leu todas as seções do livro, escolha outro."</string>
@@ -521,7 +519,7 @@
     <string name="sign_in_to" formatted="false">Fazer login no %s1 \"%s2\"</string>
     <string name="snapshot_failed">Não foi possível salvar para leitura off-line.</string>
     <string name="snapshot_go_live">Atualizar</string>
-    <string name="snapshot_successed">Leitura off-line salva</string>
+    <string name="snapshot_successed">Página salva para leitura off-line</string>
     <string name="ssl_certificate">Certificado de segurança</string>
     <string name="ssl_certificate_is_valid">Este certificado é válido.</string>
     <string name="ssl_continue">Continuar</string>
@@ -565,7 +563,7 @@
     <string name="uploads_disabled">O upload de arquivos está desativado.</string>
     <string name="url_copy_done">URL copiada</string>
     <string name="url_hint">Pesquisar ou digitar URL</string>
-    <string name="use_cellular_network_alert_message">Wi-Fi indisponível, utilizar rede móvel?</string>
+    <string name="use_cellular_network_alert_message">Rede Wi-Fi indisponível, utilizar rede móvel?</string>
     <string name="use_cellular_network_alert_title">Alerta de rede</string>
     <string name="user_defined_webpage">Adicionar à página inicial</string>
     <string name="user_defined_webpage_title">Adicionar à página inicial</string>
