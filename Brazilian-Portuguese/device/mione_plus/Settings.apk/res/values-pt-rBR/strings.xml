@@ -2289,7 +2289,7 @@ Você precisa alterar sua configuração de energia antes de excluir esta config
     <string name="search_silent">silent</string>
     <string name="search_sms_received">sms received</string>
     <string name="search_status_bar">status bar</string>
-    <string name="search_sync">    <string ring>
+    <string name="search_sync">sync</string>
     <string name="search_tether">tether</string>
     <string name="search_unlock_set">unlock set</string>
     <string name="search_vpn">vpn</string>

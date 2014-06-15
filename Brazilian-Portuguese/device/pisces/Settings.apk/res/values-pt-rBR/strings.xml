@@ -1045,7 +1045,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
     <string name="enable_quickboot_title">Ativar inicialização rápida</string>
     <string name="enable_service_title">Usar %1$s?</string>
     <string name="enable_snapshot_screenlock">Tirar fotos com o telefone bloqueado</string>
-    <string able_terminal_summary">Ativar o aplicativo terminal que oferece acesso ao shell local</string>
+    <string name="enable_terminal_summary">Ativar o aplicativo terminal que oferece acesso ao shell local</string>
     <string name="enable_terminal_title">Terminal local</string>
     <string name="enable_text">Ativar</string>
     <string name="enable_wifi_display">Ativar Wi-Fi Display</string>
@@ -3690,4 +3690,3 @@ A configuração do telefone pode exigir atividade de rede significativa."</stri
     <string name="zone_list_menu_sort_alphabetically">Classificar em ordem alfabética</string>
     <string name="zone_list_menu_sort_by_timezone">Classificar por fuso horário</string>
 </resources>
-ources>
