@@ -27,6 +27,7 @@
     <string name="accessibility_no_wifi">Nenhum sinal Wi-Fi.</string>
     <string name="accessibility_no_wimax">Sem WiMAX.</string>
     <string name="accessibility_notifications_button">Notificações.</string>
+    <string name="accessibility_phone_four_bars">Quatro barras de sinal do telefone.</string>
     <string name="accessibility_phone_one_bar">Uma barra de sinal do telefone.</string>
     <string name="accessibility_phone_signal_full">Sinal do telefone cheio.</string>
     <string name="accessibility_phone_three_bars">Três barras de sinal do telefone.</string>

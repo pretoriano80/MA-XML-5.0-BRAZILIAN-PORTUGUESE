@@ -58,7 +58,7 @@
     <string name="resource_account_abnormal_state">Erro na conta. Tente novamente mais tarde</string>
     <string name="resource_account_fail_to_add">Falha ao adicionar conta</string>
     <string name="resource_account_login">Login</string>
-    <string name="resource_account_login_before_action">Entrar com sua Conta Xiaomi agora</string>
+    <string name="resource_account_login_before_action">Entrar com sua Mi Account agora</string>
     <string name="resource_account_login_title">Login</string>
     <string name="resource_account_switch">Alternar conta</string>
     <string name="resource_alarm_default">Alarmes</string>
@@ -258,7 +258,7 @@ o conteúdo que você está tentando acessar não está disponível para a sua r
     <string name="title_local">Local</string>
     <string name="title_online">Online</string>
     <string name="title_system_resource">Recursos do sistema</string>
-    <string name="to_activate_the_account">Ativar sua Conta Xiaomi agora</string>
+    <string name="to_activate_the_account">Ativar sua Mi Account agora</string>
     <string name="wallpaper_crop">Cortar</string>
     <string name="wallpaper_decoded_error">Falha ao carregar</string>
     <string name="wallpaper_loading_text">Carregando …</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="account_detail">"Conta Xiaomi: 
+    <string name="account_detail">"Mi Account: 
 %1$s"</string>
     <string name="app_name">Serviço de pagamento</string>
     <string name="balance">Balanço: %1$s Mi Credits</string>

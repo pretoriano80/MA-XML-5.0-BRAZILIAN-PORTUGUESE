@@ -182,7 +182,7 @@
     <string name="loading">Carregando</string>
     <string name="login">Login</string>
     <string name="login_and_enable">Conectar e sincronizar</string>
-    <string name="login_first">Primeiro, efetue login em sua conta Xiaomi</string>
+    <string name="login_first">Primeiro, efetue login em sua Mi Account</string>
     <string name="lrc_progress_modify">Ajustar sincronia das letras</string>
     <string name="lrc_progress_modify_helper">Ajuste a sincronia das letras arrastando para cima e para baixo</string>
     <string name="lrc_search_failed">Letra não encontrada!</string>
@@ -320,7 +320,7 @@
     <string name="start_to_download_album">Baixando capas dos álbuns…</string>
     <string name="start_to_download_avatar">Baixando imagem dos artistas…</string>
     <string name="streamloadingtext">Conectando-se a %s</string>
-    <string name="sync_alert_message">Sincronize suas músicas favoritas entre dispositivos com sua Conta Xiaomi.</string>
+    <string name="sync_alert_message">Sincronize suas músicas favoritas entre dispositivos com sua Mi Account.</string>
     <string name="sync_alert_title">Sincronizar músicas</string>
     <string name="sync_disable_toast">Você pode ativar a sincronização mais tarde em Configurações > Contas > Mi Cloud</string>
     <string name="sync_enable_toast">Você pode desativar a sincronização mais tarde em Configurações > Contas > Mi Cloud</string>
@@ -353,5 +353,5 @@
     <string name="volume_alert_playback_alert_title">Alerta de volume</string>
     <string name="volume_alert_playback_message">Para rpevenir problemas auditivos, não escute sons em níveis de volume altos por um longo período de tempo.</string>
     <string name="where_is_barcode">Onde encontrar o código QR?</string>
-    <string name="xiaomi_account_setting">Conta Xiaomi</string>
+    <string name="xiaomi_account_setting">Mi Account</string>
 </resources>

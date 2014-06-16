@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="ACaddnumcontent">Digite o início do número, o sistema completará o restante com asteriscos automaticamente.</string>
+    <string name="ACaddnumcontent">Insira o código de área</string>
     <string name="ACaddnumtitle">Adicionar prefixo de telefone às exceções</string>
     <string name="AD_ALLOW">Permitir solicitações</string>
     <string name="AD_APPInfo">Info do aplicativo</string>
@@ -24,7 +24,7 @@
     <string name="Call_PREFIX">Bloqueio de prefixos</string>
     <string name="Call_PRIVATE_CALL">Chamadas privadas</string>
     <string name="NACaddnumcontent">Digite o número de telefone</string>
-    <string name="NACaddnumtitle">Adicionar número à lista de exceções</string>
+    <string name="NACaddnumtitle">Insira o número de telefone</string>
     <string name="PAST_BLOCK">Bloqueados anteriormente</string>
     <string name="Phonepass">Permitir chamadas</string>
     <string name="SMS_ADRESS">Bloqueio de locais</string>
@@ -51,7 +51,7 @@
     <string name="bl_no_blacklist">Nenhum número bloqueado</string>
     <string name="bl_no_block_call">Nenhuma chamada bloqueada</string>
     <string name="bl_no_block_sms">Nenhuma mensagem bloqueada</string>
-    <string name="blacklist_prefix_add_hint">Adicionar todos os números com o prefixo registrado à lista de bloqueio</string>
+    <string name="blacklist_prefix_add_hint">Bloquear todos os números que possuam este prefixo</string>
     <string name="block_message_number">"mensagens de spam: %d"</string>
     <string name="block_phone_number">"chamadas de spam: %d"</string>
     <string name="call_delete_hint">Excluir todas as chamadas bloqueadas do número selecionado?</string>
@@ -67,7 +67,7 @@
     <string name="dlg_bl_add_manual">Adicionar número à lista de bloqueio</string>
     <string name="dlg_black_address_antispam_message">Adicionar este local à lista de bloqueio?</string>
     <string name="dlg_black_antispam_hint">Lista de bloqueio</string>
-    <string name="dlg_black_antispam_message">Adicionar esta mensagem à lista de bloqueio?</string>
+    <string name="dlg_black_antispam_message">Adicionar este número à lista de bloqueio?</string>
     <string name="dlg_clear_all_call">Limpar chamadas bloqueadas?</string>
     <string name="dlg_clear_all_ok">Limpar tudo</string>
     <string name="dlg_clear_all_sms">Excluir mensagens bloqueadas?</string>
@@ -135,15 +135,15 @@
     <string name="note_call_none">Nenhuma chamada para editar</string>
     <string name="note_keyword_none">Nenhuma palavra-chave para editar</string>
     <string name="note_list_none">Nenhuma lista para editar</string>
-    <string name="note_preference_delete">Este modo está em uso e não pode ser excluído</string>
+    <string name="note_preference_delete">Esta regra está em uso e não pode ser excluída</string>
     <string name="note_sms_none">Nenhuma mensagem para editar</string>
     <string name="one_address_choose_hint">%s1 local</string>
     <string name="open_callwait">Ligado</string>
     <string name="sms_delete_hint">Excluir todas as mensagens bloqueadas do número selecionado?</string>
     <string name="st_advanced_setting_group">Avançado</string>
-    <string name="st_antispam_black_adress_add">Escolher área</string>
+    <string name="st_antispam_black_adress_add">Escolher localização</string>
     <string name="st_antispam_bw_adress_add">Escolher local</string>
-    <string name="st_antispam_bw_choose_modes">Selecionar modo</string>
+    <string name="st_antispam_bw_choose_modes">Números bloqueados</string>
     <string name="st_antispam_bw_head_add">Adicionar prefixo</string>
     <string name="st_antispam_bw_man_add">Adicionar telefone</string>
     <string name="st_antispam_bw_pick_add">Selecionar contato</string>
@@ -190,7 +190,8 @@
     <string name="st_call_group">Chamadas</string>
     <string name="st_common_setting_group">Configurações de filtro</string>
     <string name="st_filter_keywords_setting_summary1">Mensagens enviadas de números desconhecidos que contenham as seguintes palavras-chave serão bloqueados.</string>
-    <string name="st_filter_keywords_setting_summary2">Você pode separar palavras-chave utilizando uma vírgula</string>
+    <string name="st_filter_keywords_setting_summary2">"
+Você pode separar palavras-chave utilizando uma vírgula"</string>
     <string name="st_filter_keywords_setting_title">Definir filtro de palavras-chave</string>
     <string name="st_filter_keywords_title">Filtro de palavras-chave</string>
     <string name="st_filter_sms_button">Filtrar mensagens</string>
@@ -218,15 +219,15 @@
     <string name="st_title_addwhitelist">Adicionar à lista de exceções</string>
     <string name="st_title_adress">Selecionar local</string>
     <string name="st_title_adress_num">%d selecionado(s)</string>
-    <string name="st_title_anticomintcall_backsound_setting">Mostrar como</string>
-    <string name="st_title_antispam_mode">Modo de bloqueio</string>
+    <string name="st_title_anticomintcall_backsound_setting">Mensagens</string>
+    <string name="st_title_antispam_mode">Regras</string>
     <string name="st_title_back_sound_busy">Ocupado</string>
     <string name="st_title_back_sound_choose">Personalizado</string>
     <string name="st_title_back_sound_closed">Telefone desligado</string>
     <string name="st_title_back_sound_none">Telefone inexistente</string>
     <string name="st_title_back_sound_stop">Telefone fora de serviço</string>
-    <string name="st_title_backsound_group">Configurações de resposta em áudio</string>
-    <string name="st_title_blacklist_numbers">Lista de bloqueio</string>
+    <string name="st_title_backsound_group">Mensagem reproduzida para números bloqueados</string>
+    <string name="st_title_blacklist_numbers">Números bloqueados</string>
     <string name="st_title_call_wait">Chamada em espera</string>
     <string name="st_title_call_wait_setting">Configuração de chamada em espera</string>
     <string name="st_title_editblacklist">Editar lista de bloqueio</string>
@@ -238,14 +239,14 @@
     <string name="st_title_man_editwhitelist">Selecionar código de localidade para adicionar à lista de exceções</string>
     <string name="st_title_man_head_addblacklist">Adicionar prefixo de telefone à lista de bloqueio</string>
     <string name="st_title_man_head_addwhitelist">Adicionar prefixo de telefone à lista de exceções</string>
-    <string name="st_title_mode_choose_group">Selecionar modo</string>
+    <string name="st_title_mode_choose_group">Regras de bloqueio</string>
     <string name="st_title_open_antispam">Lista de bloqueio</string>
     <string name="st_title_settings_other_group">Configurações adicionais</string>
     <string name="st_title_show_antispamnotification">Notificação para chamadas bloqueadas</string>
     <string name="st_title_whitelist_numbers">Exceções</string>
     <string name="sure">Confirmar</string>
     <string name="tab_blacklist">Lista de bloqueio</string>
-    <string name="tab_block_log">Registro de bloqueios</string>
+    <string name="tab_block_log">Histórico</string>
     <string name="tab_block_log_unKnowNumber">Número desconhecido</string>
     <string name="tab_call">Registro de chamadas</string>
     <string name="tab_sms">Registro de mensagens</string>
@@ -254,7 +255,7 @@
     <string name="toast_keyword_exist">Palavra-chave salva</string>
     <string name="toast_keyword_invalid">A palavra-chave inserida é inválida</string>
     <string name="two_address_choose_hint">%1$s, %2$s2 locais</string>
-    <string name="user_define_title">Personalizado</string>
+    <string name="user_define_title">Adic. regras</string>
     <string name="whitelist_prefix_add_hint">Adicionar todos os números com este prefixo à lista de exceções</string>
     <string name="wl_no_whitelist">Nenhum número na lista de exceções</string>
 </resources>

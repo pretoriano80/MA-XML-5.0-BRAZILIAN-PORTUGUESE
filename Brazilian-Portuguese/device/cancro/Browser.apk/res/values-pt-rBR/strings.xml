@@ -92,6 +92,8 @@
     <string name="clip_dialog_title">Abrir o link copiado?</string>
     <string name="close_all_tab_alert_message">Você tem certeza que deseja fechar todas as abas?</string>
     <string name="close_all_tab_alert_title">Fechar todas as abas</string>
+    <string name="cloud_loading_tips">Arraste para baixo para sincronizar</string>
+    <string name="cloud_no_new_data_toast">Sem novos dados, tente mais tarde</string>
     <string name="cloud_tab">Aba Cloud</string>
     <string name="color_picker_button_black">Preto</string>
     <string name="color_picker_button_blue">Azul</string>
@@ -148,6 +150,8 @@
     <string name="delete_bookmark_warning">Excluir favorito \"%s\"?</string>
     <string name="delete_folder">Excluir pasta</string>
     <string name="delete_multi_bookmarks_alert_title">Excluir %1$s itens?</string>
+    <string name="dialog_geolocation_reject">Rejeitar</string>
+    <string name="dialog_geolocation_share">Aceitar</string>
     <string name="disable_autofill">Desativar o preenchimento automático</string>
     <string name="dont_remind_again">Lembrar escolha</string>
     <string name="download">Download</string>
@@ -226,6 +230,7 @@
     <string name="js_disable_confirm_message">Desativar o JavaScript pode fazer com que alguns websites sejam exibidos incorretamente</string>
     <string name="js_disable_confirm_title">Desativar JavaScript?</string>
     <string name="js_engine_flags">Definir sinaliz. JS</string>
+    <string name="loading_tips">Deslize para baixo para atualizar</string>
     <string name="local_bookmarks">Xiaomi</string>
     <string name="location">Endereço</string>
     <string name="low_memory_error">Devido à insuficiência de memória, não foi possível concluir a operação anterior</string>
@@ -257,10 +262,10 @@
     <string name="miui_content_select_all">Selecionar tudo</string>
     <string name="miui_content_share">Compartilhar</string>
     <string name="miui_content_web_search">Pesquisar</string>
-    <string name="miui_quicksearch_enable_pref_summary">Ativar busca rápida</string>
-    <string name="miui_quicksearch_enable_pref_title">Notificações de busca rápida</string>
-    <string name="miui_search_notification_message">Abrir busca rápida</string>
-    <string name="miui_search_notification_title">Busca rápida</string>
+    <string name="miui_quicksearch_enable_pref_summary">Sempre exibir barra de pesquisa nas notificações</string>
+    <string name="miui_quicksearch_enable_pref_title">Barra de pesquisa nas notificações</string>
+    <string name="miui_search_notification_message">Toque para abrir a barra de pesquisa</string>
+    <string name="miui_search_notification_title">Pesquisar</string>
     <string name="miuichromium_default_text_encoding">Latin-1</string>
     <string name="miuichromium_error_page_mobile">Rede móvel</string>
     <string name="miuichromium_error_page_reason_network">Ver URL do link</string>
@@ -317,6 +322,7 @@
     <string name="pref_content_autofit_summary">Formatar páginas da web para se ajustarem à tela</string>
     <string name="pref_content_block_float_popups">Bloquear pop-ups flutuantes</string>
     <string name="pref_content_block_popups">Bloquear pop-ups</string>
+    <string name="pref_content_brightness_setting">Configurações de brilho</string>
     <string name="pref_content_cloud_speedup">Carregar conteúdo rapidamente utilizando servidores proxy</string>
     <string name="pref_content_fontsize_setting">Configurações da fonte</string>
     <string name="pref_content_homepage">Def. como página inicial</string>
@@ -441,6 +447,9 @@
     <string name="pref_video_preload_title">Pré-carregamento de vídeo</string>
     <string name="pref_volume_key_enabled">Botões de volume</string>
     <string name="pref_volume_key_operation">Ação para botões de volume</string>
+    <string name="pref_webapp_settings_fontsize">Tamanho da fonte</string>
+    <string name="pref_webapp_settings_hidebottombar">Sempre ocultar barra inferior</string>
+    <string name="pref_webapp_settings_savewidth">Não transferir imagens em 2G/3G</string>
     <string name="pref_zoom_on_double_tap">Zoom em toque duplo</string>
     <string name="preview">Visualizar</string>
     <string name="profiler_error_toast">Falha ao iniciar o profiler</string>
@@ -544,6 +553,8 @@
     <string name="sub_sync_item_browser_title_novel">Sincronizar livros</string>
     <string name="sub_sync_item_browser_title_novel_summary">Sincronizar livros no navegador</string>
     <string name="sync_item_browser_summary">Sincronize seus dados na nuvem e utilize outros dispositivos facilmente</string>
+    <string name="sub_sync_item_browser_title_webapp">Sincronziar webapp</string>
+    <string name="sub_sync_item_browser_title_webapp_summary">Sincronizar webapps adicionados e meus favoritos</string>
     <string name="sync_item_browser_title">Sincronizar navegador</string>
     <string name="tab_history">Histórico</string>
     <string name="tab_most_visited">Mais visitados</string>
@@ -560,6 +571,7 @@
     <string name="too_many_windows_dialog_message">Não é possível abrir uma nova guia até que outra seja fechada.</string>
     <string name="too_many_windows_dialog_title">Limite da guia atingido</string>
     <string name="ua_switcher_desktop">Ver versão para web</string>
+    <string name="up_to_loading_tips">Solte para atualizar</string>
     <string name="uploads_disabled">O upload de arquivos está desativado.</string>
     <string name="url_copy_done">URL copiada</string>
     <string name="url_hint">Pesquisar ou digitar URL</string>
@@ -570,6 +582,20 @@
     <string name="username">Nome</string>
     <string name="view_certificate">Visualizar certificado</string>
     <string name="warning">Atenção</string>
+    <string name="webapp_add_to_desktop">Adicionar à Tela inicial</string>
+    <string name="webapp_add_to_favorite_toast">Adicionado aos favoritos</string>
+    <string name="webapp_addtodeskpop_append">Adicionado</string>
+    <string name="webapp_app_name">Loja de Light Web Apps</string>
+    <string name="webapp_dialog_title">Adicionar app à Tela inicial</string>
+    <string name="webapp_menu_addtodesk">Adic. à Tela inicial</string>
+    <string name="webapp_menu_already_addtodesk">Já adicionado à Tela inicial</string>
+    <string name="webapp_menu_exit">Sair</string>
+    <string name="webapp_menu_favorites">Meus favoritos</string>
+    <string name="webapp_menu_nightmode">Modo noturno</string>
+    <string name="webapp_menu_settings">Configurações</string>
+    <string name="webapp_menu_share">Compartilhar</string>
+    <string name="webapp_settings_title">Configurações</string>
+    <string name="webapp_webapp_favortes_title">Meus favoritos</string>
     <string name="website_settings_clear_all">Excluir tudo</string>
     <string name="website_settings_clear_all_dialog_cancel_button">Cancelar</string>
     <string name="website_settings_clear_all_dialog_message">Excluir todos os dados de sites e permissões de localização?</string>

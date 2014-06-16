@@ -22,7 +22,7 @@
     <string name="access_control_no_back_footer">Pressione [icon] para sair</string>
     <string name="access_control_password_title">Senha</string>
     <string name="access_control_recording_intro_header">Desenhe um padrão para desbloqueio:</string>
-    <string name="access_control_reset_by_account">Faça o login em sua conta Xiaomi para acessar os controles de senha</string>
+    <string name="access_control_reset_by_account">Faça o login em sua Mi Account para acessar os controles de senha</string>
     <string name="accessibility_captioning_title">Legendas</string>
     <string name="accessibility_enable">Acessibilidade</string>
     <string name="accessibility_feature_state_off">Desativado</string>
@@ -173,6 +173,7 @@ Observação: o toque triplo para ampliar funciona em qualquer parte da tela, ex
     <string name="apn_settings">APNs</string>
     <string name="apn_type">Tipo APN</string>
     <string name="apn_user">Nome de usuário</string>
+    <string name="app_backup">Backup</string>
     <string name="app_disable_dlg_text">Se você desativar um aplicativo integrado, outros aplicativos podem apresentar mau funcionamento.</string>
     <string name="app_disable_dlg_title">Desativar aplicativo integrado?</string>
     <string name="app_disable_notifications_dlg_text">Se você desativar as notificações para este aplicativo, poderá perder alertas e atualizações importantes.</string>
@@ -180,6 +181,7 @@ Observação: o toque triplo para ampliar funciona em qualquer parte da tela, ex
     <string name="app_factory_reset">Desinstalar atualizações</string>
     <string name="app_factory_reset_dlg_text">Todas as atualizações deste aplicativo de sistema Android serão desinstaladas.</string>
     <string name="app_factory_reset_dlg_title">Desinstalar atualizações?</string>
+    <string name="app_feedback">Relatar erro</string>
     <string name="app_floating_window_dlg_disable">"Ao desativar as janelas pop-up para %1$s será necessária a reinicialização do aplicativo. Você pode reiniciá-lo manualmente caso queira.
 Deseja desativar o recurso agora?"</string>
     <string name="app_floating_window_dlg_enable">"Ao ativar as janelas pop-up para %1$s será necessária a reinicialização do aplicativo. Você pode reiniciá-lo manualmente caso queira. 
@@ -379,6 +381,7 @@ Deseja ativar o recurso agora?"</string>
     <string name="bluetooth_connection_notif_message">Toque para conectar-se a \"%1$s\".</string>
     <string name="bluetooth_connection_permission_request">Solicitação de conexão Bluetooth</string>
     <string name="bluetooth_device">Dispositivo Bluetooth sem nome</string>
+    <string name="bluetooth_device_address">Endereço:</string>
     <string name="bluetooth_device_advanced_enable_opp_title">Permitir transferência de arquivos</string>
     <string name="bluetooth_device_advanced_online_mode_summary">Conecta ao dispositivo Bluetooth</string>
     <string name="bluetooth_device_advanced_online_mode_title">Conectar</string>
@@ -392,7 +395,7 @@ Deseja ativar o recurso agora?"</string>
     <string name="bluetooth_device_context_pair_connect">Parear e conectar</string>
     <string name="bluetooth_device_context_unpair">Cancelar pareamento</string>
     <string name="bluetooth_device_details">Configurações do dispositivo</string>
-    <string name="bluetooth_device_name">Nome do dispositivo</string>
+    <string name="bluetooth_device_name">Nome do dispositivo:</string>
     <string name="bluetooth_device_searchable">Detectável</string>
     <string name="bluetooth_devices">Dispositivos Bluetooth</string>
     <string name="bluetooth_disable_profile_message">Essa ação desativará o %1$s do %2$s</string>
@@ -533,6 +536,7 @@ Digite o PIN para parear com \"%1$s\". [Alta Segurança ativada: é necessária 
     <string name="bt_trace_log_summary">Ativar registro de traços Bluetooth</string>
     <string name="bugreport_in_power">Relatório de erros</string>
     <string name="bugreport_in_power_summary">Inclui a opção de relatório de erros no menu de desligamento</string>
+    <string name="bugreport_tool_log">Capturar relatório de erros</string>
     <string name="bugreport_tool_log_toast">Registro salvo em %s</string>
     <string name="bugreport_tool_log_toast_generate_bugreport">Gerando relatório de erros (leva cerca de 1 minuto)</string>
     <string name="build_number">Número da versão</string>
@@ -541,8 +545,8 @@ Digite o PIN para parear com \"%1$s\". [Alta Segurança ativada: é necessária 
     <string name="button_disconnect_network">Desconectar-se da rede</string>
     <string name="button_light_timeout">Ajuste da luz dos botões</string>
     <string name="button_start_optimize">Verificar</string>
-    <string name="button_text_a_key_clean_up">Limpar agora</string>
-    <string name="button_text_a_key_optimize">Otimizar agora</string>
+    <string name="button_text_a_key_clean_up">Limpar</string>
+    <string name="button_text_a_key_optimize">Otimizar</string>
     <string name="button_text_a_key_uninstall">Desinstalar</string>
     <string name="button_text_backup_and_cleanup_apps">Efetuar backup</string>
     <string name="button_text_backup_and_uninstall_apps">Backup e desinst.</string>
@@ -553,7 +557,7 @@ Digite o PIN para parear com \"%1$s\". [Alta Segurança ativada: é necessária 
     <string name="button_text_done">Concluído</string>
     <string name="button_text_fix">Corrigir</string>
     <string name="button_text_known">OK</string>
-    <string name="button_text_quick_scan">Verificar agora</string>
+    <string name="button_text_quick_scan">Verificar</string>
     <string name="button_text_security">Segurança</string>
     <string name="button_text_uninstall">Desinstalar</string>
     <string name="button_text_uninstall_apps">Desinstalar</string>
@@ -839,7 +843,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
     <string name="deep_clean_summary_install_apps_virus">Vírus detectado</string>
     <string name="deep_clean_tips_cache_content">Alguns aplicativos utilizam arquivos de cache para fazer o download de recursos adicionais, ex: letras de música, músicas e imagens. Tenha cuidado ao limpar estes arquivos.</string>
     <string name="deep_clean_tips_cache_title">Cache:</string>
-    <string name="deep_clean_tips_large_file_content">\“Arquivos grandes\” são os arquivos maiores do que 10MB armazenados em seu dispositivo. Você é quem decidirá se precisa ou não destes arquivos.</string>
+    <string name="deep_clean_tips_large_file_content">\“Arquivos grandes\” são os arquivos maiores do que 10MB armazenados em seu dispositivo.</string>
     <string name="deep_clean_tips_large_file_title">Arquivos grandes:</string>
     <string name="deep_clean_tips_residual_content">Arquivos ex: vídeos, planos de fundo, músicas, etc. que foram transferidos para seu dispositivo por algum aplicativo que já foi desinstalado. Como alguns destes arquivos ainda podem ter alguma utilidade, é recomendado utilizar a função \"Avançada\" ao limpar resíduos do dispositivo.</string>
     <string name="deep_clean_tips_residual_title">Resíduos:</string>
@@ -891,10 +895,10 @@ Esta configuração afeta todos os usuários do telefone."</string>
     <string name="dialog_message_auto_start_tips">Alguns aplicativos podem indicar incorretamente que a MIUI os impediu de serem iniciados. Para verificar as permissões que foram concedidas para aplicativos individuais, vá até as Configurações > Aplicativos.</string>
     <string name="dialog_msg_backup_and_cleanup_apps">Após a conclusão do backup, todos os dados deste aplicativo serão excluídos, incluindo seus arquivos, configurações, contas, bancos de dados, etc.</string>
     <string name="dialog_msg_backup_and_uninstall_apps">Fazer backup e desinstalar aplicativos</string>
-    <string name="dialog_msg_check_all">Foram selecionados %1$s arquivos contendo %2$d itens</string>
+    <string name="dialog_msg_check_all">%1$s arquivos contendo %2$d itens.</string>
     <string name="dialog_msg_cleanup_apps">Todos os dados deste aplicativo serão excluídos permanentemente, incluindo seus arquivos, configurações, contas, bancos de dados, etc.</string>
     <string name="dialog_msg_cleanup_system_cache">Isto limpara os dados em cache de todos os aplicativos.</string>
-    <string name="dialog_msg_load_cleanup_engine_error">O mecanismo de limpeza foi corrompido. É necessário efetuar a reinstalação de um pacote completo da ROM!</string>
+    <string name="dialog_msg_load_cleanup_engine_error">Nossa! O aplicativo foi corrompido. Tente reinstalá-lo!</string>
     <string name="dialog_msg_uninstall_apps">Desinstalar estes aplicativos?</string>
     <string name="dialog_title_auto_start_tips">Sobre o início automático</string>
     <string name="dialog_title_backup_and_cleanup_apps">Fazer backup e excluir dados?</string>
@@ -1081,9 +1085,6 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="external_data_size_label">Dados de armazenamento USB</string>
     <string name="factory_reset_summary">Excluir todos os dados do armazenamento interno de seu telefone</string>
     <string name="failed_to_open_app_settings_toast">Falha ao abrir as configurações de %1$s</string>
-    <string name="fancy_icon_antispam">com.miui.antispam.AntiSpam</string>
-    <string name="fancy_icon_network_assistant">com.wali.miui.networkassistant</string>
-    <string name="fancy_icon_power_center">com.miui.powercenter</string>
     <string name="fcc_equipment_id">ID do equipamento</string>
     <string name="filter">Filtro</string>
     <string name="filter_apps_all">Todos</string>
@@ -1220,10 +1221,11 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="gadget_toggle_wifi">Atualizando configuração de Wi-Fi</string>
     <string name="gadget_wifi">Wi-Fi</string>
     <string name="game_controller_settings_category">Controlador de jogos</string>
-    <string name="garbage_white_list_empty_content">Lista de exceções vazia</string>
+    <string name="garbage_white_list_empty_content">Vazio</string>
     <string name="global_change_warning">Esta configuração afeta todos os usuários do telefone.</string>
     <string name="global_font_change_title">Alterar tamanho da fonte</string>
     <string name="global_locale_change_title">Alterar idioma</string>
+    <string name="google_backup_section_title">Backup &amp; restauração do Google</string>
     <string name="gsm_to_wifi_connect_type_title">Celular para Wi-Fi</string>
     <string name="haptic_feedback_enable_title">Resposta tátil</string>
     <string name="haptic_feedback_level">Nível de vibração</string>
@@ -1405,6 +1407,8 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="local_backup_password_toast_confirmation_mismatch">A nova senha e a confirmação não coincidem.</string>
     <string name="local_backup_password_toast_success">Nova senha de backup definida</string>
     <string name="local_backup_password_toast_validation_failure">Falha ao definir a senha de backup</string>
+    <string name="local_backup_section_summary">Faça backup de configurações, contas e aplicativos</string>
+    <string name="local_backup_section_title">Backups locais</string>
     <string name="locale_default">Padrão</string>
     <string name="location_access_summary">Permitir a aplicativos que solicitaram permissão usem seus dados de local</string>
     <string name="location_access_title">Acesso à localização</string>
@@ -1665,6 +1669,11 @@ Para limpar músicas, fotos e outros dados de usuário, o "<b>armazenamento USB<
     <string name="mobile_no_provisioning_url">%1$s sem website de aprovisionamento conhecido</string>
     <string name="mobile_unknown_sim_operator">Operadora do SIM desconhecida</string>
     <string name="model_number">Modelo do telefone</string>
+    <string name="modem_tool_log">Capturar registros do Modem</string>
+    <string name="modem_tool_log_start">Iniciar captura</string>
+    <string name="modem_tool_log_start_toast">"Iniciando captura do registro em %s"</string>
+    <string name="modem_tool_log_stop">Parar captura</string>
+    <string name="modem_tool_log_stop_toast">"Parando captura do registro em %s"</string>
     <string name="move_app">Mover</string>
     <string name="move_app_failed_dlg_text">Não foi possível mover o aplicativo. %1$s</string>
     <string name="move_app_failed_dlg_title"/>
@@ -1777,10 +1786,10 @@ O menu não pode ser acessado"</string>
     <string name="notification_sound_dialog_title">Toque de notificações</string>
     <string name="notification_sound_title">Toque de notificações</string>
     <string name="notification_summary_of_garbage_cleanup">O lixo em seu telefone ultrapassou %s.</string>
-    <string name="notification_summary_of_low_memory">Quando o armazenamento estiver baixo, novos aplicativos não poderão ser instalados</string>
+    <string name="notification_summary_of_low_memory">A memória do sistema está baixa.</string>
     <string name="notification_title_firewall_blocked">Bloqueado</string>
     <string name="notification_title_of_garbage_cleanup">Considere efetuar a limpeza de arquivos</string>
-    <string name="notification_title_of_low_memory">O armazenamento do sistema utilizou %s</string>
+    <string name="notification_title_of_low_memory">%s em uso</string>
     <string name="notification_volume_title">Notificação</string>
     <string name="nsd_quick_toggle_summary">Permitir que aplicativos em outros dispositivos descubram aplicativos neste dispositivo</string>
     <string name="nsd_quick_toggle_title">Detecção de serviço de rede</string>
@@ -1837,7 +1846,7 @@ O menu não pode ser acessado"</string>
     <string name="optimize_cache_header_left">Arquivos de cache: %d</string>
     <string name="optimize_cache_list_empty_content">Nenhum arquivo de cache encontrado</string>
     <string name="optimize_done">Otimização concluída!</string>
-    <string name="optimize_installed_apps_header_left">Aplicativos transferidos: %d</string>
+    <string name="optimize_installed_apps_header_left">Apps transferidos: %d</string>
     <string name="optimize_installed_apps_list_empty_content">Nenhum aplicativo encontrado</string>
     <string name="optimize_large_file_header_left">Arquivos grandes: %d</string>
     <string name="optimize_large_file_list_empty_content">Nenhum arquivo grande encontrado</string>
@@ -2244,18 +2253,18 @@ Você precisa alterar sua configuração de energia antes de excluir esta config
     <string name="power_wifi">Wi-Fi</string>
     <string name="pref_button_light">Luzes dos botões</string>
     <string name="pref_button_light_summary">Indicador das teclas de Menu, Início e Voltar</string>
-    <string name="pref_category_title_auto_update_cleanup_db">Configurações de atualização do banco de dados</string>
-    <string name="pref_category_title_cleanup_white_list">Lista de exceções de limpeza</string>
+    <string name="pref_category_title_auto_update_cleanup_db">Configurações de atualização</string>
+    <string name="pref_category_title_cleanup_white_list">Exceções de limpeza</string>
     <string name="pref_category_title_garbage_cleanup_check">Configurações de limpeza</string>
     <string name="pref_category_title_module_settings">Módulos do centro de segurança</string>
     <string name="pref_category_title_securitycenter_settings">Configurações do Centro de Segurança</string>
     <string name="pref_operational_key">Botões de navegação</string>
     <string name="pref_summary_auto_update_cleanup_db">Atualização: %s</string>
-    <string name="pref_summary_cleanup_white_list">Arquivos na lista de exceções serão ignorados</string>
+    <string name="pref_summary_cleanup_white_list">Arquivos associados aos listados na lista de exceções serão ignorados durante a limpeza.</string>
     <string name="pref_summary_expand_cache_group">Os grupos na lista de cache serão expandidos automaticamente</string>
     <string name="pref_summary_garbage_cleanup_check_size">Notificar-me quando o lixo no telefone atingir limite</string>
     <string name="pref_title_auto_update_cleanup_db">Atualização automática</string>
-    <string name="pref_title_cleanup_white_list">Lista de exceções de limpeza</string>
+    <string name="pref_title_cleanup_white_list">Exceções de limpeza</string>
     <string name="pref_title_expand_cache_group">Expandir grupos de cache</string>
     <string name="pref_title_garbage_cleanup_check_size">Tamanho para alerta</string>
     <string name="pref_title_garbage_cleanup_check_time">Alerta de lixo</string>
@@ -2337,7 +2346,7 @@ Você precisa alterar sua configuração de energia antes de excluir esta config
     <string name="privacy_settings_title">Fazer backup e redefinir</string>
     <string name="private_sms_need_to_unlock">Insira sua senha:</string>
     <string name="private_sms_recording_intro_header">Desenhe um padrão de desbloqueio:</string>
-    <string name="private_sms_reset_by_account">Faça o login em sua conta Xiaomi para redefinir sua senha de SMS privada</string>
+    <string name="private_sms_reset_by_account">Faça o login em sua Mi Account para redefinir sua senha de SMS privada</string>
     <string name="process_kernel_label">Sistema operacional do Android</string>
     <string name="process_list_empty_hints">Nenhum processo em cache</string>
     <string name="process_manage_title">%1$d processos ocupando %2$s de memória</string>
@@ -2403,7 +2412,7 @@ Você precisa alterar sua configuração de energia antes de excluir esta config
     <string name="quick_scan_apk_list_item_version_hit">Versão: %s</string>
     <string name="quick_scan_cleaning_title">Limpando…</string>
     <string name="quick_scan_doing_title">"Verificando… "</string>
-    <string name="quick_scan_done_title">Verificação concluída</string>
+    <string name="quick_scan_done_title">Concluído</string>
     <string name="quick_scan_list_loading_hits">"Verificando… "</string>
     <string name="quick_scan_result_summary">Iniciando em %d seg.</string>
     <string name="quick_scan_result_title">%s itens encontrados</string>
@@ -2547,7 +2556,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
     <string name="runningservices_settings_title">Serviços em execução</string>
     <string name="save_button">Salvar</string>
     <string name="scan_done">Verificação concluída</string>
-    <string name="scan_list_label">Resultados:</string>
+    <string name="scan_list_label">Resultado da verificação:</string>
     <string name="scanning_prefix">Verificando: %s</string>
     <string name="scanning_start_hints">Preparando…</string>
     <string name="scanning_virus">"Verificando… "</string>
@@ -2883,6 +2892,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="sync_wifi_label">Wi-Fi</string>
     <string name="sync_wifi_only">Somente por Wi-Fi</string>
     <string name="system">Sistema</string>
+    <string name="system_backup_section_title">Backup</string>
     <string name="system_cache_title">Cache do sistema</string>
     <string name="system_package">As atualizações do sistema não podem ser instaladas em mídia externa.</string>
     <string name="system_storage">Armazenamento interno</string>
@@ -2930,16 +2940,16 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="title_virus_update_no">Atualização automática do antivírus desativada</string>
     <string name="title_virus_update_yes">Atualização automática do antivírus ativada</string>
     <string name="title_virus_yes">Nenhum vírus detectado</string>
-    <string name="toast_add_white_list_success">Item adicionado à lista de exceções, verifique a lista nas configurações do aplicativo</string>
+    <string name="toast_add_white_list_success">" adicionado às exceções"</string>
     <string name="toast_application_no_residual_on_sdcard">Este aplicativo não possui nenhum arquivo armazenado em seu cartão SD</string>
     <string name="toast_backup_cleanup_success">Backup efetuado e dados excluídos</string>
     <string name="toast_backup_is_running">O backup já está em execução. Aguarde alguns minutos e tente novamente.</string>
     <string name="toast_backup_uninstall_failed">Falha no backup de %d aplicativos. Aguarde alguns minutos e tente novamente.</string>
     <string name="toast_backup_uninstall_success">Backup e desinstalação concluídos</string>
     <string name="toast_cleanup_success">Dados excluídos</string>
-    <string name="toast_garbage_cleanup_success">Limpeza concluída com sucesso</string>
+    <string name="toast_garbage_cleanup_success">Concluído</string>
     <string name="toast_qucik_scan_list_empty">Tudo ok, a limpeza não é necessária!</string>
-    <string name="toast_removed_from_white_list">Item removido da lista de exceções</string>
+    <string name="toast_removed_from_white_list">" removido das exceções"</string>
     <string name="toast_shortcut_install">Atalho adicionado na tela inicial</string>
     <string name="toast_shortcut_uninstall">Atalho removido da tela inicial</string>
     <string name="total_size">%s (total)</string>
@@ -3374,7 +3384,7 @@ Adicione uma palavra tocando no botão \'Adicionar\' ou no símbolo (+)."</strin
     <string name="white_list_cache_header">Arquivos em cache: %d</string>
     <string name="white_list_large_file_header">Arquivos grandes: %d</string>
     <string name="white_list_residual_header">Resíduos: %d</string>
-    <string name="white_list_title">Lista de exceções</string>
+    <string name="white_list_title">Exceções</string>
     <string name="whitelist_tab_title">Lista de exceções</string>
     <string name="widget_picker_title">Escolher widget</string>
     <string name="wifi_access_points">Redes Wi-Fi</string>
@@ -3566,7 +3576,7 @@ Toque em "<b>Voltar</b> para conectar-se a outra rede Wi-Fi.</string>
     <string name="wifi_share">Compartilhar Wi-Fi público</string>
     <string name="wifi_share_action_turn_off">Parar de compartilhar</string>
     <string name="wifi_share_action_turn_on">Compartilhar Wi-Fi</string>
-    <string name="wifi_share_action_turn_on_summary">Por favor conecte-se à sua conta Xiaomi</string>
+    <string name="wifi_share_action_turn_on_summary">Por favor conecte-se à sua Mi Account</string>
     <string name="wifi_share_add">Compartilhar redes Wi-Fi</string>
     <string name="wifi_share_add_summary">"Quando você compartilha suas próprias redes, 
 você pode utilizar a rede de outros usuários"</string>
@@ -3676,7 +3686,7 @@ A configuração do telefone pode exigir atividade de rede significativa."</stri
     <string name="wps_connect_summary">Configura uma conexão a roteadores com suporte a WPS</string>
     <string name="wps_connect_title">Conexão WPS</string>
     <string name="wrong_pin_code_pukked">Código PIN Incorreto. Entre em contato com sua operadora para desbloquear seu dispositivo.</string>
-    <string name="xiaomi_account">"Conta Xiaomi"</string>
+    <string name="xiaomi_account">"Mi Account"</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xiaomi_money_service">Mi Credits</string>
     <string name="xiaomi_router_available_notif_summary">Toque para visualizar</string>

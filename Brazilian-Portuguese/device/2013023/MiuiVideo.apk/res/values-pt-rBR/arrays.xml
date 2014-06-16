@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_tabs">
+        <item>Popular</item>
+        <item>Ranking</item>
+        <item>Recentes</item>
+    </string-array>
+    <string-array name="channel_featured_tabs">
+        <item>Popular</item>
+        <item>Ranking</item>
+        <item>Recentes</item>
+    </string-array>
+    <string-array name="home_tabs">
+        <item>Online</item>
+        <item>Local</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Episódio</item>
+        <item>Sumário</item>
+    </string-array>
+</resources>

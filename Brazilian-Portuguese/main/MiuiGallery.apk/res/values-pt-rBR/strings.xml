@@ -38,6 +38,8 @@
     <string name="albums">Álbuns</string>
     <string name="albumset_page_title_separator">" | "</string>
     <string name="alert">Alerta</string>
+    <string name="alert_init_merged_message">Agora, fotos em seu dispositivo e fotos armazenadas na Mi Cloud serão exibidas juntas.</string>
+    <string name="alert_init_merged_title">Todas as suas fotos juntas em um só lugar.</string>
     <string name="alert_message_open_sync">Você precisa ativar a sincronização primeiro.</string>
     <string name="already_apply_album">Abrir %1$s?</string>
     <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
@@ -455,6 +457,7 @@
     <string name="clear_thumbnail_cache">Excluir cache de miniaturas</string>
     <string name="clear_thumbnail_cache_confirm">Todas as miniaturas em cache na galeria serão excluídas.</string>
     <string name="clear_thumbnail_cache_summary">Excluir o cache de miniaturas da galeria</string>
+    <string name="click_to_add_picture">Toque para adicionar imagens</string>
     <string name="click_top_right">Toque no ícone do canto superior direito</string>
     <string name="close">Fechar</string>
     <string name="cloud_album_more_settings">Sincronizar com o Mi Cloud</string>
@@ -542,8 +545,6 @@ amigos. Veja e atualize seus
     <string name="download">Download</string>
     <string name="download_fail">Falha no download</string>
     <string name="download_fail_confirm_continue">O download de %s falhou. Continuar?</string>
-    <string name="dummy_fs">precision mediump float; uniform mat4 mg_TextureMatrix; uniform sampler2D mg_Texture0, mg_Texture1; uniform vec4 mg_Color; uniform float mg_Texture0_Weight, mg_Texture1_Weight, mg_Color_Weight; uniform vec4 mg_Texture0_Modulate, mg_Texture1_Modulate; varying vec2 mg_UV0, mg_UV1; vec2 transform_uv(vec2 uv) { vec4 v = vec4(uv, 0, 1); v = mg_TextureMatrix * v; return v.xy; } void main() { vec4 col = vec4(0, 0, 0, 0); if(mg_Texture0_Weight > 0.05) { col += mg_Texture0_Modulate * texture2D(mg_Texture0, transform_uv(mg_UV0)) * mg_Texture0_Weight; } if(mg_Texture1_Weight > 0.05) { col += mg_Texture1_Modulate * texture2D(mg_Texture1, transform_uv(mg_UV1)) * mg_Texture1_Weight; } if(mg_Color_Weight > 0.05) { col += mg_Color * mg_Color_Weight; } if(col.a &lt; 0.01) { discard; } gl_FragColor = col; }</string>
-    <string name="dummy_vs">uniform mat4 mg_ModelView, mg_Projection; attribute vec2 mg_TexCoord0, mg_TexCoord1; attribute vec3 mg_Vertex; varying vec2 mg_UV0, mg_UV1; void main() { gl_Position = mg_Projection * mg_ModelView * vec4(mg_Vertex, 1); mg_UV0 = mg_TexCoord0; mg_UV1 = mg_TexCoord1; }</string>
     <string name="duotone">Duotone</string>
     <string name="duration">Duração</string>
     <string name="edit">Editar</string>
@@ -658,9 +659,11 @@ amigos. Veja e atualize seus
     <string name="loading_thumbnail">Carregando miniatura…</string>
     <string name="loading_video">Efetuando download do vídeo…</string>
     <string name="local_albums">Álbuns locais</string>
+    <string name="local_time">(Local)</string>
     <string name="location">Local</string>
     <string name="locations">Locais</string>
     <string name="lomoish">Lomo</string>
+    <string name="long_press_to_refocus">Continue segurando para alterar o foco</string>
     <string name="make_download_dir_fail">Falha ao criar pasta para armazenar os arquivos</string>
     <string name="maker">Fabricante</string>
     <string name="manual">Manual</string>
@@ -730,6 +733,7 @@ amigos. Veja e atualize seus
     <string name="path">Caminho</string>
     <string name="people">Pessoas</string>
     <string name="photo_page_always_rotate">Rotacionar imagens</string>
+    <string name="photo_page_detail_show_in_the_map">Mostar local no mapa</string>
     <string name="photo_page_save_image">Salvar</string>
     <string name="photo_page_save_uri_image_fail">Falha ao salvar foto.</string>
     <string name="photo_page_save_uri_image_ok">Foto salva no álbum da câmera.</string>
@@ -742,7 +746,7 @@ amigos. Veja e atualize seus
     <string name="picker_no_album_selected">Nenhum álbum selecionado</string>
     <string name="picker_no_items_selected">Nenhum item selecionado</string>
     <string name="picker_select_album_title_empty">Selecionar um álbum</string>
-    <string name="picker_tab_camera">Câmera</string>
+    <string name="picker_tab_photo">Fotos</string>
     <string name="posterize">Posterizar</string>
     <string name="ppmm_gallery">PPMM</string>
     <string name="preparing_data_to_delete">Preparando para excluir imagens…</string>
@@ -846,6 +850,7 @@ amigos. Veja e atualize seus
     <string name="slideshow_repeat_mode">Repetir</string>
     <string name="slideshow_time_select_title">Duração de slides</string>
     <string name="slideshow_time_title">Duração</string>
+    <string name="start_slide_show">Iniciar apres. de slides</string>
     <string name="storage_all_volumes">Todos os armazenamentos</string>
     <string name="storage_no_space">Espaço insuficiente</string>
     <string name="straighten">Endireitar</string>
@@ -857,6 +862,7 @@ amigos. Veja e atualize seus
     <string name="sync_album_set_error">Falha ao efetuar o download da lista de álbuns. Tente novamente mais tarde.</string>
     <string name="sync_album_summary">Upload de fotos para a nuvem</string>
     <string name="sync_history_power_on">Sincronizar ao carregar dispositivo</string>
+    <string name="sync_in_progress_message">Sincronização em progresso\u2026</string>
     <string name="sync_only_in_wifi">Upload somente por Wi-Fi</string>
     <string name="sync_only_in_wifi_alert">Ao desativar esta opção o consumo da rede de dados será maior.</string>
     <string name="sync_only_in_wifi_summary">A galeria irá utilizar sua rede de dados para efetuar upload de imagens quando esta opção estiver desativada</string>
@@ -880,6 +886,9 @@ amigos. Veja e atualize seus
     <string name="to_count">%d no total</string>
     <string name="too_many_recipients">Muitos destinatários (%1$s). Limite máximo de %2$s  destinatários.</string>
     <string name="try_to_send">Enviar</string>
+    <string name="ubifocus_data_missing">Alguns dados foram perdidos</string>
+    <string name="ubifocus_map_error">Alguns dados estão incorretos</string>
+    <string name="ubifocus_refocus_fail_tip">Impossível ajustar foco, dados necessários estão faltando ou incorretos.</string>
     <string name="ucdownloads_screenshot">UC Browser</string>
     <string name="unit_mm">mm</string>
     <string name="unpublish_failed">Falha ao remover</string>

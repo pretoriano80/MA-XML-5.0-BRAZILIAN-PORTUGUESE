@@ -204,6 +204,8 @@
     <string name="application_mime_type">application/email-ls</string>
     <string name="archive">Arquivar</string>
     <string name="archived">Arquivada</string>
+    <string name="att_download_failed_content">Falha no download</string>
+    <string name="att_download_failed_title">Falha no download do anexo</string>
     <string name="att_mgr_no_attachment">Sem anexos!</string>
     <string name="att_mgr_title_order_mime">Formato</string>
     <string name="att_mgr_title_order_name">Nome</string>
@@ -327,6 +329,10 @@
     <string name="device_admin_label">E-mail</string>
     <string name="device_not_activiey_lint1">O Administrador do Dispositivo não está ativado</string>
     <string name="device_not_activiey_lint2">O serviço de e-mail não funciona corretamente com o exchange</string>
+    <string name="dialog_auto_download_failed">Impossível finalizar download automático. Tente fazer o download manualmente.</string>
+    <string name="dialog_insufficient_space_for_single_account_on_internal">Espaço insuficiente para %s.</string>
+    <string name="dialog_insufficient_space_on_external">Impossível finalizar download. Não há espaço suficiente no armazenamento externo.</string>
+    <string name="dialog_insufficient_space_on_internal">Não há espaço suficiente no armazenamento interno.</string>
     <string name="disable_admin_warning">AVISO: ao desativar a autoridade do aplicativo de e-mail para administrar seu dispositivo, todas as contas de e-mail vinculadas serão excluídas, assim como e-mails, contatos, eventos da agenda e outros dados.</string>
     <string name="discard">Descartar</string>
     <string name="discard_drafts">Descartar rascunhos</string>
@@ -428,6 +434,7 @@
     <string name="login_failed_title">Não foi possível fazer login</string>
     <string name="long_press_to_select_tip">Toque e mantenha pressionado para selecionar uma conversa e então toque para selecionar mais conversas.</string>
     <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
+    <string name="mail">E-mail</string>
     <string name="mailbox_list_account_selector_combined_view">Visualização combinada</string>
     <string name="mailbox_name_display_drafts">Rascunhos</string>
     <string name="mailbox_name_display_inbox">Caixa de entrada</string>
@@ -463,7 +470,7 @@
     <string name="meeting_where">Onde: %s</string>
     <string name="megabytes">%s MB</string>
     <string name="menu_att_mgr">Anexos</string>
-    <string name="menu_att_mgr_order_default">Padrão</string>
+    <string name="menu_att_mgr_order_default">Organizar por recentes</string>
     <string name="menu_att_mgr_order_mime">Ordenar por formato</string>
     <string name="menu_att_mgr_order_name">Ordenar por nome</string>
     <string name="menu_att_mgr_order_rev_date">Ordenar por data</string>
@@ -540,8 +547,11 @@ Cc: %4$s
     <string name="okay_action">OK</string>
     <string name="other_mail">Outro e-mail</string>
     <string name="outbox_alert_button_confirm">Editar</string>
+    <string name="outbox_alert_button_no_resend">Não enviar</string>
+    <string name="outbox_alert_button_resend">Reenviar</string>
     <string name="outbox_alert_description_sent_failed">"Motivo: O arquivo anexado
 excede o limite de tamanho"</string>
+    <string name="outbox_alert_mailbox_not_found">Endereço de e-mail não encontrado</string>
     <string name="outbox_alert_title_sent_failed">Falha ao enviar e-mail</string>
     <string name="outbox_no_mails">Nenhum e-mail na Caixa de saída</string>
     <string name="parase_setup_data">Obtendo dados de configuração...</string>

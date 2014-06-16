@@ -7,7 +7,11 @@
     <string name="about_version">1.0.1</string>
     <string name="about_version_label">Versão</string>
     <string name="actors_colon">"Elenco: "</string>
+    <string name="add_more_addons">Adicionar mais especiais</string>
     <string name="add_review">Adic. comentário</string>
+    <string name="addon_category">Novos Especiais</string>
+    <string name="addon_install_complete_disc">Você terminou de instalar o widget %s, que você pode acessar diretamente na Tela inicial, ou a partir da aba \"Meus Vídeos\"</string>
+    <string name="addon_update_desc">Nova versão encontrada, atualizar agora?</string>
     <string name="adjust_position_next_media_notice">Avançar</string>
     <string name="adjust_position_prev_media_notice">Voltar</string>
     <string name="airkan_control_device_des">Para controlar a reprodução, toque na barra inferior</string>
@@ -88,6 +92,8 @@ para a MiBox ou TV"</string>
     <string name="declaration">Termos de uso</string>
     <string name="declaration_content">Você aceita os Termos de Uso estipulados por Sohu Video, iQiyi e outros provedores de conteúdo?</string>
     <string name="delete">Excluir</string>
+    <string name="delete_addon">Excluir</string>
+    <string name="delete_addon_content">Excluir este item?</string>
     <string name="delete_media">Excluir</string>
     <string name="delete_media_content">Excluir este item?</string>
     <string name="di_count_ji">Ep. %d</string>
@@ -140,6 +146,7 @@ para a MiBox ou TV"</string>
     <string name="in_download_notification">%d vídeos sendo armazenados</string>
     <string name="in_pause">Pausado</string>
     <string name="in_waiting">Aguardando</string>
+    <string name="install_comfirm">Toque para instalar</string>
     <string name="jni_invalid_param">Parâmetros inválidos</string>
     <string name="jni_no_media_source">Nenhuma fonte de mídia</string>
     <string name="jni_res_connect_error">Impossível conectar-se à rede</string>
@@ -171,7 +178,7 @@ para a MiBox ou TV"</string>
     <string name="loading_video_netplay_label">Carregando…</string>
     <string name="loading_video_netplay_label_v5">Carregando…</string>
     <string name="local_count_ji">PRC %d Ep.</string>
-    <string name="login_tip_content">Conecte-se com sua conta Xiaomi para sincronizar e atualizar programas que você esteja assistindo.</string>
+    <string name="login_tip_content">Conecte-se com sua Mi Account para sincronizar e atualizar programas que você esteja assistindo.</string>
     <string name="login_tip_title">Login</string>
     <string name="makeappointment">Marcar para assistir</string>
     <string name="manage">Gerenciar</string>
@@ -210,7 +217,8 @@ para a MiBox ou TV"</string>
     <string name="no_favorite">Nenhum favorito</string>
     <string name="no_favoritehistory">Nenhum canal favorito</string>
     <string name="no_filter_media">Nada encontrado. Tente alterar os termos pesquisados.</string>
-    <string name="no_login_xiaomi_account">Conecte-se com sua conta Xiaomi para enviar comentários.</string>
+    <string name="no_hot_special">Nenhum especial encontrado</string>
+    <string name="no_login_xiaomi_account">Conecte-se com sua Mi Account para enviar comentários.</string>
     <string name="no_media">Vazio</string>
     <string name="no_myfavorite">Normal</string>
     <string name="no_myfavorite_advice">Recomendado</string>
@@ -247,6 +255,7 @@ para a MiBox ou TV"</string>
     <string name="others">Outros</string>
     <string name="pause_download">Armazenamento pausado</string>
     <string name="paused">Pausado</string>
+    <string name="pick_addon_to_delete">Escolher itens</string>
     <string name="pick_hide_to_show">Escolher itens</string>
     <string name="pick_myfavorite_to_cancel">Selecionar itens</string>
     <string name="pick_video_to_delete">Selecionar itens</string>
@@ -289,7 +298,8 @@ para a MiBox ou TV"</string>
     <string name="sina">Sina</string>
     <string name="souhu">Souhu</string>
     <string name="special_subject">Especiais</string>
-    <string name="start_download">Iniciar armazenamento</string>
+    <string name="start_addon">Iniciar addon</string>
+    <string name="start_download">Iniciar download</string>
     <string name="start_time">início</string>
     <string name="subchannel_all">Todos</string>
     <string name="success_add_myfavorite">Favorito</string>
@@ -301,7 +311,7 @@ para a MiBox ou TV"</string>
     <string name="temp_play_history_button_label">Histórico de reprodução</string>
     <string name="tencent">Tencent</string>
     <string name="time_colon">"Data: "</string>
-    <string name="to_be_play_label_v5">"Avançar: "</string>
+    <string name="to_be_play_label_v5">"Próximo: "</string>
     <string name="to_live_status">Aguardando transmissão iniciar</string>
     <string name="to_play_airekan">Elenco</string>
     <string name="toast_back_key_pressed_notice">Pressione voltar novamente para sair</string>
@@ -320,6 +330,7 @@ para a MiBox ou TV"</string>
     <string name="update_to_count_ji">Atualizado para Ep. %d</string>
     <string name="update_to_count_qi">Atualizado para S. %s</string>
     <string name="updatedalready">Atualizado</string>
+    <string name="upgrade">Atualizando</string>
     <string name="use_cellular_network">Utilizar rede de dados móveis</string>
     <string name="use_cellular_network_summary">Utilizar a rede de dados móveis para assistir aos vídeos poderá aumentar seus custos de dados móveis com a operadora.</string>
     <string name="variety">Variedades</string>
