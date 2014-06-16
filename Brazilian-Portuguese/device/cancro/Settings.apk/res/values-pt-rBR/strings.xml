@@ -2556,7 +2556,6 @@ Esta configuração afeta todos os usuários do telefone."</string>
     <string name="runningservices_settings_title">Serviços em execução</string>
     <string name="save_button">Salvar</string>
     <string name="scan_done">Verificação concluída</string>
-    <string name="scan_list_label">Resultado da verificação:</string>
     <string name="scanning_prefix">Verificando: %s</string>
     <string name="scanning_start_hints">Preparando…</string>
     <string name="scanning_virus">"Verificando… "</string>

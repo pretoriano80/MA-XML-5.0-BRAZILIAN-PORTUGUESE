@@ -2241,7 +2241,6 @@ Você precisa alterar sua configuração de energia antes de excluir esta config
     <string name="runningservices_settings_title">Serviços em execução</string>
     <string name="save_button">Salvar</string>
     <string name="scan_done">Verificação concluída</string>
-    <string name="scan_list_label">Resultado da verificação:</string>
     <string name="scanning_prefix">Verificando: %s</string>
     <string name="scanning_start_hints">Preparando…</string>
     <string name="scanning_virus">"Verificando… "</string>
@@ -2556,7 +2555,6 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tether_settings_title_wifi">Ponto de acesso portátil</string>
     <string name="tethering_help_button_text">Ajuda</string>
     <string name="time_picker_title">Hora</string>
-    <string name="time_zone_auto_stub">Selecionar Fuso Horário</string>
     <string name="timezone_settings">Fuso horário</string>
     <string name="title_app_update_no">%d aplicativos possuem atualizações</string>
     <string name="title_app_update_yes">Todos os aplicativos atualizados</string>
