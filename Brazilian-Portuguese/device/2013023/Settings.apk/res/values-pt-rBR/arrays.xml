@@ -136,19 +136,6 @@
         <item>Bloqueado</item>
         <item>Temporariamente evitando uma conexão ruim</item>
     </string-array>
-    <string-array name="wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
-    </string-array>
-    <string-array name="wifi_security_no_eap">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>WAPI PSK</item>
-        <item>WAPI CERT</item>
-    </string-array>
     <string-array name="wifi_ap_security">
         <item>Open</item>
         <item>WPA PSK</item>
@@ -472,10 +459,6 @@ o telefone será exibido automaticamente quando conectado a um computador."</ite
     <string-array name="startup_hips_action">
         <item>Permitir</item>
         <item>Negar</item>
-    </string-array>
-    <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Nativo</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Supressão de ruído com um microfone</item>

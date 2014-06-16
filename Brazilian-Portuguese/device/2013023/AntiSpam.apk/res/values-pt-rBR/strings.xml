@@ -67,6 +67,7 @@
     <string name="st_common_setting_group">Configurações de filtro</string>
     <string name="st_filter_keywords_setting_summary1">Mensagens enviadas de números desconhecidos que contenham as seguintes palavras-chave serão bloqueados.</string>
     <string name="st_filter_keywords_setting_summary2">"
+Você pode separar palavras-chave utilizando uma vírgula"</string>
     <string name="st_filter_keywords_setting_title">Definir filtro de palavras-chave</string>
     <string name="st_filter_keywords_title">Filtro de palavras-chave</string>
     <string name="st_filter_sms_button">Filtrar mensagens</string>
