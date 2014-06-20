@@ -88,7 +88,8 @@
     <string name="file_info_modified">Hora:</string>
     <string name="file_info_size">Tamanho:</string>
     <string name="file_loading">Carregando…</string>
-    <string name="file_too_large">Não foi possível efetuar upload: o arquivo é muito grande.</string>
+	<string name="file_not_exist">Arquivo não encontrado</string>
+    <string name="file_too_large">O arquivo é muito grande.</string>
     <string name="finished">Concluído</string>
     <string name="folder_exist">A pasta informada já existe</string>
     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Toque aqui&lt;/a> para ir para a Lixeira</string>
@@ -161,6 +162,7 @@ No momento nosso servidor está em manutenção. Por favor tente novamente mais 
 1. Faça o download do arquivo novamente para garantir que você possua a versão mais recente.
 2. Efetue o upload do arquivo em sua conta KuaiPan."</string>
     <string name="open_changed_file_title">Alterações aplicadas</string>
+	<string name="open_file_failed">Falha ao abrir arquivo</string>
     <string name="operating">Processando…</string>
     <string name="operation_cancel">Cancelar</string>
     <string name="operation_compress">Comprimir</string>

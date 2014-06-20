@@ -545,6 +545,7 @@ amigos. Veja e atualize seus
     <string name="download">Download</string>
     <string name="download_fail">Falha no download</string>
     <string name="download_fail_confirm_continue">O download de %s falhou. Continuar?</string>
+	<string name="download_refocus_data">Transferir dados de re-focalização</string>
     <string name="duotone">Duotone</string>
     <string name="duration">Duração</string>
     <string name="edit">Editar</string>
@@ -645,7 +646,9 @@ amigos. Veja e atualize seus
     <string name="invalid_invition_url">URL de convite inválida</string>
     <string name="invalid_recipient_message">Os nomes de destinatário inseridos são inválidos</string>
     <string name="iso">ISO</string>
-    <string name="item_not_sync">Impossível efetuar o download do item pois ele não foi sincronizado com a nuvem</string>
+    <string name="item_not_sync_for_origin_image">Esta imagem não foi sincronizada na nuvem e não pode ser transferida</string>
+    <string name="item_not_sync_for_origin_video">Este vídeo não foi sincronizado com a nuvem e não pode ser transferido</string>
+    <string name="item_not_sync_for_refocus_data">Esta imagem não foi sincronizada na nuvem e seus dados de re-focalização não podem ser transferidos</string>
     <string name="kick_owner_user_positive_button_text">Excluir</string>
     <string name="kick_owner_user_title">Excluir este membro?</string>
     <string name="kick_sharer">Remover usuário</string>
@@ -762,6 +765,7 @@ amigos. Veja e atualize seus
     <string name="redeye">Olhos vermelhos</string>
     <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
     <string name="redeye_tooltip">Toque para excluir olhos vermelhos</string>
+    <string name="refocus_data_downloading">Transferindo dados de re-focalização\u2026</string>
     <string name="remove_hidden_album">Exibir álbum</string>
     <string name="remove_recent_album">Excluir dos favoritos</string>
     <string name="rename_failed">Falha ao renomear</string>
@@ -887,6 +891,7 @@ amigos. Veja e atualize seus
     <string name="too_many_recipients">Muitos destinatários (%1$s). Limite máximo de %2$s  destinatários.</string>
     <string name="try_to_send">Enviar</string>
     <string name="ubifocus_data_missing">Alguns dados foram perdidos</string>
+	<string name="ubifocus_guide_text">Segure por 0.5s para re-focalizar</string>
     <string name="ubifocus_map_error">Alguns dados estão incorretos</string>
     <string name="ubifocus_refocus_fail_tip">Impossível ajustar foco, dados necessários estão faltando ou incorretos.</string>
     <string name="ucdownloads_screenshot">UC Browser</string>

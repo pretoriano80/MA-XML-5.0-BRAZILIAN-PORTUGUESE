@@ -34,9 +34,12 @@
     <string name="SMS_MODENAME">Bloqueio padrão</string>
     <string name="SMS_PREFIX">Bloqueio de prefixos</string>
     <string name="SMSpass">Permitir mensagens</string>
+	<string name="ad_block_hint">%d bloqueado(s)</string>
     <string name="ad_install_monitor">Monitor de instalações</string>
     <string name="ad_install_monitor_hint">Verificar adware ao instalar um aplicativo</string>
+	<string name="ad_permission_hint">"Utilizar o bloqueio de anúncios poderá afetar a performance de aplicativos ou prevení-los de funcionar corretamente."</string>
     <string name="ad_relative_setting">Configurações relacionadas</string>
+	<string name="ad_single_block_hint">Bloqueado</string>
     <string name="ad_update_setting">Configurações de atualização</string>
     <string name="ad_update_time">Atualizado em: %s</string>
     <string name="ad_update_time_unKnown">Atualizado em: desconhecido</string>

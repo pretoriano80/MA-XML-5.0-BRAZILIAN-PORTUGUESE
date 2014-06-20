@@ -105,6 +105,7 @@
     <string name="enable_micloud">Criar conta ou conectar-se</string>
     <string name="enable_sync">Ativar</string>
     <string name="enable_sync_dspt">Sincronização desativada</string>
+    <string name="error_device_id">Impossível obter IMEI</string>
     <string name="error_dup_phone">Este número já está associado a outra conta</string>
     <string name="error_invalid_dev_id">ID do telefone inválida</string>
     <string name="error_network">Erro na rede</string>

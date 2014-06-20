@@ -157,6 +157,9 @@
     <string name="id3_modify_confirm_check">Confirmar alterações na ID3 Tag?</string>
     <string name="id3_modify_confirm_text">Salvar</string>
     <string name="impunity_declaration">As músicas online que você está prestes a acessar são do serviço de música online do Baidu. Clique em \"Confirmar\" para aceitar os <a href="http://music.baidu.com/doc/agreement">termos de uso</a> e continuar.</string>
+    <string name="impunity_declaration_ignore">Não perguntar</string>
+    <string name="impunity_declaration_settings">Sempre que utilizar a internet</string>
+    <string name="impunity_declaration_summary">Ao acessar músicas online, um pop-up será exibido lhe informando sobre o acesso à internet.</string>
     <string name="impunity_declaration_title">Declaração</string>
     <string name="keep_quit_position_settings">Guardar posição da música</string>
     <string name="keep_quit_position_summary">Retoma a execução na última posição ao sair do player.</string>
@@ -208,8 +211,6 @@
     <string name="modify_tracks_id3_background">Modificar informações das ID3 Tags selecionadas em segundo plano</string>
     <string name="more">Mais</string>
     <string name="music_browser_label">Música</string>
-    <string name="music_filter">Filtro de arquivos</string>
-    <string name="music_filter_helper">Para ocultar arquivos de áudio que não sejam de músicas, um filtro de tamanho de 800Kb foi aplicado para ocultar estes arquivos da biblioteca. Você pode alterar o limite de tamanho em Configurações - Filtro de tamanho.</string>
     <string name="music_not_loaded">Aguardando o carregamento do áudio…</string>
     <string name="music_open_other_connect">Fazer download das músicas utilizando a rede de dados móveis</string>
     <string name="music_picker_title">Selecionar música</string>
@@ -326,6 +327,7 @@
     <string name="sync_enable_toast">Você pode desativar a sincronização mais tarde em Configurações > Contas > Mi Cloud</string>
     <string name="synchronize_playlist_setting">Sincronizar playlists</string>
     <string name="synchronize_playlist_summary">Sincronizar playlists na Mi Cloud.</string>
+    <string name="take_effect_afater_restart">O aplicativo precisa ser reiniciado para que as nocas configurações tenham efeito</string>
     <string name="track_album_format" formatted="false">%s - %s</string>
     <string name="track_bit_rate_hd">Alto</string>
     <string name="track_bit_rate_standard">Normal</string>

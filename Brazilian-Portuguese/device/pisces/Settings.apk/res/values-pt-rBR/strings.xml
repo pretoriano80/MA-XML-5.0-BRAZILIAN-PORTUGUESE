@@ -2920,6 +2920,8 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="title_data_flow_no">Monitor do uso de dados desativado</string>
     <string name="title_data_flow_yes">Monitor do uso de dados ativado</string>
     <string name="title_dolby_control">Dolby Digital Plus</string>
+    <string name="title_font">Fonte</string>
+    <string name="title_font_current">Em uso</string>
     <string name="title_font_size">Tamanho da fonte</string>
     <string name="title_hdmi_color_calibration">Correção de cores</string>
     <string name="title_install_virus_no">Monitor de instalações desativado</string>
@@ -3110,6 +3112,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="use_default_tts_settings_title">Usar minhas config.</string>
     <string name="use_location_summary">Permitir que o Google use sua localização para melhorar os resultados de pesquisa e outros serviços</string>
     <string name="use_location_title">Local. e pesq. do Google</string>
+    <string name="use_network_warning">Xiaomi Service Framework e os Serviços na Nuvem requerem uma conexão de rede em funcionamento</string>
     <string name="use_system_language_to_select_input_method_subtypes">Usar idioma do sistema</string>
     <string name="user_account_title">Conta para conteúdo</string>
     <string name="user_add_profile_item_summary">É possível restringir o acesso a aplicativos e conteúdo a partir de sua conta</string>

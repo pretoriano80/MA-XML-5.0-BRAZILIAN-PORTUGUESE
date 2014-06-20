@@ -2558,6 +2558,8 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="title_data_flow_no">Monitor do uso de dados desativado</string>
     <string name="title_data_flow_yes">Monitor do uso de dados ativado</string>
     <string name="title_dolby_control">Dolby Digital Plus</string>
+	<string name="title_font">Fonte</string>
+	<string name="title_font_current">Em uso</string>
     <string name="title_font_size">Tamanho da fonte</string>
     <string name="title_install_virus_no">Monitor de instalações desativado</string>
     <string name="title_install_virus_yes">Monitor de instalações ativado</string>
