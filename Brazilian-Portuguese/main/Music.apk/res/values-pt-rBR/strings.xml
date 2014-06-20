@@ -211,6 +211,7 @@
     <string name="modify_tracks_id3_background">Modificar informações das ID3 Tags selecionadas em segundo plano</string>
     <string name="more">Mais</string>
     <string name="music_browser_label">Música</string>
+    <string name="music_filter">Filtrar arquivos</string>
     <string name="music_not_loaded">Aguardando o carregamento do áudio…</string>
     <string name="music_open_other_connect">Fazer download das músicas utilizando a rede de dados móveis</string>
     <string name="music_picker_title">Selecionar música</string>
