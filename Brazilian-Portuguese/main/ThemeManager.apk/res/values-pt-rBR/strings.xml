@@ -9,8 +9,6 @@
     <string name="apply_font_btn_exclude">Aplicar sem fonte</string>
     <string name="apply_font_btn_reboot">Aplicar e reiniciar</string>
     <string name="apply_font_tip">Reinicie o telefone para aplicar a fonte do tema.</string>
-    <string name="apply_lockscreen_paper_tips">Esta tela de bloqueio não suporta papéis de parede personalizados.</string>
-    <string name="apply_theme_no_select_message">Por favor, selecione o tema!</string>
     <string name="apply_theme_with_ringtones">Aplicar tema e toques</string>
     <string name="backup_preference_title">Backup do tema atual</string>
     <string name="backup_theme_dialog_message">Efetuar backup do tema atual</string>
@@ -23,9 +21,6 @@
     <string name="close">Fechar</string>
     <string name="component_category_finest_title">Destaque</string>
     <string name="component_category_more_title">Mais</string>
-    <string name="component_include_title">Componentes incluídos: %1$s</string>
-    <string name="component_select_title">Componentes selecionados: %1$s</string>
-    <string name="component_settings_title">Temas atuais</string>
     <string name="default_name">Padrão</string>
     <string name="deleting">Excluindo…</string>
     <string name="description_author">"Autor: "</string>
@@ -58,7 +53,7 @@
     <string name="resource_account_abnormal_state">Erro na conta. Tente novamente mais tarde</string>
     <string name="resource_account_fail_to_add">Falha ao adicionar conta</string>
     <string name="resource_account_login">Login</string>
-    <string name="resource_account_login_before_action">Entrar com sua Conta Xiaomi agora</string>
+    <string name="resource_account_login_before_action">Entrar com sua Mi Account agora</string>
     <string name="resource_account_login_title">Login</string>
     <string name="resource_account_switch">Alternar conta</string>
     <string name="resource_alarm_default">Alarmes</string>
@@ -165,7 +160,6 @@
     <string name="resource_pack_price_info">%1$s Original</string>
     <string name="resource_pack_warning">Você já comprou %1$d componentes neste tema. Será mais barato comprar os componentes restantes individualmente.</string>
     <string name="resource_present">Vale-presente</string>
-    <string name="resource_preview">Pré-visualização</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Grátis</string>
     <string name="resource_price_unit"> Mi Credits</string>
@@ -203,7 +197,6 @@ o conteúdo que você está tentando acessar não está disponível para a sua r
     <string name="resource_update">Atualizar</string>
     <string name="resource_user_know">OK</string>
     <string name="resource_waiting_download">Aguardando</string>
-    <string name="restore_default_theme_alert">Utilize o app de temas para efetuar downloads ou comprar novos itens.</string>
     <string name="sdcard_not_mounted_dialog_message">"Insira um cartão SD.
 "</string>
     <string name="sdcard_not_mounted_dialog_title">Nenhum cartão SD detectado</string>
@@ -247,18 +240,25 @@ o conteúdo que você está tentando acessar não está disponível para a sua r
     <string name="theme_description_title_default">Padrão</string>
     <string name="theme_fresh_man_notifaction">Teste alguns temas novos.</string>
     <string name="theme_immediately_apply_tip">O tema foi atualizado, deseja reaplicá-lo?</string>
-    <string name="theme_import_activity_label">Atualização de tema</string>
     <string name="theme_import_from_sdcard">Importar do cartão SD</string>
     <string name="theme_name">%1$s</string>
     <string name="theme_no">Não</string>
     <string name="theme_select_others">Outro</string>
+  <string name="theme_user_agreement_allow">Aceitar</string>
+  <string name="theme_user_agreement_content1">Leia os termos aplicáveis com cautela antes de utilizar este produto:</string>
+  <string name="theme_user_agreement_content2">" Termos do usuário"</string>
+  <string name="theme_user_agreement_content3">" e "</string>
+  <string name="theme_user_agreement_content4">Política de privacidade</string>
+  <string name="theme_user_agreement_content5">. Você concorda com o uso de rede por este aplicativo?</string>
+  <string name="theme_user_agreement_remind_again">Notificar quando utilizar acesso à rede</string>
+  <string name="theme_user_agreement_remind_never">Não me lembrar</string>
+  <string name="theme_user_agreement_remind_summary">Terá efeito após a reinicialização do sistema</string>
+  <string name="theme_user_agreement_title">Declaração e Impunidade</string>
     <string name="theme_yes">Sim</string>
     <string name="third_party_pickers_activity_title">Definir %1$s</string>
     <string name="title_component">Componentes</string>
-    <string name="title_local">Local</string>
-    <string name="title_online">Online</string>
     <string name="title_system_resource">Recursos do sistema</string>
-    <string name="to_activate_the_account">Ativar sua Conta Xiaomi agora</string>
+    <string name="to_activate_the_account">Ativar sua Mi Account agora</string>
     <string name="wallpaper_crop">Cortar</string>
     <string name="wallpaper_decoded_error">Falha ao carregar</string>
     <string name="wallpaper_loading_text">Carregando …</string>

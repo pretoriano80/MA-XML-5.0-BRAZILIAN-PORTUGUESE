@@ -49,7 +49,7 @@
     <string name="experimental_validate_username">ID Xiaomi</string>
     <string name="experimental_validate_warning">A sua curiosidade e empenho ajudam a MIUI tornar-se melhor todos os dias!</string>
     <string name="find_device_check_sim">Verificando cartão SIM…</string>
-    <string name="find_device_sim_change_instructions">"Seu telefone foi bloqueado Por favor insira o cartão SIM ou entre com a senha de sua conta Xiaomi"</string>
+    <string name="find_device_sim_change_instructions">"Seu telefone foi bloqueado Por favor insira o cartão SIM ou entre com a senha de sua Mi Account"</string>
     <string name="find_device_sim_change_instructions_no_network">"Seu telefone foi bloqueado.
 Para desbloqueá-lo, insira seu cartão SIM."</string>
     <string name="find_device_turn_off_flight_mode">Desabilitar modo avião</string>

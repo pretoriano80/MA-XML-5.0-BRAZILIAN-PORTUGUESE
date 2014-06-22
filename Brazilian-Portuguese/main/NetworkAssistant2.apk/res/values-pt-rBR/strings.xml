@@ -15,7 +15,7 @@
     <string name="background_traffic">Segundo plano %s</string>
     <string name="begin_date">Data de reinício</string>
     <string name="cancel_button">Cancelar</string>
-    <string name="daily_pkg_traffic">Definir limite de utilização</string>
+    <string name="daily_pkg_traffic">Definir pico de uso</string>
     <string name="data_usage_correction_timeout_body">Toque para atualizar manualmente.</string>
     <string name="data_usage_correction_timeout_title">Tempo esgotado durante sincronização de dados</string>
     <string name="data_usage_disabled_dialog">"Você atingiu seu limite de uso de dados móveis.
@@ -35,6 +35,29 @@ A utilização em excesso deste pacote pode resultar em cobranças adicionais de
     <string name="data_usage_restricted_title">Restrição de dados em segundo plano</string>
     <string name="data_usage_warning_body">Toque para ver detalhes do uso de dados.</string>
     <string name="data_usage_warning_title">Aviso do uso de dados</string>
+    <string name="datausage_purchase_backto_ns">Voltar</string>
+    <string name="datausage_purchase_banner_title">Você está %s acima do limite</string>
+    <string name="datausage_purchase_buy">Comprar</string>
+    <string name="datausage_purchase_confirm_tip">Compra:</string>
+    <string name="datausage_purchase_get_captcha">Obter código de verificação (%d)</string>
+    <string name="datausage_purchase_get_captcha_again">Enviar novamente</string>
+    <string name="datausage_purchase_get_captcha_failed">Impossível obter código de verificação. Verifique sua conexão com a internet e tente novamente.</string>
+    <string name="datausage_purchase_goto_monthsetting">Reajustar limite de dados</string>
+    <string name="datausage_purchase_ordering">Comprando…</string>
+    <string name="datausage_purchase_pay_captcha_hint">Digite o código de verificação</string>
+    <string name="datausage_purchase_pay_captcha_tips">Após digitar o seu código de verificação, toque em Pagar. Você receberá uma mensagem de confirmação em até 10 minutos.</string>
+    <string name="datausage_purchase_pay_confirm">Pagar</string>
+    <string name="datausage_purchase_pay_hint">Para cancelar, ligue no %s</string>
+    <string name="datausage_purchase_pkglist_networkerror">Impossível conectar-se à rede. Verifique sua conexão com a internet e tente novamente.</string>
+    <string name="datausage_purchase_pkglist_nodata">Existe um conflito com seu pacote de dados atual e sua compra. Entre em contato com sua operadora para maiores informações.</string>
+    <string name="datausage_purchase_pkglist_servererror">Erro de servidor</string>
+    <string name="datausage_purchase_result_failed">Impossível concluir compra</string>
+    <string name="datausage_purchase_result_ok">"Você comprou %s
+Verifique a mensagem enviada por sua operadora para maiores informações."</string>
+    <string name="datausage_purchase_title_confirm">Detalhes da compra</string>
+    <string name="datausage_purchase_title_order">Comprar dados</string>
+    <string name="datausage_purchase_title_pkglist">Comprar dados</string>
+    <string name="datausage_purchase_view_detail">Ver detalhes</string>
     <string name="declaration_dialog_msg">Este recurso pode ajudá-lo a controlar sua utilização de dados móveis, mas não é garantido que a contagem seja exata. Para maior segurança, defina um limite abaixo do contratado.</string>
     <string name="deleted_apps">Aplicativos excluídos</string>
     <string name="detail_app_button">Detalhes</string>
@@ -158,11 +181,25 @@ Usado"</string>
     <string name="settings">Configurações do limite de dados</string>
     <string name="sorted_button">Organizar por</string>
     <string name="sorted_dialog_title">Ordenar por</string>
+    <string name="spinner_title">%1$s - Dados móveis: %2$s</string>
     <string name="stop_app_button">Parar</string>
     <string name="system_app">Sistema</string>
     <string name="text_day"/>
     <string name="tips_dialog_title">Não conhece seu limite?</string>
     <string name="tips_message">Caso você não tenha certeza dos detalhes de seu plano de dados móveis, você precisará entrar em contato com sua operadora.</string>
+    <string name="traffic_config_alert_body">"Seu uso de dados com a operadora mostra que você possui %s restando.
+Você deseja atualizar seu limite de uso de dados local?"</string>
+    <string name="traffic_config_alert_body_leisure">"
+Seu uso de dados com a operadora mostra que você possui %1$s restando para uso fora do período de pico. Esta informação é diferente do uso de %2$s definido localmente."</string>
+    <string name="traffic_config_alert_body_leisure_notset">"
+Seu uso de dados com a operadora mostra que você possui %1$s restando para uso fora do período de pico. Você não definiu um limite local."</string>
+    <string name="traffic_config_alert_body_normal">"
+Seu uso de dados com a operadora mostra que você possui %1$s restando para uso no período de pico. Esta informação é diferente do limite de %2$s definido localmente."</string>
+    <string name="traffic_config_alert_cancel">Cancelar</string>
+    <string name="traffic_config_alert_nomore">Não perguntar novamente</string>
+    <string name="traffic_config_alert_ok">OK</string>
+    <string name="traffic_config_alert_setted">Limite de dados definido</string>
+    <string name="traffic_config_alert_title">Diferença de %s</string>
     <string name="traffic_correction_failed">Impossível obter limite de dados</string>
     <string name="traffic_correction_start_correction">Consultando operadora…</string>
     <string name="traffic_correction_start_correction_failed">Falha durante a requisição, por favor verifique suas configurações</string>

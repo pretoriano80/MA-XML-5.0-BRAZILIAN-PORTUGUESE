@@ -386,6 +386,8 @@
     <string name="sms_full_title">Memória para mensagens de texto cheia</string>
     <string name="sms_rejected_body">Uma mensagem de entrada foi rejeitada devido a uma razão desconhecida.</string>
     <string name="sms_rejected_title">Mensagem de texto rejeitada</string>
+    <string name="sp_category_all">Todas as mensagens de serviço</string>
+    <string name="sp_category_bank">Todas as mensagens de serviços bancários</string>
     <string name="sp_conversation_title">Mensagens de notificação</string>
     <string name="sp_mark_as_read_progress">Marcando mensagens como lidas…</string>
     <string name="sp_mark_as_read_title">Marcar todas como lidas</string>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="agree">Permitir</string>
+    <string name="app_label">Localização por Rede</string>
+    <string name="disagree">Negar</string>
+    <string name="location_warning_message">"Permitir que o serviço de localização AutoNavi colete dados de forma anônima. Alguns destes dados poderão ser armazenados em seu telefone. Os dados poderão ser coletados até mesmo quando nenhum aplicativo estiver em execução."</string>
+    <string name="location_warning_title">Consentimento de Localização</string>
+</resources>

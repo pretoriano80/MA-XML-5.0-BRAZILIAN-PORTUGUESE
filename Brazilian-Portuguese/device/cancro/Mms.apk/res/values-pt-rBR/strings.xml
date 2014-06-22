@@ -22,7 +22,10 @@
     <string name="adding_attachments">Aguarde enquanto os itens são adicionados à apresentação de slides.</string>
     <string name="adding_attachments_title">Adicionando anexos</string>
     <string name="adding_recipients">Adicionando destinatários…</string>
+    <string name="alert_dlg_cancel_button">Cancelar</string>
+    <string name="alert_dlg_ok_button">OK</string>
     <string name="app_label">Mensagens</string>
+    <string name="app_name">Gerenciamento do Dispositivo</string>
     <string name="attach_image">Imagens</string>
     <string name="attach_record_sound">Gravar áudio</string>
     <string name="attach_record_video">Capturar vídeo</string>
@@ -64,6 +67,8 @@
     <string name="confirm_delete_message">A mensagem será excluída.</string>
     <string name="confirm_dialog_locked_title">Excluir mensagem bloqueada?</string>
     <string name="confirm_dialog_title">Excluir?</string>
+    <string name="confirm_dlg__msg">Aviso CMCC: O serviço gratuito do CMCC não será fornecido se você cancelá-lo. Deseja realmente cancelar?</string>
+    <string name="confirm_dlg_title">Gerenciamento do Dispositivo</string>
     <string name="confirm_export_dialog_description">Excluindo 1 contato privado selecionado. A conversa privada retornará à caixa de mensagens. Continuar?</string>
     <string name="confirm_export_dialog_title">Excluir contato privado</string>
     <string name="confirm_no_block_positive">Permitir e restaurar</string>
@@ -72,8 +77,8 @@
     <string name="confirm_restore_all_title">Restaurar todas as mensagens deste número?</string>
     <string name="confirm_restore_positive">Restaurar</string>
     <string name="confirm_restore_title">Restaurar todas as mensagens selecionadas?</string>
-    <string name="confirm_send_mms">Um de seus destinatários é um endereço de e-mail. Esta mensagem será enviada como um MMS, o que poderá resultar em cobranças extras de sua operadora.</string>
-    <string name="context_menu_add_calendar">Exibir na Agenda</string>
+    <string name="confirm_send_mms">Um de seus destinatários inclui um endereço de e-mail. Esta mensagem será enviada como um MMS, o que poderá resultar em cobranças adicionais de sua operadora.</string>
+    <string name="context_menu_add_calendar">Mostrar na Agenda</string>
     <string name="context_menu_add_contact">Adicionar contato</string>
     <string name="context_menu_add_to_browser_favorite">Adicionar aos favoritos do navegador</string>
     <string name="context_menu_browse_web">Visitar</string>
@@ -173,6 +178,7 @@
     <string name="loading_all_messages">Carregando mensagens…</string>
     <string name="loading_conversations">Carregando conversas…</string>
     <string name="loading_mms">Carregando…</string>
+    <string name="manage_permission_app_label">Gerenciamento de permissões do dispositivo</string>
     <string name="me">Eu</string>
     <string name="menu_compose_new">Escrever</string>
     <string name="menu_delete_messages">Excluir mensagens</string>
@@ -234,7 +240,7 @@
     <string name="mx_dspt">Envie mensagens pela internet utilizando a MIUI. Desative para enviar via Operadora, em caso de falha</string>
     <string name="mx_enable">Ativar Cloud Messaging</string>
     <string name="mx_enable_int_popup_msg">O serviço de Cloud Messaging permite que você envie mensagens de texto entre usuários MIUI. Para ativar, uma mensagem SMS internacional será enviada. Taxas nesta mensagem podem ser aplicadas por sua operadora celular, deseja ativar agora? Caso não, você poderá ativar o serviço mais tarde nas configurações de mensagens.</string>
-    <string name="mx_enable_popup_msg">O serviço de Cloud Messaging permite que você envie mensagens de texto entre usuários MIUI. Para ativar, uma mensagem SMS será enviada. Taxas nesta mensagem podem ser aplicadas por sua operadora celular, deseja ativar agora? Caso não, você poderá ativar o serviço mais tarde nas configurações de mensagens.</string>
+    <string name="mx_enable_popup_msg">O serviço de Cloud Messaging permite que você envie mensagens de texto entre usuários MIUI. Para ativar, uma mensagem SMS internacional será enviada. Taxas nesta mensagem podem ser aplicadas por sua operadora celular, deseja ativar agora? Caso não, você poderá ativar o serviço mais tarde nas configurações de mensagens.</string>
     <string name="mx_int_warning_notice">Uma mensagem internacional será enviada para ativar o serviço de Cloud Messaging. Poderão ocorrer custos provenientes de sua operadora.</string>
     <string name="mx_msg">Cloud Messaging</string>
     <string name="mx_offline">Offline</string>
@@ -335,6 +341,7 @@
     <string name="private_settings">Privacidade</string>
     <string name="processing">Processando…</string>
     <string name="prvate_contact">Contato Privado</string>
+    <string name="quick_reply">Responder</string>
     <string name="rate_limit_surpassed">Confirmar</string>
     <string name="received_label">"Recebido: "</string>
     <string name="recipient_editor_count_format">%d pessoas</string>
@@ -381,6 +388,12 @@
     <string name="select_recipient">Selecionar destinatário</string>
     <string name="select_top_text">Texto na parte superior</string>
     <string name="send">Enviar</string>
+    <string name="send_message_dlg_check_hint">Lembrar escolha</string>
+    <string name="send_message_dlg_mgs">Aviso CMCC: Nós precisamos registrar seu dispositivo para que a plataforma de gerenciamento forneça o serviço de assistência gratuita. (O serviço é gerenciado pela CMSS que pode administrar terminais móveis. Ela fornece a você serviços de gerenciamento remoto e atualização de aplicativos.). Uma mensagem de texto gratuita com informações do dispositivo será enviada para o registro. Esta mensagem será enviada apenas uma vez e não coletará seus dados pessoais (Não envie se você estiver em Hong Kong, Macao, Taiwan ou em roaming internacional). Selecione “OK” para concordar com o registro.</string>
+    <string name="send_message_dlg_title">Gerenciamento do Dispositivo</string>
+    <string name="send_message_notification_msg">Requisição de permissões do Ger. do Dispositivo</string>
+    <string name="send_message_notification_tickerText">Requisição de permissões do Ger. do Dispositivo</string>
+    <string name="send_message_notification_title">Gerenciamento do Dispositivo</string>
     <string name="send_signature_confirm_dialog_message">Você não informou o corpo da mensagem, deseja realmente enviá-lo?</string>
     <string name="send_signature_confirm_dialog_title">Enviar confirmação</string>
     <string name="send_sms">Enviar mensagem</string>
@@ -412,6 +425,8 @@
     <string name="sms_full_title">Memória para mensagens de texto cheia</string>
     <string name="sms_rejected_body">Uma mensagem de entrada foi rejeitada devido a uma razão desconhecida.</string>
     <string name="sms_rejected_title">Mensagem de texto rejeitada</string>
+    <string name="sp_category_all">Todas as mensagens de serviço</string>
+    <string name="sp_category_bank">Todas as mensagens de serviços bancários</string>
     <string name="sp_conversation_title">Mensagens de notificação</string>
     <string name="sp_mark_as_read">Marcar todas as mensagens como lidas?</string>
     <string name="sp_mark_as_read_progress">Marcando mensagens como lidas…</string>

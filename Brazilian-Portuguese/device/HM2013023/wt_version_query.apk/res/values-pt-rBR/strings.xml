@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">Wt_version_query</string>
+    <string name="build_date">Data da compilação</string>
+    <string name="cancel">Cancelar</string>
+    <string name="hard_version">Versão do Hardware</string>
+    <string name="hardware">Hardware:</string>
+    <string name="hello">Hello World, Wt_version_queryActivity!</string>
+    <string name="miui_version">Versão MIUI</string>
+    <string name="no_sd_card">Nenhum Cartão SD</string>
+    <string name="no_update_file">Arquivo de atualização inexistente</string>
+    <string name="ok">ok</string>
+    <string name="sdcard_update">Atualização via cartão SD</string>
+    <string name="settings_label">Configurações</string>
+    <string name="soft_version">Versão interna</string>
+    <string name="software">Software:</string>
+    <string name="software_update">Atualização de software</string>
+    <string name="update_info_tips">"A atualização leva de 2 a 5 minutos.
+Não execute nenhuma função durante a atualização."</string>
+    <string name="update_warning">Aviso</string>
+    <string name="update_warning1">Durante a atualização, não remova a bateria, cartões SIM ou cartão SD.</string>
+    <string name="update_warning2">Certifique-se de que a bateria está carregada.</string>
+    <string name="update_warning3">Faça backup de seus dados importantes antes de atualizar.</string>
+    <string name="version_Info">Versão</string>
+</resources>

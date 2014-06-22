@@ -18,4 +18,8 @@
         <item>Episódio</item>
         <item>Sumário</item>
     </string-array>
+    <string-array name="addon_list_tabs">
+        <item>Todos os especiais</item>
+        <item>Meus especiais</item>
+    </string-array>
 </resources>

@@ -7,9 +7,9 @@
         <item>GB</item>
     </string-array>
     <string-array name="date_of_traffic">
-        <item>Uso de dados de ontem</item>
-        <item>Uso de dados hoje</item>
-        <item>Uso de dados do mês</item>
+        <item>"Ontem "</item>
+        <item>"Hoje "</item>
+        <item>"Este mês "</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>2G/3G Ontem</item>

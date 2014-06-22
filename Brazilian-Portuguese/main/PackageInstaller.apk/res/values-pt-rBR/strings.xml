@@ -2,6 +2,11 @@
 <resources>
     <string name="Parse_error_dlg_text">Há um problema com a análise do pacote.</string>
     <string name="Parse_error_dlg_title">Erro de análise</string>
+    <string name="ad_block_button_title">Bloquear adware</string>
+    <string name="ad_relative">Adware</string>
+    <string name="adware_count">Contém %d plugins</string>
+    <string name="adware_hint">Estes plugins são usados por desenvolvedores para exibir propagandas em seu dispositivo</string>
+    <string name="adware_title">Adware</string>
     <string name="allow_source_dlg_text">"%1$s deseja instalar outros aplicativos.
     
 Permitir isso agora e no futuro?"</string>
