@@ -605,7 +605,7 @@ Digite o PIN para parear com \"%1$s\". [Alta Segurança ativada: é necessária 
     <string name="credentials_install_summary">Instalar certificados do armazenamento</string>
     <string name="credentials_not_erased">Armaz. de creden. não apagado.</string>
     <string name="credentials_old_password">Senha atual:</string>
-    <string name="credentials_password_too_short">A senha deve ter no mínimo 8 caracteres.</string>
+    <string name="credentials_password_too_short">A senha deve ter no mínimo 8 caracteres</string>
     <string name="credentials_reset">Limpar credenciais</string>
     <string name="credentials_reset_hint">Remover todo o conteúdo?</string>
     <string name="credentials_reset_summary">Remover todos os certificados</string>
@@ -640,6 +640,12 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="crypt_keeper_unplugged_text">Conecte seu carregador e tente novamente.</string>
     <string name="cryptkeeper_emergency_call">Chamada de emergência</string>
     <string name="cryptkeeper_return_to_call">Retornar à chamada</string>
+    <string name="cta_button_text_agree">Concordar</string>
+    <string name="cta_button_text_cancel">Cancelar</string>
+    <string name="cta_checkbox_title">Não perguntar novamente</string>
+    <string name="cta_dialog_msg">Você está prestes a utilizar o centro de segurança MIUI. Para garantir um funcionamento normal da ferramenta, os bancos de dados do centro de segurança poderão ser atualizados pela internet, o que exige uma conexão de rede em funcionamento. Você concorda com o uso do tráfego de rede pelo aplicativo?</string>
+    <string name="cta_dialog_title">Avisos e Termos</string>
+    <string name="cta_settings">Permitir acesso à internet</string>
     <string name="current_backup_pw_prompt">Digite sua senha de backup completo atual aqui</string>
     <string name="current_input_method">Padrão</string>
     <string name="custom_mark_category">Personalizado</string>
@@ -2558,8 +2564,8 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="title_data_flow_no">Monitor do uso de dados desativado</string>
     <string name="title_data_flow_yes">Monitor do uso de dados ativado</string>
     <string name="title_dolby_control">Dolby Digital Plus</string>
-	<string name="title_font">Fonte</string>
-	<string name="title_font_current">Em uso</string>
+    <string name="title_font">Fonte</string>
+    <string name="title_font_current">Em uso</string>
     <string name="title_font_size">Tamanho da fonte</string>
     <string name="title_install_virus_no">Monitor de instalações desativado</string>
     <string name="title_install_virus_yes">Monitor de instalações ativado</string>

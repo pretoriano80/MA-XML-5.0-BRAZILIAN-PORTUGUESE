@@ -2,6 +2,12 @@
 <resources>
     <string name="app_name">Leia-me</string>
     <string name="bakc_key_toast_txt">Pressione Voltar novamente para sair</string>
+    <string name="cta_dialog_button_text">Não perguntar novamente</string>
+    <string name="cta_dialog_msg">"Você está prestes a acessar o guia do usuário fornecido pela Xiaomi Company, que fornece um guia detalhado de operação. Para fornecer informações precisas, o guia será atualizado automaticamente via Wi-Fi. Você concorda com a utilização da rede?
+ *Nota: Saia do app pressionando o botão \'Voltar\'"</string>
+    <string name="cta_dialog_title">Dica</string>
+    <string name="downloading_data">Efetuando download…</string>
+    <string name="downloading_error">Erro no download, tente novamente mais tarde</string>
     <string name="loading_userbook">Carregando…</string>
     <string name="non_wifi_not_download_data">"Impossível efetuar o download do guia do usuário utilizando a rede de dados móveis. Tente novamente quando conectar-se à uma rede Wi-Fi"</string>
 </resources>

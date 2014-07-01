@@ -4,6 +4,7 @@
     <string name="address">Endereço:</string>
     <string name="app_name">QR Scanner</string>
     <string name="birthday">Aniversário:</string>
+    <string name="camera_error">Há algo errado com a câmera, não foi possível escanear o código</string>
     <string name="close_flash_error">Falha ao desativar flash</string>
     <string name="company">Empresa:</string>
     <string name="copy">Copiar</string>

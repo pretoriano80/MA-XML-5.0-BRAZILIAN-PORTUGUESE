@@ -21,7 +21,6 @@ para a MiBox ou TV"</string>
     <string name="airkan_video_playing">executando</string>
     <string name="airkan_video_playing_in">O vídeo está</string>
     <string name="alert_ignore">Não exibir novamente</string>
-    <string name="all">Todos</string>
     <string name="all_reviews">Comentários</string>
     <string name="all_specials">Destaque</string>
     <string name="alreadyselected">Selecionado</string>
@@ -160,6 +159,7 @@ para a MiBox ou TV"</string>
     <string name="in_download_notification">%d vídeos sendo armazenados</string>
     <string name="in_pause">Pausado</string>
     <string name="in_waiting">Aguardando</string>
+    <string name="info_title">Informação</string>
     <string name="install_comfirm">Toque para instalar</string>
     <string name="jni_invalid_param">Parâmetros inválidos</string>
     <string name="jni_no_media_source">Nenhuma fonte de mídia</string>
@@ -282,8 +282,10 @@ para a MiBox ou TV"</string>
     <string name="play_length_colon">"Duração: "</string>
     <string name="play_setting">Reprodução</string>
     <string name="playvideo">Reproduzir</string>
+    <string name="post_playcount">vezes</string>
     <string name="pps">PPS</string>
     <string name="pptv">PPTV</string>
+    <string name="prex_playcount">Reproduzir:</string>
     <string name="publish">Enviar</string>
     <string name="qiyi">iQiyi</string>
     <string name="quarter_bell_alert_button_cancel">Cancelar</string>
@@ -326,7 +328,7 @@ para a MiBox ou TV"</string>
     <string name="success_cancel_myfavorite">Excluir</string>
     <string name="success_cancel_waitfornewset">Favorito removido</string>
     <string name="success_to_cancel_myfavorite">Cancelado</string>
-    <string name="sure">Aceitar</string>
+    <string name="sure">Concordar</string>
     <string name="tags_colon">"Gênero: "</string>
     <string name="temp_play_history_button_label">Histórico de reprodução</string>
     <string name="tencent">Tencent</string>
@@ -354,7 +356,6 @@ para a MiBox ou TV"</string>
     <string name="upgrade">Atualizando</string>
     <string name="use_cellular_network">Utilizar rede de dados móveis</string>
     <string name="use_cellular_network_summary">Utilizar a rede de dados móveis para assistir aos vídeos poderá aumentar seus custos de dados móveis com a operadora.</string>
-    <string name="variety">Variedades</string>
     <string name="video">Vídeo</string>
     <string name="video_info_audio_bitrate_label">Taxa de bits:</string>
     <string name="video_info_audio_coding_label">Formato de áudio:</string>

@@ -35,6 +35,7 @@
     <string name="cancel">Cancelar</string>
     <string name="cannot_connect_camera_once">Não é possível conectar-se à câmera</string>
     <string name="cannot_connect_camera_twice">Não é possível conectar-se à câmera. Reinicie o telefone e tente novamente.</string>
+    <string name="cannot_move_warning_message">Capturando foto, não mova o dispositivo</string>
     <string name="clear_effects">Limpar efeitos</string>
     <string name="close">Fechar</string>
     <string name="cloud_album_details">Detalhes do álbum na nuvem:</string>
@@ -190,6 +191,7 @@ toque no botão do disparador"</string>
     <string name="pref_camera_antibanding_entry_3">Automático</string>
     <string name="pref_camera_antibanding_title">Anti banding</string>
     <string name="pref_camera_audio_capture_title">Microfone</string>
+    <string name="pref_camera_auto_capture_when_stable_title">Captura com telefone estabilizado</string>
     <string name="pref_camera_auto_chroma_flash_title">Chroma Flash Automático</string>
     <string name="pref_camera_auto_focus_title_entry_off">Desativado</string>
     <string name="pref_camera_auto_focus_title_entry_on">Ativado</string>
@@ -201,7 +203,7 @@ toque no botão do disparador"</string>
     <string name="pref_camera_coloreffect_entry_brannan">Madrugada</string>
     <string name="pref_camera_coloreffect_entry_earlybird">Outono</string>
     <string name="pref_camera_coloreffect_entry_fisheye">Olho de peixe</string>
-    <string name="pref_camera_coloreffect_entry_gaussianblur">Desfoque Gaussiano</string>
+    <string name="pref_camera_coloreffect_entry_gaussianblur">Desfoque</string>
     <string name="pref_camera_coloreffect_entry_jstyle">Japonês</string>
     <string name="pref_camera_coloreffect_entry_mirror">Espelho</string>
     <string name="pref_camera_coloreffect_entry_mono">Mono</string>
@@ -508,6 +510,7 @@ toque no botão do disparador"</string>
     <string name="toast_cannot_preview_image_when_screen_locked">Impossível visualizar imagem ou vídeo com a tela bloqueada.</string>
     <string name="toast_start_audio_capture">Faça barulho para ativar o disparador</string>
     <string name="ubi_focus_exit_button_text">Sair do modo Ubi Focal</string>
+    <string name="ubifocus_capture_warning_message">Os resultados são melhores quando a tela de pré-visualização contém objetos próximos (a menos de um metro da lente da câmera) e distantes</string>
     <string name="undo">Desfazer</string>
     <string name="unit_mm">mm</string>
     <string name="video_camera_label">Filmadora</string>

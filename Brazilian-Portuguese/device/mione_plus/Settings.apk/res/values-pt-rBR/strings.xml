@@ -613,6 +613,12 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="crypt_keeper_unplugged_text">Conecte seu carregador e tente novamente.</string>
     <string name="cryptkeeper_emergency_call">Chamada de emergência</string>
     <string name="cryptkeeper_return_to_call">Retornar à chamada</string>
+    <string name="cta_button_text_agree">Concordar</string>
+    <string name="cta_button_text_cancel">Cancelar</string>
+    <string name="cta_checkbox_title">Não perguntar novamente</string>
+    <string name="cta_dialog_msg">Você está prestes a utilizar o centro de segurança MIUI. Para garantir um funcionamento normal da ferramenta, os bancos de dados do centro de segurança poderão ser atualizados pela internet, o que exige uma conexão de rede em funcionamento. Você concorda com o uso do tráfego de rede pelo aplicativo?</string>
+    <string name="cta_dialog_title">Avisos e Termos</string>
+    <string name="cta_settings">Permitir acesso à internet</string>
     <string name="current_backup_pw_prompt">Digite sua senha de backup completo atual aqui</string>
     <string name="current_input_method">Padrão</string>
     <string name="custom_mark_category">Personalizado</string>
@@ -781,6 +787,8 @@ Como o uso de dados é calculado por seu telefone, e sua operadora pode entender
     <string name="dialog_title_check_all">Selecionar tudo</string>
     <string name="dialog_title_cleanup_apps">Excluir dados do aplicativo?</string>
     <string name="dialog_title_cleanup_system_cache">Limpar dados em cache?</string>
+    <string name="title_font">Fonte</string>
+    <string name="title_font_current">Em uso</string>
     <string name="dialog_title_font_size">Tamanho da fonte</string>
     <string name="dialog_title_load_cleanup_engine_error">Erro</string>
     <string name="dialog_title_uninstall_apps">Desinstalar</string>

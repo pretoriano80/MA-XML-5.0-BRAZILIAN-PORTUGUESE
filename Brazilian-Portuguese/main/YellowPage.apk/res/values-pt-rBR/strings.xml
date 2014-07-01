@@ -29,7 +29,7 @@
     <string name="custom_mark_category">Personalizado</string>
     <string name="data_error">Serviço atual indisponível, tente novamente mais tarde</string>
     <string name="delete">Excluir</string>
-    <string name="do_not_remind_me">Não me lembrar</string>
+    <string name="do_not_remind_me">Não perguntar novamente</string>
     <string name="download_completed">Download concluído！Caminho do cartão SD: %s</string>
     <string name="download_failed">Falha no download</string>
     <string name="download_failed_blocked">Falha no download, impossível conectar-se à rede</string>
@@ -126,7 +126,9 @@ Por favor verifique seu número de rastreamento."</string>
     <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
     <string name="network_unavaliable">Rede indisponível, verifique as configurações de rede</string>
     <string name="no_more_result">Sem mais resultados</string>
-    <string name="notify_connect_every_time">Sempre solicitar permissões de rede</string>
+    <string name="notfiy_connect_title">Permissões de rede</string>
+    <string name="notices_and_terms">Avisos e Termos de uso</string>
+    <string name="notify_connect_summary">Solicitar permissões de rede sempre que necessário</string>
     <string name="order_empty_hint">Nenhuma compra</string>
     <string name="order_id">Ref. de compra: %s</string>
     <string name="order_merchant_title">Minhas compras</string>
@@ -201,6 +203,7 @@ Valor total: RMB%3$s"</string>
     <string name="turn_on_smart_antispam_summary_off">Verificar somente em base de dados local</string>
     <string name="turn_on_smart_antispam_summary_on">Identificar números desconhecidos e enviar marcações</string>
     <string name="turn_on_smart_antispam_title">Identificar números desconhecidos</string>
+    <string name="turn_on_yellowpage_service_title">Utilizar serviço de diretório</string>
     <string name="user_notice_identify_summary_format">A identificação de números desconhecidos é feita pela internet. Por favor leia %1$s e %2$s antes de utilizá-lo.</string>
     <string name="user_notice_yp_detail_summary_format">A informação parcial destas páginas amarelas precisam ser atualizadas online, por favor leia %1$s e %2$s, ao clicar em Aceitar, você estará concordando automaticamente com estes termos. Clique em Cancelar para ver apenas informações básicas.</string>
     <string name="voicemail">Correio de Voz</string>

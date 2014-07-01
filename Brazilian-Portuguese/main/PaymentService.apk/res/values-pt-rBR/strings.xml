@@ -167,10 +167,11 @@ por favor entre em contato com o SAC do serviço de pagamentos China Mobile: 400
     <string name="lockscreen_forgot_pattern_button_text">&lt;u>Esqueci meu padrão&lt;/u></string>
     <string name="login">Login</string>
     <string name="memu_refresh">Atualizar</string>
-    <string name="mibi_license_message">"Você está prestes a utilizar o Mi Credit, que é um serviço fornecido pela Xiaomi Inf. Antes de utilizar o serviço, você precisa concordar com os Termos de Serviço existentes em %1$s.
-    
-Você precisa de uma conexão com a internet para utilizar MiCredits."</string>
+    <string name="mibi_license_checkbox_prompt">Não exibir novamente</string>
+    <string name="mibi_license_message">"Você está prestes a utilizar o Mi Credit, que é um serviço fornecido pela Xiaomi Inf. Antes de utilizar o serviço, você precisa concordar com os Termos de Serviço existentes em %1$s. Você precisa de uma conexão com a internet para utilizar MiCredits."</string>
     <string name="mibi_license_message_span">Termo do usuário Mi Credit</string>
+    <string name="mibi_license_net_prompt_message">O uso do aplicativo Mi Credits pode aumentar o tráfego de dados.</string>
+    <string name="mibi_license_net_prompt_title">Conexão com a internet requerida</string>
     <string name="mibi_license_title">Termo do Usuário</string>
     <string name="mili_center">Mi Credit</string>
     <string name="msg_denomination_type">Mi Credit</string>
@@ -287,11 +288,13 @@ Nós verificaremos novamente em dois dias úteis."</string>
     <string name="title_lockpattern">Padrão de desbloqueio requerido</string>
     <string name="title_mili_center">Mi Credits</string>
     <string name="title_myaccount">Minha conta: %s</string>
+    <string name="title_need_prompt">Notificar uso da internet</string>
     <string name="title_nopassword">Não exigir para pagamentos pequenos</string>
     <string name="title_nopassword_dialog">Limite diário</string>
     <string name="title_password">Senha</string>
     <string name="title_password_threshold">Limite diário = ￥%1$s</string>
     <string name="title_pay_record">Registros de pagamento</string>
+    <string name="title_prompt">Notificações</string>
     <string name="title_recharge">Recarregar MiCredit</string>
     <string name="title_recharge_record">Registros de recarga</string>
     <string name="title_sms_code">Insira o código de verificação do telefone</string>

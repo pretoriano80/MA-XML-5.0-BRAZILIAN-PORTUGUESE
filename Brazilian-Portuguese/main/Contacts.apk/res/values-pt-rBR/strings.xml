@@ -202,6 +202,12 @@
     <string name="createContactShortcutSuccessful">Widget Contato adicionado à tela inicial.</string>
     <string name="create_group_dialog_title">Criar um novo grupo</string>
     <string name="create_group_item_label">Criar novo grupo</string>
+    <string name="cta_notice_checkbox">"Não exibir novamente"</string>
+    <string name="cta_notice_new_contact_message">Os contatos salvos na conta \"%s\" serão sincronizados utilizando sua rede de dados. Você concorda com o uso de dados?</string>
+    <string name="cta_notice_ok">Concordar</string>
+    <string name="cta_notice_photo_message">Ao editar a imagem de um contato com um pacote de fotos, a rede de dados será utilizada. Você concorda com o uso de dados?</string>
+    <string name="cta_notice_settings">Lembrar ao acessar rede de dados</string>
+    <string name="cta_notice_title">Lembrete</string>
     <string name="customLabelPickerTitle">Personalizar nome do marcador</string>
     <string name="custom_list_filter">Definir visualização personalizada</string>
     <string name="custom_nickname_hint">Insira um título como: Sr/Sra</string>
@@ -1142,6 +1148,7 @@ Escolha uma das seguintes opções:"</string>
     <string name="yellowpage_navigation_menu_order">Minha ordem</string>
     <string name="yellowpage_navigation_network_location_enable">Ativar agora</string>
     <string name="yellowpage_navigation_network_location_enable_later">Ativar depois</string>
+    <string name="yellowpage_navigation_network_location_enabled">O serviço está ativado, você pode desativá-lo nas configurações de localização</string>
     <string name="yellowpage_navigation_network_location_not_enabled_summary">Ativando o serviço de localização por Wi-Fi &amp; redes móveis a qualidade dos serviços de localização será melhorada.</string>
     <string name="yellowpage_navigation_network_location_not_enabled_title">Ativar serviço de localização</string>
     <string name="yellowpage_navigation_no_content">Nenhum resultado</string>

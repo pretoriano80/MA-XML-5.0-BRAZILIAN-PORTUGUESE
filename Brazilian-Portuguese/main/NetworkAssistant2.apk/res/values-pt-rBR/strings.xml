@@ -25,7 +25,7 @@ A utilização em excesso deste pacote pode resultar em cobranças adicionais de
     <string name="data_usage_leisure_warning_body">Toque para visualizar detalhes de utilização.</string>
     <string name="data_usage_leisure_warning_title">Limite de uso fora do pico</string>
     <string name="data_usage_limit_body">Toque para ativar os dados móveis.</string>
-    <string name="data_usage_limit_snoozed_body">Você excedeu seu limite de uso de dados.</string>
+    <string name="data_usage_limit_snoozed_body">Você excedeu seu limite de uso de dados mensal.</string>
     <string name="data_usage_mobile_limit_snoozed_title">Limite de dados móveis excedido</string>
     <string name="data_usage_mobile_limit_title">Os dados móveis desativados</string>
     <string name="data_usage_no_total_package_body">Você deseja definir um limite de uso dos dados móveis?</string>

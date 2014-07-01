@@ -61,7 +61,8 @@
     <string name="big_screen_alertdialog_title">Lista de Dispositivos</string>
     <string name="bigscreen_slide_exit">Sair da apresentação de slides na TV</string>
     <string name="bigscreen_slide_fail_cause_loading">Por favor execute a apresentação de slides após o carregamento das imagens.</string>
-    <string name="bigscreen_video_quit">Toque para fechar a reprodução</string>
+    <string name="bigscreen_slide_playing">Apresentação de slides reproduzindo no dispositivo %s</string>
+    <string name="bigscreen_video_quit">Toque na tela para sair</string>
     <string name="browse_category">Navegador de fotos</string>
     <string name="by_email">E-mail</string>
     <string name="by_others">Outros</string>
@@ -486,17 +487,28 @@ amigos. Veja e atualize seus
     <string name="cloudfolder_contain_invalidate_char">O nome de pastas não pode conter \'%s\'</string>
     <string name="cloudfolder_name_cannot_empty">Insira um nome para a pasta</string>
     <string name="cloudfolder_name_reserved">O nome da pasta está indisponível</string>
-    <string name="comfirm_delete_current_album">Excluir o álbum atual?</string>
+    <string name="comfirm_delete_current_album">Excluir este álbum?</string>
     <string name="comma">, </string>
     <string name="confirm">OK</string>
-    <string name="confirm_delete">Excluir %s itens?</string>
-    <string name="confirm_delete_album" formatted="false">Tem certeza que deseja excluir %s álbuns (incluindo %s itens)?</string>
+    <string name="confirm_delete">Excluir %s fotos?</string>
+    <string name="confirm_delete_album" formatted="false">Excluir %s álbuns (%s itens no total)?</string>
+    <string name="confirm_delete_has_cloud_image">Excluir %s imagens na nuvem?</string>
+    <string name="confirm_delete_has_cloud_image_video">Excluir %s itens na nuvem?</string>
+    <string name="confirm_delete_has_cloud_local_image">Excluir %s imagens locais e na nuvem?</string>
+    <string name="confirm_delete_has_cloud_local_image_video">Excluir %s itens locais e na nuvem?</string>
+    <string name="confirm_delete_has_cloud_local_video">Excluir %s vídeos locais e na nuvem?</string>
+    <string name="confirm_delete_has_cloud_video">Excluir %s vídeos na nuvem?</string>
+    <string name="confirm_delete_has_local_image">Excluir %s imagens?</string>
+    <string name="confirm_delete_has_local_image_video">Excluir %s itens?</string>
+    <string name="confirm_delete_has_local_video">Excluir %s vídeos?</string>
     <string name="confirm_delete_home_merge_item">Excluir %1$s imagem(ns) em %2$s álbum(ns) no telefone e na nuvem?</string>
-    <string name="confirm_delete_pictures">%s imagens</string>
-    <string name="confirm_delete_system_album">Excluir %s?</string>
+    <string name="confirm_delete_init_message">A foto será excluída deste dispositivo e de sua Mi Cloud também. Se você deseja excluir somente a foto local, por favor faça a exclusão apenas nos álbuns locais.</string>
+    <string name="confirm_delete_init_title">Dica</string>
+    <string name="confirm_delete_pictures">Excluir %s imagens</string>
+    <string name="confirm_delete_system_album">%s é um álbum do sistema.</string>
     <string name="confirm_delete_this_picture">Excluir esta imagem?</string>
     <string name="confirm_delete_this_video">Excluir este vídeo?</string>
-    <string name="confirm_delete_videos">%s vídeos</string>
+    <string name="confirm_delete_videos">Excluir %s vídeos</string>
     <string name="confirm_download">Você precisará fazer o download de %s. Este aviso não será exibido novamente.</string>
     <string name="confirm_download_video_message">Você precisa finalizar o download deste vídeo antes de assistí-lo. O download será retomado quando uma conexão Wi-Fi estiver disponível.</string>
     <string name="confirm_download_video_title">Download de vídeo</string>
@@ -695,7 +707,7 @@ amigos. Veja e atualize seus
     <string name="move_to_cloud_album">Mover para</string>
     <string name="mtgif">MTGIF</string>
     <string name="mtxx">MTXX</string>
-    <string name="multiface_crop_help">Toque em um rosto para começar.</string>
+    <string name="multiface_crop_help">Toque em um rosto para começar</string>
     <string name="must_pick_file">Selecionar imagem</string>
     <string name="negative">Negativo</string>
     <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
@@ -704,7 +716,7 @@ amigos. Veja e atualize seus
     <string name="no_albums_alert">Nenhum álbum disponível</string>
     <string name="no_connectivity">Alguns locais não foram identificados devido a problemas na rede.</string>
     <string name="no_location">Nenhum local</string>
-    <string name="no_map_app">Nenhum aplicativo encontrado para executar esta ação.</string>
+    <string name="no_map_app">Nenhum aplicativo encontrado para executar esta ação</string>
     <string name="no_network_connected">Nenhuma rede detectada</string>
     <string name="no_picture_or_video">Vazio</string>
     <string name="no_storage_disable_cloud_albums">Álbuns na nuvem indisponíveis.</string>
@@ -743,7 +755,7 @@ amigos. Veja e atualize seus
     <string name="photo_saved">Foto salva no álbum %s</string>
     <string name="photo_size">Tamanho</string>
     <string name="photoeditor_name">MI Photo Studio</string>
-    <string name="photos">Foto(s)</string>
+    <string name="photos">Fotos</string>
     <string name="pick_too_many_recipients">Muitos destinatários</string>
     <string name="pick_too_much_tips">Limite de itens excedido (máximo de %d itens).</string>
     <string name="picker_no_album_selected">Nenhum álbum selecionado</string>
@@ -815,12 +827,12 @@ amigos. Veja e atualize seus
     <string name="set_label_mtp_devices">Dispositivos MTP</string>
     <string name="set_lock_and_wallpaper">Definindo como Plano de fundo…</string>
     <string name="set_lock_or_wallpaper">Usar como plano de fundo</string>
-    <string name="set_lockscreen">Plano de fundo da tela de bloqueio…</string>
+    <string name="set_lockscreen">Definindo como Plano de fundo…</string>
     <string name="set_recent_album">Marcar como favorito</string>
     <string name="set_screensaver_path_message">As fotos neste álbum serão exibidas na Proteção de tela.</string>
     <string name="set_screensaver_path_message_if_only_charging">Imagens neste álbum só serão exibidas na proteção de tela quando o telefone estiver carregando.</string>
     <string name="set_screensaver_path_title">Apresentação de slides</string>
-    <string name="set_wallpaper">Plano de fundo da tela inicial…</string>
+    <string name="set_wallpaper">Definindo como Plano de fundo…</string>
     <string name="settings">Configurações</string>
     <string name="settings_i_xiaomi_com">Veja seus álbuns na nuvem acessando i.xiaomi.com</string>
     <string name="shadow">Sombras</string>
@@ -845,6 +857,7 @@ amigos. Veja e atualize seus
     <string name="size_above">%1$s ou mais</string>
     <string name="size_below">%1$s ou menos</string>
     <string name="size_between">%1$s para %2$s</string>
+    <string name="skip_hide_special_album">Impossível ocultar álbuns do sistema (Câmera, Screenshots).</string>
     <string name="slideshow">Apresentação de slides</string>
     <string name="slideshow_category">Apresentação de slides</string>
     <string name="slideshow_dream_name">Apresentação de slides</string>
@@ -893,6 +906,8 @@ amigos. Veja e atualize seus
     <string name="ubifocus_data_missing">Alguns dados foram perdidos</string>
 	<string name="ubifocus_guide_text">Segure por 0.5s para re-focalizar</string>
     <string name="ubifocus_map_error">Alguns dados estão incorretos</string>
+    <string name="ubifocus_refocus_data_missing">Falha na re-focalização pois alguns dados estão faltando</string>
+    <string name="ubifocus_refocus_download_tip">Por favor faça o download dos dados de re-focalização antes de tentar novamente</string>
     <string name="ubifocus_refocus_fail_tip">Impossível ajustar foco, dados necessários estão faltando ou incorretos.</string>
     <string name="ucdownloads_screenshot">UC Browser</string>
     <string name="unit_mm">mm</string>
