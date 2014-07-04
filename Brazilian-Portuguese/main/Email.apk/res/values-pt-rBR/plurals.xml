@@ -3,7 +3,7 @@
     <plurals name="move_messages">
         <item quantity="other">Mover mensagens</item>
         <item quantity="zero">Mover mensagens</item>
-		<item quantity="one">Mover mensagem</item>
+        <item quantity="one">Mover mensagem</item>
         <item quantity="two">Mover mensagens</item>
         <item quantity="few">Mover mensagens</item>
         <item quantity="many">Mover mensagens</item>
@@ -43,7 +43,7 @@
     <plurals name="contact_num_selected">
         <item quantity="other">%d contatos selecionados</item>
         <item quantity="zero">%d contatos selecionados</item>
-	    <item quantity="one">1 contato selecionado</item>
+        <item quantity="one">%1$d  contato selecionado</item>
         <item quantity="two">%d contatos selecionados</item>
         <item quantity="few">%d contatos selecionados</item>
         <item quantity="many">%d contatos selecionados</item>
@@ -51,7 +51,7 @@
     <plurals name="num_selected">
         <item quantity="other">%d selecionados</item>
         <item quantity="zero">%d selecionados</item>
-        <item quantity="one">1 selecionado</item>
+        <item quantity="one">%1$d  selecionado</item>
         <item quantity="two">%d selecionados</item>
         <item quantity="few">%d selecionados</item>
         <item quantity="many">%d selecionados</item>
@@ -135,7 +135,7 @@
     <plurals name="new_incoming_messages_many">
         <item quantity="other">%1$d novas mensagens</item>
         <item quantity="zero">%1$d novas mensagens</item>
-        <item quantity="one">1 nova mensagem</item>
+        <item quantity="one">%1$d nova mensagem</item>
         <item quantity="two">%1$d novas mensagens</item>
         <item quantity="few">%1$d novas mensagens</item>
         <item quantity="many">%1$d novas mensagens</item>
@@ -143,7 +143,7 @@
     <plurals name="show_messages_read">
         <item quantity="other">%1$d mensagens mais antigas</item>
         <item quantity="zero">%1$d mensagens mais antigas</item>
-        <item quantity="one">1 mensagem mais antiga</item>
+        <item quantity="one">%1$d mensagem mais antiga</item>
         <item quantity="two">%1$d mensagens mais antigas</item>
         <item quantity="few">%1$d mensagens mais antigas</item>
         <item quantity="many">%1$d mensagens mais antigas</item>

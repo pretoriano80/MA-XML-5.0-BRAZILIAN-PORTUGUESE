@@ -135,7 +135,6 @@
     <string name="chat_qq">Bater papo usando o QQ</string>
     <string name="chat_skype">Bater papo usando o Skype</string>
     <string name="chat_yahoo">Bater papo usando o Yahoo</string>
-    <string name="check_unsynchronized_accounts">Frequência de sincronização</string>
     <string name="checkhint">verifique o outro telefone</string>
     <string name="clearCallLogConfirmation">Todos os registros de chamada serão eliminados.</string>
     <string name="clearCallLogConfirmation_title">Excluir</string>
@@ -318,9 +317,6 @@
     <string name="dialog_voicemail_airplane_mode_message">Para chamar o correio de voz, desative o modo para Avião.</string>
     <string name="dialog_voicemail_not_ready_message">Para configurar o correio de voz, Vá em Menu > Configurações.</string>
     <string name="directory_search_label">Diretório</string>
-    <string name="dirty_contacts_notification_description">%d modificações em seus contatos ainda não foram sincronizados com sua conta</string>
-    <string name="dirty_contacts_notification_message">(Você pode desativar este lembrete nas configurações de contatos)</string>
-    <string name="dirty_contacts_notification_title">Deseja sincronizar seus contatos?</string>
     <string name="display_all_contacts">Todos os contatos</string>
     <string name="display_more_groups">Mais grupos…</string>
     <string name="display_only_phones">Ocultar contatos sem número</string>
@@ -391,9 +387,6 @@ Motivo: \"%s\""</string>
     <string name="favoritesFrequentContacted">Contatos frequentes</string>
     <string name="favorites_list_empty">Nenhum favorito</string>
     <string name="foundTooManyContacts">Mais de %d encontrados.</string>
-    <string name="frequency_none">Não me lembrar</string>
-    <string name="frequency_three_days">Verificar e lembrar a cada três dias</string>
-    <string name="frequency_weekly">Verificar e lembrar semanalmente</string>
     <string name="frequentList">Frequente</string>
     <string name="from_account_format">%1$s</string>
     <string name="full_name">Nome</string>
@@ -801,8 +794,6 @@ Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>"
     <string name="redirect_calls_to_vm_confirm_text">Ativar</string>
     <string name="refresh">Atualizar</string>
     <string name="relationLabelsGroup">Relacionamento</string>
-    <string name="remind_btn_ignore">Ignorar</string>
-    <string name="remind_btn_sync_now">Sincronizar</string>
     <string name="removePhoto">Excluir foto</string>
     <string name="remove_blacklist">Desbloquear</string>
     <string name="remove_duplicate">"A MIUI irá ajuda-lo a encontrar e unir contatos duplicados. Estes contatos não serão unidos automaticamente, você precisará uni-los manualmente.
@@ -1145,7 +1136,7 @@ Escolha uma das seguintes opções:"</string>
     <string name="wipe_data">Excluir dados</string>
     <string name="yellowPageNavigationIconLabel">Diretório</string>
     <string name="yellowPageNavigationLabel">Diretório</string>
-    <string name="yellowpage_navigation_menu_order">Minha ordem</string>
+    <string name="yellowpage_navigation_more_items">Mais</string>
     <string name="yellowpage_navigation_network_location_enable">Ativar agora</string>
     <string name="yellowpage_navigation_network_location_enable_later">Ativar depois</string>
     <string name="yellowpage_navigation_network_location_enabled">O serviço está ativado, você pode desativá-lo nas configurações de localização</string>
@@ -1159,6 +1150,9 @@ Escolha uma das seguintes opções:"</string>
     <string name="yellowpage_navigation_search_result_service_error">Serviço temporariamente indisponível</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Erro desconhecido!</string>
     <string name="yellowpage_navigation_search_select_city">Por favor, selecione a cidade</string>
+    <string name="yellowpage_navigation_send_to_desktop_downloading">Fazendo download…</string>
+    <string name="yellowpage_navigation_send_to_desktop_failed">Falha, verifique suas configurações de rede</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Adicionado à tela inicial</string>
+    <string name="yellowpage_user_profile">Perfil</string>
     <string name="zero_items_selected">Por favor selecione itens</string>
 </resources>

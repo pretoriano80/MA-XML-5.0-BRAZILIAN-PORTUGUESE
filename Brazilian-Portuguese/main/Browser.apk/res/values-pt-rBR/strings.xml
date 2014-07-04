@@ -95,6 +95,8 @@
     <string name="cloud_loading_tips">Arraste para baixo para sincronizar</string>
     <string name="cloud_no_new_data_toast">Sem novos dados, tente mais tarde</string>
     <string name="cloud_tab">Aba Cloud</string>
+    <string name="cloud_time_tips">Última sincronização</string>
+    <string name="cloud_up_to_loading_tips">Solte para sincronizar</string>
     <string name="color_picker_button_black">Preto</string>
     <string name="color_picker_button_blue">Azul</string>
     <string name="color_picker_button_cancel">Cancelar</string>
@@ -181,6 +183,7 @@
     <string name="empty_bookmarks_folder">Não há favoritos.</string>
     <string name="empty_history">Nenhum histórico do navegador.</string>
     <string name="empty_snapshots_folder">Nenhuma página salva.</string>
+    <string name="enter_developer_mode">Entrar no modo de desenvolvedor</string>
     <string name="error_console_eval_button_text">Avaliar</string>
     <string name="error_console_eval_text_hint">Avaliar JavaScript</string>
     <string name="error_console_header_text_maximized">Console JS</string>

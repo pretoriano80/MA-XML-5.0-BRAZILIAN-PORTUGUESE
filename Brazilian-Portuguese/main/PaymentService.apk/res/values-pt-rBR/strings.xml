@@ -174,6 +174,7 @@ por favor entre em contato com o SAC do serviço de pagamentos China Mobile: 400
     <string name="mibi_license_net_prompt_title">Conexão com a internet requerida</string>
     <string name="mibi_license_title">Termo do Usuário</string>
     <string name="mili_center">Mi Credit</string>
+    <string name="mipay_error">Falha no Mi Pay</string>
     <string name="msg_denomination_type">Mi Credit</string>
     <string name="msg_error">Falha na recarga</string>
     <string name="msg_order_hint_1_1">Após você selecionar \"Confirmar compra\", seu telefone irá</string>
@@ -230,6 +231,7 @@ por favor entre em contato com o SAC do serviço de pagamentos China Mobile: 400
     <string name="progress_error_recharge_summary">Falha na recarga! Por favor tente novamente mais tarde.</string>
     <string name="progress_error_recharge_title">Falha na recarga</string>
     <string name="progress_loading">Processando…</string>
+    <string name="progress_mipay_creating">Gerando compra…</string>
     <string name="progress_msg_creating">Gerando recarga…</string>
     <string name="progress_paytool_creating">Gerando compra de %1$s…</string>
     <string name="progress_paytool_installing">Instalando plugin de segurança móvel %1$s…</string>
@@ -243,11 +245,9 @@ por favor entre em contato com o SAC do serviço de pagamentos China Mobile: 400
     <string name="progress_success_recharge_summary">Balanço da conta: %1$s Mi Credits.</string>
     <string name="progress_success_recharge_title">Recarga de %1$s Mi Credits concluída</string>
     <string name="progress_voucher_creating">Adicionando Mi Credits em sua conta, por favor aguarde…</string>
-    <string name="progress_warning_check">"O pagamento ainda não foi processado. 
-Nós verificaremos novamente em dois dias úteis."</string>
-    <string name="progress_warning_contact_server">"O pagamento ainda não foi processado. 
-1. Por favor entre em contato com o SAC： %1$s 
-2. Quando solicitado, insira o número de série: %2$s."</string>
+    <string name="progress_warning_check_with_contact">"O pagamento ainda não foi processado. 
+Nós verificaremos novamente em dois dias úteis.
+Serviço de Atendimento ao Cliente: 400-100-5678"</string>
     <string name="progress_warning_waiting">"O pagamento ainda não foi processado."</string>
     <string name="recharge_alipay_title">Alipay</string>
     <string name="recharge_bankcall_title">Cartão bancário</string>

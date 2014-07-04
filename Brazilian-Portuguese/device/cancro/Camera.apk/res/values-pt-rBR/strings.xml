@@ -509,6 +509,7 @@ toque no botão do disparador"</string>
     <string name="toast_burst_snap_forbidden_when_iso_not_auto">É necessário definir o ISO como automático</string>
     <string name="toast_cannot_preview_image_when_screen_locked">Impossível visualizar imagem ou vídeo com a tela bloqueada.</string>
     <string name="toast_start_audio_capture">Faça barulho para ativar o disparador</string>
+    <string name="ubi_focus_capture_fail">Falha na captura, tente novamente</string>
     <string name="ubi_focus_exit_button_text">Sair do modo Ubi Focal</string>
     <string name="ubifocus_capture_warning_message">Os resultados são melhores quando a tela de pré-visualização contém objetos próximos (a menos de um metro da lente da câmera) e distantes</string>
     <string name="undo">Desfazer</string>

@@ -115,12 +115,10 @@ Nota: Aplicativos com este tipo de permissão podem causar instabilidade do sist
     <string name="HIPS_Perm_GetCallState">Receber estado atual</string>
     <string name="HIPS_Perm_ListenCallState">Monitorar estado de chamada</string>
     <string name="HIPS_Perm_Location">Posicionamento</string>
-    <string name="HIPS_Perm_Location_Access">Obter sua posição atual</string>
     <string name="HIPS_Perm_Location_CellInfo">Obter localização por célula</string>
     <string name="HIPS_Perm_Location_CellLocation">Obter localização por célula</string>
     <string name="HIPS_Perm_Location_Desc">Localizar seu telefone através de posicionamento GPS</string>
     <string name="HIPS_Perm_Location_Hint">%1$s aplicativos tem permissão para utilizar o posicionamento GPS</string>
-    <string name="HIPS_Perm_Location_Monitor">Adquirir posição</string>
     <string name="HIPS_Perm_Location_Source_Cellular">Fonte: Rede Móvel</string>
     <string name="HIPS_Perm_Location_Source_GPS">Fonte: GPS</string>
     <string name="HIPS_Perm_Location_Source_Network">Fonte: Rede</string>

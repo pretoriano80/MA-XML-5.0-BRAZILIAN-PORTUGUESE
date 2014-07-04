@@ -39,8 +39,8 @@
     <string name="compress_message">Comprimir para…</string>
     <string name="compress_title">Comprimir</string>
     <string name="confirm">Confirmar</string>
-    <string name="connect_network_setting_des">Lembrar ao acessar rede</string>
     <string name="confirm_know">OK</string>
+    <string name="connect_network_setting_des">Lembrete ao acessar rede</string>
     <string name="copy_failed">Não foi possível copiar</string>
     <string name="create_kuaipan_shortcut_pref">Mostrar na Tela inicial</string>
     <string name="create_new_folder_desctiption">Criando pasta…</string>

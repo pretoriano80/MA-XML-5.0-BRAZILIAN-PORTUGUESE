@@ -731,8 +731,7 @@ amigos. Veja e atualize seus
     <string name="open_single_image_failure">Falha ao carregar imagem</string>
     <string name="open_sync_title">Ativar sincronização</string>
     <string name="operation_add_picture">Adicionar imagens</string>
-    <string name="operation_delete_confirm_message_folder">"Todo o conteúdo da pasta será excluído.
-"</string>
+    <string name="operation_delete_confirm_message_folder">"Todo o conteúdo da pasta será excluído. "</string>
     <string name="operation_failed">Falha na operação</string>
     <string name="operation_in_process">Processando…</string>
     <string name="operation_refresh">Atualizar</string>

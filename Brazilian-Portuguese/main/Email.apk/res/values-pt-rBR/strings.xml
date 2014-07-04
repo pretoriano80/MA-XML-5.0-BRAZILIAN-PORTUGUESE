@@ -552,8 +552,7 @@ Cc: %4$s
     <string name="outbox_alert_button_confirm">Editar</string>
     <string name="outbox_alert_button_no_resend">Não enviar</string>
     <string name="outbox_alert_button_resend">Reenviar</string>
-    <string name="outbox_alert_description_sent_failed">"O arquivo anexado
-excede o limite de tamanho"</string>
+    <string name="outbox_alert_description_sent_failed">"O arquivo anexado excede o limite de tamanho"</string>
     <string name="outbox_alert_mailbox_not_found">Endereço de e-mail não encontrado</string>
     <string name="outbox_alert_title_sent_failed">Falha ao enviar e-mail</string>
     <string name="outbox_no_mails">Nenhum e-mail na Caixa de saída</string>

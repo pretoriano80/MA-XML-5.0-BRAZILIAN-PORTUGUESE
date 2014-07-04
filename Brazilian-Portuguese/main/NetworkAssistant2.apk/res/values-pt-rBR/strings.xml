@@ -49,7 +49,8 @@ A utilização em excesso deste pacote pode resultar em cobranças adicionais de
     <string name="datausage_purchase_pay_confirm">Pagar</string>
     <string name="datausage_purchase_pay_hint">Para cancelar, ligue no %s</string>
     <string name="datausage_purchase_pkglist_networkerror">Impossível conectar-se à rede. Verifique sua conexão com a internet e tente novamente.</string>
-    <string name="datausage_purchase_pkglist_nodata">Existe um conflito com seu pacote de dados atual e sua compra. Entre em contato com sua operadora para maiores informações.</string>
+    <string name="datausage_purchase_pkglist_nodata">"Existe um conflito com seu pacote de dados atual e sua compra. 
+ Entre em contato com sua operadora para maiores informações."</string>
     <string name="datausage_purchase_pkglist_servererror">Erro de servidor</string>
     <string name="datausage_purchase_result_failed">Impossível concluir compra</string>
     <string name="datausage_purchase_result_ok">"Você comprou %s
@@ -98,6 +99,7 @@ a conexão de dados móveis"</string>
     <string name="main_button_usage_package_setting">Definir limite de dados</string>
     <string name="main_toolbar_firewall">Restringir</string>
     <string name="main_toolbar_purchase">Recarregar</string>
+    <string name="main_toolbar_saving">Otimizador</string>
     <string name="main_toolbar_statistic">Estatísticas</string>
     <string name="main_traffic_overlimit_text">%s excedido</string>
     <string name="main_traffic_remian_text">"%s
@@ -175,6 +177,13 @@ Usado"</string>
     <string name="pref_title_network_diagnostics">Diagnóstico de rede</string>
     <string name="pref_title_traffic_speed_state">Mostrar velocidade de rede</string>
     <string name="pref_title_update_notification">Mostrar notificações de uso de dados</string>
+    <string name="pref_traffic_saving_issue">FAQ</string>
+    <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Ativar o Otimizador afeta minha privacidade? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Não. Seus dados continuarão privados e não serão compartilhados com terceiros. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; Por que o meu Otimizador não funciona? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; O Otimizador é acionado somente quando você está utilizando a rede de dados móveis para baixar ou enviar algum conteúdo."</string>
+    <string name="pref_traffic_saving_notify_switch">Mostrar na barra de notificações</string>
+    <string name="pref_traffic_saving_notify_switch_hint">Exibir informações do otimizador de dados na barra de notificações</string>
+    <string name="pref_traffic_saving_switch">Otimizador</string>
+    <string name="pref_traffic_saving_switch_hint">Usar proxy para compactar dados</string>
+    <string name="pref_traffic_saving_title">Configurações do otimizador</string>
     <string name="pref_version">Versão %s</string>
     <string name="pref_warning_values">Nível de aviso de limite de dados</string>
     <string name="right_precent">100%</string>
@@ -189,8 +198,7 @@ Usado"</string>
     <string name="tips_message">Caso você não tenha certeza dos detalhes de seu plano de dados móveis, você precisará entrar em contato com sua operadora.</string>
     <string name="traffic_config_alert_body">"Seu uso de dados com a operadora mostra que você possui %s restando.
 Você deseja atualizar seu limite de uso de dados local?"</string>
-    <string name="traffic_config_alert_body_leisure">"
-Seu uso de dados com a operadora mostra que você possui %1$s restando para uso fora do período de pico. Esta informação é diferente do uso de %2$s definido localmente."</string>
+    <string name="traffic_config_alert_body_leisure">"Seu uso de dados com a operadora mostra que você possui %1$s restando para uso fora do período de pico. Esta informação é diferente do uso de %2$s definido localmente."</string>
     <string name="traffic_config_alert_body_leisure_notset">"
 Seu uso de dados com a operadora mostra que você possui %1$s restando para uso fora do período de pico. Você não definiu um limite local."</string>
     <string name="traffic_config_alert_body_normal">"
@@ -212,6 +220,23 @@ Seu uso de dados com a operadora mostra que você possui %1$s restando para uso 
     <string name="traffic_protection_text_hint">Definir limite de dados para %s</string>
     <string name="traffic_protection_unknown"><u>Definir depois</u></string>
     <string name="traffic_protection_use_data">Dados ativados</string>
+    <string name="traffic_saving_button_sorted">Detalhes</string>
+    <string name="traffic_saving_button_start">Ativar</string>
+    <string name="traffic_saving_button_stop">Desativar</string>
+    <string name="traffic_saving_history_title">Histórico</string>
+    <string name="traffic_saving_history_total_money">Dinheiro economizado</string>
+    <string name="traffic_saving_history_total_money_unit"/>
+    <string name="traffic_saving_history_total_traffic">Economia de dados</string>
+    <string name="traffic_saving_msg_month">Total do mês: %1$s</string>
+    <string name="traffic_saving_msg_today">Economizado hoje:</string>
+    <string name="traffic_saving_notify_start_content">%s economizados este mês</string>
+    <string name="traffic_saving_notify_start_title">Reduzir uso de dados</string>
+    <string name="traffic_saving_tecsupport">Desenvolvido por Opera Max</string>
+    <string name="traffic_saving_title">Otimizador</string>
+    <string name="traffic_saving_toast_start_mobile">Otimizador ativado</string>
+    <string name="traffic_saving_toast_start_none_mobile">O Otimizador será iniciado sempre que você utilizar os dados móveis</string>
+    <string name="traffic_saving_toast_start_unreachable">Falha ao iniciar o Otimizador</string>
+    <string name="traffic_saving_toast_stop">Otimizador desativado</string>
     <string name="traffic_setting_fragment_area">Local</string>
     <string name="traffic_setting_fragment_brand">Marca</string>
     <string name="traffic_setting_fragment_button2_text">Salvar</string>

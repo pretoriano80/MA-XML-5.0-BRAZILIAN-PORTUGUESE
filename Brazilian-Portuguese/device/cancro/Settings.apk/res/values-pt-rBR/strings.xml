@@ -470,6 +470,7 @@ Digite o PIN para parear com \"%1$s\". [Alta Segurança ativada: é necessária 
     <string name="bluetooth_permission_request">Solicitação de permissão para Bluetooth</string>
     <string name="bluetooth_phonebook_request">Solicitação de acesso à agenda telefônica</string>
     <string name="bluetooth_pin_values_hint">Geralmente, 0000 ou 1234</string>
+    <string name="bluetooth_preference_connected_devices">Dispositivos conectados</string>
     <string name="bluetooth_preference_device_settings">Configurações do aparelho</string>
     <string name="bluetooth_preference_found_devices">Dispositivos disponíveis</string>
     <string name="bluetooth_preference_paired_devices">Dispositivos pareados</string>
@@ -511,7 +512,7 @@ Digite o PIN para parear com \"%1$s\". [Alta Segurança ativada: é necessária 
     <string name="bluetooth_unlock_add_device">Adicionar dispositivo</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">O dispositivo pareado anteriormente será substituído pelo dispositivo atual.</string>
     <string name="bluetooth_unlock_change_matched_device">Escolher outro dispositivo</string>
-    <string name="bluetooth_unlock_confirm_device_text">Aproxime os dispositivos para concluir</string>
+    <string name="bluetooth_unlock_confirm_device_text">Toque os dispositivos para concluir</string>
     <string name="bluetooth_unlock_delete_device">Excluir este dispositivo</string>
     <string name="bluetooth_unlock_delete_device_confirm_msg">Excluir este dispositivo?</string>
     <string name="bluetooth_unlock_device_matched_text">Desbloquear telefone com este dispositivo.</string>
@@ -1139,7 +1140,7 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="force_stop_dlg_title">Forçar parada?</string>
     <string name="forget_wifi_message">Isto interromperá a conexão automática, e em caso de uma conexão protegida por senha, será necessário que os dados de segurança sejam reinseridos</string>
     <string name="free_ram">Memória utilizada</string>
-    <string name="free_wifi_confirm">Confirmar</string>
+    <string name="free_wifi_confirm">Ok</string>
     <string name="free_wifi_connect">Conectar</string>
     <string name="free_wifi_connect_dialog_summary">Esta rede Wi-Fi %1$s é gratuita e fornecida por %2$s.</string>
     <string name="free_wifi_connect_dialog_title">Wi-Fi Gratuita disponível</string>
@@ -1446,7 +1447,7 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="location_title">Meu Local</string>
     <string name="lock_after_timeout">Bloquear automaticamente</string>
     <string name="lock_after_timeout_summary">%1$s após modo de espera</string>
-    <string name="lock_intro_message">lock_intro_message</string>
+    <string name="lock_intro_message">Lock_intro_message</string>
     <string name="lock_screen_unlock_show">Exibir UI de desbloqueio de senha</string>
     <string name="lock_screen_unlock_show_summary">Não utilize outras telas de bloqueio após ativar este recurso.</string>
     <string name="lock_settings_common_title">Configuração de bloqueio</string>
