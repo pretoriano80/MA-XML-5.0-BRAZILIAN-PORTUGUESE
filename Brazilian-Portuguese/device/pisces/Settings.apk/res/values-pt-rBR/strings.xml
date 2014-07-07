@@ -53,7 +53,9 @@ Você também pode ampliar temporariamente o que estiver sob seu dedo dando um t
 Observação: o toque triplo para ampliar funciona em qualquer parte da tela, exceto no teclado e na barra de navegação."</string>
     <string name="accessibility_screen_magnification_title">Gestos de ampliação</string>
     <string name="accessibility_service_default_description">Nenhuma descrição foi fornecida.</string>
+    <string name="accessibility_service_no_apps_confirm">Confirmar</string>
     <string name="accessibility_service_no_apps_message">O TalkBack fornece feedback por voz para ajudar usuários cegos ou com visão reduzida. Deseja instalá-lo gratuitamente do Android Market?</string>
+    <string name="accessibility_service_no_apps_prompt">O TalkBack fornece feedback por voz para ajudar usuários cegos ou com visão reduzida. Deseja instalá-lo gratuitamente do Android Market?</string>
     <string name="accessibility_service_no_apps_title">Precisa de um leitor de tela?</string>
     <string name="accessibility_services_title">Serviços</string>
     <string name="accessibility_settings">Acessibilidade</string>
@@ -395,7 +397,7 @@ Deseja ativar o recurso agora?"</string>
     <string name="bluetooth_device_context_pair_connect">Parear e conectar</string>
     <string name="bluetooth_device_context_unpair">Cancelar pareamento</string>
     <string name="bluetooth_device_details">Configurações do dispositivo</string>
-    <string name="bluetooth_device_name">Nome do dispositivo:</string>
+    <string name="bluetooth_device_name">Nome:</string>
     <string name="bluetooth_device_searchable">Detectável</string>
     <string name="bluetooth_devices">Dispositivos Bluetooth</string>
     <string name="bluetooth_disable_profile_message">Essa ação desativará o %1$s do %2$s</string>
@@ -507,12 +509,12 @@ Digite o PIN para parear com \"%1$s\". [Alta Segurança ativada: é necessária 
     <string name="bluetooth_turning_on">Ativando Bluetooth…</string>
     <string name="bluetooth_unknown"/>
     <string name="bluetooth_unlock_add_device">Adicionar dispositivo</string>
-    <string name="bluetooth_unlock_change_device_confirm_msg">O dispositivo pareado anteriormente será substituído por um novo, deseja continuar?</string>
+    <string name="bluetooth_unlock_change_device_confirm_msg">O dispositivo pareado anteriormente será substituído pelo dispositivo atual.</string>
     <string name="bluetooth_unlock_change_matched_device">Escolher outro dispositivo</string>
-    <string name="bluetooth_unlock_confirm_device_text">Por favor toque para confirmar</string>
+    <string name="bluetooth_unlock_confirm_device_text">Aproxime os dispositivos para concluir</string>
     <string name="bluetooth_unlock_delete_device">Excluir este dispositivo</string>
-    <string name="bluetooth_unlock_delete_device_confirm_msg">Você deseja realmente excluir este dispositivo?</string>
-    <string name="bluetooth_unlock_device_matched_text">Utilizar este dispositivo para desbloquear a tela</string>
+    <string name="bluetooth_unlock_delete_device_confirm_msg">Excluir este dispositivo?</string>
+    <string name="bluetooth_unlock_device_matched_text">Desbloquear telefone com este dispositivo.</string>
     <string name="bluetooth_unlock_no_matched_device_yet">Nenhum dispositivo disponível</string>
     <string name="bluetooth_unlock_settings_devices_title">Dispositivo</string>
     <string name="bluetooth_unlock_settings_toggle_title">Aplicar a</string>
@@ -690,7 +692,7 @@ Digite o PIN para parear com \"%1$s\". [Alta Segurança ativada: é necessária 
     <string name="credentials_install_summary">Instalar certificados do armazenamento</string>
     <string name="credentials_not_erased">Armaz. de creden. não apagado.</string>
     <string name="credentials_old_password">Senha atual:</string>
-    <string name="credentials_password_too_short">A senha deve ter no mínimo 8 caracteres.</string>
+    <string name="credentials_password_too_short">A senha deve ter no mínimo 8 caracteres</string>
     <string name="credentials_reset">Limpar credenciais</string>
     <string name="credentials_reset_hint">Remover todo o conteúdo?</string>
     <string name="credentials_reset_summary">Remover todos os certificados</string>
@@ -725,6 +727,12 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="crypt_keeper_unplugged_text">Conecte seu carregador e tente novamente.</string>
     <string name="cryptkeeper_emergency_call">Chamada de emergência</string>
     <string name="cryptkeeper_return_to_call">Retornar à chamada</string>
+    <string name="cta_button_text_agree">Concordar</string>
+    <string name="cta_button_text_cancel">Cancelar</string>
+    <string name="cta_checkbox_title">Não perguntar novamente</string>
+    <string name="cta_dialog_msg">Você está prestes a utilizar o centro de segurança MIUI. Para garantir um funcionamento normal da ferramenta, os bancos de dados do centro de segurança poderão ser atualizados pela internet, o que exige uma conexão de rede em funcionamento. Você concorda com o uso do tráfego de rede pelo aplicativo?</string>
+    <string name="cta_dialog_title">Avisos e Termos</string>
+    <string name="cta_settings">Permitir acesso à internet</string>
     <string name="current_backup_pw_prompt">Digite sua senha de backup completo atual aqui</string>
     <string name="current_input_method">Padrão</string>
     <string name="current_use_ese">Utilizando elemento de segurança integrado</string>
@@ -3112,7 +3120,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="use_default_tts_settings_title">Usar minhas config.</string>
     <string name="use_location_summary">Permitir que o Google use sua localização para melhorar os resultados de pesquisa e outros serviços</string>
     <string name="use_location_title">Local. e pesq. do Google</string>
-    <string name="use_network_warning">Xiaomi Service Framework e os Serviços na Nuvem requerem uma conexão de rede em funcionamento</string>
+    <string name="use_network_warning">Você precisa de uma conexão com a internet para configurar e sincronizar sua Mi Account</string>
     <string name="use_system_language_to_select_input_method_subtypes">Usar idioma do sistema</string>
     <string name="user_account_title">Conta para conteúdo</string>
     <string name="user_add_profile_item_summary">É possível restringir o acesso a aplicativos e conteúdo a partir de sua conta</string>

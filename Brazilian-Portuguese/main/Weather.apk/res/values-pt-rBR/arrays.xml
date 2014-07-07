@@ -15,31 +15,31 @@
         <item>Lazer:</item>
     </string-array>
     <string-array name="weather_image">
-        <item>Céu aberto</item>
-        <item>Nublado</item>
-        <item>Nublado</item>
-        <item>Enevoado</item>
-        <item>Tempestade</item>
-        <item>Tempestade</item>
-        <item>Chuva</item>
-        <item>Trovoada</item>
-        <item>Chuviscos</item>
-        <item>Chuva</item>
-        <item>Chuva</item>
-        <item>Garoa</item>
-        <item>Chuva com neve</item>
-        <item>Nevasca</item>
-        <item>Neve esparsa</item>
-        <item>Nevasca severa</item>
-        <item>Nevasca</item>
-        <item>Nevasca leve</item>
-        <item>Tempestade de areia</item>
-        <item>Tempestade de areia</item>
-        <item>Tempestade de areia</item>
-        <item>Tempestade de areia</item>
-        <item>Tempestade de areia</item>
-        <item>Empoeirado</item>
-        <item>Neblina</item>
+        <item>clear</item>
+        <item>cloudy</item>
+        <item>hazy</item>
+        <item>foggy</item>
+        <item>pouring</item>
+        <item>raining</item>
+        <item>raining</item>
+        <item>stormy</item>
+        <item>pouring</item>
+        <item>pouring</item>
+        <item>raining</item>
+        <item>drizzling</item>
+        <item>sleeting</item>
+        <item>snowing</item>
+        <item>snowing</item>
+        <item>snowing</item>
+        <item>snowing</item>
+        <item>snowing</item>
+        <item>stormy</item>
+        <item>stormy</item>
+        <item>stormy</item>
+        <item>stormy</item>
+        <item>hailing</item>
+        <item>dusty</item>
+        <item>hazy</item>
     </string-array>
     <string-array name="weather_details_key">
         <item>Indisponível</item>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="all_numbers_count">
-        <item quantity="other">%d itens</item>
-        <item quantity="one">1 item</item>
+    <plurals name="more_coupons_count">
+        <item quantity="other">%d cupons</item>
+        <item quantity="one">1 cupom</item>
     </plurals>
 </resources>

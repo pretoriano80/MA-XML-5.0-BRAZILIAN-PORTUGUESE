@@ -49,7 +49,7 @@
     <string name="title_select_station">Selecionar Estação - %s</string>
     <string name="toast_added_to_list">Adicionado à lista</string>
     <string name="toast_added_to_presets">Adicionado às predef.</string>
-    <string name="toast_channel_searched">Escaneadas %1$d estações.</string>
+    <string name="toast_delete_station">%sMHz foi excluído</string>
     <string name="toast_fm_error_startfailed">Erro na gravação. Outro aplicativo pode estar utilizando a função de gravação. Por favor verifique e tente novamente.</string>
     <string name="toast_fm_recorder_access_error">"Impossível gravar enquanto o Modo Convidado estiver ativo"</string>
     <string name="toast_fm_recorder_internal_error">Erro gravando rádio</string>

@@ -40,6 +40,7 @@
     <string name="compress_title">Comprimir</string>
     <string name="confirm">Confirmar</string>
     <string name="confirm_know">OK</string>
+    <string name="connect_network_setting_des">Lembrete ao acessar rede</string>
     <string name="copy_failed">Não foi possível copiar</string>
     <string name="create_kuaipan_shortcut_pref">Mostrar na Tela inicial</string>
     <string name="create_new_folder_desctiption">Criando pasta…</string>
@@ -147,6 +148,8 @@ No momento nosso servidor está em manutenção. Por favor tente novamente mais 
     <string name="name_illegal">Digite um nome</string>
     <string name="net_lose_connected">A conexão foi perdida</string>
     <string name="networkView_notConnected">Nenhuma rede disponível.</string>
+    <string name="network_connect_confirm_des">O kuaipan fará uso de sua rede. Você concorda com o uso da rede?</string>
+    <string name="never_notify_network_connect">"Não exibir novamente"</string>
     <string name="new_folder_name">Pasta sem nome</string>
     <string name="no">Não</string>
     <string name="no_enough_storage_indication">O armazenamento do dispositivo está cheio.</string>
@@ -160,10 +163,11 @@ No momento nosso servidor está em manutenção. Por favor tente novamente mais 
     <string name="notif_title">Servidor FTP em execução.</string>
     <string name="open_changed_file_message">"O arquivo que você está tentando abrir foi alterado. Para corrigir este problema:
 1. Faça o download do arquivo novamente para garantir que você possua a versão mais recente.
-2. Efetue o upload do arquivo em sua conta KuaiPan."</string>
+2. Faça o upload do arquivo em sua conta KuaiPan."</string>
     <string name="open_changed_file_title">Alterações aplicadas</string>
 	<string name="open_file_failed">Falha ao abrir arquivo</string>
     <string name="operating">Processando…</string>
+    <string name="operation_agree">Concordar</string>
     <string name="operation_cancel">Cancelar</string>
     <string name="operation_compress">Comprimir</string>
     <string name="operation_compressing">Comprimindo…</string>
@@ -234,6 +238,7 @@ Armazenamento gratuito adicionado: %1$s"</string>
     <string name="storage_sd_card">Cartão SD</string>
     <string name="storage_usb">Armazenamento USB</string>
     <string name="storage_warning">Armazenamento externo indisponível.</string>
+    <string name="system_alert">Lembrete</string>
     <string name="tab_category">Categorias</string>
     <string name="tab_networkdisk">KuaiPan</string>
     <string name="tab_phone">Telefone</string>

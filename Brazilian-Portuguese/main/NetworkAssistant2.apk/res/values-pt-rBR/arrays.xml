@@ -11,6 +11,11 @@
         <item>"Hoje "</item>
         <item>"Este mês "</item>
     </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Ontem: "</item>
+        <item>"Hoje: "</item>
+        <item>"Este mês: "</item>
+    </string-array>
     <string-array name="date_of_app_all">
         <item>2G/3G Ontem</item>
         <item>2G/3G Hoje</item>
@@ -32,6 +37,11 @@
         <item>7s</item>
         <item>8s</item>
         <item>9s</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Uso de dados "</item>
+        <item>"Uso de Wi-Fi "</item>
+        <item>"Economizados "</item>
     </string-array>
     <string-array name="traffic_sort_type">
         <item>Uso de dados móveis</item>

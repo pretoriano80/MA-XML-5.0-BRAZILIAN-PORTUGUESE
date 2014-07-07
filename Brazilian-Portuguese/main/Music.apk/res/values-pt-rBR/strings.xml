@@ -156,11 +156,11 @@
     <string name="id3_edit_failed">Falha ao editar a ID3 Tag</string>
     <string name="id3_modify_confirm_check">Confirmar alterações na ID3 Tag?</string>
     <string name="id3_modify_confirm_text">Salvar</string>
-    <string name="impunity_declaration">As músicas online que você está prestes a acessar são do serviço de música online do Baidu. Clique em \"Confirmar\" para aceitar os <a href="http://music.baidu.com/doc/agreement">termos de uso</a> e continuar.</string>
-    <string name="impunity_declaration_ignore">Não perguntar</string>
-    <string name="impunity_declaration_settings">Sempre que utilizar a internet</string>
-    <string name="impunity_declaration_summary">Ao acessar músicas online, um pop-up será exibido lhe informando sobre o acesso à internet.</string>
-    <string name="impunity_declaration_title">Declaração</string>
+    <string name="impunity_declaration">As músicas online que você está prestes a acessar são do serviço de música online do Baidu. Clique em \"OK\" para aceitar os <a href="http://music.baidu.com/doc/agreement">termos de uso</a> e continuar. Esta ação pode aumentar o consumo de tráfego de rede.</string>
+    <string name="impunity_declaration_ignore">Não perguntar novamente</string>
+    <string name="impunity_declaration_settings">Notificar uso de internet</string>
+    <string name="impunity_declaration_summary">Ao acessar o aplicativo \"Música\", um pop-up será exibido lhe informando sobre o acesso à internet</string>
+    <string name="impunity_declaration_title">Declaração e Impunidade</string>
     <string name="keep_quit_position_settings">Guardar posição da música</string>
     <string name="keep_quit_position_summary">Retoma a execução na última posição ao sair do player.</string>
     <string name="ktv_alert_message">Toque em \'Usar dispositivo para adicionar músicas\' na tela inicial do seu console KTV e visualize seu código QR</string>
@@ -328,7 +328,7 @@
     <string name="sync_enable_toast">Você pode desativar a sincronização mais tarde em Configurações > Contas > Mi Cloud</string>
     <string name="synchronize_playlist_setting">Sincronizar playlists</string>
     <string name="synchronize_playlist_summary">Sincronizar playlists na Mi Cloud.</string>
-    <string name="take_effect_afater_restart">O aplicativo precisa ser reiniciado para que as nocas configurações tenham efeito</string>
+    <string name="take_effect_afater_restart">O aplicativo precisa ser reiniciado para que as novas configurações tenham efeito</string>
     <string name="track_album_format" formatted="false">%s - %s</string>
     <string name="track_bit_rate_hd">Alto</string>
     <string name="track_bit_rate_standard">Normal</string>

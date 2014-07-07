@@ -180,7 +180,7 @@ Use apenas o carregador fornecido."</string>
     <string name="settings_no_carrier">Nenhum</string>
     <string name="settings_notification_bar">Barra de notificações</string>
     <string name="settings_show_carrier">Exibir nome da operadora</string>
-    <string name="settings_show_carrier_summary">Quando desativado, exibe somente na tela de bloqueio</string>
+    <string name="settings_show_carrier_summary">Quando desativado, o nome da operadora será exibido somente na tela de bloqueio e barra de notificações</string>
     <string name="settings_show_flow_info">Exibir consumo de dados</string>
     <string name="settings_show_network_speed">Exibir velocidade de rede</string>
     <string name="settings_show_notificationBar_notification">Exibir notificações</string>
@@ -197,7 +197,7 @@ Use apenas o carregador fornecido."</string>
     <string name="settings_toggle_position_divider_page">%1$d atalhos acima da barra ativos</string>
     <string name="settings_toggle_position_reset">Redefinir atalhos</string>
     <string name="share">Compartilhar</string>
-    <string name="status_bar_and_notification_bar">Notificações e barra de status</string>
+    <string name="status_bar_and_notification_bar">Notificações</string>
     <string name="status_bar_date_format">"EEEE
 dd/MM/yyyy"</string>
     <string name="status_bar_date_formatter">%2$s</string>
@@ -277,7 +277,7 @@ dd/MM/yyyy"</string>
     <string name="usb_device_confirm_prompt">Abrir %1$s quando este dispositivo USB estiver conectado?</string>
     <string name="usb_device_permission_prompt">Permitir que o aplicativo %1$s acesse o dispositivo USB?</string>
     <string name="usb_mode_dont_ask">Lembrar escolha</string>
-    <string name="usb_mode_mount_storage_title">Abrir armazenamento USB agora?</string>
+    <string name="usb_mode_mount_storage_title">Abrir armazenamento USB?</string>
     <string name="usb_mode_notification">Cartão SD</string>
     <string name="usb_mtp_text">Arquivos</string>
     <string name="usb_notification">Conexão USB</string>
