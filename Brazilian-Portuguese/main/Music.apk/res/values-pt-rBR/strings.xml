@@ -261,6 +261,8 @@
     <string name="playlist_renamed_message">Playlist renomeada.</string>
     <string name="playlists_title">Playlists</string>
     <string name="powered_by">Fornecido por</string>
+    <string name="priority_storage">Priorizar uso do cartão SD</string>
+    <string name="priority_storage_summary">Downloads efetuados serão salvos no cartão SD externo quando disponível</string>
     <string name="project_device_mobile">Telefone Celular</string>
     <string name="queue">Playlist atual</string>
     <string name="quit_player">Sair</string>

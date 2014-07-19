@@ -286,6 +286,8 @@ para a MiBox ou TV"</string>
     <string name="pps">PPS</string>
     <string name="pptv">PPTV</string>
     <string name="prex_playcount">Reproduzir:</string>
+    <string name="priority_storage">Prorizar uso do cartão SD</string>
+    <string name="priority_storage_summary">Esta função tem efeito quando utilizado um cartão SD externo</string>
     <string name="publish">Enviar</string>
     <string name="qiyi">iQiyi</string>
     <string name="quarter_bell_alert_button_cancel">Cancelar</string>

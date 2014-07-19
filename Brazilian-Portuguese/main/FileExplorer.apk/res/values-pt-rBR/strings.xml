@@ -40,7 +40,7 @@
     <string name="compress_title">Comprimir</string>
     <string name="confirm">Confirmar</string>
     <string name="confirm_know">OK</string>
-    <string name="connect_network_setting_des">Lembrete ao acessar rede</string>
+    <string name="connect_network_setting_des">Lembrar-me ao acessar rede</string>
     <string name="copy_failed">Não foi possível copiar</string>
     <string name="create_kuaipan_shortcut_pref">Mostrar na Tela inicial</string>
     <string name="create_new_folder_desctiption">Criando pasta…</string>
@@ -92,7 +92,7 @@
 	<string name="file_not_exist">Arquivo não encontrado</string>
     <string name="file_too_large">O arquivo é muito grande.</string>
     <string name="finished">Concluído</string>
-    <string name="folder_exist">A pasta informada já existe</string>
+    <string name="folder_exist">Esta pasta já existe</string>
     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Toque aqui&lt;/a> para ir para a Lixeira</string>
     <string name="ftp_account_req_notice"> 4~16 caracteres, letras e números, sensível a maiúsculas e minúsculas</string>
     <string name="ftp_anonymous_login">Login anônimo</string>
@@ -148,7 +148,7 @@ No momento nosso servidor está em manutenção. Por favor tente novamente mais 
     <string name="name_illegal">Digite um nome</string>
     <string name="net_lose_connected">A conexão foi perdida</string>
     <string name="networkView_notConnected">Nenhuma rede disponível.</string>
-    <string name="network_connect_confirm_des">O kuaipan fará uso de sua rede. Você concorda com o uso da rede?</string>
+    <string name="network_connect_confirm_des">O uso do KuaiPan requer uma conexão com a internet.</string>
     <string name="never_notify_network_connect">"Não exibir novamente"</string>
     <string name="new_folder_name">Pasta sem nome</string>
     <string name="no">Não</string>
@@ -167,7 +167,7 @@ No momento nosso servidor está em manutenção. Por favor tente novamente mais 
     <string name="open_changed_file_title">Alterações aplicadas</string>
 	<string name="open_file_failed">Falha ao abrir arquivo</string>
     <string name="operating">Processando…</string>
-    <string name="operation_agree">Concordar</string>
+    <string name="operation_agree">Ok</string>
     <string name="operation_cancel">Cancelar</string>
     <string name="operation_compress">Comprimir</string>
     <string name="operation_compressing">Comprimindo…</string>
@@ -203,7 +203,7 @@ No momento nosso servidor está em manutenção. Por favor tente novamente mais 
     <string name="operation_unfavorite">Remover dos favoritos</string>
     <string name="pan_settting">Configurações do KuaiPan</string>
     <string name="paused">Em pausa</string>
-    <string name="pull_to_signin">Deslize para baixo para efetuar o login.</string>
+    <string name="pull_to_signin">Deslize para baixo para efetuar o login</string>
     <string name="query_bind_state">Conectando-se ao KuaiPan…</string>
     <string name="release_to_signin">Solte para efetuar o login.</string>
     <string name="rename_description">Renomeando…</string>
@@ -238,7 +238,7 @@ Armazenamento gratuito adicionado: %1$s"</string>
     <string name="storage_sd_card">Cartão SD</string>
     <string name="storage_usb">Armazenamento USB</string>
     <string name="storage_warning">Armazenamento externo indisponível.</string>
-    <string name="system_alert">Lembrete</string>
+    <string name="system_alert">Conexão com a internet</string>
     <string name="tab_category">Categorias</string>
     <string name="tab_networkdisk">KuaiPan</string>
     <string name="tab_phone">Telefone</string>

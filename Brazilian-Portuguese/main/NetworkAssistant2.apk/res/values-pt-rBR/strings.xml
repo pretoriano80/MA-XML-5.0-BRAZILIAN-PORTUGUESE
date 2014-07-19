@@ -221,14 +221,15 @@ Seu uso de dados com a operadora mostra que você possui %1$s restando para uso 
     <string name="traffic_protection_unknown"><u>Definir depois</u></string>
     <string name="traffic_protection_use_data">Dados ativados</string>
     <string name="traffic_saving_button_sorted">Detalhes</string>
+    <string name="traffic_saving_button_sorted_chose_simcard">Selecionar cartão</string>
     <string name="traffic_saving_button_start">Ativar</string>
     <string name="traffic_saving_button_stop">Desativar</string>
     <string name="traffic_saving_history_title">Histórico</string>
     <string name="traffic_saving_history_total_money">Dinheiro economizado</string>
     <string name="traffic_saving_history_total_money_unit"/>
     <string name="traffic_saving_history_total_traffic">Economia de dados</string>
-    <string name="traffic_saving_msg_month">Total do mês: %1$s</string>
-    <string name="traffic_saving_msg_today">Economizado hoje:</string>
+    <string name="traffic_saving_msg_month">Este mês: %1$s</string>
+    <string name="traffic_saving_msg_today">Economia hoje:</string>
     <string name="traffic_saving_notify_start_content">%s economizados este mês</string>
     <string name="traffic_saving_notify_start_title">Reduzir uso de dados</string>
     <string name="traffic_saving_tecsupport">Desenvolvido por Opera Max</string>

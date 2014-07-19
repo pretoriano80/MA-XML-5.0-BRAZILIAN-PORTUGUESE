@@ -462,6 +462,9 @@ Mudar para o novo provedor?"</string>
     <string name="ip_prefix_miui">Código da operadora</string>
     <string name="ip_prefix_required_miui">Código da operadora requerido</string>
     <string name="ip_prefix_sum_miui">Código da operadora: %s</string>
+    <string name="ivr_menu_dialing_msg">Encaminhando</string>
+    <string name="ivr_menu_list_sub_menu_count_format">Pressione %s</string>
+    <string name="ivr_menu_list_title">Menu de voz</string>
     <string name="jituan_number_format_error_message_miui">%s somente suporta números e wildcards</string>
     <string name="labelCDMAMore">Configurações de chamada CDMA</string>
     <string name="labelCF">Encaminhamento</string>
@@ -556,6 +559,8 @@ Mudar para o novo provedor?"</string>
     <string name="no_voip">Chamada pela internet não suportada</string>
     <string name="no_wifi_available">Você precisa estar conectado a uma rede Wi-Fi para realizar chamadas pela Internet (use as Configurações de redes sem fio e outras).</string>
     <string name="no_wifi_available_title">Nenhuma conexão Wi-Fi</string>
+    <string name="non_ivr_menu_collapse_menu">Recolher menu</string>
+    <string name="non_ivr_menu_view_menu">Ver menu</string>
     <string name="not_a_valid_port">O número da porta deve estar entre 1000 e 65534.</string>
     <string name="not_allowed">Seu cartão SIM não permite uma conexão com esta rede.</string>
     <string name="not_connected_miui">Não conectado</string>

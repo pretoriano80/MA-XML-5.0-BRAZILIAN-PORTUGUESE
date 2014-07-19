@@ -79,6 +79,7 @@
     <string name="alert_title_remove_account">Excluir dados sincronizados?</string>
     <string name="app_name">Mi Cloud Framework</string>
     <string name="bad_authentication">Nome de usuário ou senha incorretos</string>
+    <string name="bank_cards">Cartões bancários</string>
     <string name="bind_sina_weibo">Vincular com Weibo</string>
     <string name="bind_weibo_description">Sincronize amigos do Sina Weibo.</string>
     <string name="binded">Vinculado</string>

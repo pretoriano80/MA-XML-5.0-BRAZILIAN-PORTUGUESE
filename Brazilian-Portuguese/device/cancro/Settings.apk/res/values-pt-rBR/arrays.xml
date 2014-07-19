@@ -11,8 +11,7 @@
     </string-array>
     <string-array name="power_mode_entries">
         <item>Alta performance</item>
-        <item>Balanceado</item>
-        <item>Economia de energia</item>
+        <item>Balanceado (padrão)</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Após 1 minuto</item>
@@ -678,5 +677,9 @@ O computador abrirá automaticamente o telefone e lerá seus dados"</item>
         <item>Atraso curto</item>
         <item>Padrão</item>
         <item>Melhor qualidade</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Armazenamento interno</item>
+        <item>Armazenamento externo</item>
     </string-array>
 </resources>

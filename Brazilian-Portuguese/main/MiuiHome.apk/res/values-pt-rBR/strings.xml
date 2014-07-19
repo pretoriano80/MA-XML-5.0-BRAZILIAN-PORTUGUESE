@@ -153,7 +153,6 @@
     <string name="status_bar_toggle_network_type">Tipo de Rede</string>
     <string name="status_bar_toggle_network_type_action">com.android.phone/.MiuiPreferredNetworkTypeListPreference</string>
     <string name="status_bar_toggle_power_high">Performance</string>
-    <string name="status_bar_toggle_power_low">Economia de Energia</string>
     <string name="status_bar_toggle_power_mid">Normal</string>
     <string name="status_bar_toggle_power_mode">Modo de Energia</string>
     <string name="status_bar_toggle_power_mode_action">com.android.settings/com.android.settings.Settings$BatterySettingsActivity</string>
