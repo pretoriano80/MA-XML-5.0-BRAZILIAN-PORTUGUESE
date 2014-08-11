@@ -118,8 +118,8 @@ Observação: o toque triplo para ampliar funciona em qualquer parte da tela, ex
     <string name="advanced_settings_summary">Ativa mais opções de configuração</string>
     <string name="airplane_mode">Modo avião</string>
     <string name="alarm_volume_title">Alarme</string>
-    <string name="alert_show_screensaver_when_not_charging_msg">A bateria será gasta mais rapidamente ao exibir a proteção de tela enquanto o telefone não estiver sendo carregado. Desativar esta função?</string>
-    <string name="alert_show_screensaver_when_not_charging_title">Proteção de tela quando não carregando</string>
+    <string name="alert_show_screensaver_when_not_charging_msg">A exibição da proteção de tela irá consumir energia adicional da bateria.</string>
+    <string name="alert_show_screensaver_when_not_charging_title">Uso da bateria</string>
     <string name="all_volume_title">Volumes</string>
     <string name="allow">Permitir</string>
     <string name="allow_bind_app_widget_activity_allow_bind">Após a criação do widget, %1$s poderá acessar todos os dados exibidos.</string>
@@ -128,8 +128,8 @@ Observação: o toque triplo para ampliar funciona em qualquer parte da tela, ex
     <string name="allow_mock_location">Permitir locais fictícios</string>
     <string name="allow_mock_location_summary">Permitir locais fictícios</string>
     <string name="always_allow_bind_appwidgets_text">Você optou por permitir que este aplicativo crie widgets e acesse os dados.</string>
-    <string name="android_beam_disabled_summary">Indisponível porque o NFC está desativado</string>
-    <string name="android_beam_explained">"Quando este recurso está ativado, você pode enviar o conteúdo do aplicativo para outro dispositivo compatível com NFC, mantendo os dispositivos próximos. Por exemplo, você pode enviar páginas do navegador, vídeos do YouTube, contatos de pessoas e muito mais. Basta posicionar os dispositivos próximos (normalmente de costas um para o outro) e tocar em sua tela. O aplicativo determina o que é enviado."</string>
+    <string name="android_beam_disabled_summary">O compartilhamento por NFC requer que o NFC esteja ativado</string>
+    <string name="android_beam_explained">Você pode enviar uma página da internet, um vídeo, ou outros conteúdos da sua tela para outro dispositivo ao tocar um dispositivo no outro (geralmente com a traseira do telefone).</string>
     <string name="android_beam_label">Android Beam</string>
     <string name="android_beam_off_summary">Desativado</string>
     <string name="android_beam_on_summary">Pronto para transmitir conteúdo de aplicativos via NFC</string>
@@ -328,7 +328,7 @@ Deseja ativar o recurso agora?"</string>
     <string name="battery_info_status_unknown">Desconhecido</string>
     <string name="battery_info_technology_label">Tecnologia da bateria:</string>
     <string name="battery_info_temperature_label">Temperatura da bateria:</string>
-    <string name="battery_info_temperature_units">°C</string>
+    <string name="battery_info_temperature_units">° C</string>
     <string name="battery_info_uptime">Tempo desde a inicialização:</string>
     <string name="battery_info_voltage_label">Voltagem da bateria:</string>
     <string name="battery_info_voltage_units">mV</string>
@@ -732,7 +732,7 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="cta_button_text_cancel">Cancelar</string>
     <string name="cta_checkbox_title">Não mostrar novamente</string>
     <string name="cta_dialog_msg">O Centro de Segurança poderá conectar-se à internet para obter atualizações</string>
-    <string name="cta_dialog_title">Termos e Condições</string>
+    <string name="cta_dialog_title">Conexão com a internet</string>
     <string name="cta_settings">Permitir acesso à internet</string>
     <string name="current_backup_pw_prompt">Digite sua senha de backup completo atual aqui</string>
     <string name="current_input_method">Padrão</string>
@@ -756,7 +756,7 @@ Você pode encontrar controles de uso de dados mais apropriados nas configuraç�
     <string name="data_usage_auto_sync_on_dialog">"As alterações feitas em suas contas na web serão automaticamente copiadas para o telefone.
 
 Algumas contas, como Contas do Google, também poderão copiar automaticamente as alterações feitas no telefone para a web.
-
+ 
 Para determinar as informações a sincronizar em cada conta, acesse Configurações > Contas."</string>
     <string name="data_usage_auto_sync_on_dialog_title">Ativar sincronização automática?</string>
     <string name="data_usage_change_cycle">Alterar ciclo…</string>
@@ -776,7 +776,7 @@ Para determinar as informações a sincronizar em cada conta, acesse Configuraç
     <string name="data_usage_label_background">Plano de fundo</string>
     <string name="data_usage_label_foreground">Primeiro plano</string>
     <string name="data_usage_limit_dialog_mobile">"Sua conexão de dados móveis será desativada quando o limite especificado for atingido.
-
+    
 Como o uso de dados é calculado por seu telefone, e sua operadora pode entender o uso de forma diferente, use um limite moderado."</string>
     <string name="data_usage_limit_dialog_title">Limitando uso de dados</string>
     <string name="data_usage_limit_editor_title">Definir limite do uso de dados</string>
@@ -882,8 +882,8 @@ Esta configuração afeta todos os usuários do telefone."</string>
     <string name="device_admin_title">Administração do dispositivo</string>
     <string name="device_admin_warning">A ativação deste administrador permitirá que o aplicativo %1$s:</string>
     <string name="device_cpu">CPU</string>
-    <string name="device_cpu2_info">" Dual-Core "</string>
-    <string name="device_cpu4_info">" Quad-Core "</string>
+    <string name="device_cpu2_info">Dual-core\u0020</string>
+    <string name="device_cpu4_info">Quad-core\u0020</string>
     <string name="device_edit_title">Editar nome</string>
     <string name="device_info_default">Desconhecido</string>
     <string name="device_info_label">Informações do dispositivo</string>
@@ -920,17 +920,17 @@ Esta configuração afeta todos os usuários do telefone."</string>
     <string name="dialog_title_hdmi_color_calibration">Correção de cores</string>
     <string name="dialog_title_load_cleanup_engine_error">Erro</string>
     <string name="dialog_title_uninstall_apps">Desinstalar</string>
-    <string name="dirac_control">Mi Sound</string>
-    <string name="dirac_mode_earbuds">"Earbuds Xiaomi"</string>
+    <string name="dirac_control">Otimizar qualidade de áudio</string>
+    <string name="dirac_mode_earbuds">Mi earbuds</string>
     <string name="dirac_mode_general">"Fones de ouvido"</string>
     <string name="dirac_mode_general_earbuds">Fones padrão</string>
     <string name="dirac_mode_general_inear">Intra-auriculares</string>
-    <string name="dirac_mode_in_ear">"Fones Xiaomi in-ear"</string>
+    <string name="dirac_mode_in_ear">"Fones Mi in-ear"</string>
     <string name="dirac_mode_off">Dirac desligado</string>
-    <string name="dirac_mode_piston_1">Xiaomi Piston-1</string>
+    <string name="dirac_mode_piston_1">Mi Piston-1</string>
     <string name="dirac_mode_piston_100">Mi in-ear</string>
-    <string name="dirac_mode_piston_2">Xiaomi Piston-2</string>
-    <string name="dirac_mode_piston_youth">Xiaomi Piston-youth</string>
+    <string name="dirac_mode_piston_2">Mi Piston-2</string>
+    <string name="dirac_mode_piston_youth">Mi Piston-youth</string>
     <string name="dirac_switch_summary">Sempre utilizar o Mi Sound ao utilizar os alto-falantes</string>
     <string name="dirac_switch_title">Mi Sound</string>
     <string name="disable_adb_debug_summary">Desativar depuração USB</string>
@@ -966,7 +966,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
     <string name="dndm_dlg_remove_ok">Excluir</string>
     <string name="dndm_dlg_remove_vip">Excluir da lista de exceções?</string>
     <string name="dndm_menu_add_vip_custom">Adic. exceção</string>
-    <string name="dndm_mute_all">Silenciar chamadas e mensagens</string>
+    <string name="dndm_mute_all">Chamadas e mensagens estão sendo silenciadas</string>
     <string name="dndm_notification">Modo não perturbe ativado.</string>
     <string name="dndm_open">Não perturbe</string>
     <string name="dndm_repeated_call_setting_title">Alerta para chamadas repetidas</string>
@@ -1005,8 +1005,8 @@ Esta configuração afeta todos os usuários do telefone."</string>
     <string name="dolby_bassboost_normal">Normal</string>
     <string name="dolby_bassboost_title">Graves:</string>
     <string name="dolby_effects">Efeitos Dolby</string>
-    <string name="dolby_eq_enter_alert_msg">Você somente poderá utilizar o equalizador no modo Dolby Music. Habilitá-lo agora?</string>
-    <string name="dolby_eq_enter_alert_title">Ligar Dolby Music</string>
+    <string name="dolby_eq_enter_alert_msg">O equalizador só pode ser utilizado no modo Dolby music.</string>
+    <string name="dolby_eq_enter_alert_title">Ativar modo Dolby Music</string>
     <string name="dolby_mode_movie">Vídeo</string>
     <string name="dolby_mode_music">Música</string>
     <string name="dolby_mode_off">Off</string>
@@ -1053,6 +1053,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
     <string name="enable_compatibility">Dimensionar aplicativo</string>
     <string name="enable_drive_mode">Modo de direção</string>
     <string name="enable_firewall">Bloquear chamadas indesejadas</string>
+    <string name="enable_mobile_data_when_opening_hotspot">Ativar conexão de dados móveis também?</string>
     <string name="enable_opengl_traces_title">Ativar rastream. OpenGL</string>
     <string name="enable_quickboot_summary">Colocar o telefone em modo de inicialização rápida ao invés de desligá-lo.</string>
     <string name="enable_quickboot_title">Ativar inicialização rápida</string>
@@ -1140,7 +1141,7 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="force_stop_dlg_title">Forçar parada?</string>
     <string name="forget_wifi_message">Isto interromperá a conexão automática, e em caso de uma conexão protegida por senha, será necessário que os dados de segurança sejam reinseridos</string>
     <string name="free_ram">Memória utilizada</string>
-    <string name="free_wifi_confirm">Ok</string>
+    <string name="free_wifi_confirm">Confirmar</string>
     <string name="free_wifi_connect">Conectar</string>
     <string name="free_wifi_connect_dialog_summary">Esta rede Wi-Fi %1$s é gratuita e fornecida por %2$s.</string>
     <string name="free_wifi_connect_dialog_title">Wi-Fi Gratuita disponível</string>
@@ -1278,6 +1279,9 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="heavy_weight_stop_description">Não é possível interromper este aplicativo com segurança. Se ele for interrompido, alguns de seus trabalhos atuais podem ser perdidos.</string>
     <string name="hello_world">Olá mundo!</string>
     <string name="help_label">Ajuda</string>
+    <string name="high_performance_notif_summary">O modo de Performance está ativado.</string>
+    <string name="high_performance_notif_title">Aviso de uso da bateria</string>
+    <string name="high_performance_title">Parece que você está executando um teste de benchmark. Defina o gerenciamento de energia para \"Performance\" para melhores resultados.</string>
     <string name="history_details_title">Detalhes do histórico</string>
     <string name="home_app_uninstall_button">Desinstalar o aplicativo</string>
     <string name="home_key">Botão Home</string>
@@ -1556,7 +1560,7 @@ Para limpar músicas, fotos e outros dados de usuário, o "<b>armazenamento USB<
     <string name="master_clear_gesture_prompt">Desenhe o seu padrão de desbloqueio</string>
     <string name="master_clear_personal_data">"Tem certeza que deseja apagar seus dados pessoais? Atenção, esta operação não pode ser desfeita"</string>
     <string name="master_clear_personal_data_application">"Tem certeza que deseja apagar seus dados pessoais e aplicativos instalados? Atenção, esta operação não pode ser desfeita"</string>
-    <string name="master_clear_personal_data_sdcard">"Tem certeza que deseja apagar seus dados pessoais e formatar o cartão SD? Atenção, esta operação não pode ser desfeita"</string>
+    <string name="master_clear_personal_data_sdcard">"Apagar sua informação pessoal e todo o seu conteúdo? Esta ação não pode ser revertida!"</string>
     <string name="master_clear_summary">Apaga todos os dados no telefone</string>
     <string name="master_clear_title">Configuração original</string>
     <string name="media_button">Botão de mídia</string>
@@ -1591,7 +1595,7 @@ Para limpar músicas, fotos e outros dados de usuário, o "<b>armazenamento USB<
     <string name="memory_music_usage">Áudio (música, toques, podcasts etc.)</string>
     <string name="memory_size">Espaço total</string>
     <string name="memory_suffix">GB</string>
-    <string name="memory_title">Disponível %1$s\u0009\u0009Total %2$s</string>
+    <string name="memory_title">Disponível: %1$s\u0009\u0009Total: %2$s</string>
     <string name="memory_used_suffix">Usado</string>
     <string name="menu_cancel">Descartar</string>
     <string name="menu_delete">Excluir APN</string>
@@ -1669,7 +1673,7 @@ Para limpar músicas, fotos e outros dados de usuário, o "<b>armazenamento USB<
     <string name="miui_screensaver_state_off">Off</string>
     <string name="miui_screensaver_state_on">On</string>
     <string name="miui_screensaver_title">Proteção de tela</string>
-    <string name="miui_screensaver_usage">Quando ativado, imagens no álbum da proteção de tela serão exibidas repetidamente 5 segundos após a tela desligar.</string>
+    <string name="miui_screensaver_usage">Imagens no álbum da proteção de tela serão exibidas repetidamente 5 segundos após a tela desligar.</string>
     <string name="mms_breathing_light_color_title">Cor do LED para mensagens</string>
     <string name="mms_breathing_light_freq_title">Frequência do LED para mensagens</string>
     <string name="mms_log_tab_title">Registro de mensagens</string>
@@ -1697,18 +1701,18 @@ Download: http://miui.com/win"</string>
     <string name="msd_help_summary">"Tendo dificuldades ao acessar o armazenamento em massa de seu telefone pelo computador? 
 Por favor selecione o sistema operacional do seu computador:"</string>
     <string name="msd_help_title">Ajuda de MTP</string>
-    <string name="msd_install">Reinstalar driver</string>
+    <string name="msd_install">Reinstalar driver?</string>
     <string name="msd_install_finish">OK</string>
     <string name="msd_install_next">Avançar</string>
     <string name="msd_install_retry_linux">"Se o computador falhar a detectar seu telefone,
 Tente o seguinte: 
 1) Instale os seguintes pacotes através do apt-get install mtps libfuse-dev libmad0-dev 
-2) Criar o diretório para montagem com o comando mkdir /media/mtp 
-3) Confirme as permissões de grupo de usuário no grupo fuse 
-4) Re-login 
-5) Accesse o dispositivo montado mtpfs /media/mtp através do FileExplorer 
-6) Desmonte o telefone com fusermount -u /media/mtp  
-Nota: Para Ubuntu 8.04"</string>
+2) Criar o diretório para montagem com o comando mkdir /media/mtp
+3) Confirme as permissões de grupo de usuário no grupo fuse
+4) Re-login
+5) Accesse o dispositivo montado mtpfs /media/mtp através do FileExplorer
+6) Desmonte o telefone com fusermount -u /media/mtp
+ Nota: Para Ubuntu 8.04"</string>
     <string name="msd_install_retry_mac">"Se o computador falhar ao detectar seu telefone, 
 Tente o seguinte: 
 "<li>"Pesquise por
@@ -2055,7 +2059,7 @@ Proceda com cautela. Deseja continuar?"</string>
     <string name="perm_user_app">Aplicativos do Usuário (%d)</string>
     <string name="perm_version">Versão: %1$s</string>
     <string name="permission_detail_info">Ver detalhes de permissões</string>
-    <string name="permission_detail_info_summary">"Permissões: Seguras %1$d， Privadas %2$d， Outras %3$d"</string>
+    <string name="permission_detail_info_summary">Segurança: %1$d | Privacidade: %2$d | Outras: %3$d</string>
     <string name="permission_manage">Gerenciamento de permissões</string>
     <string name="permission_manage_summary">Início automático, privacidade, gerenciamento de permissões de segurança</string>
     <string name="permission_manage_title">Detalhes da permissão: %s</string>
@@ -2311,7 +2315,7 @@ Você precisa alterar sua configuração de energia antes de excluir esta config
     <string name="preferred_application_warning_message">Substituindo seu aplicativo %1$s poderá acarretar em aumento de consumo de energia, velocidade reduzida e até mesmo colocar o conteúdo de seu telefone em risco. É recomendado manter o padrão %2$s.</string>
     <string name="preferred_application_warning_replace">Substituir</string>
     <string name="preferred_application_warning_title">Substituir padrão de %s</string>
-    <string name="preferred_application_warning_use_system">Usar padrão de %s</string>
+    <string name="preferred_application_warning_use_system">Usar %s</string>
     <string name="preferred_launcher_title">Launcher padrão</string>
     <string name="preferred_media_app_summary">Escolher Player</string>
     <string name="preferred_sms_settings">Este aplicativo será definido como seu aplicativo padrão para ler e escrever mensagens de texto.</string>
@@ -3082,7 +3086,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="unlock_set_unlock_summary">Por favor ative a segurança para utilizar a proteção por senha</string>
     <string name="unmount_inform_text">O armazenamento USB será desconectado.</string>
     <string name="untitled_apn">Sem título</string>
-    <string name="upload_debug_log_summary">Ajude a Xiaomi a aperfeiçoar seus produtos e serviços enviando diagnósticos e dados de uso.</string>
+    <string name="upload_debug_log_summary">Ajude a MIUI a aperfeiçoar seus produtos e serviços enviando diagnósticos e dados de uso.</string>
     <string name="upload_debug_log_title">Enviar dados anônimos</string>
     <string name="usage_log">Estatísticas de uso do aplicativo</string>
     <string name="usage_name_percent">%1$s - %2$s%%</string>
@@ -3648,7 +3652,7 @@ A configuração do telefone pode exigir atividade de rede significativa."</stri
     <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Por favor insira o nome do certificado</string>
     <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Falha ao criar diretório</string>
     <string name="wifi_wapi_cert_mgmt_subdir_exist">Por favor escolha outro nome para o diretório. Este nome já existe.</string>
-    <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Por favor insira um nome para o diretório a ser criado!</string>
+    <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Digite um nome para o diretório</string>
     <string name="wifi_wapi_cert_mgmt_titlebar">Gerenciamento de Certificado WAPI</string>
     <string name="wifi_wapi_cert_mgmt_user_dont_exist">Por favor insira o nome do certificado do usuário</string>
     <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">O certificado de usuário está em formato incorreto! Tente instalar o certificado novamente.</string>

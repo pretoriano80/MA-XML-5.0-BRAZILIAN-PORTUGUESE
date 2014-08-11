@@ -73,6 +73,7 @@
     <string name="bookmark_url_not_valid">Este URL não é válido.</string>
     <string name="bookmarks">Favoritos</string>
     <string name="bookmarks_content_is_null">Nenhum favorito</string>
+    <string name="bookmarks_history">Favoritos/Histórico</string>
     <string name="bookmarks_management">Favoritos</string>
     <string name="bookmarks_root_folder">Pasta Raiz</string>
     <string name="bookmarks_search">Navegador</string>
@@ -96,10 +97,10 @@
     <string name="close_all_tab_alert_title">Fechar todas as abas</string>
     <string name="close_cloud_tab_tip">Fechar abas na nuvem em %s ?</string>
     <string name="cloud_loading_tips">Arraste para baixo para sincronizar</string>
-    <string name="cloud_no_new_data_toast">Sem novos dados</string>
-    <string name="cloud_sync_closed_toast">A sincronização com a nuvem está desativada, impossível atualizar</string>
-    <string name="cloud_sync_failed_toast">Falha na atualização, tente novamente mais tarde</string>
-    <string name="cloud_tab">Aba Cloud</string>
+    <string name="cloud_no_new_data_toast">Dados atualizados</string>
+    <string name="cloud_sync_closed_toast">Sincronização desativada</string>
+    <string name="cloud_sync_failed_toast">Impossível atualizar</string>
+    <string name="cloud_tab">Abas na nuvem</string>
     <string name="cloud_time_tips">Última sincronização</string>
     <string name="cloud_up_to_loading_tips">Solte para sincronizar</string>
     <string name="color_picker_button_black">Preto</string>
@@ -156,6 +157,7 @@
     <string name="delete_bookmark">excluir do favorito</string>
     <string name="delete_bookmark_warning">Excluir favorito \"%s\"?</string>
     <string name="delete_folder">Excluir pasta</string>
+    <string name="delete_homepage">Excluir página inicial</string>
     <string name="delete_multi_bookmarks_alert_title">Excluir %1$s itens?</string>
     <string name="dialog_geolocation_reject">Rejeitar</string>
     <string name="dialog_geolocation_share">Aceitar</string>
@@ -165,7 +167,7 @@
     <string name="download_complete">Download concluído</string>
     <string name="download_default_path_txt">Definir como caminho padrão para salvamento</string>
     <string name="download_dialog_default_path_invalid">O local selecionado é inválido</string>
-    <string name="download_dialog_file_length_hint_txt">Tamanho：</string>
+    <string name="download_dialog_file_length_hint_txt">"Tamanho: "</string>
     <string name="download_dialog_file_length_lessthan1kb">Menos de 1K</string>
     <string name="download_dialog_file_length_nolength_error_txt">Falha ao obter</string>
     <string name="download_dialog_file_length_nolength_txt">Obtendo…</string>
@@ -211,7 +213,7 @@
     <string name="geolocation_permissions_prompt_remember">Lembrar preferências</string>
     <string name="geolocation_permissions_prompt_share">Compartilhar local</string>
     <string name="geolocation_permissions_prompt_toast_allowed">Este site pode acessar sua localização. Faça a alteração na tela Configurações > Avançado > Site.</string>
-    <string name="geolocation_permissions_prompt_toast_disallowed">Este site não pode acessar sua localização. Faça a alteração na tela Configurações > Avançado > Site.</string>
+    <string name="geolocation_permissions_prompt_toast_disallowed">Este site não pode acessar sua localização</string>
     <string name="geolocation_settings_page_dialog_cancel_button">Cancelar</string>
     <string name="geolocation_settings_page_dialog_message">Excluir acesso à localização para este site?</string>
     <string name="geolocation_settings_page_dialog_ok_button">OK</string>
@@ -590,7 +592,7 @@
     <string name="uploads_disabled">O upload de arquivos está desativado.</string>
     <string name="url_copy_done">URL copiada</string>
     <string name="url_hint">Pesquisar ou digitar URL</string>
-    <string name="use_cellular_network_alert_message">Rede Wi-Fi indisponível, utilizar rede móvel?</string>
+    <string name="use_cellular_network_alert_message">Rede Wi-Fi indisponível. Utilizar conexão de dados móveis?</string>
     <string name="use_cellular_network_alert_title">Alerta de rede</string>
     <string name="user_defined_webpage">Adicionar à página inicial</string>
     <string name="user_defined_webpage_title">Adicionar à página inicial</string>

@@ -206,8 +206,8 @@ Após %d tentativas sem sucesso, você deverá desbloquear seu telefone utilizan
     <string name="select">Selecionar</string>
     <string name="select_all">Selec. tudo</string>
     <string name="send">Enviar</string>
-    <string name="send_sms_for_sync_notice">Um SMS de ativação será enviado automaticamente (tarifas poderão ser aplicadas)</string>
-    <string name="send_sms_for_sync_title">Serviço de sincronização desativado</string>
+    <string name="send_sms_for_sync_notice">Um SMS será enviado para ativar o serviço. Tarifas de sua operadora poderão ser aplicadas.</string>
+    <string name="send_sms_for_sync_title">Sincronização desativada</string>
     <string name="share">Compartilhar</string>
     <string name="short_pincode_error_msg">Por favor insira 4~8 dígitos</string>
     <string name="short_pukcode_error_msg">Você precisa inserir no mínimo 8 dígitos.</string>
@@ -221,6 +221,8 @@ Após %d tentativas sem sucesso, você deverá desbloquear seu telefone utilizan
     <string name="sim_unavailable">Cartão SIM indisponível</string>
     <string name="slight_cold"/>
     <string name="slight_heat"/>
+    <string name="softap_notifif_summary">%d conectado</string>
+    <string name="softap_notifif_title">Hotspot \"%s\" ativado</string>
     <string name="solar_calendar"/>
     <string name="speaker">Speaker</string>
     <string name="spring_begins"/>

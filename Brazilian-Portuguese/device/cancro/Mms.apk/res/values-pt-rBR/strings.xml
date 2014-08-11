@@ -149,7 +149,11 @@
     <string name="festival_sms_category_count_format">(%s)</string>
     <string name="festival_sms_loading">Carregando…</string>
     <string name="fetion_prefix">[Fetion]</string>
+    <string name="file_create_time">Criado em:</string>
     <string name="file_share_message_description">Estou compartilhando arquivos com você</string>
+    <string name="file_size">Tamanho:</string>
+    <string name="file_title">Nome:</string>
+    <string name="file_width_height">Dimensões:</string>
     <string name="flatshow_page_no">Edição %1$d</string>
     <string name="forward_from">Encaminhar de:</string>
     <string name="forward_prefix">"Enc.: "</string>
@@ -409,6 +413,7 @@
     <string name="service_not_activated">Serviço não ativado na rede.</string>
     <string name="set">Definir</string>
     <string name="set_smsc_address_title_miui">Definir número do centro de mensagens</string>
+    <string name="share_img">Compartilhar</string>
     <string name="show_all_messages">Mostrar todas as mensagens</string>
     <string name="sim_card1">SIM 1</string>
     <string name="sim_card2">SIM 2</string>

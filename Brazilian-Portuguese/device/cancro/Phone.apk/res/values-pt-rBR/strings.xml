@@ -463,6 +463,7 @@
     <string name="fdn_contact_added">Número de chamadas fixas adicionado.</string>
     <string name="fdn_contact_deleted">Número de chamadas fixas excluído.</string>
     <string name="fdn_contact_updated">Número de chamadas fixas atualizado.</string>
+    <string name="fdn_contacts_empty_miui">Nenhum contato na lista de FDN.</string>
     <string name="fdn_disabled">Os números de chamadas fixas estão desativados</string>
     <string name="fdn_disabled_miui">Números de discagem fixa desativados</string>
     <string name="fdn_enable_puk2_requested">Senha incorreta. Altere o PIN2 e tente novamente.</string>
@@ -542,6 +543,7 @@ Mudar para o novo provedor?"</string>
     <string name="ip_prefix_required_miui">Código da operadora requerido</string>
     <string name="ip_prefix_sum_miui">Código da operadora: %s</string>
     <string name="ivr_menu_dialing_msg">Encaminhando</string>
+    <string name="ivr_menu_dialing_msg_no_mute">Transferindo para o serviço selecionado (ignore as mensagens de erro)…</string>
     <string name="ivr_menu_list_sub_menu_count_format">Pressione %s</string>
     <string name="ivr_menu_list_title">Menu de voz</string>
     <string name="jituan_number_format_error_message_miui">%s somente suporta números e wildcards</string>

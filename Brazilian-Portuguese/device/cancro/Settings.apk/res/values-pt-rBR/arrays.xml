@@ -10,8 +10,8 @@
         <item>Negar</item>
     </string-array>
     <string-array name="power_mode_entries">
-        <item>Alta performance</item>
-        <item>Balanceado (padrão)</item>
+        <item>Alta Performance</item>
+        <item>Balanceado (Padrão)</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Após 1 minuto</item>
@@ -31,7 +31,7 @@
     <string-array name="power_dialog_cpu_state_items">
         <item>Alta performance</item>
         <item>Balanceado</item>
-      </string-array>
+    </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Nunca vibrar</item>
         <item>Vibrar com toque silenciado</item>
@@ -402,8 +402,8 @@
         <item>Escala da animação 1x</item>
         <item>Escala de animação 1,5 x</item>
         <item>Escala da animação 2x</item>
-        <item>Escala de animação 5 x</item>
-        <item>Escala de animação 10 x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animação desligada</item>
@@ -411,14 +411,14 @@
         <item>Escala da animação 1x</item>
         <item>Escala de animação 1,5 x</item>
         <item>Escala da animação 2x</item>
-        <item>Escala de animação 5 x</item>
-        <item>Escala de animação 10 x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animação desativada</item>
         <item>Escala de animação 5x</item>
         <item>Escala de animação 1x</item>
-        <item>Escala de animação 1.5 x</item>
+        <item>Escala de animação 1.5x</item>
         <item>Escala de animação 2x</item>
         <item>Escala de animação 5x</item>
         <item>Escala de animação 10x</item>
@@ -579,24 +579,24 @@
         <item>2 segundos</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Dispositivo conectado, criando sessão…</item>
-        <item>Sessão criada.</item>
+        <item>Iniciando sessão…</item>
+        <item>Sessão iniciada.</item>
         <item>Sessão se desfazendo…</item>
-        <item>Falha na sessão.</item>
-        <item>Tempo esgotado, tentando novamente…</item>
+        <item>Impossível iniciar sessão</item>
+        <item>Tempo esgotado, repetindo…</item>
         <item>Dispositivo conectado</item>
     </string-array>
     <string-array name="msd_pc_system">
-        <item>Windows XP e versões antigas do Windows</item>
-        <item>Windows Vista e versões novas do Windows</item>
-        <item>Mac OS</item>
+        <item>Windows XP e versões mais antigas</item>
+        <item>Windows Vista e versões mais novas</item>
+        <item>Mac</item>
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_start_summary">
         <item>"Para Windows XP e versões mais antigas,
 o driver precisa ser instalado manualmente"</item>
         <item>@string/msd_pc_system_install_start_summary_vista</item>
-        <item>"Para o MAC OS,
+        <item>"Para o OSX,
 o software do driver precisa ser instalado manualmente"</item>
         <item></item>
     </string-array>

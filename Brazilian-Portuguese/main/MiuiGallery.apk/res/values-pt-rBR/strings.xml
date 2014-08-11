@@ -523,7 +523,9 @@ amigos. Veja e atualize seus
     <string name="crop_fail_to_load_image">Impossível carregar imagem</string>
     <string name="crop_label">Cortar</string>
     <string name="crop_polymorphism">photoeditor_effect_crop</string>
+    <string name="crop_recognize_text">Reconhecer</string>
     <string name="crop_save_text">Salvar</string>
+    <string name="crop_save_text_setas">Aplicar</string>
     <string name="crop_tooltip">Arraste os marcadores para cortar</string>
     <string name="crossprocess">Processamento cruzado</string>
     <string name="cut">Cortar</string>
@@ -647,7 +649,7 @@ amigos. Veja e atualize seus
     <string name="immomo_camera">Immomo</string>
     <string name="import_complete">Importação concluída</string>
     <string name="import_fail">Falha na importação</string>
-    <string name="initial_cloud_button_text">Começar a usar</string>
+    <string name="initial_cloud_button_text">Entrar</string>
     <string name="initial_cloud_text">Armazene e veja suas fotos de qualquer lugar.</string>
     <string name="initializing_cloud">Inicializando…</string>
     <string name="input_cloudfolder_name">Nome da pasta</string>
@@ -775,6 +777,7 @@ amigos. Veja e atualize seus
     <string name="qsbk_save">QSBK</string>
     <string name="quotation">\"%s\"</string>
     <string name="recipient_editor_count_format">%d</string>
+    <string name="recognizing_image">Reconhecendo imagem…</string>
     <string name="redeye">Olhos vermelhos</string>
     <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
     <string name="redeye_tooltip">Toque para excluir olhos vermelhos</string>

@@ -80,6 +80,7 @@
     <string name="app_name">Mi Cloud Framework</string>
     <string name="bad_authentication">Nome de usuário ou senha incorretos</string>
     <string name="bank_cards">Cartões bancários</string>
+    <string name="barcode_add_account_prompt">Para adicionar uma conta, escaneie o código QR após você fazer o login.</string>
     <string name="bind_sina_weibo">Vincular com Weibo</string>
     <string name="bind_weibo_description">Sincronize amigos do Sina Weibo.</string>
     <string name="binded">Vinculado</string>
@@ -109,6 +110,7 @@
     <string name="error_device_id">Impossível obter IMEI</string>
     <string name="error_dup_phone">Este número já está associado a outra conta</string>
     <string name="error_invalid_dev_id">ID do telefone inválida</string>
+    <string name="error_login">Falha no login</string>
     <string name="error_network">Erro na rede</string>
     <string name="error_no_sms_service">Impossível enviar mensagem de texto. Rede de dados indisponível.</string>
     <string name="error_phone_error">Número de telefone inválido</string>
@@ -203,6 +205,7 @@ Para corrigir este problema, você pode apagar arquivos desnecessários para lib
     <string name="micloud_password_confirm_hint">Confirmar senha</string>
     <string name="micloud_password_error_inconsistent">As senhas não conferem</string>
     <string name="micloud_password_req_notice">8~16 caracteres, contendo letras e números</string>
+    <string name="micloud_proceed">Continuar</string>
     <string name="micloud_reg_new">Criar conta</string>
     <string name="micloud_resend_active_email">Reenviar e-mail de ativação</string>
     <string name="micloud_space_full_influence"><u>O que acontece se meu espaço livre terminar?</u></string>
@@ -242,6 +245,7 @@ Para corrigir este problema, você pode apagar arquivos desnecessários para lib
     <string name="reg_type_phone">Registrar por telefone (recomendado)</string>
     <string name="reging">Registrando…</string>
     <string name="relogin">Re-login</string>
+    <string name="relogin_notice">Você precisa fazer o login novamente</string>
     <string name="remove_account_notice">O que você gostaria de fazer com os dados já sincronizados com o seu dispositivo?</string>
     <string name="remove_confirm">Logout</string>
     <string name="remove_unactivated_account_notice">Esta conta não foi ativada.</string>

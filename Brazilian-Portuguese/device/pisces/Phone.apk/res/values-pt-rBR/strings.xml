@@ -127,7 +127,7 @@
     <string name="call_forwarding_number_hint_miui">Insira o número para encaminhar a chamada</string>
     <string name="call_forwarding_settings">Configurações de encaminhamento de chamada</string>
     <string name="call_forwarding_settings_miui">Configurar encaminhamento</string>
-    <string name="call_lost">A chamada foi perdida.</string>
+    <string name="call_lost">Chamada perdida</string>
     <string name="call_record_button_label">Gravando %s</string>
     <string name="call_record_error_access">Impossível gravar no modo Convidado</string>
     <string name="call_record_notification_message_low_space_miui">A gravação foi interrompida por falta de espaço, toque para ver %s.</string>

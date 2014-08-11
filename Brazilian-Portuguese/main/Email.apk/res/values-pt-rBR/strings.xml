@@ -298,9 +298,10 @@
     <string name="contextmenu_send_mail">Enviar e-mail</string>
     <string name="contextmenu_sharelink">Compartilhar link</string>
     <string name="contextmenu_sms_dot">SMS…</string>
+    <string name="conversation_folder_moved">Movida para %1$s</string>
     <string name="conversation_item_mark_read">Lida</string>
     <string name="conversation_item_mark_unread">Não lida</string>
-    <string name="conversation_folder_moved">Movida para %1$s</string>
+    <string name="conversation_list_net_check">Impossível conectar-se à rede, por favor verifique suas configurações ou tente novamente mais tarde</string>
     <string name="conversation_photo_welcome_text">Toque na imagem do remetente para selecionar a conversa.</string>
     <string name="copy_email">Copiar endereço de e-mail</string>
     <string name="copy_number">Copiar número de telefone</string>
@@ -384,10 +385,18 @@
     <string name="file_not_found_reDownload">Arquivo não encontrado</string>
     <string name="file_rar_not_support">Impossível abrir arquivos encriptados</string>
     <string name="filtered_tag">[%1$s]%2$s</string>
+    <string name="folder_drafts_name_en0">Rascunhos</string>
+    <string name="folder_drafts_name_en1">Rascunho</string>
     <string name="folder_icon_desc">Ícone de pasta</string>
     <string name="folder_picker_title">Seletor de pasta</string>
     <string name="folder_removed">Removido de %1$s</string>
+    <string name="folder_sent_name_en0">Enviados</string>
+    <string name="folder_sent_name_en1">Mensagens Enviadas</string>
+    <string name="folder_sent_name_en2">Mensagem Enviada</string>
     <string name="folder_shortcut_widget_label">Pasta E-mail</string>
+    <string name="folder_trash_name_en0">Lixeira</string>
+    <string name="folder_trash_name_en1">Mensagens Excluídas</string>
+    <string name="folder_trash_name_en2">Mensagem Excluída</string>
     <string name="formatted_email_address">&lt;%1$s&gt;</string>
     <string name="formatted_subject">%1$s%2$s</string>
     <string name="forward">Encaminhar</string>
@@ -439,6 +448,7 @@
     <string name="long_press_to_select_tip">Toque e mantenha pressionado para selecionar uma conversa e então toque para selecionar mais conversas.</string>
     <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
     <string name="mail">E-mail</string>
+    <string name="mail_body_turncated">Este e-mail é muito grande para ser carregado, e apenas uma parte será exibida. Para visualizá-lo por completo, acesse seu e-mail através de um PC mais tarde</string>
     <string name="mailbox_list_account_selector_combined_view">Visualização combinada</string>
     <string name="mailbox_name_display_drafts">Rascunhos</string>
     <string name="mailbox_name_display_inbox">Caixa de entrada</string>
@@ -534,6 +544,7 @@ Cc: %4$s
     <string name="no_conversations">Nenhuma mensagem</string>
     <string name="no_mails">Vazio</string>
     <string name="no_matched_attachment">Sem correspondências ao critério de pesquisa</string>
+    <string name="no_wifi_promot">Rede Wi-Fi desconectada, acompanhe a utilização de seus dados móveis</string>
     <string name="non_synced_folder_description">Para ver as conversações, sincronize esta pasta.</string>
     <string name="not_subject">(Sem assunto)</string>
     <string name="not_synced_title">Conta não sincronizada</string>
@@ -553,6 +564,9 @@ Cc: %4$s
     <string name="outbox_alert_button_confirm">Editar</string>
     <string name="outbox_alert_button_no_resend">Não enviar</string>
     <string name="outbox_alert_button_resend">Reenviar</string>
+    <string name="outbox_alert_description_auth_error">Motivo: Erro de autenticação durante sincronização</string>
+    <string name="outbox_alert_description_http_error">Motivo: Erro de HTTP durante sincronização</string>
+    <string name="outbox_alert_description_provision_error">Motivo: Erro do servidor durante sincronização</string>
     <string name="outbox_alert_description_sent_failed">"O arquivo anexado excede o limite de tamanho"</string>
     <string name="outbox_alert_mailbox_not_found">Endereço de e-mail não encontrado</string>
     <string name="outbox_alert_title_sent_failed">Falha ao enviar e-mail</string>
@@ -693,6 +707,14 @@ Cc: %4$s
     <string name="sending">Enviando…</string>
     <string name="sending_message">Enviando mensagem…</string>
     <string name="sent_folder_selection_title">Pasta Enviados do servidor p/ %s</string>
+    <string name="ser_resp_err_map_certificate_validator_err">"Falha ao validar certificado do servidor
+\u0009 (Verifique se a configuração está definida como automática)"</string>
+    <string name="ser_resp_err_map_connect_err">Erro na conexão com a internet. Por favor tente utilizando outra conexão</string>
+    <string name="ser_resp_err_map_nouser">Usuário não encontrado</string>
+    <string name="ser_resp_err_map_or">Ou</string>
+    <string name="ser_resp_err_map_pserr">Usuário ou senha inválidos</string>
+    <string name="ser_resp_err_map_serclosed">Serviço fechado</string>
+    <string name="ser_resp_err_map_ssl">"Por favor tente selecionar 'SSL/TLS (Aceitar todos os certificados)' em 'Tipo de segurança'"</string>
     <string name="set_network">Definir rede</string>
     <string name="settings_activity_title">Configurações</string>
     <string name="sharing">Compartilhar</string>

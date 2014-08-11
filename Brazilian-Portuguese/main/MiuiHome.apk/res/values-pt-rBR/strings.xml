@@ -7,7 +7,7 @@
     <string name="aqi_quality_index_dangerous">Péssima</string>
     <string name="aqi_quality_index_good">Boa</string>
     <string name="aqi_quality_index_hazardous">Perigosa</string>
-    <string name="aqi_quality_index_light_pollution">Poluição leve</string>
+    <string name="aqi_quality_index_light_pollution">Cuidado</string>
     <string name="aqi_quality_index_moderate">Moderada</string>
     <string name="aqi_quality_index_unhealthy">Ruim</string>
 	<string name="bad_wallpaper_source_prompt">Falha ao carregar plano de fundo</string>
@@ -44,7 +44,7 @@
     <string name="free_style_edit_tab_free_component">Objetos</string>
     <string name="free_style_edit_tab_shortcut">Atalhos</string>
     <string name="free_style_edit_tab_widget">Widgets</string>
-    <string name="free_style_enter_tip">Deslize dois dedos para baixo para acessar o MiSpace</string>
+    <string name="free_style_enter_tip">Deslize dois dedos para baixo para acessar o Mi Space</string>
     <string name="free_style_exit_tip">Deslize dois dedos para cima para retornar à tela inicial padrão</string>
     <string name="gadget_clear_button_label">Limpar memória</string>
     <string name="gadget_clock_12_label">Relógio 2x1</string>
@@ -60,8 +60,8 @@
     <string name="gadget_photo_label">Imagem</string>
     <string name="gadget_search_label">Pesquisar</string>
     <string name="gadget_weather_app_not_installed">Clique para instalar o aplicativo MIUI Clima</string>
-    <string name="gadget_weather_aqi_title">Qualidade do ar:</string>
-    <string name="gadget_weather_loading">Sem dados de clima</string>
+    <string name="gadget_weather_aqi_title">"Qualidade do ar: "</string>
+    <string name="gadget_weather_loading">Nenhum dado</string>
     <string name="gadget_weather_time_format">dd/MM EEE</string>
     <string name="gadget_weather_title">Clima</string>
     <string name="gadget_weather_title_24">Clima</string>
@@ -88,7 +88,7 @@
     <string name="menu_sort">Organizar</string>
     <string name="menu_wallpaper">Plano de fundo</string>
     <string name="menu_workspace_preview">Pré-visualização</string>
-    <string name="multi_selecting_tips">Para selecionar um aplicativo, toque em seu ícone</string>
+    <string name="multi_selecting_tips">Para pegar um aplicativo, toque em seu ícone</string>
     <string name="online_wallpaper">Online</string>
     <string name="out_of_space">Não há mais espaço nesta tela.</string>
     <string name="permdesc_install_shortcut">Permite que um aplicativo adicione os atalhos sem a intervenção do usuário.</string>

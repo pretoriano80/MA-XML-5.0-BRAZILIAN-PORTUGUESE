@@ -92,6 +92,7 @@
     <string name="done">Enter</string>
     <string name="edit_event_all_day_label">O dia todo</string>
     <string name="edit_event_calendar_label">Agenda</string>
+    <string name="edit_event_confirm_message">Descartar mudanças no evento?</string>
     <string name="edit_event_from_label">De</string>
     <string name="edit_event_label">Detalhes</string>
     <string name="edit_event_show_all">Mostrar todos</string>
@@ -166,8 +167,8 @@
     <string name="month_medium_september">Set</string>
     <string name="month_view">Mês</string>
     <string name="monthly">Mensalmente</string>
-    <string name="monthly_on_day">Mensalmente (no dia %s)</string>
-    <string name="monthly_on_day_count">Mensalmente (todo(a) %1$s %2$s)</string>
+    <string name="monthly_on_day">Mensalmente (no mesmo dia)</string>
+    <string name="monthly_on_day_count">Mensalmente (%1$s %2$s)</string>
     <string name="more_string">+%1$s</string>
     <string name="movable_list_header_label">Resumo</string>
     <string name="new_event_dialog_label">Novo evento</string>
@@ -271,7 +272,7 @@
     <string name="view_event_organizer_label">Organizador:</string>
     <string name="view_event_response_label">Você vai?</string>
     <string name="week_view">Semana</string>
-    <string name="week_view_today_toast">Esta semana já está ativa</string>
+    <string name="week_view_today_toast">Você já está visualizando esta semana</string>
     <string name="weekly">Semanalmente (todo(a) %s)</string>
     <string name="what_label">O que</string>
     <string name="when_label">Quando</string>

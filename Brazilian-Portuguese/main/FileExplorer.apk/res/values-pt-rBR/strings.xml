@@ -89,10 +89,11 @@
     <string name="file_info_modified">Hora:</string>
     <string name="file_info_size">Tamanho:</string>
     <string name="file_loading">Carregando…</string>
-	<string name="file_not_exist">Arquivo não encontrado</string>
+    <string name="file_not_exist">Arquivo não encontrado</string>
     <string name="file_too_large">O arquivo é muito grande.</string>
     <string name="finished">Concluído</string>
     <string name="folder_exist">Esta pasta já existe</string>
+    <string name="folder_name_illegal">Nome de pasta inválido</string>
     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Toque aqui&lt;/a> para ir para a Lixeira</string>
     <string name="ftp_account_req_notice"> 4~16 caracteres, letras e números, sensível a maiúsculas e minúsculas</string>
     <string name="ftp_anonymous_login">Login anônimo</string>

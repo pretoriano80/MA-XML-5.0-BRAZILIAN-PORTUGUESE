@@ -73,8 +73,8 @@
         <item quantity="one">%1$d contato recente</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">%1$d adicionados com sucesso</item>
-        <item quantity="one">%1$d adicionado com sucesso</item>
+        <item quantity="other">%1$d contatos adicionados</item>
+        <item quantity="one">%1$d contato adicionado</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d pessoas</item>

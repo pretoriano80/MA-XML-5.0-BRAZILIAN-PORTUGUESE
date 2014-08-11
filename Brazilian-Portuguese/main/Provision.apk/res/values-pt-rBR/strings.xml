@@ -16,7 +16,7 @@
     <string name="other_service_user_experience_summary1">(Ver política de privacidade)</string>
     <string name="setup_complete_info"/>
     <string name="setup_complete_label">Tudo pronto!</string>
-    <string name="setup_complete_start">Começar a usar a MIUI</string>
+    <string name="setup_complete_start">Ok</string>
     <string name="setup_complete_summary">Aproveite :)</string>
     <string name="shutdown">Desligar</string>
     <string name="sim_card_detection_dialog_message">Detectando cartão SIM…</string>
