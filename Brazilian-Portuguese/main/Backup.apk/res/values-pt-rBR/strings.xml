@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="account_contact_backup_info">Mi Account, Google e outros, e contatos do telefone.</string>
+    <string name="account_contact_backup_info">Conta do Google, Mi Account, e Contatos do telefone</string>
     <string name="account_login">Login</string>
-    <string name="account_summary">(Contas do GMail, E-mail e Xiaomi)</string>
+    <string name="account_summary">Backup da Conta do Google, Mi Account e outros dados do usuário</string>
     <string name="already_enable_encrypt">Criptografia ativada</string>
     <string name="app_name">Backup</string>
     <string name="auto_backup">Backup automático</string>
@@ -110,7 +110,7 @@
     <string name="cloud_app_version_size">Versão: %1$s, Tamanho: %2$s</string>
     <string name="cloud_app_wait_wifi">Aguardando conexão Wi-Fi</string>
     <string name="cloud_backup_hint">Para acessar seus backups, conecte-se agora</string>
-    <string name="cloud_backup_login">Conectar-se à Mi Account</string>
+    <string name="cloud_backup_login">Entrar com a sua Mi Account</string>
     <string name="cloud_backup_window_title">Backup na Mi Cloud</string>
     <string name="cloud_home_title">Mi Cloud</string>
     <string name="cloud_item_info_summary">" (Local: %1$s | Mi Cloud: %2$s)"</string>
@@ -139,8 +139,8 @@
     <string name="enable_encrypt_fail">Falha ao ativar criptografia</string>
     <string name="enable_encrypt_indicator">Backup não criptografado, toque para ativar a criptografia.</string>
     <string name="enable_encrypt_ok">OK</string>
-    <string name="enable_encrypt_summery1">O sistema irá criptografar seu backup local baseando-se em sua Mi Account. Você precisará conectar-se à sua Mi Account para esvaziar dados do telefone ou para restaurar o backup em outro telefone.</string>
-    <string name="enable_encrypt_summery2">O novo backup será criptografado automaticamente, e você precisará conectar-se à sua Mi Account para esvaziar dados do telefone ou para restaurar o backup em outro telefone.</string>
+    <string name="enable_encrypt_summery1">Você precisa entrar com sua Mi Account para acessar backups criptografados.</string>
+    <string name="enable_encrypt_summery2">Seus backups serão criptografador automaticamente. Você precisará entrar com sua Mi Account para acessar backups criptografados.</string>
     <string name="enable_encrypt_title">Ativar criptografia</string>
     <string name="enable_encrypt_xiaomi_account">Este backup foi criado por %1$s. Para restaurá-lo, exclua a conta atual e conecte-se como %2$s.</string>
     <string name="exchange_account">Alternar contas</string>
@@ -165,7 +165,7 @@
     <string name="local_select_sysdata">Sistema</string>
     <string name="local_select_userapp">Apps</string>
     <string name="menu_patch_delete">Excluir backups</string>
-    <string name="miliao_account_guide">Crie uma Mi Account para aproveitar todos os seus recursos online</string>
+    <string name="miliao_account_guide">Crie uma Mi Account para aproveitar todos os serviços online da Xiaomi</string>
     <string name="miliao_account_login">Login com o MiTalk</string>
     <string name="mms_title">Mensagens Multimídia</string>
     <string name="multi_select_title">Selecionado(s) %1$s item(ns)</string>
@@ -199,7 +199,7 @@
     <string name="sc_internal_server_error">Erro interno do servidor</string>
     <string name="sc_network_unavailable">Rede de dados indisponível</string>
     <string name="sc_others">Erro desconhecido</string>
-    <string name="sc_precondition_failed">Sua Mi Account não foi vinculada a nenhum endereço de e-mail</string>
+    <string name="sc_precondition_failed">Você precisa associar sua Mi Account a um endereço de e-mail válido</string>
     <string name="sc_request_timeout">Requisição expirada</string>
     <string name="sc_service_unavailable">Mi Cloud indisponível</string>
     <string name="sc_unaccess_password_file">Não salvar senha de redes Wi-Fi</string>

@@ -7,8 +7,10 @@
     <string name="about_version">1.0.1</string>
     <string name="about_version_label">Versão</string>
     <string name="actors_colon">"Elenco: "</string>
+    <string name="ad_moredetail">Mais detalhes</string>
     <string name="add_more_addons">Adicionar mais especiais</string>
     <string name="add_review">Adic. comentário</string>
+    <string name="addon"/>
     <string name="addon_category">Novos Especiais</string>
     <string name="addon_install_complete_disc">Você terminou de instalar o widget %s, que você pode acessar diretamente na Tela inicial, ou a partir da aba \"Meus Vídeos\"</string>
     <string name="addon_update_desc">Nova versão encontrada, atualizar agora?</string>
@@ -16,8 +18,7 @@
     <string name="adjust_position_prev_media_notice">Voltar</string>
     <string name="airkan_control_device_des">Para controlar a reprodução, toque na barra inferior</string>
     <string name="airkan_device_xiaomi_phone">Xiaomi</string>
-    <string name="airkan_tips">"Toque aqui para enviar o vídeo 
-para a MiBox ou TV"</string>
+    <string name="airkan_tips">"Toque aqui para enviar o vídeo à TV"</string>
     <string name="airkan_video_playing">executando</string>
     <string name="airkan_video_playing_in">O vídeo está</string>
     <string name="alert_ignore">Não exibir novamente</string>
@@ -285,7 +286,10 @@ para a MiBox ou TV"</string>
     <string name="post_playcount">vezes</string>
     <string name="pps">PPS</string>
     <string name="pptv">PPTV</string>
+    <string name="prefix_countdown">Propaganda:</string>
     <string name="prex_playcount">Reproduzir:</string>
+    <string name="priority_storage">Prorizar uso do cartão SD</string>
+    <string name="priority_storage_summary">Esta função tem efeito quando utilizado um cartão SD externo</string>
     <string name="publish">Enviar</string>
     <string name="qiyi">iQiyi</string>
     <string name="quarter_bell_alert_button_cancel">Cancelar</string>
@@ -328,6 +332,7 @@ para a MiBox ou TV"</string>
     <string name="success_cancel_myfavorite">Excluir</string>
     <string name="success_cancel_waitfornewset">Favorito removido</string>
     <string name="success_to_cancel_myfavorite">Cancelado</string>
+    <string name="suffix_countdown">segundos</string>
     <string name="sure">Concordar</string>
     <string name="tags_colon">"Gênero: "</string>
     <string name="temp_play_history_button_label">Histórico de reprodução</string>

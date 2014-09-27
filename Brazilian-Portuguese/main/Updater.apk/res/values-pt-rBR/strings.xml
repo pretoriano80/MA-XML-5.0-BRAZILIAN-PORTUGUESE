@@ -2,7 +2,7 @@
 <resources>
     <string name="about_device">Sobre o telefone</string>
     <string name="active_xiaomi_account">Ativo</string>
-    <string name="active_xiaomi_account_msg">Para ativar sua Mi Account, acesse https://account.xiaomi.com/pass/serviceLogin.</string>
+    <string name="active_xiaomi_account_msg">Para ativar sua Mi Account, acesse https://account.mi.com/pass/serviceLogin.</string>
     <string name="active_xiaomi_account_title">Ativar a Mi Account</string>
     <string name="app_name">Atualizações</string>
     <string name="apply_buddy_update_info_message">Após selecionar Atualizar, seu telefone irá iniciar a atualização imediatamente.</string>
@@ -22,7 +22,7 @@
     <string name="boot_recovery">Reiniciar para o recovery</string>
     <string name="cancel_download_buton_text">Cancelar</string>
     <string name="check_update">Buscar atualizações</string>
-    <string name="check_update_policy">Configurações</string>
+    <string name="check_update_policy">Configurações do atualizador</string>
     <string name="check_update_when_wifi_available">Procurar atualizações com Wi-Fi</string>
     <string name="checking_for_updates">Verificando atualizações…</string>
     <string name="choose_recommend">Escolha se recomenda ou não esta versão</string>
@@ -162,7 +162,7 @@ Mas você poderá participar novamente na próxima Terça. :)"</string>
     <string name="update_success">Parabéns, atualizado com sucesso! :)</string>
     <string name="update_success_body">Versão do atual: %s</string>
     <string name="update_success_title">Atualização concluída!</string>
-    <string name="updater_finish_download">Download da ROM concluído</string>
+    <string name="updater_finish_download">Download concluído</string>
     <string name="upgrade_close">Fechar</string>
     <string name="upgrade_kernel">Seu kernel está desatualizado</string>
     <string name="upgrade_kernel_msg">"Versão do kernel atual não coincide com a ROM MIUI. Você precisa atualizar o kernel manualmente. Por favor, consulte o tutorial de atualização: 

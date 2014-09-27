@@ -105,6 +105,7 @@ Por favor contacte o SAC Xiaomi."</string>
     <string name="format_time">dd-MM-yyyy às hh:mmaa</string>
     <string name="frozen">(Congelada)</string>
     <string name="giftcard_acitivity_and_denomination">%2$s-vale-presente Mi Credit de %1$s</string>
+    <string name="giftcard_define_detail">Use estes vale-presentes como Mi Credits comuns. Você poderá receber créditos após participar de eventos e promoções da Xiaomi.</string>
     <string name="giftcard_denom">Mi Credit</string>
     <string name="giftcard_denom_available">Mi Credit disponível</string>
     <string name="giftcard_denom_frozen">Mi Credit congelado</string>
@@ -117,6 +118,7 @@ Por favor contacte o SAC Xiaomi."</string>
     <string name="giftcard_push_notification_prime_title">Você recebeu um vale presente</string>
     <string name="giftcard_push_notification_sub_title">%1$s: %2$s Mi Credit gratuito.</string>
     <string name="giftcard_record">Meus vales-presente</string>
+    <string name="giftcard_title">Vale-presentes Mi Credit</string>
     <string name="giftcard_value">(%1$s-vale-presente Mi Credit</string>
     <string name="hfb_app_name">UMPay</string>
     <string name="hfb_complete">Compra concluída!</string>

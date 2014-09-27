@@ -149,7 +149,11 @@
     <string name="festival_sms_category_count_format">(%s)</string>
     <string name="festival_sms_loading">Carregando…</string>
     <string name="fetion_prefix">[Fetion]</string>
+    <string name="file_create_time">Criado em:</string>
     <string name="file_share_message_description">Estou compartilhando arquivos com você</string>
+    <string name="file_size">Tamanho:</string>
+    <string name="file_title">Nome:</string>
+    <string name="file_width_height">Dimensões:</string>
     <string name="flatshow_page_no">Edição %1$d</string>
     <string name="forward_from">Encaminhar de:</string>
     <string name="forward_prefix">"Enc.: "</string>
@@ -166,6 +170,7 @@
     <string name="has_invalid_recipient">Destinatários inválidos: &lt;%1$s></string>
     <string name="hidden_sender_address">Endereço do remetente oculto</string>
     <string name="hint_search_sms">%d sms</string>
+    <string name="hms_first_use_tips">Para receber mensagens de serviço, você precisa estar conectado a uma rede Wi-Fi</string>
     <string name="importing_progress_private_message">Importando mensagens para a Caixa de Entrada Privada</string>
     <string name="in_sms">Mensagem</string>
     <string name="insufficient_drm_rights">Direitos DRM insuficientes detectados.</string>
@@ -364,6 +369,7 @@
     <string name="restore_blocked_message">Restaurar mensagem</string>
     <string name="restore_to_phone_memory_failed">Falha ao restaurar para a memória do dispositivo!</string>
     <string name="restored_to_phone_memory">Restaurado para a memória do dispositivo</string>
+    <string name="retrive_hms_tips">Recebendo...</string>
     <string name="save">Salvar</string>
     <string name="save_ringtone">Salvar como toque</string>
     <string name="save_to_sim">Salvar no cartão SIM</string>
@@ -388,6 +394,7 @@
     <string name="select_recipient">Selecionar destinatário</string>
     <string name="select_top_text">Texto na parte superior</string>
     <string name="send">Enviar</string>
+    <string name="send_hms_editor_hints">Cloud Message</string>
     <string name="send_message_dlg_check_hint">Lembrar escolha</string>
     <string name="send_message_dlg_mgs">Aviso CMCC: Nós precisamos registrar seu dispositivo para que a plataforma de gerenciamento forneça o serviço de assistência gratuita. (O serviço é gerenciado pela CMSS que pode administrar terminais móveis. Ela fornece a você serviços de gerenciamento remoto e atualização de aplicativos.). Uma mensagem de texto gratuita com informações do dispositivo será enviada para o registro. Esta mensagem será enviada apenas uma vez e não coletará seus dados pessoais (Não envie se você estiver em Hong Kong, Macao, Taiwan ou em roaming internacional). Selecione “OK” para concordar com o registro.</string>
     <string name="send_message_dlg_title">Gerenciamento do Dispositivo</string>
@@ -406,6 +413,7 @@
     <string name="service_not_activated">Serviço não ativado na rede.</string>
     <string name="set">Definir</string>
     <string name="set_smsc_address_title_miui">Definir número do centro de mensagens</string>
+    <string name="share_img">Compartilhar</string>
     <string name="show_all_messages">Mostrar todas as mensagens</string>
     <string name="sim_card1">SIM 1</string>
     <string name="sim_card2">SIM 2</string>
@@ -427,7 +435,7 @@
     <string name="sms_rejected_title">Mensagem de texto rejeitada</string>
     <string name="sp_category_all">Todas as mensagens de serviço</string>
     <string name="sp_category_bank">Todas as mensagens de serviços bancários</string>
-    <string name="sp_conversation_title">Mensagens de notificação</string>
+    <string name="sp_conversation_title">Notificações</string>
     <string name="sp_mark_as_read">Marcar todas as mensagens como lidas?</string>
     <string name="sp_mark_as_read_progress">Marcando mensagens como lidas…</string>
     <string name="sp_mark_as_read_title">Marcar todas como lidas</string>
@@ -487,7 +495,9 @@ Tentativa realizada: %s."</string>
     <string name="unsupported_media_format">Formato de %1$s não suportado.</string>
     <string name="view">Visualizar</string>
     <string name="view_bookmark">Ver mensagem original</string>
+    <string name="view_hms_details">Detalhes</string>
     <string name="view_message_details">Visualizar detalhes</string>
     <string name="wap_push_title">"[WAP Push] "</string>
+    <string name="xiaomi_service_number">Número de serviço</string>
     <string name="yes">OK</string>
 </resources>

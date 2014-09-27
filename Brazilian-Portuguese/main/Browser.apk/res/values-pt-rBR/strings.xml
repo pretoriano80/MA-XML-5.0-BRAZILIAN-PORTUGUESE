@@ -14,9 +14,11 @@
     <string name="accessibility_time_picker_minute">Minuto</string>
     <string name="accessibility_time_picker_second">Segundo</string>
     <string name="account">Conta</string>
+    <string name="account_prifix">"Conta: "</string>
     <string name="action">Fazer login</string>
     <string name="actionbar_share">Compartilhar</string>
     <string name="actionbar_web_search">Pesquisa da Web</string>
+    <string name="adblock_notification">%d anúncios bloqueados</string>
     <string name="add_bookmark">Adic. marcador</string>
     <string name="add_folder">Adic. pasta</string>
     <string name="add_new_bookmark">Adicionar favorito</string>
@@ -71,7 +73,8 @@
     <string name="bookmark_url_not_valid">Este URL não é válido.</string>
     <string name="bookmarks">Favoritos</string>
     <string name="bookmarks_content_is_null">Nenhum favorito</string>
-    <string name="bookmarks_management">Gerenciar favoritos</string>
+    <string name="bookmarks_history">Favoritos/Histórico</string>
+    <string name="bookmarks_management">Favoritos</string>
     <string name="bookmarks_root_folder">Pasta Raiz</string>
     <string name="bookmarks_search">Navegador</string>
     <string name="bottom_bar_tabs_long_click_down_tip_txt">Deslize para baixo para fechar</string>
@@ -92,9 +95,12 @@
     <string name="clip_dialog_title">Abrir o link copiado?</string>
     <string name="close_all_tab_alert_message">Você tem certeza que deseja fechar todas as abas?</string>
     <string name="close_all_tab_alert_title">Fechar todas as abas</string>
+    <string name="close_cloud_tab_tip">Fechar abas na nuvem em %s ?</string>
     <string name="cloud_loading_tips">Arraste para baixo para sincronizar</string>
-    <string name="cloud_no_new_data_toast">Sem novos dados, tente mais tarde</string>
-    <string name="cloud_tab">Aba Cloud</string>
+    <string name="cloud_no_new_data_toast">Dados atualizados</string>
+    <string name="cloud_sync_closed_toast">Sincronização desativada</string>
+    <string name="cloud_sync_failed_toast">Impossível atualizar</string>
+    <string name="cloud_tab">Abas na nuvem</string>
     <string name="cloud_time_tips">Última sincronização</string>
     <string name="cloud_up_to_loading_tips">Solte para sincronizar</string>
     <string name="color_picker_button_black">Preto</string>
@@ -151,6 +157,7 @@
     <string name="delete_bookmark">excluir do favorito</string>
     <string name="delete_bookmark_warning">Excluir favorito \"%s\"?</string>
     <string name="delete_folder">Excluir pasta</string>
+    <string name="delete_homepage">Excluir página inicial</string>
     <string name="delete_multi_bookmarks_alert_title">Excluir %1$s itens?</string>
     <string name="dialog_geolocation_reject">Rejeitar</string>
     <string name="dialog_geolocation_share">Aceitar</string>
@@ -160,7 +167,7 @@
     <string name="download_complete">Download concluído</string>
     <string name="download_default_path_txt">Definir como caminho padrão para salvamento</string>
     <string name="download_dialog_default_path_invalid">O local selecionado é inválido</string>
-    <string name="download_dialog_file_length_hint_txt">Tamanho：</string>
+    <string name="download_dialog_file_length_hint_txt">"Tamanho: "</string>
     <string name="download_dialog_file_length_lessthan1kb">Menos de 1K</string>
     <string name="download_dialog_file_length_nolength_error_txt">Falha ao obter</string>
     <string name="download_dialog_file_length_nolength_txt">Obtendo…</string>
@@ -206,7 +213,7 @@
     <string name="geolocation_permissions_prompt_remember">Lembrar preferências</string>
     <string name="geolocation_permissions_prompt_share">Compartilhar local</string>
     <string name="geolocation_permissions_prompt_toast_allowed">Este site pode acessar sua localização. Faça a alteração na tela Configurações > Avançado > Site.</string>
-    <string name="geolocation_permissions_prompt_toast_disallowed">Este site não pode acessar sua localização. Faça a alteração na tela Configurações > Avançado > Site.</string>
+    <string name="geolocation_permissions_prompt_toast_disallowed">Este site não pode acessar sua localização</string>
     <string name="geolocation_settings_page_dialog_cancel_button">Cancelar</string>
     <string name="geolocation_settings_page_dialog_message">Excluir acesso à localização para este site?</string>
     <string name="geolocation_settings_page_dialog_ok_button">OK</string>
@@ -258,6 +265,8 @@
     <string name="menu_save_bandwidth_mode_open_toast">Limite de dados móveis ativado</string>
     <string name="menu_save_snapshot">Salvar para leitura off-line</string>
     <string name="menu_theme_setting">Configurações de tema</string>
+    <string name="miui_autologin_bar_error">Falha no login</string>
+    <string name="miui_autologin_bar_title">Usar outra conta para fazer login</string>
     <string name="miui_content_copy">Copiar</string>
     <string name="miui_content_cut">Recortar</string>
     <string name="miui_content_paste">Colar</string>
@@ -309,6 +318,8 @@
     <string name="pref_accessibility_title">Acessibilidade</string>
     <string name="pref_accessibility_url_shortcut_enter_summary">Ao digitar um endereço web na barra de endereços, exibir prefixos e sufixos comuns para inserção rápida</string>
     <string name="pref_accessibility_url_shortcut_enter_title">URL Rápida</string>
+    <string name="pref_adblock_counts">%d bloqueado(s)</string>
+    <string name="pref_adblock_title">Bloqueio de anúncios</string>
     <string name="pref_autofill_enabled">Preenchim. autom. do formulário</string>
     <string name="pref_autofill_enabled_summary">Preencher formulários da web com um único toque</string>
     <string name="pref_autofill_profile_editor">Preenchimento automát. de texto</string>
@@ -317,6 +328,8 @@
     <string name="pref_autologin_progress_in_background">Fazendo login nos sites do Google utilizando %s em segundo plano</string>
     <string name="pref_autologin_title">Login automático do Google</string>
     <string name="pref_category_title_version">Versão</string>
+    <string name="pref_clear_adblock_statistics">Limpar histórico de bloqueios</string>
+    <string name="pref_clear_adblock_statistics_dlg">Limpar o histórico de bloqueios?</string>
     <string name="pref_clear_cache_for_exit">Excluir cache ao sair</string>
     <string name="pref_clear_history_for_exit">Excluir histórico ao sair</string>
     <string name="pref_confirm_for_exit">Confirmar saída</string>
@@ -360,6 +373,7 @@
     <string name="pref_development_trace">Ativar tracing</string>
     <string name="pref_development_viewport">Usar wide viewport</string>
     <string name="pref_development_visual_indicator">Ativar Indicador Visual</string>
+    <string name="pref_enable_adblock_notification">Bloqueio de anúncios</string>
     <string name="pref_exit_on_closing_last_tab_enabled_title">Sair ao fechar última aba</string>
     <string name="pref_extras_reset_default">Redefinir padrões</string>
     <string name="pref_extras_reset_default_dlg">Reverter as configurações para os valores padrão?</string>
@@ -578,7 +592,7 @@
     <string name="uploads_disabled">O upload de arquivos está desativado.</string>
     <string name="url_copy_done">URL copiada</string>
     <string name="url_hint">Pesquisar ou digitar URL</string>
-    <string name="use_cellular_network_alert_message">Rede Wi-Fi indisponível, utilizar rede móvel?</string>
+    <string name="use_cellular_network_alert_message">Rede Wi-Fi indisponível. Utilizar conexão de dados móveis?</string>
     <string name="use_cellular_network_alert_title">Alerta de rede</string>
     <string name="user_defined_webpage">Adicionar à página inicial</string>
     <string name="user_defined_webpage_title">Adicionar à página inicial</string>

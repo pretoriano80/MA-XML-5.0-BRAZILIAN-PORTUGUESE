@@ -15,6 +15,7 @@
     <string name="background_traffic">Segundo plano %s</string>
     <string name="begin_date">Data de reinício</string>
     <string name="cancel_button">Cancelar</string>
+    <string name="checkout_traffic_saving_history">Ver histórico</string>
     <string name="daily_pkg_traffic">Definir pico de uso</string>
     <string name="data_usage_correction_timeout_body">Toque para atualizar manualmente.</string>
     <string name="data_usage_correction_timeout_title">Tempo esgotado durante sincronização de dados</string>
@@ -96,7 +97,7 @@ a conexão de dados móveis"</string>
     <string name="main_button_usage_adjust">Definir limite de dados</string>
     <string name="main_button_usage_adjust_manual">Definir limite de dados</string>
     <string name="main_button_usage_adjusting">Alterando…</string>
-    <string name="main_button_usage_package_setting">Definir limite de dados</string>
+    <string name="main_button_usage_package_setting">Definir limite de uso de dados</string>
     <string name="main_toolbar_firewall">Restringir</string>
     <string name="main_toolbar_purchase">Recarregar</string>
     <string name="main_toolbar_saving">Otimizador</string>
@@ -109,9 +110,14 @@ Restante"</string>
 Usado"</string>
     <string name="manual_input_free_traffic">Definir limite fora do pico</string>
     <string name="manual_input_traffic">Definir limite de dados</string>
+    <string name="mi_service_app_detail">Detalhes do uso de dados</string>
+    <string name="mi_service_framework">Mi Service Framework</string>
+    <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
+    <string name="mi_service_traffic_detail">Detalhes</string>
     <string name="network_assistant_upgraded_body">Toque para restringir uso de dados</string>
     <string name="network_assistant_upgraded_title">Atualização concluída</string>
     <string name="network_control">Configurações do aplicativo</string>
+    <string name="none_mi_service_app_detail">Vazio</string>
     <string name="notification_content_title">Utilizado %1$s durante o bloqueio</string>
     <string name="notification_title">%1$s-%2$s: cerca de %3$s utilizado</string>
     <string name="ok_button">OK</string>
@@ -184,6 +190,8 @@ Usado"</string>
     <string name="pref_traffic_saving_switch">Otimizador</string>
     <string name="pref_traffic_saving_switch_hint">Usar proxy para compactar dados</string>
     <string name="pref_traffic_saving_title">Configurações do otimizador</string>
+    <string name="pref_traffic_saving_whitelist">Exceções</string>
+    <string name="pref_traffic_saving_whitelist_hint">O uso de dados destes apps não serão restringidos</string>
     <string name="pref_version">Versão %s</string>
     <string name="pref_warning_values">Nível de aviso de limite de dados</string>
     <string name="right_precent">100%</string>
@@ -221,14 +229,22 @@ Seu uso de dados com a operadora mostra que você possui %1$s restando para uso 
     <string name="traffic_protection_unknown"><u>Definir depois</u></string>
     <string name="traffic_protection_use_data">Dados ativados</string>
     <string name="traffic_saving_button_sorted">Detalhes</string>
+    <string name="traffic_saving_button_sorted_chose_simcard">Ordenar por</string>
     <string name="traffic_saving_button_start">Ativar</string>
     <string name="traffic_saving_button_stop">Desativar</string>
     <string name="traffic_saving_history_title">Histórico</string>
     <string name="traffic_saving_history_total_money">Dinheiro economizado</string>
-    <string name="traffic_saving_history_total_money_unit"/>
+    <string name="traffic_saving_history_total_money_unit">"R$"</string>
+    <string name="traffic_saving_history_total_month">"Economia do mês: "</string>
+    <string name="traffic_saving_history_total_month_default">Média de economia:</string>
+    <string name="traffic_saving_history_total_month_value">"Escutar a &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; músicas / Conversar por &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; horas / Ler &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; artigos"</string>
+    <string name="traffic_saving_history_total_month_value_default">"Escutar a &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; músicas / Conversar por &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; horas / Ler &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; artigos"</string>
+    <string name="traffic_saving_history_total_rate">Classificar</string>
+    <string name="traffic_saving_history_total_rate_unit">%</string>
     <string name="traffic_saving_history_total_traffic">Economia de dados</string>
-    <string name="traffic_saving_msg_month">Total do mês: %1$s</string>
-    <string name="traffic_saving_msg_today">Economizado hoje:</string>
+    <string name="traffic_saving_msg_month">Este mês: %1$s</string>
+    <string name="traffic_saving_msg_not_started">Economia de dados desativada</string>
+    <string name="traffic_saving_msg_today">Economia hoje:</string>
     <string name="traffic_saving_notify_start_content">%s economizados este mês</string>
     <string name="traffic_saving_notify_start_title">Reduzir uso de dados</string>
     <string name="traffic_saving_tecsupport">Desenvolvido por Opera Max</string>
@@ -237,6 +253,13 @@ Seu uso de dados com a operadora mostra que você possui %1$s restando para uso 
     <string name="traffic_saving_toast_start_none_mobile">O Otimizador será iniciado sempre que você utilizar os dados móveis</string>
     <string name="traffic_saving_toast_start_unreachable">Falha ao iniciar o Otimizador</string>
     <string name="traffic_saving_toast_stop">Otimizador desativado</string>
+    <string name="traffic_saving_whitelist_btn_add">Adicionar</string>
+    <string name="traffic_saving_whitelist_btn_add_app">Adicionar</string>
+    <string name="traffic_saving_whitelist_btn_added">Adicionado</string>
+    <string name="traffic_saving_whitelist_btn_remove">Remover</string>
+    <string name="traffic_saving_whitelist_btn_removed">App removido da lista</string>
+    <string name="traffic_saving_whitelist_count">"O uso de dados de %d apps não está sendo restringido"</string>
+    <string name="traffic_saving_whitelist_no_app">Nenhum app</string>
     <string name="traffic_setting_fragment_area">Local</string>
     <string name="traffic_setting_fragment_brand">Marca</string>
     <string name="traffic_setting_fragment_button2_text">Salvar</string>

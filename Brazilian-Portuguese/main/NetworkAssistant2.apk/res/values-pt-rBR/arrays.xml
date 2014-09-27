@@ -43,10 +43,14 @@
         <item>"Uso de Wi-Fi "</item>
         <item>"Economizados "</item>
     </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Uso de dados "</item>
+        <item>"Uso de Wi-Fi "</item>
+    </string-array>
     <string-array name="traffic_sort_type">
-        <item>Uso de dados móveis</item>
-        <item>Uso de rede Wi-Fi</item>
-        <item>Uso total</item>
+        <item>"Uso de dados "</item>
+        <item>"Uso de Wi-Fi "</item>
+        <item>"Economia "</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Receber modelo de mensagem automaticamente</item>

@@ -18,7 +18,6 @@ Permitir isso agora e no futuro?"</string>
     <string name="caller_app">Origem: %1$s</string>
     <string name="cancel">Cancelar</string>
     <string name="dlg_app_replacement_statement">"O aplicativo que você está instalando substituirá outro aplicativo.
-    
 Todos os dados de usuário anteriores serão salvos."</string>
     <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) substituirá a versão instalada atualmente (%3$s). Os dados do usuário serão preservados. 
 Deseja continuar?"</string>

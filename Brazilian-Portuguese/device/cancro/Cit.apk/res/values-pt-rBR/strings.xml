@@ -158,6 +158,8 @@ Toque na tela para iniciar o GPS…"</string>
     <string name="cit_notificationlight_on">LED de notificação ligado</string>
     <string name="cit_otg_not_supported">Este dispositivo não suporta testes em OTG</string>
     <string name="cit_pass">Passou</string>
+    <string name="cit_play_sd_mp3_hifi_summary">Coloque um arquivo de música em mp3 na raiz do cartão SD com o nome \"music.mp3\" para executar o teste. O arquivo inserido deverá ser reproduzido pelos alto-falantes do dispositivo quando este teste for executado.</string>
+    <string name="cit_play_sd_mp3_hifi_title">Reproduzir MP3 (Hi-Fi) do cartão SD</string>
     <string name="cit_play_sd_mp3_summary">Coloque um arquivo de música em mp3 na raiz do cartão SD com o nome \"music.mp3\" para executar o teste. O arquivo inserido deverá ser reproduzido pelos alto-falantes do dispositivo quando este teste for executado.</string>
     <string name="cit_play_sd_mp3_title">Reproduzir MP3 do cartão SD</string>
     <string name="cit_playing_sd_mp3">Reproduzindo music.mp3…</string>
@@ -214,6 +216,7 @@ Após você inserir o arquivo \"music.mp3\" na raiz do cartão SD, toque na tela
     <string name="cit_tool_bluetooth_on">Ativar Bluetooth</string>
     <string name="cit_tool_bluetooth_tx_h">Entrar no modo de teste de som único (2.480GHz)</string>
     <string name="cit_tool_bluetooth_tx_l">Entrar no modo de teste de som único (2.402GHz)</string>
+    <string name="cit_tool_enable_3A_log">Ativar alternador de log 3A</string>
     <string name="cit_tool_log">Obter registros</string>
     <string name="cit_tool_log_bugreport">Relatório de erros</string>
     <string name="cit_tool_log_dmesg">DMESG</string>

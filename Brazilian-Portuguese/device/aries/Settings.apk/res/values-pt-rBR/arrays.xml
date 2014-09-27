@@ -12,7 +12,6 @@
     <string-array name="power_mode_entries">
         <item>Alta Performance</item>
         <item>Balanceado</item>
-        <item>Economia de Energia</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Após 1 minuto</item>
@@ -32,7 +31,6 @@
     <string-array name="power_dialog_cpu_state_items">
         <item>Alta performance</item>
         <item>Balanceado</item>
-        <item>Economia de energia</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Nunca vibrar</item>
@@ -499,5 +497,9 @@ O computador abrirá automaticamente o telefone e lerá seus dados"</item>
         <item>A rede está devagar devido ao grande volume de dados</item>
         <item>A rede está devagar devido ao baixo sinal da rede</item>
         <item>Movendo…</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Armazenamento interno</item>
+        <item>Armazenamento externo</item>
     </string-array>
 </resources>

@@ -1,6 +1,6 @@
 Repositório da tradução em português brasileiro, criado pela MIUIBrasil para utilização na MIUI ROM através do compilador MIUIBrasil ou nas ROMs Multilinguagem fornecidas pela MIUIAndroid.
 
-O trabalho de tradução contido aqui é protegido por uma licença Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+Esta obra está licenciada com uma Licença Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional.
 
 A tradução aqui exposta é mantida com o feedback de todos os usuários da MIUIBrasil. A utilização desta tradução é livre, desde que seja incluída a referência referente ao material em quaisquer meios de utilização dos arquivos de tradução.
 Modificações na tradução devem ser submetidas via GitHub através de um "pull request". Não é permitida a alteração da tradução fora deste repositório.
